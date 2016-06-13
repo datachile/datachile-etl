@@ -1,0 +1,12 @@
+# for exploration
+pandas
+ipython
+# need to update pip itself for this to work
+# pip install --upgrade pip
+jupyter
+
+# for import scripts
+sqlalchemy
+
+# general
+psycopg2
