@@ -10,5 +10,5 @@ TODO: Host data somewhere and write bash script to download it and optionaly unz
 
 ## Raw Data Columns
 
-[Matricula Column Info](matricula_columns.md)
-[Rendimiento Column Info](rendimiento_columns.md)
+* [Matricula Column Info](matricula_columns.md)
+* [Rendimiento Column Info](rendimiento_columns.md)
