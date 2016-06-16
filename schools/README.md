@@ -12,3 +12,7 @@ TODO: Host data somewhere and write bash script to download it and optionaly unz
 
 * [Matricula Column Info](matricula_columns.md)
 * [Rendimiento Column Info](rendimiento_columns.md)
+
+## Inspiration
+
+* [Great Schools Illinois](http://www.greatschools.org/illinois/)
