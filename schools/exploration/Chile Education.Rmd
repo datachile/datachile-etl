@@ -1,0 +1,71 @@
+---
+title: "Exploration - Chile Education Data"
+author: "manuel"
+date: "June 21, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#knitr::opts_chunk$set(echo = TRUE)
+require(sqldf)
+require(ggplot2)
+```
+
+## Setup DB connection
+
+```{r db_connection}
+options(sqldf.RPostgreSQL.user="datachile", 
+        sqldf.RPostgreSQL.password="yapoweon",
+        sqldf.RPostgreSQL.host="hermes",
+        sqldf.RPostgreSQL.dbname="datachile")
+```
+
+## Example charts
+
+### Distribution of GPA
+
+From records of students in highschool (`COD_ENSE2 = 5`, excludes adult education) and passed (i.e., didn't stay back or dropped out), calculate histogram of GPA.
+
+```{r get_data}
+d = sqldf("with high_school as (
+     select *
+     from performance_cstore
+     where cod_ense2 = '5'
+       and sit_fin = 'P'
+),
+prom_stats as (
+           select min(prom_gral) as min, max(prom_gral) as max
+           from high_school
+),
+histogram as (
+          select width_bucket(prom_gral, min, max, 19) as bucket,
+          min(prom_gral) as start_bin,
+          max(prom_gral) as end_bin,
+          count(*) as freq
+          from prom_stats, high_school
+          group by bucket
+          order by bucket
+)
+select bucket, start_bin, end_bin, freq
+from histogram;
+")
+```
+
+```{r gpa_distribution, echo=FALSE}
+ggplot(d, aes(x=factor(start_bin), y=freq)) + geom_bar(stat="identity") + xlab("Frequency") + ylab("GPA") 
+```
+
+### Distribution of number of students by schoool funding type, over time
+
+```{r get_data}
+d = sqldf("select agno, cod_depe2, count(*) as freq
+from enrollment
+group by agno, cod_depe2
+order by agno, cod_depe2")
+```
+
+```{r}
+ggplot(d, aes(x=agno, y=freq, fill=cod_depe2)) + 
+  geom_bar(stat='identity') +
+  scale_fill_discrete(name="Funding type", labels=c("Municipal", "Private subsidized", "Private non-subsidized", "Delegated administration corporation"))
+```
