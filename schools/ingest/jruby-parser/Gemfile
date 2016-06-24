@@ -1,0 +1,2 @@
+source 'https://rubygems.org'
+gem 'mdarray-jCSV', '~> 0.6.2'
