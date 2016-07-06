@@ -9,6 +9,7 @@ output: html_document
 #knitr::opts_chunk$set(echo = TRUE)
 require(sqldf)
 require(ggplot2)
+require(plyr)
 ```
 
 ## Setup DB connection
@@ -23,6 +24,8 @@ options(sqldf.RPostgreSQL.user="datachile",
 ## Example charts
 
 ### Distribution of GPA
+
+#### High School
 
 From records of students in highschool (`COD_ENSE2 = 5`, excludes adult education) and passed (i.e., didn't stay back or dropped out), calculate histogram of GPA.
 
@@ -52,8 +55,90 @@ from histogram;
 ```
 
 ```{r gpa_distribution, echo=FALSE}
-ggplot(d, aes(x=factor(start_bin), y=freq)) + geom_bar(stat="identity") + xlab("Frequency") + ylab("GPA") 
+ggplot(d, aes(x=factor(start_bin), y=freq)) + 
+  geom_bar(stat="identity") + 
+  xlab("Frequency") + 
+  ylab("GPA") 
 ```
+
+#### Private vs Public high schools
+
+```{r get_data}
+d = sqldf("with high_school as (
+     select *
+     from performance_cstore
+     where cod_ense2 = '5'
+       and sit_fin = 'P'
+       and agno = 2015
+),
+prom_stats as (
+           select min(prom_gral) as min, max(prom_gral) as max
+           from high_school
+),
+histogram as (
+          select 
+          cod_depe2 as funding_type,
+          width_bucket(prom_gral, min, max, 9) as bucket,
+          min(prom_gral) as start_bin,
+          max(prom_gral) as end_bin,
+          count(*) as freq
+          from prom_stats, high_school
+          group by bucket, cod_depe2
+          order by bucket
+)
+select bucket, funding_type, 
+       start_bin, 
+       end_bin, freq
+from histogram;
+")
+
+xx = aggregate(d$freq, by=list(funding_type=d$funding_type), FUN=sum)
+
+yy = mutate(join(d, 
+                 aggregate(d$freq, by=list(funding_type=d$funding_type), FUN=sum),
+                 by=c('funding_type')),
+            pct=(freq/x)*100)
+
+yy$funding_type2 = factor(yy$funding_type, labels=c("Municipal", "Private subsidized", 
+                               "Private non-subsidized", "Delegated administration corporation"))
+
+```
+
+```{r gpa_distribution, echo=FALSE}
+
+ggplot(yy, aes(x=factor(start_bin), y=pct)) + 
+  geom_bar(stat="identity") + 
+  facet_wrap(~ funding_type2) +
+  xlab("GPA") + 
+  ylab("% of students") 
+```
+
+#### Average GPA trend by school funding type
+
+```{r}
+d = sqldf("
+select agno,
+       cod_depe,
+       avg(prom_gral)
+from performance_cstore
+where cod_ense = '310'
+  and sit_fin = 'P'
+  and cod_grado = '2'
+group by agno, cod_depe
+")
+
+ggplot(d[d$agno >= 2007, ], aes(x=agno, y=avg, fill=cod_depe)) + 
+  geom_bar(stat="identity", position="dodge") +
+  coord_cartesian(ylim=c(5.0,6.1)) +
+  scale_fill_discrete(name="Funding type", 
+                      labels=c("Municipal corp.", "Municipal", "Private subsidized", 
+                               "Private non-subsidized", "Delegated administration corporation")) +
+  xlab("Year") + 
+  ylab("Avg High School GPA") 
+```
+
+
+
 
 ### Distribution of number of students by schoool funding type, over time
 
@@ -66,6 +151,10 @@ order by agno, cod_depe2")
 
 ```{r}
 ggplot(d, aes(x=agno, y=freq, fill=cod_depe2)) + 
-  geom_bar(stat='identity') +
-  scale_fill_discrete(name="Funding type", labels=c("Municipal", "Private subsidized", "Private non-subsidized", "Delegated administration corporation"))
+  geom_bar(stat='identity', position='dodge') +
+  scale_fill_discrete(name="Funding type", 
+                      labels=c("Municipal", "Private subsidized", 
+                               "Private non-subsidized", "Delegated administration corporation")) +
+  xlab("Year") +
+  ylab("# Students")
 ```
