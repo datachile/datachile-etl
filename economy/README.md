@@ -28,7 +28,7 @@
 |      6 | q_traded          | number | quantity?                                                                 |
 |      7 | cif_us            | number | CIF (cost, insurance and fright) amount in current (non-adjusted) dollars |
 
-## R&D Survey
+## R&D Survey (`R&Survey for DataChile.csv`)
 
 All monetary amounts are in current (non-adjusted) CLP
 
@@ -55,5 +55,16 @@ All monetary amounts are in current (non-adjusted) CLP
 |    18 | Undergraduates R&D Personnel                            | numeric |                                               |
 |    19 | technicians R&D Personnel                               | numeric |                                               |
 |    20 | Other R&D Personnel                                     | numeric |                                               |
-|    21 | Total R&D Researchers in FTE                            | numeric |                                               |
-|    22 | Total R&D Woman Researchers in FTE                      | numeric |                                               |
+
+## Tax office (`Taxdata 14 april`)
+
+| Index | Column ID     | Type    | Description                                                          |
+| ----- | ------------  | ----    | -------------------------------------------------------------------- |
+|     0 | year          | numeric |                                                                      |
+|     1 | cdigo_comuna  | alpha   | Comuna Code (detailed in the comuna master list)                     |
+|     2 | ciuu4_ori     | numeric | ISIC rev 4                                                           |
+|     3 | output        | numeric | Sales in current pesos of each year                                  |
+|     4 | labour        | numeric | Number of employess                                                  |
+|     5 | labour_cost   | numeric | Labor costs in current pesos of each year                            |
+|     6 | investment    | numeric | Investment in current pesos of each year                             |
+|     7 | intermediates | numeric | Intermediates goods used in production in current pesos of each year |
