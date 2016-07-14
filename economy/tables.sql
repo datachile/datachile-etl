@@ -16,7 +16,7 @@ create table comunas (
        comuna_name varchar(64)
 );
 
-create table exports (
+create foreign table exports (
        the_month integer,
        the_year integer,
        country_dest_id integer,
@@ -25,9 +25,11 @@ create table exports (
        hs_6digits varchar(8),
        q_traded numeric,
        fob_us numeric
-);
+)
+SERVER cstore_server
+OPTIONS (compression 'pglz');
 
-create table imports (
+create foreign table imports (
        the_month integer,
        the_year integer,
        country_origin_id integer,
@@ -36,7 +38,10 @@ create table imports (
        hs_6digits varchar(8),
        q_traded numeric,
        cif_us numeric
-);
+)
+SERVER cstore_server
+OPTIONS (compression 'pglz');
+
 
 create table rd_survey (
        the_year integer,
@@ -62,3 +67,14 @@ create table rd_survey (
        technicians_rd_personnel numeric,
        other_rd_personnel numeric
 );
+
+----------------------------------------------
+------ import data
+----------------------------------------------
+BEGIN;
+COPY economy.countries (country_code, country_name) FROM '/home/hermes/gdrive/DataChile/Datos/Customs/paises.csv' with (format csv, header true);
+COPY economy.comunas (comuna_name, region_id, comuna_customs_id, comuna_tax_office_id, comuna_datachile_id) FROM '/home/hermes/gdrive/DataChile/Comuna master list.csv' WITH (FORMAT CSV, HEADER TRUE);
+COPY economy.exports FROM '/home/hermes/gdrive/DataChile/Datos/Customs/exports_1991_2015.csv' WITH (FORMAT CSV, HEADER TRUE);
+COPY economy.imports FROM '/home/hermes/gdrive/DataChile/Datos/Customs/imports_1991_2015.csv' WITH (FORMAT CSV, HEADER TRUE);
+COPY economy.rd_survey FROM '/home/hermes/gdrive/DataChile/Datos/R&D survey/R&Survey for DataChile.csv' WITH (format csv, header true);
+COMMIT;
