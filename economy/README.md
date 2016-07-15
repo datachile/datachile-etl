@@ -54,7 +54,8 @@ All monetary amounts are in current (non-adjusted) CLP
 |    17 | Master R&D Personnel                                    | numeric |                                               |
 |    18 | Undergraduates R&D Personnel                            | numeric |                                               |
 |    19 | technicians R&D Personnel                               | numeric |                                               |
-|    20 | Other R&D Personnel                                     | numeric |                                               |
+|    20 | Total R&D Researchers in FTE                            | numeric |                                               |
+|    20 | Total R&D Woman Researchers in FTE                      | numeric |                                               |
 
 ## Tax office (`Taxdata 14 april`)
 

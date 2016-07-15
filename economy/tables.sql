@@ -46,7 +46,7 @@ OPTIONS (compression 'pglz');
 create table rd_survey (
        the_year integer,
        isic_rev_4 varchar(8),
-       region integer,
+       region varchar(8),
        unit integer,
        -- measures
        total_rd_intramural_expenditure_millions_pesos numeric,
@@ -65,16 +65,24 @@ create table rd_survey (
        master_rd_personnel numeric,
        undergraduates_rd_personnel numeric,
        technicians_rd_personnel numeric,
-       other_rd_personnel numeric
+       other_rd_personnel numeric,
+       total_rd_researchers_in_fte numeric,
+       total_rd_woman_researchers_in_fte numeric
 );
 
 ----------------------------------------------
 ------ import data
 ----------------------------------------------
 BEGIN;
+
 COPY economy.countries (country_code, country_name) FROM '/home/hermes/gdrive/DataChile/Datos/Customs/paises.csv' with (format csv, header true);
+
 COPY economy.comunas (comuna_name, region_id, comuna_customs_id, comuna_tax_office_id, comuna_datachile_id) FROM '/home/hermes/gdrive/DataChile/Comuna master list.csv' WITH (FORMAT CSV, HEADER TRUE);
+
 COPY economy.exports FROM '/home/hermes/gdrive/DataChile/Datos/Customs/exports_1991_2015.csv' WITH (FORMAT CSV, HEADER TRUE);
+
 COPY economy.imports FROM '/home/hermes/gdrive/DataChile/Datos/Customs/imports_1991_2015.csv' WITH (FORMAT CSV, HEADER TRUE);
-COPY economy.rd_survey FROM '/home/hermes/gdrive/DataChile/Datos/R&D survey/R&Survey for DataChile.csv' WITH (format csv, header true);
+
+COPY economy.rd_survey (the_year,isic_rev_4,region,unit,total_rd_intramural_expenditure_millions_pesos,basic_research_expenditure_millions_pesos,applied_research_expenditure_millions_pesos,experimental_development_expenditure_millions_pesos,natural_science_expenditure_millions_pesos,engineering_and_technology_expenditure_millions_pesos,medical_and_helth_sciences_expenditure_millions_pesos,agricultural_sciences_expenditure_millions_pesos,social_sciences_expenditure_millions_pesos,humanities_expenditure_millions_pesos,total_rd_personnel_in_fte,woman_rd_personnel_in_fte,phd_rd_personnel,master_rd_personnel,undergraduates_rd_personnel,technicians_rd_personnel,other_rd_personnel, total_rd_researchers_in_fte, total_rd_woman_researchers_in_fte) FROM '/home/hermes/gdrive/DataChile/Datos/R&D survey/R&Survey for DataChile.csv' WITH (format csv, header true);
+
 COMMIT;
