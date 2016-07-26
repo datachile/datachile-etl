@@ -1,21 +1,6 @@
 create schema economy;
 set schema 'economy';
 
-create table countries (
-       id serial not null,
-       country_code integer,
-       country_name varchar(256)
-);
-
-create table comunas (
-       id serial not null,
-       comuna_datachile_id integer,
-       comuna_customs_id integer,
-       comuna_tax_office_id integer,
-       region_id integer,
-       comuna_name varchar(64)
-);
-
 create table hs (
        id serial not null,
        hs varchar(10),
@@ -79,25 +64,60 @@ create table rd_survey (
        total_rd_woman_researchers_in_fte numeric
 );
 
+create table tax_data (
+       id serial not null,
+       the_year integer,
+       codigo_comuna integer,
+       ciiu4_ori varchar(8),
+       output numeric,
+       labour numeric,
+       labour_cost numeric,
+       investment numeric,
+       intermediates numeric
+);
+
 ----------------------------------------------
 ------ import data
 ----------------------------------------------
 BEGIN;
 
-COPY economy.countries (country_code, country_name) FROM '/home/hermes/gdrive/DataChile/Datos/Customs/paises.csv' with (format csv, header true);
-COPY economy.comunas (comuna_name, region_id, comuna_customs_id, comuna_tax_office_id, comuna_datachile_id) FROM '/home/hermes/gdrive/DataChile/Comuna master list.csv' WITH (FORMAT CSV, HEADER TRUE);
+
 COPY economy.exports FROM '/home/hermes/gdrive/DataChile/Datos/Customs/exports_1991_2015.csv' WITH (FORMAT CSV, HEADER TRUE);
+
 COPY economy.imports FROM '/home/hermes/gdrive/DataChile/Datos/Customs/imports_1991_2015.csv' WITH (FORMAT CSV, HEADER TRUE);
+
 COPY economy.rd_survey (the_year,isic_rev_4,region,unit,total_rd_intramural_expenditure_millions_pesos,basic_research_expenditure_millions_pesos,applied_research_expenditure_millions_pesos,experimental_development_expenditure_millions_pesos,natural_science_expenditure_millions_pesos,engineering_and_technology_expenditure_millions_pesos,medical_and_helth_sciences_expenditure_millions_pesos,agricultural_sciences_expenditure_millions_pesos,social_sciences_expenditure_millions_pesos,humanities_expenditure_millions_pesos,total_rd_personnel_in_fte,woman_rd_personnel_in_fte,phd_rd_personnel,master_rd_personnel,undergraduates_rd_personnel,technicians_rd_personnel,other_rd_personnel, total_rd_researchers_in_fte, total_rd_woman_researchers_in_fte) FROM '/home/hermes/gdrive/DataChile/Datos/R&D survey/R&Survey for DataChile.csv' WITH (format csv, header true);
+
 COPY economy.hs (hs,glo_aranc,advalorem,fecini,fecfin) FROM '/home/hermes/gdrive/DataChile/Datos/Customs/HS code detailed.csv' WITH (format csv, header true);
+
 
 CREATE INDEX sub_hs_idx ON hs(substring(hs, 5, 4));
 CREATE INDEX sub2_hs_idx ON hs(substring(hs for 4));
-CREATE INDEX hs_int_idx ON hs(cast(hs AS integer))
+CREATE INDEX hs_int_idx ON hs(cast(hs AS integer));
+
+--- tax data
+
+COPY economy.tax_data (the_year,codigo_comuna,ciiu4_ori,output,labour,labour_cost,investment,intermediates) FROM '/home/hermes/gdrive/DataChile/Datos/Tax office/Taxdata 14 april.csv' WITH (FORMAT CSV, HEADER TRUE);
+
+ALTER TABLE economy.tax_data ADD COLUMN date_id integer;
+ALTER TABLE economy.tax_data ADD COLUMN comuna_id integer;
+
+UPDATE economy.tax_data td
+SET date_id = dd.id
+FROM dim_date dd
+WHERE dd.the_year = td.the_year;
+
+UPDATE economy.tax_data td
+SET comuna_id = dc.id
+FROM dim_comunas dc
+WHERE dc.comuna_tax_office_id = td.codigo_comuna;
 
 COMMIT;
 
 
+-------------------------------
+------ wrangle HS data
+-------------------------------
 BEGIN;
 
 CREATE TEMP TABLE toplevel (seccion_num varchar(2), seccion_description varchar(256), chapter_from varchar(2), chapter_to varchar(2));
@@ -164,4 +184,16 @@ ORDER BY level1,
          level3,
          level4
          hs1.fecini;
+
+
+ALTER TABLE economy.dim_hs ADD COLUMN date_start TIMESTAMP;
+ALTER TABLE economy.dim_hs ADD COLUMN date_end TIMESTAMP;
+
+UPDATE economy.dim_hs
+SET date_end = ((2000 + split_part(end_date, '/', 3)::integer)::text || '-' || split_part(end_date, '/', 2) || '-' || split_part(end_date, '/', 1))::TIMESTAMP,
+    date_start = ((2000 + split_part(start_date, '/', 3)::integer)::text || '-' || split_part(start_date, '/', 2) || '-' || split_part(start_date, '/', 1))::TIMESTAMP;
+
+ALTER TABLE economy.dim_hs DROP COLUMN end_date;
+ALTER TABLE economy.dim_hs DROP COLUMN start_date;
+
 commit;
