@@ -1,0 +1,5 @@
+Hi
+
+Please open the file "household_income_mean_and_gini.R"
+
+it will do all of the things like downloading datasets, etc...
