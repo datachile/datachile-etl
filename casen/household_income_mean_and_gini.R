@@ -112,13 +112,99 @@ gini_2000$region <- as.character(gini_2000$region)
 setnames(gini_2000, colnames(gini_2000), c("region","gini_2000"))
 gini_2000 <- insert_row(gini_2000, c("Pa\u00eds", Gini(household_income_2000$ingreso_pc)), nrow(gini_2000)+1)
 
+########
+# 1998 #
+########
+
+# Household Average Income by region
+mean_1998 <- aggregate(ingreso_pc ~ region, data = household_income_1998, FUN = "mean")
+mean_1998$region <- as.character(mean_1998$region)
+setnames(mean_1998, colnames(mean_1998), c("region","mean_1998"))
+mean_1998 <- insert_row(mean_1998, c("Pa\u00eds", mean(household_income_1998$ingreso_pc)), nrow(mean_1998)+1)
+
+# Gini by region
+gini_1998 <- aggregate(ingreso_pc ~ region, data = household_income_1998, FUN = "Gini")
+gini_1998$region <- as.character(gini_1998$region)
+setnames(gini_1998, colnames(gini_1998), c("region","gini_1998"))
+gini_1998 <- insert_row(gini_1998, c("Pa\u00eds", Gini(household_income_1998$ingreso_pc)), nrow(gini_1998)+1)
+
+########
+# 1996 #
+########
+
+# Household Average Income by region
+mean_1996 <- aggregate(ingreso_pc ~ region, data = household_income_1996, FUN = "mean")
+mean_1996$region <- as.character(mean_1996$region)
+setnames(mean_1996, colnames(mean_1996), c("region","mean_1996"))
+mean_1996 <- insert_row(mean_1996, c("Pa\u00eds", mean(household_income_1996$ingreso_pc)), nrow(mean_1996)+1)
+
+# Gini by region
+gini_1996 <- aggregate(ingreso_pc ~ region, data = household_income_1996, FUN = "Gini")
+gini_1996$region <- as.character(gini_1996$region)
+setnames(gini_1996, colnames(gini_1996), c("region","gini_1996"))
+gini_1996 <- insert_row(gini_1996, c("Pa\u00eds", Gini(household_income_1996$ingreso_pc)), nrow(gini_1996)+1)
+
+########
+# 1994 #
+########
+
+# Household Average Income by region
+mean_1994 <- aggregate(ingreso_pc ~ region, data = household_income_1994, FUN = "mean")
+mean_1994$region <- as.character(mean_1994$region)
+setnames(mean_1994, colnames(mean_1994), c("region","mean_1994"))
+mean_1994 <- insert_row(mean_1994, c("Pa\u00eds", mean(household_income_1994$ingreso_pc)), nrow(mean_1994)+1)
+
+# Gini by region
+gini_1994 <- aggregate(ingreso_pc ~ region, data = household_income_1994, FUN = "Gini")
+gini_1994$region <- as.character(gini_1994$region)
+setnames(gini_1994, colnames(gini_1994), c("region","gini_1994"))
+gini_1994 <- insert_row(gini_1994, c("Pa\u00eds", Gini(household_income_1994$ingreso_pc)), nrow(gini_1994)+1)
+
+########
+# 1992 #
+########
+
+# Household Average Income by region
+mean_1992 <- aggregate(ingreso_pc ~ region, data = household_income_1992, FUN = "mean")
+mean_1992$region <- as.character(mean_1992$region)
+setnames(mean_1992, colnames(mean_1992), c("region","mean_1992"))
+mean_1992 <- insert_row(mean_1992, c("Pa\u00eds", mean(household_income_1992$ingreso_pc)), nrow(mean_1992)+1)
+
+# Gini by region
+gini_1992 <- aggregate(ingreso_pc ~ region, data = household_income_1992, FUN = "Gini")
+gini_1992$region <- as.character(gini_1992$region)
+setnames(gini_1992, colnames(gini_1992), c("region","gini_1992"))
+gini_1992 <- insert_row(gini_1992, c("Pa\u00eds", Gini(household_income_1992$ingreso_pc)), nrow(gini_1992)+1)
+
+########
+# 1990 #
+########
+
+# Household Average Income by region
+mean_1990 <- aggregate(ingreso_pc ~ region, data = household_income_1990, FUN = "mean")
+mean_1990$region <- as.character(mean_1990$region)
+setnames(mean_1990, colnames(mean_1990), c("region","mean_1990"))
+mean_1990 <- insert_row(mean_1990, c("Pa\u00eds", mean(household_income_1990$ingreso_pc)), nrow(mean_1990)+1)
+
+# Gini by region
+gini_1990 <- aggregate(ingreso_pc ~ region, data = household_income_1990, FUN = "Gini")
+gini_1990$region <- as.character(gini_1990$region)
+setnames(gini_1990, colnames(gini_1990), c("region","gini_1990"))
+gini_1990 <- insert_row(gini_1990, c("Pa\u00eds", Gini(household_income_1990$ingreso_pc)), nrow(gini_1990)+1)
+
+
 #############
 # join mean #
 #############
 
-mean_income <- as.data.frame(unique(c(mean_2000$region, mean_2015$region)))
+mean_income <- as.data.frame(unique(c(mean_1990$region, mean_2015$region)))
 setnames(mean_income, colnames(mean_income), "region")
 
+mean_income <- join(mean_income, mean_1990, type = "left")
+mean_income <- join(mean_income, mean_1992, type = "left")
+mean_income <- join(mean_income, mean_1994, type = "left")
+mean_income <- join(mean_income, mean_1996, type = "left")
+mean_income <- join(mean_income, mean_1998, type = "left")
 mean_income <- join(mean_income, mean_2000, type = "left")
 mean_income <- join(mean_income, mean_2003, type = "left")
 mean_income <- join(mean_income, mean_2006, type = "left")
@@ -135,9 +221,14 @@ mean_income[,-1] <- lapply(mean_income[,-1], function (x) as.numeric(x))
 # join gini #
 #############
 
-gini <- as.data.frame(unique(c(gini_2000$region, gini_2015$region)))
+gini <- as.data.frame(unique(c(gini_1990$region, gini_2015$region)))
 setnames(gini, colnames(gini), "region")
 
+gini <- join(gini, gini_1990, type = "left")
+gini <- join(gini, gini_1992, type = "left")
+gini <- join(gini, gini_1994, type = "left")
+gini <- join(gini, gini_1996, type = "left")
+gini <- join(gini, gini_1998, type = "left")
 gini <- join(gini, gini_2000, type = "left")
 gini <- join(gini, gini_2003, type = "left")
 gini <- join(gini, gini_2006, type = "left")
