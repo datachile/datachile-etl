@@ -1,5 +1,18 @@
 source("household_statistics.R")
 
+###########################
+# names for normalization #
+###########################
+
+normalization <- read.csv("dim_comunas.csv")
+region_codes <- normalization
+region_codes <- region_codes[,c("region_name","region_id")]
+region_codes <- unique(region_codes)
+region_codes <- region_codes[order(region_codes$region_id),]
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Region Metropolitana Santiago", "Metropolitana", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Arica ha Parinacota", "Arica y Parinacota", x)))
+rownames(region_codes) <- c(seq(1:nrow(region_codes)))
+
 ###############
 # join median #
 ###############
@@ -96,10 +109,17 @@ tidy_gini_income <- gini %>% gather(year, gini, `1990`:`2015`)
 
 tidy_all <- join(tidy_mean_income, tidy_median_income, by = c("region", "year"))
 tidy_all <- join(tidy_all, tidy_gini_income, by = c("region", "year"))
+setnames(tidy_all, "region", "region_name")
+tidy_all <- join(tidy_all, region_codes, type = "left")
+tidy_all <- tidy_all[,c("region_name","region_id","year","mean","median","gini")]
+tidy_all <- tidy_all[order(tidy_all$region_id),]
 
 ########
 # save #
 ########
 
+write.csv(median_income, file = "median_income.csv")
 write.csv(mean_income, file = "mean_income.csv")
 write.csv(gini, file = "gini.csv")
+
+write.csv(tidy_all, file = "tidy_all.csv")
