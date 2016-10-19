@@ -112,7 +112,12 @@ tidy_all <- join(tidy_all, tidy_gini_income, by = c("region", "year"))
 setnames(tidy_all, "region", "region_name")
 tidy_all <- join(tidy_all, region_codes, type = "left")
 tidy_all <- tidy_all[,c("region_name","region_id","year","mean","median","gini")]
+
+# here I do a trick to put this ordered
+tidy_all$region_id <- as.numeric(as.character(tidy_all$region_id))
 tidy_all <- tidy_all[order(tidy_all$region_id),]
+tidy_all$region_id <- as.factor(tidy_all$region_id)
+rownames(tidy_all) <- c(seq(1:nrow(tidy_all)))
 
 ########
 # save #
@@ -121,5 +126,4 @@ tidy_all <- tidy_all[order(tidy_all$region_id),]
 write.csv(median_income, file = "median_income.csv")
 write.csv(mean_income, file = "mean_income.csv")
 write.csv(gini, file = "gini.csv")
-
 write.csv(tidy_all, file = "tidy_all.csv")
