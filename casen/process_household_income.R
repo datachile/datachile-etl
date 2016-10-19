@@ -1,0 +1,298 @@
+# red flag: each year uses its own region names (e.g. Tarapaca vs Tarapac\u00e1 vs Reg. de tarapaca, etc) 
+# => impossible to automate in an efficient way
+
+source("batch_load.R")
+source("insert_row.R")
+
+########
+# 2015 #
+########
+
+# Paste the two relevant columns here (region and household's income)
+household_income_2015 <- as.data.frame(cbind(as.character(casen_2015$region), as.character(casen_2015$yoprcorh/casen_2015$numper)))
+setnames(household_income_2015, colnames(household_income_2015), c("region","ingreso_pc"))
+
+# Fix the mess with tildes and special characters
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("\xe1", "\u00e1", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("\xe9", "\u00e9", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("\xed", "\u00ed", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("\xf3", "\u00f3", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("\xfa", "\u00fa", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", x)))
+
+# Fix region's names
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de tarapac\u00e1", "Región de Tarapac\u00e1", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de atacama", "Regi\u00f3n de Atacama", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de valpara\u00edso", "Regi\u00f3n de Valpara\u00edso", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n del maule", "Regi\u00f3n de Maule", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de la araucan\u00eda", "Regi\u00f3n de la Araucan\u00eda", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de ays\u00e9n del gral. carlos ibáñez del campo", "Regi\u00f3n de Ays\u00e9n", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n metropolitana de santiago", "Regi\u00f3n Metropolitana", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de arica y parinacota", "Regi\u00f3n de Arica y Parinacota", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de antofagasta", "Regi\u00f3n de Antofagasta", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de coquimbo", "Regi\u00f3n de Coquimbo", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n del libertador gral. bernardo o higgins", "Regi\u00f3n de O\u0027Higgins", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n del biob\u00edo", "Regi\u00f3n del Biob\u00edo", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de los lagos", "Regi\u00f3n de los Lagos", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de magallanes y de la antártica chilena", "Regi\u00f3n de Magallanes", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("regi\u00f3n de los r\u00edos", "Regi\u00f3n de los R\u00edos", x)))
+
+# Convert to character and numeric
+household_income_2015$region <- as.character(household_income_2015$region)
+household_income_2015$ingreso_pc <- as.numeric(as.character(household_income_2015$ingreso_pc))
+
+# Keep only the households that reported their income
+household_income_2015 <- subset(household_income_2015, household_income_2015$ingreso_pc > 0)
+
+########
+# 2013 #
+########
+
+# Paste the two relevant columns here (region and household's income)
+household_income_2013 <- as.data.frame(cbind(as.character(casen_2013$region), as.character(casen_2013$yoprcorh/casen_2013$numper)))
+setnames(household_income_2013, colnames(household_income_2013), c("region","ingreso_pc"))
+
+# Fix the mess with tildes and special characters
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("\xe1", "\u00e1", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("\xe9", "\u00e9", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("\xed", "\u00ed", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("\xf3", "\u00f3", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("\xfa", "\u00fa", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", x)))
+
+# Fix region's names
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("i. tarapaca", "Región de Tarapac\u00e1", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("iii. atacama", "Regi\u00f3n de Atacama", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("v. valparaíso", "Regi\u00f3n de Valpara\u00edso", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("vii. maule", "Regi\u00f3n de Maule", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("ix. la araucanía", "Regi\u00f3n de la Araucan\u00eda", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("xi. aysén", "Regi\u00f3n de Ays\u00e9n", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("metropolitana", "Regi\u00f3n Metropolitana", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("xv. arica y parinacota", "Regi\u00f3n de Arica y Parinacota", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("ii. antofagasta", "Regi\u00f3n de Antofagasta", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("iv. coquimbo", "Regi\u00f3n de Coquimbo", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("vi. o higgins", "Regi\u00f3n de O\u0027Higgins", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("viii. biobío", "Regi\u00f3n del Biob\u00edo", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("x. los lagos", "Regi\u00f3n de los Lagos", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("xii. magallanes", "Regi\u00f3n de Magallanes", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("xiv. los ríos", "Regi\u00f3n de los R\u00edos", x)))
+
+# Convert to character and numeric
+household_income_2013$region <- as.character(household_income_2013$region)
+household_income_2013$ingreso_pc <- as.numeric(as.character(household_income_2013$ingreso_pc))
+
+# Keep only the households that reported their income
+household_income_2013 <- subset(household_income_2013, household_income_2013$ingreso_pc > 0)
+
+########
+# 2011 #
+########
+
+# Paste the two relevant columns here (region and household's income)
+household_income_2011 <- as.data.frame(cbind(as.character(casen_2011$region), as.character(casen_2011$yoprhaj/casen_2011$numper)))
+setnames(household_income_2011, colnames(household_income_2011), c("region","ingreso_pc"))
+
+# Fix the mess with tildes and special characters
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("\xe1", "\u00e1", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("\xe9", "\u00e9", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("\xed", "\u00ed", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("\xf3", "\u00f3", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("\xfa", "\u00fa", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("\xb4", "\u0027", x)))
+
+# Fix region's names
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("tarapac\u00e1", "Región de Tarapac\u00e1", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("atacama", "Regi\u00f3n de Atacama", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("valpara\u00edso", "Regi\u00f3n de Valpara\u00edso", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("maule", "Regi\u00f3n de Maule", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("la araucan\u00eda", "Regi\u00f3n de la Araucan\u00eda", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("ays\u00e9n", "Regi\u00f3n de Ays\u00e9n", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("regi\u00f3n metropolitana", "Regi\u00f3n Metropolitana", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("arica y parinacota", "Regi\u00f3n de Arica y Parinacota", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("antofagasta", "Regi\u00f3n de Antofagasta", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("coquimbo", "Regi\u00f3n de Coquimbo", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("libertador bernardo o\u0027higgins", "Regi\u00f3n de O\u0027Higgins", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("b\u00edo b\u00edo", "Regi\u00f3n del Biob\u00edo", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("los lagos", "Regi\u00f3n de los Lagos", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("magallanes y la ant\u00e1rtica chilena", "Regi\u00f3n de Magallanes", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("los r\u00edos", "Regi\u00f3n de los R\u00edos", x)))
+
+# Convert to character and numeric
+household_income_2011$region <- as.character(household_income_2011$region)
+household_income_2011$ingreso_pc <- as.numeric(as.character(household_income_2011$ingreso_pc))
+
+# Keep only the households that reported their income
+household_income_2011 <- subset(household_income_2011, household_income_2011$ingreso_pc > 0)
+
+########
+# 2009 #
+########
+
+# Paste the two relevant columns here (region and household's income)
+household_income_2009 <- as.data.frame(cbind(as.character(casen_2009$region), as.character(casen_2009$yoprhaj/casen_2009$numper)))
+setnames(household_income_2009, colnames(household_income_2009), c("region","ingreso_pc"))
+
+# Fix the mess with tildes and special characters
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("\xe1", "\u00e1", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("\xe9", "\u00e9", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("\xed", "\u00ed", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("\xf3", "\u00f3", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("\xfa", "\u00fa", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("\xb4", "\u0027", x)))
+
+# Fix region's names
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("tarapac\u00e1", "Región de Tarapac\u00e1", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("atacama", "Regi\u00f3n de Atacama", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("valpara\u00edso", "Regi\u00f3n de Valpara\u00edso", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("maule", "Regi\u00f3n de Maule", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("la araucan\u00eda", "Regi\u00f3n de la Araucan\u00eda", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("ays\u00e9n", "Regi\u00f3n de Ays\u00e9n", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("regi\u00f3n metropolitana", "Regi\u00f3n Metropolitana", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("arica y parinacota", "Regi\u00f3n de Arica y Parinacota", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("antofagasta", "Regi\u00f3n de Antofagasta", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("coquimbo", "Regi\u00f3n de Coquimbo", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("libertador bernardo o\u0027higgins", "Regi\u00f3n de O\u0027Higgins", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("b\u00edo b\u00edo", "Regi\u00f3n del Biob\u00edo", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("los lagos", "Regi\u00f3n de los Lagos", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("magallanes y la ant\u00e1rtica chilena", "Regi\u00f3n de Magallanes", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("los rios", "Regi\u00f3n de los R\u00edos", x)))
+
+# Convert to character and numeric
+household_income_2009$region <- as.character(household_income_2009$region)
+household_income_2009$ingreso_pc <- as.numeric(as.character(household_income_2009$ingreso_pc))
+
+# Keep only the households that reported their income
+household_income_2009 <- subset(household_income_2009, household_income_2009$ingreso_pc > 0)
+
+########
+# 2006 #
+########
+
+# Paste the two relevant columns here (region and household's income)
+household_income_2006 <- as.data.frame(cbind(as.character(casen_2006$r_15), as.character(casen_2006$yoprhaj/casen_2006$numper)))
+setnames(household_income_2006, colnames(household_income_2006), c("region","ingreso_pc"))
+
+# Fix the mess with tildes and special characters
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("\xe1", "\u00e1", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("\xe9", "\u00e9", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("\xed", "\u00ed", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("\xf3", "\u00f3", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("\xfa", "\u00fa", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("\xb4", "\u0027", x)))
+
+# Fix region's names
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("tarapac\u00e1", "Región de Tarapac\u00e1", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("atacama", "Regi\u00f3n de Atacama", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("valpara\u00edso", "Regi\u00f3n de Valpara\u00edso", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("maule", "Regi\u00f3n de Maule", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("la araucan\u00eda", "Regi\u00f3n de la Araucan\u00eda", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("ays\u00e9n", "Regi\u00f3n de Ays\u00e9n", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("regi\u00f3n metropolitana", "Regi\u00f3n Metropolitana", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("arica y parinacota", "Regi\u00f3n de Arica y Parinacota", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("antofagasta", "Regi\u00f3n de Antofagasta", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("coquimbo", "Regi\u00f3n de Coquimbo", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("libertador bernardo o\u0027higgins", "Regi\u00f3n de O\u0027Higgins", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("b\u00edo b\u00edo", "Regi\u00f3n del Biob\u00edo", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("los lagos", "Regi\u00f3n de los Lagos", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("magallanes y la ant\u00e1rtica chilena", "Regi\u00f3n de Magallanes", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("los rios", "Regi\u00f3n de los R\u00edos", x)))
+
+# Convert to character and numeric
+household_income_2006$region <- as.character(household_income_2006$region)
+household_income_2006$ingreso_pc <- as.numeric(as.character(household_income_2006$ingreso_pc))
+
+# Keep only the households that reported their income
+household_income_2006 <- subset(household_income_2006, household_income_2006$ingreso_pc > 0)
+
+########
+# 2003 #
+########
+
+# Paste the two relevant columns here (region and household's income)
+household_income_2003 <- as.data.frame(cbind(as.character(casen_2003$r), as.character(casen_2003$yoprhaj/casen_2003$numper)))
+setnames(household_income_2003, colnames(household_income_2003), c("region","ingreso_pc"))
+
+# Fix the mess with tildes and special characters
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("\xe1", "\u00e1", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("\xe9", "\u00e9", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("\xed", "\u00ed", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("\xf3", "\u00f3", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("\xfa", "\u00fa", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("\xb4", "\u0027", x)))
+
+# Fix region's names
+# be careful that this year has regions labeled as i ii iii ... this will cause problems if you are not careful !!
+
+household_income_2003$region <- revalue(household_income_2003$region, c("r.m."="thirteen", "xii"="twelve", "xi" = "eleven", "x" = "ten",
+                                                                      "ix" = "nine", "viii" = "eight", "vii" = "seven", "vi" = "six",
+                                                                      "v" = "five", "iv" = "four", "iii" = "three", "ii" = "two", "i" = "one"))
+
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("thirteen", "Regi\u00f3n Metropolitana", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("twelve", "Regi\u00f3n de Magallanes", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("eleven", "Regi\u00f3n de Ays\u00e9n", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("ten", "Regi\u00f3n de los Lagos", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("nine", "Regi\u00f3n de la Araucan\u00eda", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("eight", "Regi\u00f3n del Biob\u00edo", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("seven", "Regi\u00f3n de Maule", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("six", "Regi\u00f3n de O\u0027Higgins", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("five", "Regi\u00f3n de Valpara\u00edso", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("four", "Regi\u00f3n de Coquimbo", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("three", "Regi\u00f3n de Atacama", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("two", "Regi\u00f3n de Antofagasta", x)))
+household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub("one", "Región de Tarapac\u00e1", x)))
+
+# Convert to character and numeric
+household_income_2003$region <- as.character(household_income_2003$region)
+household_income_2003$ingreso_pc <- as.numeric(as.character(household_income_2003$ingreso_pc))
+
+# Keep only the households that reported their income
+household_income_2003 <- subset(household_income_2003, household_income_2003$ingreso_pc > 0)
+
+########
+# 2000 #
+########
+
+# Paste the two relevant columns here (region and household's income)
+household_income_2000 <- as.data.frame(cbind(as.character(casen_2000$r), as.character(casen_2000$yoprhaj/casen_2000$numper)))
+setnames(household_income_2000, colnames(household_income_2000), c("region","ingreso_pc"))
+
+# Fix the mess with tildes and special characters
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("\xe1", "\u00e1", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("\xe9", "\u00e9", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("\xed", "\u00ed", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("\xf3", "\u00f3", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("\xfa", "\u00fa", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("\xb4", "\u0027", x)))
+
+# Fix region's names
+# be careful that this year has regions labeled as i ii iii ... this will cause problems if you are not careful !!
+
+household_income_2000$region <- revalue(household_income_2000$region, c("r.m."="thirteen", "xii"="twelve", "xi" = "eleven", "x" = "ten",
+                                                                      "ix" = "nine", "viii" = "eight", "vii" = "seven", "vi" = "six",
+                                                                      "v" = "five", "iv" = "four", "iii" = "three", "ii" = "two", "i" = "one"))
+
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("thirteen", "Regi\u00f3n Metropolitana", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("twelve", "Regi\u00f3n de Magallanes", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("eleven", "Regi\u00f3n de Ays\u00e9n", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("ten", "Regi\u00f3n de los Lagos", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("nine", "Regi\u00f3n de la Araucan\u00eda", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("eight", "Regi\u00f3n del Biob\u00edo", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("seven", "Regi\u00f3n de Maule", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("six", "Regi\u00f3n de O\u0027Higgins", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("five", "Regi\u00f3n de Valpara\u00edso", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("four", "Regi\u00f3n de Coquimbo", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("three", "Regi\u00f3n de Atacama", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("two", "Regi\u00f3n de Antofagasta", x)))
+household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub("one", "Región de Tarapac\u00e1", x)))
+
+# Convert to character and numeric
+household_income_2000$region <- as.character(household_income_2000$region)
+household_income_2000$ingreso_pc <- as.numeric(as.character(household_income_2000$ingreso_pc))
+
+# Keep only the households that reported their income
+household_income_2000 <- subset(household_income_2000, household_income_2000$ingreso_pc > 0)
