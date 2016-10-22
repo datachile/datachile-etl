@@ -3,19 +3,6 @@ source("household_statistics_region.R")
 source("household_statistics_provincia.R")
 source("household_statistics_comuna.R")
 
-###########################
-# names for normalization #
-###########################
-
-normalization <- read.csv("dim_comunas.csv")
-region_codes <- normalization
-region_codes <- region_codes[,c("region_name","region_id")]
-region_codes <- unique(region_codes)
-region_codes <- region_codes[order(region_codes$region_id),]
-region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Region Metropolitana Santiago", "Metropolitana", x)))
-region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Arica ha Parinacota", "Arica y Parinacota", x)))
-rownames(region_codes) <- c(seq(1:nrow(region_codes)))
-
 ###############
 # join median #
 ###############
@@ -124,6 +111,49 @@ tidy_mean_income <- mean_income %>% gather(year, mean, `1990`:`2015`)
 
 tidy_gini_income <- gini_income %>% gather(year, gini, `1990`:`2015`)
 
+###########################
+# names for normalization #
+###########################
+
+region_codes <- read.csv("dim_comunas.csv")
+region_codes <- region_codes[order(region_codes$region_id),]
+
+# Trim leading/ending whitespace
+region_codes <- as.data.frame(lapply(region_codes, function (x) gsub("^\\s+|\\s+$", "", x)))
+
+# Fix some discrepancies with official names (i.e. http://www.subdere.gov.cl/documentacion/regiones-provincias-y-comunas-de-chile)
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Region Metropolitana Santiago", "Metropolitana", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Arica ha Parinacota", "Arica y Parinacota", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Los Angeles", "Los \u00c1ngeles", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Valparaiso", "Valpara\u00edso", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("B\u00edoB\u00edo", "B\u00edob\u00edo", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("B\u00edo B\u00edo", "B\u00edob\u00edo", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Bio Bio", "B\u00edob\u00edo", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Coihaique", "Coyhaique", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Rio Iba\u00f1ez", "R\u00edo Ib\u00e1\u00f1ez", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Tirua", "Tir\u00faa", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Ranquil", "R\u00e1nquil", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Trehuaco", "Treguaco", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Paihuano", "Paiguano", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Rio Hurtado", "R\u00edo Hurtado", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Rio Negro", "R\u00edo Negro", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Rio Bueno", "R\u00edo Bueno", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Rio Claro", "R\u00edo Claro", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Maria Pinto", "Mar\u00eda Pinto", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Til-Til", "Tiltil", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("San Francisco De Mostazal", "Mostazal", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Estacion Central", "Estaci\u00f3n Central", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Requinoa", "Requ\u00ednoa", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Marchig\u00fce", "Marchihue", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Llay Llay", "Llaillay", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Santa Maria", "Santa Mar\u00eda", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub("Con C\u00f3n", "Conc\u00f3n", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub(" De ", " de ", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub(" Del ", " del ", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub(" Y ", " y ", x)))
+region_codes <- as.data.frame(lapply(region_codes, function(x) gsub(" La ", " la ", x)))
+rownames(region_codes) <- c(seq(1:nrow(region_codes)))
+
 ############
 # join all #
 ############
@@ -131,12 +161,17 @@ tidy_gini_income <- gini_income %>% gather(year, gini, `1990`:`2015`)
 tidy_all <- join(tidy_mean_income, tidy_median_income, by = c("region","provincia","comuna","year"))
 tidy_all <- join(tidy_all, tidy_gini_income, by = c("region","provincia","comuna","year"))
 
+setnames(tidy_all, c("comuna","region"), c("comuna_name","region_name"))
+tidy_all <- join(tidy_all, region_codes[,c("comuna_name","comuna_datachile_id")], by = "comuna_name")
+tidy_all <- move_col(tidy_all, c("region_name"=1, "provincia"=2, "comuna_name"=4, "comuna_datachile_id"=5))
+
 ########
 # save #
 ########
 
 write.csv(median_income, file = "median_income.csv")
 write.csv(mean_income, file = "mean_income.csv")
-write.csv(gini_income, file = "gini.csv")
-
+write.csv(gini_income, file = "gini_income.csv")
 write.csv(tidy_all, file = "tidy_all.csv")
+
+write.csv(region_codes, file = "dim_comunas_fixed_maybe.csv")
