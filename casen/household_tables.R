@@ -1,4 +1,4 @@
-#source("process_household_income.R")
+source("process_household_income.R")
 source("household_statistics_region.R")
 source("household_statistics_provincia.R")
 source("household_statistics_comuna.R")

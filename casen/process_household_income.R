@@ -48,6 +48,7 @@ household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x)
 household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
 household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub(" De ", " de ", x)))
 household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub(" Del ", " del ", x)))
+household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub(" Y ", " y ", x)))
 
 # Fix provincias' names
 household_income_2015$provincia <- revalue(household_income_2015$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
@@ -63,8 +64,8 @@ provincias_2015 <- household_income_2015[,c("region","provincia","comuna")]
 provincias_2015$provincia_comuna <- paste(provincias_2015$provincia,provincias_2015$comuna)
 provincias_2015 <- provincias_2015[!duplicated(provincias_2015[,"provincia_comuna"]),]
 # Here I'm adding by hand some missing information (government's link: http://www.subdere.gov.cl/documentacion/regiones-provincias-y-comunas-de-chile)
-provincias_2015 <- insert_row(provincias_2015, c("B\u00edoB\u00edo","Arauco","Los Alamos",NA), nrow(provincias_2015)+1)
-provincias_2015 <- insert_row(provincias_2015, c("B\u00edoB\u00edo","B\u00edoB\u00edo","Los \u00c1ngeles",NA), nrow(provincias_2015)+1)
+provincias_2015 <- insert_row(provincias_2015, c("B\u00edob\u00edo","Arauco","Los Alamos",NA), nrow(provincias_2015)+1)
+provincias_2015 <- insert_row(provincias_2015, c("B\u00edob\u00edo","B\u00edob\u00edo","Los \u00c1ngeles",NA), nrow(provincias_2015)+1)
 provincias_2015 <- insert_row(provincias_2015, c("Magallanes","\u00daltima Esperanza","Natales",NA), nrow(provincias_2015)+1)
 provincias_2015 <- insert_row(provincias_2015, c("Tarapac\u00e1","Tamarugal","Colchane",NA), nrow(provincias_2015)+1)
 provincias_2015 <- insert_row(provincias_2015, c("Valpara\u00edso","Isla de Pascua","Isla de Pascua",NA), nrow(provincias_2015)+1)
@@ -118,6 +119,7 @@ household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x)
 household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
 household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub(" De ", " de ", x)))
 household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub(" Del ", " del ", x)))
+household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub(" Y ", " y ", x)))
 
 # Convert to character and numeric
 household_income_2013$region <- as.character(household_income_2013$region)
@@ -174,6 +176,7 @@ household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x)
 household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
 household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub(" De ", " de ", x)))
 household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub(" Del ", " del ", x)))
+household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub(" Y ", " y ", x)))
 
 # Convert to character and numeric
 household_income_2011$region <- as.character(household_income_2011$region)
@@ -230,6 +233,7 @@ household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x)
 household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
 household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub(" De ", " de ", x)))
 household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub(" Del ", " del ", x)))
+household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub(" Y ", " y ", x)))
 
 # Fix provincias' names
 household_income_2009$provincia <- revalue(household_income_2009$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
@@ -285,6 +289,7 @@ household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x)
 household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
 household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub(" De ", " de ", x)))
 household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub(" Del ", " del ", x)))
+household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub(" Y ", " y ", x)))
 
 # Fix provincias
 # this seems to be smarter (and faster) than join(provincias_2015, household_income_2006, by = "comuna")
@@ -295,7 +300,7 @@ household_income_2006$provincia <- revalue(household_income_2006$provincia, c("1
                                                                               "51" = "Valpara\u00edso", "53" = "Los Andes", "54" = "Petorca", "55" = "Quillota", "56" = "San Antonio", "57" = "San Felipe",
                                                                               "61" = "Cachapoal", "62" = "Cardenal Caro", "63" = "Colchagua",
                                                                               "71" = "Talca", "72" = "Cauquenes", "73" = "Curic\u00f3", "74" = "Linares",
-                                                                              "81" = "Concepci\u00f3n", "82" = "Arauco", "83" = "B\u00edo B\u00edo", "84" = "\u00d1uble",
+                                                                              "81" = "Concepci\u00f3n", "82" = "Arauco", "83" = "B\u00edob\u00edo", "84" = "\u00d1uble",
                                                                               "91" = "Caut\u00edn", "92" = "Malleco",
                                                                               "101" = "Llanquihue", "102" = "Chilo\u00e9", "103" = "Osorno", "104" = "Palena", "105" = "Valdivia",
                                                                               "111" = "Cohaique", "112" = "Ays\u00e9n", "113" = "General Carrera", "114" = "Capit\u00e1n Prat",
