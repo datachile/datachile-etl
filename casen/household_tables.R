@@ -1,4 +1,7 @@
-source("household_statistics.R")
+#source("process_household_income.R")
+source("household_statistics_region.R")
+source("household_statistics_provincia.R")
+source("household_statistics_comuna.R")
 
 ###########################
 # names for normalization #
@@ -17,73 +20,91 @@ rownames(region_codes) <- c(seq(1:nrow(region_codes)))
 # join median #
 ###############
 
-median_income <- as.data.frame(unique(c(median_1990$region, median_2015$region)))
-setnames(median_income, colnames(median_income), "region")
+median_income <- as.data.frame(unique(c(median_1990_comuna$comuna, median_2015_comuna$comuna)))
+setnames(median_income, colnames(median_income), "comuna")
 
-median_income <- join(median_income, median_1990, type = "left")
-median_income <- join(median_income, median_1992, type = "left")
-median_income <- join(median_income, median_1994, type = "left")
-median_income <- join(median_income, median_1996, type = "left")
-median_income <- join(median_income, median_1998, type = "left")
-median_income <- join(median_income, median_2000, type = "left")
-median_income <- join(median_income, median_2003, type = "left")
-median_income <- join(median_income, median_2006, type = "left")
-median_income <- join(median_income, median_2009, type = "left")
-median_income <- join(median_income, median_2011, type = "left")
-median_income <- join(median_income, median_2013, type = "left")
-median_income <- join(median_income, median_2015, type = "left")
+median_income <- join(median_income, median_1990_comuna, type = "left")
+median_income <- join(median_income, median_1992_comuna, type = "left")
+median_income <- join(median_income, median_1994_comuna, type = "left")
+median_income <- join(median_income, median_1996_comuna, type = "left")
+median_income <- join(median_income, median_1998_comuna, type = "left")
+median_income <- join(median_income, median_2000_comuna, type = "left")
+median_income <- join(median_income, median_2003_comuna, type = "left")
+median_income <- join(median_income, median_2006_comuna, type = "left")
+median_income <- join(median_income, median_2009_comuna, type = "left")
+median_income <- join(median_income, median_2011_comuna, type = "left")
+median_income <- join(median_income, median_2013_comuna, type = "left")
+median_income <- join(median_income, median_2015_comuna, type = "left")
 
-median_income <- rbind(median_income[!median_income$region %in% c("Pa\u00eds"), ], median_income[median_income$region %in% c("Pa\u00eds"), ])
+median_income <- join(median_income, provincias_2015[,c("region","provincia","comuna")], type = "left")
+median_income <- move_col(median_income, c("region"=1,"provincia"=2, "comuna"=3))
+
+median_income <- median_income[order(median_income$region, median_income$provincia, median_income$comuna),]
+median_income <- rbind(median_income[!median_income$comuna %in% c("Pa\u00eds"), ], median_income[median_income$comuna %in% c("Pa\u00eds"), ])
 rownames(median_income) <- c(seq(1:nrow(median_income)))
-median_income[,-1] <- lapply(median_income[,-1], function (x) as.numeric(x))
+median_income[,-c(1,2,3)] <- lapply(median_income[,-c(1,2,3)], function (x) as.numeric(x))
+median_income$region <- ifelse(median_income$comuna == "Pa\u00eds", "Pa\u00eds", median_income$region)
+median_income$provincia <- ifelse(median_income$comuna == "Pa\u00eds", "Pa\u00eds", median_income$provincia)
 
 #############
 # join mean #
 #############
 
-mean_income <- as.data.frame(unique(c(mean_1990$region, mean_2015$region)))
-setnames(mean_income, colnames(mean_income), "region")
+mean_income <- as.data.frame(unique(c(mean_1990_comuna$comuna, mean_2015_comuna$comuna)))
+setnames(mean_income, colnames(mean_income), "comuna")
 
-mean_income <- join(mean_income, mean_1990, type = "left")
-mean_income <- join(mean_income, mean_1992, type = "left")
-mean_income <- join(mean_income, mean_1994, type = "left")
-mean_income <- join(mean_income, mean_1996, type = "left")
-mean_income <- join(mean_income, mean_1998, type = "left")
-mean_income <- join(mean_income, mean_2000, type = "left")
-mean_income <- join(mean_income, mean_2003, type = "left")
-mean_income <- join(mean_income, mean_2006, type = "left")
-mean_income <- join(mean_income, mean_2009, type = "left")
-mean_income <- join(mean_income, mean_2011, type = "left")
-mean_income <- join(mean_income, mean_2013, type = "left")
-mean_income <- join(mean_income, mean_2015, type = "left")
+mean_income <- join(mean_income, mean_1990_comuna, type = "left")
+mean_income <- join(mean_income, mean_1992_comuna, type = "left")
+mean_income <- join(mean_income, mean_1994_comuna, type = "left")
+mean_income <- join(mean_income, mean_1996_comuna, type = "left")
+mean_income <- join(mean_income, mean_1998_comuna, type = "left")
+mean_income <- join(mean_income, mean_2000_comuna, type = "left")
+mean_income <- join(mean_income, mean_2003_comuna, type = "left")
+mean_income <- join(mean_income, mean_2006_comuna, type = "left")
+mean_income <- join(mean_income, mean_2009_comuna, type = "left")
+mean_income <- join(mean_income, mean_2011_comuna, type = "left")
+mean_income <- join(mean_income, mean_2013_comuna, type = "left")
+mean_income <- join(mean_income, mean_2015_comuna, type = "left")
 
-mean_income <- rbind(mean_income[!mean_income$region %in% c("Pa\u00eds"), ], mean_income[mean_income$region %in% c("Pa\u00eds"), ])
+mean_income <- join(mean_income, provincias_2015[,c("region","provincia","comuna")], type = "left")
+mean_income <- move_col(mean_income, c("region"=1,"provincia"=2, "comuna"=3))
+
+mean_income <- mean_income[order(mean_income$region, mean_income$provincia, mean_income$comuna),]
+mean_income <- rbind(mean_income[!mean_income$comuna %in% c("Pa\u00eds"), ], mean_income[mean_income$comuna %in% c("Pa\u00eds"), ])
 rownames(mean_income) <- c(seq(1:nrow(mean_income)))
-mean_income[,-1] <- lapply(mean_income[,-1], function (x) as.numeric(x))
+mean_income[,-c(1,2,3)] <- lapply(mean_income[,-c(1,2,3)], function (x) as.numeric(x))
+mean_income$region <- ifelse(mean_income$comuna == "Pa\u00eds", "Pa\u00eds", mean_income$region)
+mean_income$provincia <- ifelse(mean_income$comuna == "Pa\u00eds", "Pa\u00eds", mean_income$provincia)
 
 #############
 # join gini #
 #############
 
-gini <- as.data.frame(unique(c(gini_1990$region, gini_2015$region)))
-setnames(gini, colnames(gini), "region")
+gini_income <- as.data.frame(unique(c(gini_1990_comuna$comuna, gini_2015_comuna$comuna)))
+setnames(gini_income, colnames(gini_income), "comuna")
 
-gini <- join(gini, gini_1990, type = "left")
-gini <- join(gini, gini_1992, type = "left")
-gini <- join(gini, gini_1994, type = "left")
-gini <- join(gini, gini_1996, type = "left")
-gini <- join(gini, gini_1998, type = "left")
-gini <- join(gini, gini_2000, type = "left")
-gini <- join(gini, gini_2003, type = "left")
-gini <- join(gini, gini_2006, type = "left")
-gini <- join(gini, gini_2009, type = "left")
-gini <- join(gini, gini_2011, type = "left")
-gini <- join(gini, gini_2013, type = "left")
-gini <- join(gini, gini_2015, type = "left")
+gini_income <- join(gini_income, gini_1990_comuna, type = "left")
+gini_income <- join(gini_income, gini_1992_comuna, type = "left")
+gini_income <- join(gini_income, gini_1994_comuna, type = "left")
+gini_income <- join(gini_income, gini_1996_comuna, type = "left")
+gini_income <- join(gini_income, gini_1998_comuna, type = "left")
+gini_income <- join(gini_income, gini_2000_comuna, type = "left")
+gini_income <- join(gini_income, gini_2003_comuna, type = "left")
+gini_income <- join(gini_income, gini_2006_comuna, type = "left")
+gini_income <- join(gini_income, gini_2009_comuna, type = "left")
+gini_income <- join(gini_income, gini_2011_comuna, type = "left")
+gini_income <- join(gini_income, gini_2013_comuna, type = "left")
+gini_income <- join(gini_income, gini_2015_comuna, type = "left")
 
-gini <- rbind(gini[!gini$region %in% c("Pa\u00eds"), ], gini[gini$region %in% c("Pa\u00eds"), ])
-rownames(gini) <- c(seq(1:nrow(gini)))
-gini[,-1] <- lapply(gini[,-1], function (x) as.numeric(x))
+gini_income <- join(gini_income, provincias_2015[,c("region","provincia","comuna")], type = "left")
+gini_income <- move_col(gini_income, c("region"=1,"provincia"=2, "comuna"=3))
+
+gini_income <- gini_income[order(gini_income$region, gini_income$provincia, gini_income$comuna),]
+gini_income <- rbind(gini_income[!gini_income$comuna %in% c("Pa\u00eds"), ], gini_income[gini_income$comuna %in% c("Pa\u00eds"), ])
+rownames(gini_income) <- c(seq(1:nrow(gini_income)))
+gini_income[,-c(1,2,3)] <- lapply(gini_income[,-c(1,2,3)], function (x) as.numeric(x))
+gini_income$region <- ifelse(gini_income$comuna == "Pa\u00eds", "Pa\u00eds", gini_income$region)
+gini_income$provincia <- ifelse(gini_income$comuna == "Pa\u00eds", "Pa\u00eds", gini_income$provincia)
 
 ###############
 # tidy median #
@@ -101,18 +122,14 @@ tidy_mean_income <- mean_income %>% gather(year, mean, `1990`:`2015`)
 # tidy gini #
 #############
 
-tidy_gini_income <- gini %>% gather(year, gini, `1990`:`2015`)
+tidy_gini_income <- gini_income %>% gather(year, gini, `1990`:`2015`)
 
 ############
 # join all #
 ############
 
-tidy_all <- join(tidy_mean_income, tidy_median_income, by = c("region", "year"))
-tidy_all <- join(tidy_all, tidy_gini_income, by = c("region", "year"))
-setnames(tidy_all, "region", "region_name")
-tidy_all <- join(tidy_all, region_codes, type = "left")
-tidy_all <- tidy_all[,c("region_name","region_id","year","mean","median","gini")]
-tidy_all <- tidy_all[order(tidy_all$region_id),]
+tidy_all <- join(tidy_mean_income, tidy_median_income, by = c("region","provincia","comuna","year"))
+tidy_all <- join(tidy_all, tidy_gini_income, by = c("region","provincia","comuna","year"))
 
 ########
 # save #
@@ -120,6 +137,6 @@ tidy_all <- tidy_all[order(tidy_all$region_id),]
 
 write.csv(median_income, file = "median_income.csv")
 write.csv(mean_income, file = "mean_income.csv")
-write.csv(gini, file = "gini.csv")
+write.csv(gini_income, file = "gini.csv")
 
 write.csv(tidy_all, file = "tidy_all.csv")
