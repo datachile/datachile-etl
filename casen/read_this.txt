@@ -1,5 +1,3 @@
-Hi
-
-Please open the file "household_income_mean_and_gini.R"
+To recalculate please open the file "household_tables_xxx.R"
 
 it will do all of the things like downloading datasets, etc...

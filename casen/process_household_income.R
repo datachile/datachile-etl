@@ -54,8 +54,9 @@ household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x)
 # Fix comunas's names
 household_income_2015 <- as.data.frame(lapply(household_income_2015, function(x) gsub("Alto Biob\u00edo", "Alto B\u00edob\u00edo", x)))
 
-# Fix provincias' names
+# Fix provincias
 household_income_2015$provincia <- revalue(household_income_2015$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
+household_income_2015$provincia <- revalue(household_income_2015$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
 
 # Convert to character and numeric
 household_income_2015$region <- as.character(household_income_2015$region)
@@ -126,6 +127,9 @@ household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x)
 household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub(" La ", " la ", x)))
 household_income_2013 <- as.data.frame(lapply(household_income_2013, function(x) gsub(" Y ", " y ", x)))
 
+# Fix provincias
+household_income_2013$provincia <- revalue(household_income_2013$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
+
 # Convert to character and numeric
 household_income_2013$region <- as.character(household_income_2013$region)
 household_income_2013$comuna <- as.character(household_income_2013$comuna)
@@ -133,10 +137,6 @@ household_income_2013$ingreso_pc <- as.numeric(as.character(household_income_201
 
 # Keep only the households that reported their income
 household_income_2013 <- subset(household_income_2013, household_income_2013$ingreso_pc > 0)
-
-# Add provincias
-household_income_2013 <- join(household_income_2013, provincias_2015[,c("provincia","comuna")], by = "comuna")
-household_income_2013 <- household_income_2013[,c("region","provincia","comuna","ingreso_pc")]
 
 ########
 # 2011 #
@@ -184,6 +184,9 @@ household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x)
 household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub(" La ", " la ", x)))
 household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x) gsub(" Y ", " y ", x)))
 
+# Fix provincias
+household_income_2011$provincia <- revalue(household_income_2011$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
+
 # Convert to character and numeric
 household_income_2011$region <- as.character(household_income_2011$region)
 household_income_2011$comuna <- as.character(household_income_2011$comuna)
@@ -191,10 +194,6 @@ household_income_2011$ingreso_pc <- as.numeric(as.character(household_income_201
 
 # Keep only the households that reported their income
 household_income_2011 <- subset(household_income_2011, household_income_2011$ingreso_pc > 0)
-
-# Add provincias
-household_income_2011 <- join(household_income_2011, provincias_2015[,c("provincia","comuna")], by = "comuna")
-household_income_2011 <- household_income_2011[,c("region","provincia","comuna","ingreso_pc")]
 
 ########
 # 2009 #
@@ -242,8 +241,11 @@ household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x)
 household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub(" La ", " la ", x)))
 household_income_2009 <- as.data.frame(lapply(household_income_2009, function(x) gsub(" Y ", " y ", x)))
 
-# Fix provincias' names
+# Fix provincias
 household_income_2009$provincia <- revalue(household_income_2009$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
+
+# Fix provincias
+household_income_2009$provincia <- revalue(household_income_2009$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
 
 # Convert to character and numeric
 household_income_2009$region <- as.character(household_income_2009$region)
@@ -300,7 +302,6 @@ household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x)
 household_income_2006 <- as.data.frame(lapply(household_income_2006, function(x) gsub(" Y ", " y ", x)))
 
 # Fix provincias
-# this seems to be smarter (and faster) than join(provincias_2015, household_income_2006, by = "comuna")
 household_income_2006$provincia <- revalue(household_income_2006$provincia, c("11" = "Iquique", "12" = "Arica", "13" = "Parinacota",
                                                                               "21" = "Antofagasta", "22" = "El Loa", "23" = "Tocopilla",
                                                                               "31" = "Copiap\u00f3", "32" = "Cha\u00f1aral", "33" = "Huasco",
@@ -314,6 +315,12 @@ household_income_2006$provincia <- revalue(household_income_2006$provincia, c("1
                                                                               "111" = "Cohaique", "112" = "Ays\u00e9n", "113" = "General Carrera", "114" = "Capit\u00e1n Prat",
                                                                               "121" = "Magallanes", "122" = "Ant\u00e1rtica", "123" = "Tierra del Fuego", "124" = "\u00daltima Esperanza",
                                                                               "131" = "Santiago", "132" = "Cordillera", "133" = "Chacabuco", "134" = "Maipo", "135" = "Melipilla", "136" = "Talagante"))
+
+# Fix provincias
+household_income_2006$provincia <- revalue(household_income_2006$provincia, c("Cohaique" = "Coyhaique"))
+
+# Fix provincias
+household_income_2006$provincia <- revalue(household_income_2006$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
 
 # Convert to character and numeric
 household_income_2006$region <- as.character(household_income_2006$region)
@@ -371,8 +378,12 @@ household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x)
 household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub(" De ", " de ", x)))
 household_income_2003 <- as.data.frame(lapply(household_income_2003, function(x) gsub(" Del ", " del ", x)))
 
-# Fix provincias' names
+# Fix provincias
 household_income_2003$provincia <- revalue(household_income_2003$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
+household_income_2003$provincia <- revalue(household_income_2003$provincia, c("Cohaique" = "Coyhaique"))
+
+# Fix provincias
+household_income_2003$provincia <- revalue(household_income_2003$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
 
 # Convert to character and numeric
 household_income_2003$region <- as.character(household_income_2003$region)
@@ -430,8 +441,12 @@ household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x)
 household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub(" De ", " de ", x)))
 household_income_2000 <- as.data.frame(lapply(household_income_2000, function(x) gsub(" Del ", " del ", x)))
 
-# Fix provincias' names
+# Fix provincias
 household_income_2000$provincia <- revalue(household_income_2000$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
+household_income_2000$provincia <- revalue(household_income_2000$provincia, c("Cohaique" = "Coyhaique"))
+
+# Fix provincias
+household_income_2000$provincia <- revalue(household_income_2000$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
 
 # Convert to character and numeric
 household_income_2000$region <- as.character(household_income_2000$region)
@@ -489,8 +504,12 @@ household_income_1998 <- as.data.frame(lapply(household_income_1998, function(x)
 household_income_1998 <- as.data.frame(lapply(household_income_1998, function(x) gsub(" De ", " de ", x)))
 household_income_1998 <- as.data.frame(lapply(household_income_1998, function(x) gsub(" Del ", " del ", x)))
 
-# Fix provincias' names
+# Fix provincias
 household_income_1998$provincia <- revalue(household_income_1998$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
+household_income_1998$provincia <- revalue(household_income_1998$provincia, c("Cohaique" = "Coyhaique"))
+
+# Fix provincias
+household_income_1998$provincia <- revalue(household_income_1998$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
 
 # Convert to character and numeric
 household_income_1998$region <- as.character(household_income_1998$region)
@@ -558,14 +577,13 @@ household_income_1996 <- as.data.frame(lapply(household_income_1996, function(x)
 household_income_1996 <- as.data.frame(lapply(household_income_1996, function(x) gsub("Imperial", "Nueva Imperial", x)))
 household_income_1996 <- as.data.frame(lapply(household_income_1996, function(x) gsub("Puerto Ais\u00e9n", "Ays\u00e9n", x)))
 
+# Fix provincias
+household_income_1996$provincia <- revalue(household_income_1996$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
+
 # Convert to character and numeric
 household_income_1996$region <- as.character(household_income_1996$region)
 household_income_1996$comuna <- as.character(household_income_1996$comuna)
 household_income_1996$ingreso_pc <- as.numeric(as.character(household_income_1996$ingreso_pc))
-
-# Add provincias
-household_income_1996 <- join(household_income_1996, provincias_2015[,c("provincia","comuna")], by = "comuna")
-household_income_1996 <- household_income_1996[,c("region","provincia","comuna","ingreso_pc")]
 
 # Keep only the households that reported their income
 household_income_1996 <- subset(household_income_1996, household_income_1996$ingreso_pc > 0)
@@ -626,14 +644,13 @@ household_income_1994 <- as.data.frame(lapply(household_income_1994, function(x)
 household_income_1994 <- as.data.frame(lapply(household_income_1994, function(x) gsub("Puerto Ais\u00e9n", "Ays\u00e9n", x)))
 household_income_1994 <- as.data.frame(lapply(household_income_1994, function(x) gsub("ParedTarapac\u00e1s", "Paredones", x)))
 
+# Fix provincias
+household_income_1994$provincia <- revalue(household_income_1994$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
+
 # Convert to character and numeric
 household_income_1994$region <- as.character(household_income_1994$region)
 household_income_1994$comuna <- as.character(household_income_1994$comuna)
 household_income_1994$ingreso_pc <- as.numeric(as.character(household_income_1994$ingreso_pc))
-
-# Add provincias
-household_income_1994 <- join(household_income_1994, provincias_2015[,c("provincia","comuna")], by = "comuna")
-household_income_1994 <- household_income_1994[,c("region","provincia","comuna","ingreso_pc")]
 
 # Keep only the households that reported their income
 household_income_1994 <- subset(household_income_1994, household_income_1994$ingreso_pc > 0)
@@ -685,8 +702,9 @@ household_income_1992 <- as.data.frame(lapply(household_income_1992, function(x)
 household_income_1992 <- as.data.frame(lapply(household_income_1992, function(x) gsub(" De ", " de ", x)))
 household_income_1992 <- as.data.frame(lapply(household_income_1992, function(x) gsub(" Del ", " del ", x)))
 
-# Fix provincias' names
+# Fix provincias
 household_income_1992$provincia <- revalue(household_income_1992$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
+household_income_1992$provincia <- revalue(household_income_1992$provincia, c("Cohaique" = "Coyhaique"))
 
 # Fix comunas
 household_income_1992 <- as.data.frame(lapply(household_income_1992, function(x) gsub("CorTarapac\u00e1l", "Coronel", x)))
@@ -696,6 +714,9 @@ household_income_1992 <- as.data.frame(lapply(household_income_1992, function(x)
 household_income_1992 <- as.data.frame(lapply(household_income_1992, function(x) gsub("Teodoro Schimdt", "Teodoro Schmidt", x)))
 household_income_1992 <- as.data.frame(lapply(household_income_1992, function(x) gsub("Puerto Ais\u00e9n", "Ays\u00e9n", x)))
 household_income_1992 <- as.data.frame(lapply(household_income_1992, function(x) gsub("ParedTarapac\u00e1s", "Paredones", x)))
+
+# Fix provincias
+household_income_1992$provincia <- revalue(household_income_1992$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
 
 # Convert to character and numeric
 household_income_1992$region <- as.character(household_income_1992$region)
@@ -753,8 +774,9 @@ household_income_1990 <- as.data.frame(lapply(household_income_1990, function(x)
 household_income_1990 <- as.data.frame(lapply(household_income_1990, function(x) gsub(" De ", " de ", x)))
 household_income_1990 <- as.data.frame(lapply(household_income_1990, function(x) gsub(" Del ", " del ", x)))
 
-# Fix provincias' names
+# Fix provincias
 household_income_1990$provincia <- revalue(household_income_1990$provincia, c("San Felipe de Aconcagua" = "San Felipe"))
+household_income_1990$provincia <- revalue(household_income_1990$provincia, c("Cohaique" = "Coyhaique"))
 
 # Fix comunas
 household_income_1990 <- as.data.frame(lapply(household_income_1990, function(x) gsub("CorTarapac\u00e1l", "Coronel", x)))
@@ -765,6 +787,9 @@ household_income_1990 <- as.data.frame(lapply(household_income_1990, function(x)
 household_income_1990 <- as.data.frame(lapply(household_income_1990, function(x) gsub("Puerto Ais\u00e9n", "Ays\u00e9n", x)))
 household_income_1990 <- as.data.frame(lapply(household_income_1990, function(x) gsub("ParedTarapac\u00e1s", "Paredones", x)))
 
+# Fix provincias
+household_income_1990$provincia <- revalue(household_income_1990$provincia, c("Biob\u00edo" = "B\u00edob\u00edo"))
+
 # Convert to character and numeric
 household_income_1990$region <- as.character(household_income_1990$region)
 household_income_1990$provincia <- as.character(household_income_1990$provincia)
@@ -773,3 +798,23 @@ household_income_1990$ingreso_pc <- as.numeric(as.character(household_income_199
 
 # Keep only the households that reported their income
 household_income_1990 <- subset(household_income_1990, household_income_1990$ingreso_pc > 0)
+
+#################
+# Add provincias
+#################
+
+# 2013
+household_income_2013 <- join(household_income_2013, provincias_2015[,c("provincia","comuna")], by = "comuna")
+household_income_2013 <- household_income_2013[,c("region","provincia","comuna","ingreso_pc")]
+
+# 2011
+household_income_2011 <- join(household_income_2011, provincias_2015[,c("provincia","comuna")], by = "comuna")
+household_income_2011 <- household_income_2011[,c("region","provincia","comuna","ingreso_pc")]
+
+# 1994
+household_income_1994 <- join(household_income_1994, provincias_2015[,c("provincia","comuna")], by = "comuna")
+household_income_1994 <- household_income_1994[,c("region","provincia","comuna","ingreso_pc")]
+
+# 1996
+household_income_1996 <- join(household_income_1996, provincias_2015[,c("provincia","comuna")], by = "comuna")
+household_income_1996 <- household_income_1996[,c("region","provincia","comuna","ingreso_pc")]
