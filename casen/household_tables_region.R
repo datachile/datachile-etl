@@ -1,6 +1,7 @@
-source("process_household_income.R")
+#uncomment lines 2-3 when running this file alone
+#source("normalization.R")
+#source("process_household_income.R")
 source("household_statistics_region.R")
-source("normalization.R")
 
 ###############
 # join median #
@@ -103,7 +104,7 @@ tidy_all_region <- join(tidy_mean_income_region, tidy_median_income_region, by =
 tidy_all_region <- join(tidy_all_region, tidy_gini_income_region, by = c("region","year"))
 
 setnames(tidy_all_region, c("region","mean","median","gini"), c("region_name","mean_income","median_income","gini_income"))
-tidy_all_region <- join(tidy_all_region, unique(region_codes[,c("region_name","region_id")]), by = "region_name")
+tidy_all_region <- join(tidy_all_region, region_codes_datachile[,c("region_name","region_id")], by = "region_name")
 tidy_all_region$geography_level <- "region"
 tidy_all_region <- move_col(tidy_all_region, c("geography_level"=1, "year"=2, "region_name"=3, "region_id"=4))
 

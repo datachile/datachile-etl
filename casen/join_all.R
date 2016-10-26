@@ -1,7 +1,13 @@
-tidy_all_comuna <- read.csv("tidy_all_comuna.csv")
-tidy_all_provincia <- read.csv("tidy_all_provincia.csv")
-tidy_all_region <- read.csv("tidy_all_region.csv")
+if ((exists("tidy_all_comuna") & exists("tidy_all_provincia") & exists("tidy_all_region")) == TRUE) {
+  tidy_all <- rbind(tidy_all_comuna, tidy_all_provincia, tidy_all_region)
+  tidy_all <- tidy_all[!(tidy_all$geography_name == "Pa\u00eds"),]
+  write.csv(tidy_all, file = "tidy_all.csv")
+} else {
+  tidy_all_comuna <- read.csv("tidy_all_comuna.csv")
+  tidy_all_provincia <- read.csv("tidy_all_provincia.csv")
+  tidy_all_region <- read.csv("tidy_all_region.csv")
 
-tidy_all <- rbind(tidy_all_comuna, tidy_all_provincia, tidy_all_region)
-tidy_all <- tidy_all[!(tidy_all$geography_name == "Pa\u00eds"),]
-write.csv(tidy_all, file = "tidy_all.csv")
+  tidy_all <- rbind(tidy_all_comuna, tidy_all_provincia, tidy_all_region)
+  tidy_all <- tidy_all[!(tidy_all$geography_name == "Pa\u00eds"),]
+  write.csv(tidy_all, file = "tidy_all.csv")
+}

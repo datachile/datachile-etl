@@ -1,6 +1,7 @@
-source("process_household_income.R")
+#uncomment lines 2-3 when running this file alone
+#source("normalization.R")
+#source("process_household_income.R")
 source("household_statistics_provincia.R")
-source("normalization.R")
 
 ###############
 # join median #
@@ -103,7 +104,7 @@ tidy_all_provincia <- join(tidy_mean_income_provincia, tidy_median_income_provin
 tidy_all_provincia <- join(tidy_all_provincia, tidy_gini_income_provincia, by = c("provincia","year"))
 
 setnames(tidy_all_provincia, c("provincia","mean","median","gini"), c("provincia_name","mean_income","median_income","gini_income"))
-tidy_all_provincia <- join(tidy_all_provincia, unique(provincias_codes[,c("provincia_name","provincia_pacha_id")]), by = "provincia_name")
+tidy_all_provincia <- join(tidy_all_provincia, provincia_codes_pacha[,c("provincia_name","provincia_pacha_id")], by = "provincia_name")
 tidy_all_provincia$geography_level <- "provincia"
 tidy_all_provincia <- move_col(tidy_all_provincia, c("geography_level"=1, "year"=2, "provincia_name"=3, "provincia_pacha_id"=4))
 
