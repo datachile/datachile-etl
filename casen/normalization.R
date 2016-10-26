@@ -43,17 +43,17 @@ rownames(region_codes_datachile) <- c(seq(1:nrow(region_codes_datachile)))
 
 # I'll add provincia
 # names and numbers according to this link: http://www.subdere.gov.cl/documentacion/regiones-provincias-y-comunas-de-chile
-provincia_codes_pacha <- c("151:Arica","152:Parinacota","11:Iquique","12:Tamarugal","21:Antofagasta",
-                      "22:El Loa", "23:Tocopilla","31:Copiap\u00f3","32:Cha\u00f1aral","33:Huasco",
-                      "41:Elqui","42:Choapa","43:Limar\u00ed","51:Valpara\u00edso","52:Isla de Pascua",
-                      "53:Los Andes","54:Petorca","55:Quillota","56:San Antonio","57:San Felipe",
-                      "58:Marga Marga","61:Cachapoal","62:Cardenal Caro","63:Colchagua","71:Talca",
-                      "72:Cauquenes","73:Curic\u00f3","74:Linares","81:Concepci\u00f3n","82:Arauco",
-                      "83:B\u00edob\u00edo","84:\u00d1uble","91:Caut\u00edn","92:Malleco","141:Valdivia",
-                      "142:Ranco","101:Llanquihue","102:Chilo\u00e9","103:Osorno","104:Palena",
-                      "111:Coyhaique","112:Ays\u00e9n","113:Capit\u00e1n Prat","114:General Carrera","121:Magallanes",
-                      "122:Ant\u00e1rtica","123:Tierra del Fuego","124:\u00daltima Esperanza","131:Santiago","152:Cordillera",
-                      "133:Chacabuco","134:Maipo","135:Melipilla","136:Talagante")
+provincia_codes_pacha <- c("p151:Arica","p152:Parinacota","p11:Iquique","p12:Tamarugal","p21:Antofagasta",
+                      "p22:El Loa", "p23:Tocopilla","p31:Copiap\u00f3","p32:Cha\u00f1aral","p33:Huasco",
+                      "p41:Elqui","p42:Choapa","p43:Limar\u00ed","p51:Valpara\u00edso","p52:Isla de Pascua",
+                      "p53:Los Andes","p54:Petorca","p55:Quillota","p56:San Antonio","p57:San Felipe",
+                      "p58:Marga Marga","p61:Cachapoal","p62:Cardenal Caro","p63:Colchagua","p71:Talca",
+                      "p72:Cauquenes","p73:Curic\u00f3","p74:Linares","p81:Concepci\u00f3n","p82:Arauco",
+                      "p83:B\u00edob\u00edo","p84:\u00d1uble","p91:Caut\u00edn","p92:Malleco","p141:Valdivia",
+                      "p142:Ranco","p101:Llanquihue","p102:Chilo\u00e9","p103:Osorno","p104:Palena",
+                      "p111:Coyhaique","p112:Ays\u00e9n","p113:Capit\u00e1n Prat","p114:General Carrera","p121:Magallanes",
+                      "p122:Ant\u00e1rtica","p123:Tierra del Fuego","p124:\u00daltima Esperanza","p131:Santiago","p152:Cordillera",
+                      "p133:Chacabuco","p134:Maipo","p135:Melipilla","p136:Talagante")
 provincia_codes_pacha <- as.data.frame(provincia_codes_pacha)
 provincia_codes_pacha <- data.frame(do.call('rbind', strsplit(as.character(provincia_codes_pacha$provincia_codes_pacha), ':', fixed=TRUE)))
 setnames(provincia_codes_pacha, colnames(provincia_codes_pacha), c("provincia_pacha_id","provincia_name"))

@@ -1,6 +1,8 @@
 if ((exists("tidy_all_comuna") & exists("tidy_all_provincia") & exists("tidy_all_region")) == TRUE) {
   tidy_all <- rbind(tidy_all_comuna, tidy_all_provincia, tidy_all_region)
   tidy_all <- tidy_all[!(tidy_all$geography_name == "Pa\u00eds"),]
+  tidy_all$geography_level <- as.factor(tidy_all$geography_level)
+  tidy_all$year <- as.numeric(tidy_all$year)
   write.csv(tidy_all, file = "tidy_all.csv")
 } else {
   tidy_all_comuna <- read.csv("tidy_all_comuna.csv")
