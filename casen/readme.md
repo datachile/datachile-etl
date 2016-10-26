@@ -26,6 +26,7 @@ The relevant file is **tidy_all.csv** any other file is an intermediate product.
 ### `tidy_all.csv`'s structure
 
 | Index | Column ID       | Type   | Description                                      |
+| ----- | --------------- | -----  | ------------------------------------------------ |
 | 0     | geography_level | Factor | Factor w/ 3 levels "comuna","provincia","region" |
 | 0     | geography_name  | Factor | Factor w/ 356 levels "Arica", "Antogasta", ...   |
 | 0     | geography_id    | Factor | Factor w/ 401 levels "1", "2", ... , "p11"       |
