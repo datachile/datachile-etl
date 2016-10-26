@@ -1,6 +1,4 @@
-##########
-# README #
-##########
+# README
 
 1. I have divided the code in several files to keep this simple :)
 
@@ -22,6 +20,7 @@ levels.
 https://github.com/Datawheel/datachile-etl/pull/11. As Manual asked, the format is
 
 tidy_all.csv
+
   * geography_id
   * geography_name
   * geography_level
