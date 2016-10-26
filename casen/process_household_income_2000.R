@@ -3,7 +3,7 @@
 ########
 
 # Paste the two relevant columns here (region and household's income)
-household_income_2000 <- as.data.frame(cbind(as.character(casen_2000$comu), as.character(casen_2000$yoprhaj/casen_2000$numper)))
+household_income_2000 <- as.data.frame(cbind(as.character(casen_2000$comu), as.character(casen_2000$ymonehaj/casen_2000$numper)))
 setnames(household_income_2000, colnames(household_income_2000), c("comuna","ingreso_pc"))
 
 # Trim leading/ending whitespace

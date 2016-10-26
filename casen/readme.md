@@ -19,14 +19,18 @@ levels.
 4. The file "tidy_all.csv" follows the tidy structure discussed here:
 https://github.com/Datawheel/datachile-etl/pull/11. As Manual asked, the format is
 
-tidy_all.csv
+## Files
 
-  * geography_id
-  * geography_name
-  * geography_level
-  * year
-  * mean_income
-  * median_income
-  * gini_income.
+The relevant file is **tidy_all.csv** any other file is an intermediate product. The rest of the csv files are more presentation/spreadsheet oriented.
 
-The rest of the csv files are more presentation/spreadsheet oriented.
+### `tidy_all.csv`'s structure
+
+| Index | Column ID       | Type   | Description                                      |
+| ----- | --------------- | -----  | ------------------------------------------------ |
+| 0     | geography_level | Factor | Factor w/ 3 levels "comuna","provincia","region" |
+| 0     | geography_name  | Factor | Factor w/ 356 levels "Arica", "Antogasta", ...   |
+| 0     | geography_id    | Factor | Factor w/ 401 levels "1", "2", ... , "p11"       |
+| 0     | year            | num    | from 1990 to 2015                                |
+| 0     | mean_income     | num    | mean by geography_id (contains NAs)              |
+| 0     | median_income   | num    | median by geography_id (contains NAs)            |
+| 0     | median_income   | num    | normed [0-1] inequality parameter (contains NAs) |
