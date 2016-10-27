@@ -27,6 +27,7 @@ The relevant file is **tidy_all.csv** any other file is an intermediate product.
 
 | Index | Column ID       | Type   | Description                                                   |
 | ----- | --------------- | -----  | ------------------------------------------------------------- |
+| 0     | geography_level | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
 | 1     | geography_name  | Factor | Factor w/ 356 levels "Arica", "Antofagasta", ...              |
 | 2     | geography_id    | Factor | Factor w/ 375 levels "1", "2", ... , "p11", "p21", "pais"     |
 | 3     | year            | num    | from 1990 to 2015                                             |
