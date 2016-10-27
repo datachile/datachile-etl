@@ -106,10 +106,14 @@ tidy_all_provincia <- join(tidy_all_provincia, tidy_gini_income_provincia, by = 
 setnames(tidy_all_provincia, c("provincia","mean","median","gini"), c("provincia_name","mean_income","median_income","gini_income"))
 tidy_all_provincia <- join(tidy_all_provincia, provincia_codes_pacha[,c("provincia_name","provincia_pacha_id")], by = "provincia_name")
 tidy_all_provincia$geography_level <- "provincia"
-tidy_all_provincia <- move_col(tidy_all_provincia, c("geography_level"=1, "year"=2, "provincia_name"=3, "provincia_pacha_id"=4))
+tidy_all_provincia <- move_col(tidy_all_provincia, c("geography_level"=1, "provincia_name"=2, "provincia_pacha_id"=3, "year"=4))
 
 tidy_all_provincia <- tidy_all_provincia[,c("geography_level","provincia_name","provincia_pacha_id","year","mean_income","median_income","gini_income")]
 setnames(tidy_all_provincia, c("provincia_name","provincia_pacha_id"), c("geography_name","geography_id"))
+
+tidy_all_provincia$geography_level <- as.character(tidy_all_provincia$geography_level)
+tidy_all_provincia$geography_name <- as.character(tidy_all_provincia$geography_name)
+tidy_all_provincia$geography_id <- as.character(tidy_all_provincia$geography_id)
 
 ########
 # save #
