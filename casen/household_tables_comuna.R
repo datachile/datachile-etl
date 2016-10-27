@@ -106,10 +106,14 @@ tidy_all_comuna <- join(tidy_all_comuna, tidy_gini_income_comuna, by = c("comuna
 setnames(tidy_all_comuna, c("comuna","mean","median","gini"), c("comuna_name","mean_income","median_income","gini_income"))
 tidy_all_comuna <- join(tidy_all_comuna, region_codes_datachile[,c("comuna_name","comuna_datachile_id")], by = "comuna_name")
 tidy_all_comuna$geography_level <- "comuna"
-tidy_all_comuna <- move_col(tidy_all_comuna, c("geography_level"=1, "year"=2, "comuna_name"=3, "comuna_datachile_id"=4))
+tidy_all_comuna <- move_col(tidy_all_comuna, c("geography_level"=1, "comuna_name"=2, "comuna_datachile_id"=3, "year"=4))
 
 tidy_all_comuna <- tidy_all_comuna[,c("geography_level","comuna_name","comuna_datachile_id","year","mean_income","median_income","gini_income")]
 setnames(tidy_all_comuna, c("comuna_name","comuna_datachile_id"), c("geography_name","geography_id"))
+
+tidy_all_comuna$geography_level <- as.character(tidy_all_comuna$geography_level)
+tidy_all_comuna$geography_name <- as.character(tidy_all_comuna$geography_name)
+tidy_all_comuna$geography_id <- as.character(tidy_all_comuna$geography_id)
 
 ########
 # save #

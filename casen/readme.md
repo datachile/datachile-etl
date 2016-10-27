@@ -25,14 +25,12 @@ The relevant file is **tidy_all.csv** any other file is an intermediate product.
 
 ### `tidy_all.csv`'s structure
 
-| Index | Column ID       | Type   | Description                                      |
-| ----- | --------------- | -----  | ------------------------------------------------ |
-| 0     | geography_level | Factor | Factor w/ 3 levels "comuna","provincia","region" |
-| 0     | geography_name  | Factor | Factor w/ 356 levels "Arica", "Antogasta", ...   |
-| 0     | geography_id    | Factor | Factor w/ 401 levels "1", "2", ... , "p11"       |
-| 0     | year            | num    | from 1990 to 2015                                |
-| 0     | mean_income     | num    | mean by geography_id (contains NAs)              |
-| 0     | median_income   | num    | median by geography_id (contains NAs)            |
-| 0     | median_income   | num    | normed [0-1] inequality parameter (contains NAs) |
+| 0     | geography_level | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
+| 0     | geography_name  | Factor | Factor w/ 356 levels "Arica", "Antofagasta", ... |
+| 0     | geography_id    | Factor | Factor w/ 375 levels "1", "2", ... , "p11", "p21", "pais" |
+| 0     | year            | num    | from 1990 to 2015                                |
+| 0     | mean_income     | num    | mean by geography_id (contains NAs)              |
+| 0     | median_income   | num    | median by geography_id (contains NAs)            |
+| 0     | median_income   | num    | normed [0-1] inequality parameter (contains NAs) |
 
-Note: `geography_id` contains values such as "p11" (means provincia 1 region 1), "p21" (means provincia 1 region 2), etc. that are **not** a part of the original Data Chile codes. I've added them in that way to be able to include information about provincias without disturbing other users. Provincias are important as "1 provincia = 1 congressman" and "3 provincias or more = 1 senator". The importance of provincias is not only political but also economical as a provincia is a geographical unit used in government's decision making,
+Note: `geography_id` contains values such as "p11" (means provincia 1 region 1), "p21" (means provincia 1 region 2), "pais" (country/national), etc. that are **not** a part of the original Data Chile codes. I've added them in that way to be able to include information about the country and provincias without disturbing other users. Provincias are important as "1 provincia = 1 congressman" and "3 provincias or more = 1 senator". The importance of provincias is not only political but also economical as a provincia is a geographical unit used in government's decision making,
