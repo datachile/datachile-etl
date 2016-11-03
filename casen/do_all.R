@@ -1,4 +1,7 @@
+source("libraries.R")
 source("normalization.R")
+source("margin_of_error.R")
+
 source("process_household_income.R")
 
 source("household_tables_pais.R")

@@ -7,67 +7,146 @@ source("household_statistics_pais.R")
 # join median #
 ###############
 
-median_income_pais <- as.data.frame(t(c("Pa\u00eds", median_vector_pais)))
-setnames(median_income_pais, colnames(median_income_pais), c("region", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
-median_income_pais[,-c(1)] <- lapply(median_income_pais[,-c(1)], function (x) as.numeric(as.character(x)))
+median_income_country <- as.data.frame(t(c("Pa\u00eds", median_country)))
+setnames(median_income_country, colnames(median_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+median_income_country[,-c(1)] <- lapply(median_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
 
 #############
 # join mean #
 #############
 
-mean_income_pais <- as.data.frame(t(c("Pa\u00eds", mean_vector_pais)))
-setnames(mean_income_pais, colnames(mean_income_pais), c("region", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
-mean_income_pais[,-c(1)] <- lapply(mean_income_pais[,-c(1)], function (x) as.numeric(as.character(x)))
+mean_income_country <- as.data.frame(t(c("Pa\u00eds", mean_country)))
+setnames(mean_income_country, colnames(mean_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+mean_income_country[,-c(1)] <- lapply(mean_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
 
 #############
 # join gini #
 #############
 
-gini_income_pais <- as.data.frame(t(c("Pa\u00eds", gini_vector_pais)))
-setnames(gini_income_pais, colnames(gini_income_pais), c("region", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
-gini_income_pais[,-c(1)] <- lapply(gini_income_pais[,-c(1)], function (x) as.numeric(as.character(x)))
+gini_income_country <- as.data.frame(t(c("Pa\u00eds", gini_country)))
+setnames(gini_income_country, colnames(gini_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+gini_income_country[,-c(1)] <- lapply(gini_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
+
+######################
+# join median_bounds #
+######################
+
+lb_median_income_country <- as.data.frame(t(c("Pa\u00eds", lb_median_country)))
+setnames(lb_median_income_country, colnames(lb_median_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+lb_median_income_country[,-c(1)] <- lapply(lb_median_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
+
+ub_median_income_country <- as.data.frame(t(c("Pa\u00eds", ub_median_country)))
+setnames(ub_median_income_country, colnames(ub_median_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+ub_median_income_country[,-c(1)] <- lapply(ub_median_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
+
+######################
+# join mean_bounds #
+######################
+
+lb_mean_income_country <- as.data.frame(t(c("Pa\u00eds", lb_mean_country)))
+setnames(lb_mean_income_country, colnames(lb_mean_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+lb_mean_income_country[,-c(1)] <- lapply(lb_mean_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
+
+ub_mean_income_country <- as.data.frame(t(c("Pa\u00eds", ub_mean_country)))
+setnames(ub_mean_income_country, colnames(ub_mean_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+ub_mean_income_country[,-c(1)] <- lapply(ub_mean_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
+
+######################
+# join gini_bounds #
+######################
+
+lb_gini_income_country <- as.data.frame(t(c("Pa\u00eds", lb_gini_country)))
+setnames(lb_gini_income_country, colnames(lb_gini_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+lb_gini_income_country[,-c(1)] <- lapply(lb_gini_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
+
+ub_gini_income_country <- as.data.frame(t(c("Pa\u00eds", ub_gini_country)))
+setnames(ub_gini_income_country, colnames(ub_gini_income_country), c("geography_name", c(seq(1990,2000,2), seq(2003,2006,3), seq(2009,2015,2))))
+ub_gini_income_country[,-c(1)] <- lapply(ub_gini_income_country[,-c(1)], function (x) as.numeric(as.character(x)))
 
 ###############
 # tidy median #
 ###############
 
-tidy_median_income_pais <- median_income_pais %>% gather(year, median, `1990`:`2015`)
+tidy_median_income_country <- median_income_country %>% gather(year, median_income, `1990`:`2015`)
 
 #############
 # tidy mean #
 #############
 
-tidy_mean_income_pais <- mean_income_pais %>% gather(year, mean, `1990`:`2015`)
+tidy_mean_income_country <- mean_income_country %>% gather(year, mean_income, `1990`:`2015`)
 
 #############
 # tidy gini #
 #############
 
-tidy_gini_income_pais <- gini_income_pais %>% gather(year, gini, `1990`:`2015`)
+tidy_gini_income_country <- gini_income_country %>% gather(year, gini_income, `1990`:`2015`)
+
+######################
+# tidy median_bounds #
+######################
+
+tidy_lb_median_income_country <- lb_median_income_country %>% gather(year, lb_median_income, `1990`:`2015`)
+tidy_ub_median_income_country <- ub_median_income_country %>% gather(year, ub_median_income, `1990`:`2015`)
+
+####################
+# tidy mean_bounds #
+####################
+
+tidy_lb_mean_income_country <- lb_mean_income_country %>% gather(year, lb_mean_income, `1990`:`2015`)
+tidy_ub_mean_income_country <- ub_mean_income_country %>% gather(year, ub_mean_income, `1990`:`2015`)
+
+####################
+# tidy gini_bounds #
+####################
+
+tidy_lb_gini_income_country <- lb_gini_income_country %>% gather(year, lb_gini_income, `1990`:`2015`)
+tidy_ub_gini_income_country <- ub_gini_income_country %>% gather(year, ub_gini_income, `1990`:`2015`)
 
 ############
 # join all #
 ############
 
-tidy_all_pais <- join(tidy_mean_income_pais, tidy_median_income_pais, by = c("region","year"))
-tidy_all_pais <- join(tidy_all_pais, tidy_gini_income_pais, by = c("region","year"))
+tidy_all_country <- join(tidy_mean_income_country, tidy_median_income_country, by = c("geography_name","year"))
+tidy_all_country <- join(tidy_all_country, tidy_gini_income_country, by = c("geography_name","year"))
+tidy_all_country <- join(tidy_all_country, tidy_lb_median_income_country, by = c("geography_name","year"))
+tidy_all_country <- join(tidy_all_country, tidy_ub_median_income_country, by = c("geography_name","year"))
+tidy_all_country <- join(tidy_all_country, tidy_lb_mean_income_country, by = c("geography_name","year"))
+tidy_all_country <- join(tidy_all_country, tidy_ub_mean_income_country, by = c("geography_name","year"))
+tidy_all_country <- join(tidy_all_country, tidy_lb_gini_income_country, by = c("geography_name","year"))
+tidy_all_country <- join(tidy_all_country, tidy_ub_gini_income_country, by = c("geography_name","year"))
 
-setnames(tidy_all_pais, c("region","mean","median","gini"), c("geography_name","mean_income","median_income","gini_income"))
-tidy_all_pais$geography_level <- "pais"
-tidy_all_pais$geography_id <- "pais"
-tidy_all_pais <- move_col(tidy_all_pais, c("geography_level"=1, "geography_name"=2, "geography_id"=3, "year"=4))
+tidy_all_country$geography_level <- "pais"
+tidy_all_country$geography_id <- "pais"
+tidy_all_country <- move_col(tidy_all_country, c("geography_level"=1, "geography_name"=2, "geography_id"=3, "year"=4))
 
-tidy_all_pais <- tidy_all_pais[,c("geography_level","geography_name","geography_id","year","mean_income","median_income","gini_income")]
-
-tidy_all_pais$geography_level <- as.character(tidy_all_pais$geography_level)
-tidy_all_pais$geography_name <- as.character(tidy_all_pais$geography_name)
-tidy_all_pais$geography_id <- as.character(tidy_all_pais$geography_id)
+tidy_all_country$geography_level <- as.character(tidy_all_country$geography_level)
+tidy_all_country$geography_name <- as.character(tidy_all_country$geography_name)
+tidy_all_country$geography_id <- as.character(tidy_all_country$geography_id)
 
 ########
 # save #
 ########
 
-write.csv(median_income_pais, file = "median_income_pais.csv")
-write.csv(mean_income_pais, file = "mean_income_pais.csv")
-write.csv(gini_income_pais, file = "gini_income_pais.csv")
-write.csv(tidy_all_pais, file = "tidy_all_pais.csv")
+write.csv(median_income_country, file = "median_income_country.csv")
+write.csv(mean_income_country, file = "mean_income_country.csv")
+write.csv(gini_income_country, file = "gini_income_country.csv")
+write.csv(tidy_all_country, file = "tidy_all_country.csv")
+
+##################
+# free up memory #
+##################
+
+rm(median_country, mean_country, gini_country,
+   lb_median_country, ub_median_country,
+   lb_mean_country, ub_mean_country,
+   lb_gini_country, ub_gini_country)
+
+rm(tidy_median_income_country, tidy_mean_income_country, tidy_gini_income_country,
+   tidy_lb_median_income_country, tidy_ub_median_income_country,
+   tidy_lb_mean_income_country, tidy_ub_mean_income_country,
+   tidy_lb_gini_income_country, tidy_ub_gini_income_country)
+
+rm(median_income_country, mean_income_country, gini_income_country, 
+   lb_median_income_country, ub_median_income_country,
+   lb_mean_income_country, ub_mean_income_country,
+   lb_gini_income_country, ub_gini_income_country) 
