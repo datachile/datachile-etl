@@ -36,6 +36,6 @@ The relevant file is **tidy_all.csv** any other file is an intermediate product.
 | 6     | gini_income      | num    | normed [0-1] inequality parameter                             |
 | 7     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
 | 8     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
-| 6     | ci_gini_income   | num    | confidence interval (via bootstrapping) for gini_income       |
+| 9     | ci_gini_income   | num    | confidence interval (via bootstrapping) for gini_income       |
 
 Note: `geography_id` contains values such as "p11" (means provincia 1 region 1), "p21" (means provincia 1 region 2), "pais" (country/national), etc. that are **not** a part of the original Data Chile codes. I've added them in that way to be able to include information about the country and provincias without disturbing other users. Provincias are important as "1 provincia = 1 congressman" and "3 provincias or more = 1 senator". The importance of provincias is not only political but also economical as a provincia is a geographical unit used in government's decision making,
