@@ -1,7 +1,7 @@
 #uncomment lines 2-3 when running this file alone
-#source("normalization.R")
-#source("process_household_income.R")
-source("household_statistics_provincia.R")
+#source("functions/normalization.R")
+#source("process_household_income/process_household_income.R")
+source("household_statistics_provincia/household_statistics_provincia.R")
 
 ###############
 # join median #
@@ -258,14 +258,23 @@ tidy_all_provincia$geography_level <- as.character(tidy_all_provincia$geography_
 tidy_all_provincia$geography_name <- as.character(tidy_all_provincia$geography_name)
 tidy_all_provincia$geography_id <- as.character(tidy_all_provincia$geography_id)
 
+tidy_all_provincia$ci_mean_income <- paste0("[",tidy_all_provincia$lb_mean_income,", ",tidy_all_provincia$ub_mean_income,"]")
+tidy_all_provincia$ci_median_income <- paste0("[",tidy_all_provincia$lb_median_income,", ",tidy_all_provincia$ub_median_income,"]")
+tidy_all_provincia$ci_gini_income <- paste0("[",tidy_all_provincia$lb_gini_income,", ",tidy_all_provincia$ub_gini_income,"]")
+
+tidy_all_provincia <- tidy_all_provincia[, !(colnames(tidy_all_provincia) %in% c("lb_mean_income","ub_mean_income","lb_median_income","ub_median_income",
+                                                                                 "lb_gini_income","ub_gini_income"))]
+
+tidy_all_provincia <- tidy_all_provincia[complete.cases(tidy_all_provincia),]
+
 ########
 # save #
 ########
 
-write.csv(median_income_provincia, file = "median_income_provincia.csv")
-write.csv(mean_income_provincia, file = "mean_income_provincia.csv")
-write.csv(gini_income_provincia, file = "gini_income_provincia.csv")
-write.csv(tidy_all_provincia, file = "tidy_all_provincia.csv")
+write.csv(median_income_provincia, file = "csv_intermediate_files/median_income_provincia.csv")
+write.csv(mean_income_provincia, file = "csv_intermediate_files/mean_income_provincia.csv")
+write.csv(gini_income_provincia, file = "csv_intermediate_files/gini_income_provincia.csv")
+write.csv(tidy_all_provincia, file = "csv_final_files/tidy_all_provincia.csv")
 
 ##################
 # free up memory #

@@ -1,7 +1,7 @@
 #uncomment lines 2-3 when running this file alone
-#source("normalization.R")
-#source("process_household_income.R")
-source("household_statistics_pais.R")
+#source("functions/normalization.R")
+#source("process_household_income/process_household_income.R")
+source("household_statistics_country/household_statistics_country.R")
 
 ###############
 # join median #
@@ -123,14 +123,23 @@ tidy_all_country$geography_level <- as.character(tidy_all_country$geography_leve
 tidy_all_country$geography_name <- as.character(tidy_all_country$geography_name)
 tidy_all_country$geography_id <- as.character(tidy_all_country$geography_id)
 
+tidy_all_country$ci_mean_income <- paste0("[",tidy_all_country$lb_mean_income,", ",tidy_all_country$ub_mean_income,"]")
+tidy_all_country$ci_median_income <- paste0("[",tidy_all_country$lb_median_income,", ",tidy_all_country$ub_median_income,"]")
+tidy_all_country$ci_gini_income <- paste0("[",tidy_all_country$lb_gini_income,", ",tidy_all_country$ub_gini_income,"]")
+
+tidy_all_country <- tidy_all_country[, !(colnames(tidy_all_country) %in% c("lb_mean_income","ub_mean_income","lb_median_income","ub_median_income",
+                                                                           "lb_gini_income","ub_gini_income"))]
+
+tidy_all_country <- tidy_all_country[complete.cases(tidy_all_country),]
+
 ########
 # save #
 ########
 
-write.csv(median_income_country, file = "median_income_country.csv")
-write.csv(mean_income_country, file = "mean_income_country.csv")
-write.csv(gini_income_country, file = "gini_income_country.csv")
-write.csv(tidy_all_country, file = "tidy_all_country.csv")
+write.csv(median_income_country, file = "csv_intermediate_files/median_income_country.csv")
+write.csv(mean_income_country, file = "csv_intermediate_files/mean_income_country.csv")
+write.csv(gini_income_country, file = "csv_intermediate_files/gini_income_country.csv")
+write.csv(tidy_all_country, file = "csv_final_files/tidy_all_country.csv")
 
 ##################
 # free up memory #

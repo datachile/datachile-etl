@@ -2,7 +2,7 @@
 # names for normalization #
 ###########################
 
-region_codes_datachile <- read.csv("dim_comunas.csv")
+region_codes_datachile <- read.csv("geographic_ids/dim_comunas.csv")
 region_codes_datachile <- region_codes_datachile[order(region_codes_datachile$region_id),]
 
 # Trim leading/ending whitespace
@@ -57,3 +57,6 @@ provincia_codes_pacha <- c("p151:Arica","p152:Parinacota","p11:Iquique","p12:Tam
 provincia_codes_pacha <- as.data.frame(provincia_codes_pacha)
 provincia_codes_pacha <- data.frame(do.call('rbind', strsplit(as.character(provincia_codes_pacha$provincia_codes_pacha), ':', fixed=TRUE)))
 setnames(provincia_codes_pacha, colnames(provincia_codes_pacha), c("provincia_pacha_id","provincia_name"))
+
+write.csv(region_codes_datachile, file = "geographic_ids/dim_comunas_fixed.csv")
+write.csv(provincia_codes_pacha, file = "geographic_ids/provincia_codes_pacha.csv")
