@@ -25,14 +25,17 @@ The relevant file is **tidy_all.csv** any other file is an intermediate product.
 
 ### `tidy_all.csv`'s structure
 
-| Index | Column ID       | Type   | Description                                                   |
-| ----- | --------------- | -----  | ------------------------------------------------------------- |
-| 0     | geography_level | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
-| 1     | geography_name  | Factor | Factor w/ 356 levels "Arica", "Antofagasta", ...              |
-| 2     | geography_id    | Factor | Factor w/ 375 levels "1", "2", ... , "p11", "p21", "pais"     |
-| 3     | year            | num    | from 1990 to 2015                                             |
-| 4     | mean_income     | num    | mean by geography_id (contains NAs)                           |
-| 5     | median_income   | num    | median by geography_id (contains NAs)                         |
-| 6     | median_income   | num    | normed [0-1] inequality parameter (contains NAs)              |
+| Index | Column ID        | Type   | Description                                                   |
+| ----- | ---------------- | ------ | ------------------------------------------------------------- |
+| 0     | geography_level  | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
+| 1     | geography_name   | Factor | Factor w/ 356 levels "Arica", "Antofagasta", ...              |
+| 2     | geography_id     | Factor | Factor w/ 375 levels "1", "2", ... , "p11", "p21", "pais"     |
+| 3     | year             | num    | from 1990 to 2015                                             |
+| 4     | mean_income      | num    | mean by geography_id                                          |
+| 5     | median_income    | num    | median by geography_id                                        |
+| 6     | gini_income      | num    | normed [0-1] inequality parameter                             |
+| 7     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
+| 8     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
+| 6     | ci_gini_income   | num    | confidence interval (via bootstrapping) for gini_income       |
 
 Note: `geography_id` contains values such as "p11" (means provincia 1 region 1), "p21" (means provincia 1 region 2), "pais" (country/national), etc. that are **not** a part of the original Data Chile codes. I've added them in that way to be able to include information about the country and provincias without disturbing other users. Provincias are important as "1 provincia = 1 congressman" and "3 provincias or more = 1 senator". The importance of provincias is not only political but also economical as a provincia is a geographical unit used in government's decision making,
