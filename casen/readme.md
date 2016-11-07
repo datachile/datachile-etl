@@ -2,7 +2,12 @@
 
 1. I have divided the code in several files and folders to keep this simple :)
 
-2. There is a master file named `do_all.R` inside the folders `household_income` and `wage_by_gender`. Those files will download and/or load datasets, process information and create a csv file named `household_income/household_income_tidy_all.csv` or `wage_by_gender/wage_by_gender_tidy_all.csv` that contains all the information at all levels with a column that shows if the row i^th refers to a region, provincia or comuna. 
+2. The relevant folder are:
+
+* household_income
+* wage_by_gender
+
+2. There is a master file named `do_all.R` inside each of the relevant folders named before. Those files will download and/or load datasets, process information and create a csv file named `relevant_topic/relevant_topic_tidy_all.csv` that contains all the information at all levels with a column that shows if the row i^th refers to a region, provincia or comuna. 
 
 3. Inside each file there are instructions in case you want to calculate, for example, the median by region ignoring any other level.
 

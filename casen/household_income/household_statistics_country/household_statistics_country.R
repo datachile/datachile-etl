@@ -52,9 +52,9 @@ gini_country <- c(Gini(household_income_1990$ingreso_pc),
                       Gini(household_income_2015$ingreso_pc))
 gini_country <- round(gini_country, 3)
 
-#########################################
-# Interval of confidence (lower bounds) #
-#########################################
+###########################
+# Intervals of confidence #
+###########################
 
 ##########
 # Median #

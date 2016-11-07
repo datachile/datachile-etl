@@ -76,7 +76,7 @@ rownames(gini_income_region) <- c(seq(1:nrow(gini_income_region)))
 # join lb_median_income #
 #########################
 
-lb_median_income_region <- as.data.frame(unique(c(lb_median_1990_region$region, lb_median_1990_region$region)))
+lb_median_income_region <- as.data.frame(unique(c(lb_median_1990_region$region, lb_median_2015_region$region)))
 setnames(lb_median_income_region, colnames(lb_median_income_region), "region")
 
 lb_median_income_region <- join(lb_median_income_region, lb_median_1990_region, type = "left")
@@ -99,7 +99,7 @@ rownames(lb_median_income_region) <- c(seq(1:nrow(lb_median_income_region)))
 # join ub_median_income #
 #########################
 
-ub_median_income_region <- as.data.frame(unique(c(ub_median_1990_region$region, ub_median_1990_region$region)))
+ub_median_income_region <- as.data.frame(unique(c(ub_median_1990_region$region, ub_median_2015_region$region)))
 setnames(ub_median_income_region, colnames(ub_median_income_region), "region")
 
 ub_median_income_region <- join(ub_median_income_region, ub_median_1990_region, type = "left")
@@ -122,7 +122,7 @@ rownames(ub_median_income_region) <- c(seq(1:nrow(ub_median_income_region)))
 # join lb_mean_income #
 #########################
 
-lb_mean_income_region <- as.data.frame(unique(c(lb_mean_1990_region$region, lb_mean_1990_region$region)))
+lb_mean_income_region <- as.data.frame(unique(c(lb_mean_1990_region$region, lb_mean_2015_region$region)))
 setnames(lb_mean_income_region, colnames(lb_mean_income_region), "region")
 
 lb_mean_income_region <- join(lb_mean_income_region, lb_mean_1990_region, type = "left")
@@ -145,7 +145,7 @@ rownames(lb_mean_income_region) <- c(seq(1:nrow(lb_mean_income_region)))
 # join ub_mean_income #
 #########################
 
-ub_mean_income_region <- as.data.frame(unique(c(ub_mean_1990_region$region, ub_mean_1990_region$region)))
+ub_mean_income_region <- as.data.frame(unique(c(ub_mean_1990_region$region, ub_mean_2015_region$region)))
 setnames(ub_mean_income_region, colnames(ub_mean_income_region), "region")
 
 ub_mean_income_region <- join(ub_mean_income_region, ub_mean_1990_region, type = "left")
@@ -168,7 +168,7 @@ rownames(ub_mean_income_region) <- c(seq(1:nrow(ub_mean_income_region)))
 # join lb_gini_income #
 #########################
 
-lb_gini_income_region <- as.data.frame(unique(c(lb_gini_1990_region$region, lb_gini_1990_region$region)))
+lb_gini_income_region <- as.data.frame(unique(c(lb_gini_1990_region$region, lb_gini_2015_region$region)))
 setnames(lb_gini_income_region, colnames(lb_gini_income_region), "region")
 
 lb_gini_income_region <- join(lb_gini_income_region, lb_gini_1990_region, type = "left")
@@ -191,7 +191,7 @@ rownames(lb_gini_income_region) <- c(seq(1:nrow(lb_gini_income_region)))
 # join ub_gini_income #
 #########################
 
-ub_gini_income_region <- as.data.frame(unique(c(ub_gini_1990_region$region, ub_gini_1990_region$region)))
+ub_gini_income_region <- as.data.frame(unique(c(ub_gini_1990_region$region, ub_gini_2015_region$region)))
 setnames(ub_gini_income_region, colnames(ub_gini_income_region), "region")
 
 ub_gini_income_region <- join(ub_gini_income_region, ub_gini_1990_region, type = "left")
@@ -248,7 +248,7 @@ tidy_all_region <- join(tidy_all_region, tidy_lb_gini_income_region, by = c("reg
 tidy_all_region <- join(tidy_all_region, tidy_ub_gini_income_region, by = c("region","year"))
 
 setnames(tidy_all_region, "region", "region_name")
-tidy_all_region <- join(tidy_all_region, region_codes_datachile[,c("region_name","region_id")], by = "region_name")
+tidy_all_region <- join(tidy_all_region, unique(region_codes_datachile[,c("region_name","region_id")]), by = "region_name")
 tidy_all_region$geography_level <- "region"
 tidy_all_region <- move_col(tidy_all_region, c("geography_level"=1, "region_name"=2, "region_id"=3, "year"=4))
 setnames(tidy_all_region, c("region_name","region_id"), c("geography_name","geography_id"))

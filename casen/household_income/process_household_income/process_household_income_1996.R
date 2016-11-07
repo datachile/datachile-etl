@@ -50,7 +50,7 @@ household_income_1996 <- as.data.frame(lapply(household_income_1996, function(x)
 household_income_1996 <- as.data.frame(lapply(household_income_1996, function(x) gsub("Puerto Ais\u00e9n", "Ays\u00e9n", x)))
 household_income_1996 <- as.data.frame(lapply(household_income_1996, function(x) gsub("Los Alamos", "Los \u00c1lamos", x)))
 
-# Add provincia
+# Add provincia and region
 household_income_1996 <- join(household_income_1996, regiones_casen_2015, by = "comuna")
 household_income_1996 <- household_income_1996[,c("comuna","provincia","region","ingreso_pc")]
 

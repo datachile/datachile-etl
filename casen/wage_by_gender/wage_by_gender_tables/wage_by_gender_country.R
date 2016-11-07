@@ -1,7 +1,7 @@
 #uncomment lines 2-3 when running this file alone
-#source("household_income/functions/normalization.R")
-#source("household_income/process_household_income/process_household_income.R")
-source("household_income/household_statistics_country/household_statistics_country.R")
+#source("wage_by_gender/functions/normalization.R")
+#source("wage_by_gender/process_wage_by_gender/process_wage_by_gender.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country.R")
 
 ###############
 # join median #
@@ -136,10 +136,10 @@ tidy_all_country <- tidy_all_country[complete.cases(tidy_all_country),]
 # save #
 ########
 
-write.csv(median_income_country, file = "household_income/csv_intermediate_files/median_income_country.csv")
-write.csv(mean_income_country, file = "household_income/csv_intermediate_files/mean_income_country.csv")
-write.csv(gini_income_country, file = "household_income/csv_intermediate_files/gini_income_country.csv")
-write.csv(tidy_all_country, file = "household_income/csv_final_files/tidy_all_country.csv")
+write.csv(median_income_country, file = "wage_by_gender/csv_intermediate_files/median_income_country.csv")
+write.csv(mean_income_country, file = "wage_by_gender/csv_intermediate_files/mean_income_country.csv")
+write.csv(gini_income_country, file = "wage_by_gender/csv_intermediate_files/gini_income_country.csv")
+write.csv(tidy_all_country, file = "wage_by_gender/csv_final_files/tidy_all_country.csv")
 
 ##################
 # free up memory #
