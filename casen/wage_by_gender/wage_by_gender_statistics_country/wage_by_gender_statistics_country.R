@@ -1,99 +1,14 @@
-##########
-# Median #
-##########
+# you can comment some years to exclude them from the tables
 
-median_country <- c(median(wage_by_gender_1990$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_1992$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_1994$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_1996$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_1998$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_2000$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_2003$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_2006$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_2009$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_2011$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_2013$ingreso_ocup_principal, na.rm = TRUE),
-                        median(wage_by_gender_2013$ingreso_ocup_principal, na.rm = TRUE))
-median_country <- round(median_country, 0)
-
-###########
-# Average #
-###########
-
-mean_country <- c(mean(wage_by_gender_1990$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_1992$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_1994$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_1996$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_1998$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_2000$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_2003$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_2006$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_2009$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_2011$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_2013$ingreso_ocup_principal, na.rm = TRUE),
-                      mean(wage_by_gender_2015$ingreso_ocup_principal, na.rm = TRUE))
-mean_country <- round(mean_country, 0)
-
-###########################
-# Intervals of confidence #
-###########################
-
-##########
-# Median #
-##########
-
-lb_median_country <- c(lb_median(wage_by_gender_1990$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_1992$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_1994$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_1996$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_1998$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_2000$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_2003$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_2006$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_2009$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_2011$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_2013$ingreso_ocup_principal),
-                       lb_median(wage_by_gender_2015$ingreso_ocup_principal))
-
-ub_median_country <- c(ub_median(wage_by_gender_1990$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_1992$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_1994$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_1996$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_1998$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_2000$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_2003$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_2006$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_2009$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_2011$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_2013$ingreso_ocup_principal),
-                       ub_median(wage_by_gender_2015$ingreso_ocup_principal))
-
-########
-# Mean #
-########
-
-lb_mean_country <- c(lb_mean(wage_by_gender_1990$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_1992$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_1994$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_1996$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_1998$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_2000$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_2003$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_2006$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_2009$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_2011$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_2013$ingreso_ocup_principal),
-                     lb_mean(wage_by_gender_2015$ingreso_ocup_principal))
-
-ub_mean_country <- c(ub_mean(wage_by_gender_1990$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_1992$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_1994$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_1996$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_1998$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_2000$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_2003$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_2006$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_2009$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_2011$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_2013$ingreso_ocup_principal),
-                     ub_mean(wage_by_gender_2015$ingreso_ocup_principal))
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_2015.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_2013.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_2011.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_2009.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_2006.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_2003.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_2000.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_1998.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_1996.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_1994.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_1992.R")
+source("wage_by_gender/wage_by_gender_statistics_country/wage_by_gender_statistics_country_1990.R")
