@@ -45,8 +45,8 @@ wage_by_gender_2013 <- as.data.frame(lapply(wage_by_gender_2013, function(x) gsu
 
 # Add provincia and region
 wage_by_gender_2013 <- join(wage_by_gender_2013, regiones_casen_2015, by = "comuna")
-wage_by_gender_2013 <- wage_by_gender_2013[,c("comuna","provincia","region","ingreso_ocup_principal")]
+wage_by_gender_2013 <- wage_by_gender_2013[,c("comuna","provincia","region","ingreso_ocup_principal", "oficio_id", "sexo")]
 
-# Keep only the households that reported their income
+# Keep only the households that reported their wage
 wage_by_gender_2013$ingreso_ocup_principal <- as.numeric(as.character(wage_by_gender_2013$ingreso_ocup_principal))
 wage_by_gender_2013 <- subset(wage_by_gender_2013, wage_by_gender_2013$ingreso_ocup_principal > 0)

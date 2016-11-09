@@ -20,8 +20,6 @@ source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_2003.R")
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_2006.R")
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_2009.R")
 
-# hasta aca ok
-
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_2011.R")
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_2013.R")
 
