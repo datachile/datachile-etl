@@ -9,7 +9,6 @@ source("wage_by_gender/functions/move_col.R")
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_2015.R")
 
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_1990.R")
-
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_1992.R")
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_1994.R")
 source("wage_by_gender/process_wage_by_gender/process_wage_by_gender_1996.R")
