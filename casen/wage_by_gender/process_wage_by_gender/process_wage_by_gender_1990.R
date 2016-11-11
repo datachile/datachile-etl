@@ -3,8 +3,8 @@
 ########
 
 # Paste the relevant columns here (region, provincia, comuna, wage, occupation and  sex)
-wage_by_gender_1990 <- as.data.frame(cbind(as.character(casen_1990$comu), as.character(casen_1990$yopraj), as.character(casen_1990$oficio), as.character(casen_1990$sexo)))
-setnames(wage_by_gender_1990, colnames(wage_by_gender_1990), c("comuna","ingreso_ocup_principal", "oficio_id", "sexo"))
+wage_by_gender_1990 <- as.data.frame(cbind(as.character(casen_1990$comu), as.character(casen_1990$yopraj), as.character(casen_1990$sexo)))
+setnames(wage_by_gender_1990, colnames(wage_by_gender_1990), c("comuna","ingreso_ocup_principal", "sexo"))
 
 # Trim leading/ending whitespace + Fix uppercase
 #wage_by_gender_1990 <- as.data.frame(lapply(wage_by_gender_1990, function(x) iconv(x)))

@@ -1,0 +1,767 @@
+"","sexo","oficio_id","provincia","1990","1992","1994","1996","1998","2000","2003","2006","2009","2011","2013","2015"
+"1","Hombre","Agricultores y  y Trabajadores Calificados","Antofagasta",78515,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Hombre","Comerciantes y Vendedores","Antofagasta",81019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Hombre","Empleados de Oficina","Antofagasta",49340,NA,NA,202119,229352,NA,248214,273354,422260,481105,461110,745685
+"4","Hombre","Ff.aa.","Antofagasta",216536,NA,152164,NA,NA,329333,NA,NA,NA,NA,NA,NA
+"5","Hombre","Miembros del Poder Ejecutivo","Antofagasta",280773,NA,NA,NA,NA,NA,NA,NA,1203432,NA,NA,NA
+"6","Hombre","Oficiales, Operarios y Artesanos","Antofagasta",60478,NA,132420,NA,NA,213369,NA,NA,NA,NA,NA,NA
+"7","Hombre","Operadores y Montadores","Antofagasta",97018,125827,155682,NA,NA,259041,NA,NA,NA,NA,NA,NA
+"8","Hombre","Profesionales y Científicos","Antofagasta",146971,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","Hombre","Técnicos y Profesionales Nivel Medio","Antofagasta",123295,181703,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","Hombre","Agricultores y  y Trabajadores Calificados","Arauco",39022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","Hombre","Comerciantes y Vendedores","Arauco",52824,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","Hombre","Empleados de Oficina","Arauco",68194,NA,NA,208939,177928,NA,183061,199601,276326,503240,354368,399364
+"13","Hombre","Ff.aa.","Arauco",80475,NA,NA,NA,NA,254539,NA,NA,NA,NA,NA,NA
+"14","Hombre","Miembros del Poder Ejecutivo","Arauco",297000,NA,NA,NA,NA,NA,NA,NA,1291333,NA,NA,NA
+"15","Hombre","Oficiales, Operarios y Artesanos","Arauco",48457,NA,91297,NA,NA,150636,NA,NA,NA,NA,NA,NA
+"16","Hombre","Operadores y Montadores","Arauco",72480,86902,96796,NA,NA,180113,NA,NA,NA,NA,NA,NA
+"17","Hombre","Profesionales y Científicos","Arauco",67064,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Hombre","Técnicos y Profesionales Nivel Medio","Arauco",110468,197652,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","Hombre","Agricultores y  y Trabajadores Calificados","Arica",47983,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","Hombre","Comerciantes y Vendedores","Arica",86533,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Hombre","Empleados de Oficina","Arica",68382,NA,NA,183346,223210,NA,210467,215961,310103,428651,367416,483000
+"22","Hombre","Ff.aa.","Arica",109029,NA,223152,NA,NA,341950,NA,NA,NA,NA,NA,NA
+"23","Hombre","Miembros del Poder Ejecutivo","Arica",427349,NA,NA,NA,NA,NA,NA,NA,834167,NA,NA,NA
+"24","Hombre","Oficiales, Operarios y Artesanos","Arica",59994,NA,139940,NA,NA,123323,NA,NA,NA,NA,NA,NA
+"25","Hombre","Operadores y Montadores","Arica",99124,101811,240072,NA,NA,166076,NA,NA,NA,NA,NA,NA
+"26","Hombre","Profesionales y Científicos","Arica",112231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Hombre","Técnicos y Profesionales Nivel Medio","Arica",74162,273670,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Hombre","Agricultores y  y Trabajadores Calificados","Aysén",50141,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Hombre","Comerciantes y Vendedores","Aysén",67422,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Hombre","Empleados de Oficina","Aysén",68187,NA,NA,231333,248992,NA,330250,356656,459845,436046,341585,465462
+"31","Hombre","Ff.aa.","Aysén",163770,NA,NA,NA,NA,336000,NA,NA,NA,NA,NA,NA
+"32","Hombre","Miembros del Poder Ejecutivo","Aysén",225878,NA,NA,NA,NA,NA,NA,NA,406276,NA,NA,NA
+"33","Hombre","Oficiales, Operarios y Artesanos","Aysén",60903,NA,93028,NA,NA,178710,NA,NA,NA,NA,NA,NA
+"34","Hombre","Operadores y Montadores","Aysén",163080,106291,118904,NA,NA,213424,NA,NA,NA,NA,NA,NA
+"35","Hombre","Profesionales y Científicos","Aysén",140834,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Hombre","Técnicos y Profesionales Nivel Medio","Aysén",137371,135913,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Hombre","Trabajadores No Calificados","Aysén",33824,62016,NA,101698,97475,NA,134414,207133,241647,331613,261493,292720
+"38","Hombre","Agricultores y  y Trabajadores Calificados","Bíobío",41213,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Hombre","Comerciantes y Vendedores","Bíobío",127341,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","Hombre","Empleados de Oficina","Bíobío",33898,NA,NA,146766,257534,NA,212966,250166,344693,313455,349796,382602
+"41","Hombre","Ff.aa.","Bíobío",163780,NA,119595,NA,NA,212407,NA,NA,NA,NA,NA,NA
+"42","Hombre","Miembros del Poder Ejecutivo","Bíobío",476794,NA,NA,NA,NA,NA,NA,NA,767778,NA,NA,NA
+"43","Hombre","Oficiales, Operarios y Artesanos","Bíobío",47078,NA,92864,NA,NA,156094,NA,NA,NA,NA,NA,NA
+"44","Hombre","Operadores y Montadores","Bíobío",90600,92056,97416,NA,NA,162491,NA,NA,NA,NA,NA,NA
+"45","Hombre","Profesionales y Científicos","Bíobío",235813,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","Hombre","Técnicos y Profesionales Nivel Medio","Bíobío",54729,121500,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Hombre","Trabajadores No Calificados","Bíobío",48049,45812,NA,65575,85142,NA,102204,123400,175638,202181,211687,250371
+"48","Hombre","Agricultores y  y Trabajadores Calificados","Cachapoal",48045,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","Hombre","Comerciantes y Vendedores","Cachapoal",73093,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","Hombre","Empleados de Oficina","Cachapoal",45215,NA,NA,214486,219060,NA,234976,235376,360775,335850,412731,531229
+"51","Hombre","Ff.aa.","Cachapoal",171218,NA,149940,NA,NA,152000,NA,NA,NA,NA,NA,NA
+"52","Hombre","Miembros del Poder Ejecutivo","Cachapoal",450500,NA,NA,NA,NA,NA,NA,NA,656573,NA,NA,NA
+"53","Hombre","Oficiales, Operarios y Artesanos","Cachapoal",78239,NA,140028,NA,NA,187907,NA,NA,NA,NA,NA,NA
+"54","Hombre","Operadores y Montadores","Cachapoal",87379,127115,124506,NA,NA,195210,NA,NA,NA,NA,NA,NA
+"55","Hombre","Profesionales y Científicos","Cachapoal",186446,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Hombre","Técnicos y Profesionales Nivel Medio","Cachapoal",120222,198248,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Hombre","Trabajadores No Calificados","Cachapoal",25542,55401,NA,82959,93936,NA,121062,145009,201915,251098,235141,270359
+"58","Hombre","Agricultores y  y Trabajadores Calificados","Cardenal Caro",32593,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","Hombre","Comerciantes y Vendedores","Cardenal Caro",33299,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","Hombre","Empleados de Oficina","Cardenal Caro",75104,NA,NA,112500,184234,NA,110000,242063,263133,366217,452857,455600
+"61","Hombre","Ff.aa.","Cardenal Caro",69460,NA,NA,NA,NA,342000,NA,NA,NA,NA,NA,NA
+"62","Hombre","Oficiales, Operarios y Artesanos","Cardenal Caro",19800,NA,41877,NA,NA,155221,NA,NA,NA,NA,NA,NA
+"63","Hombre","Profesionales y Científicos","Cardenal Caro",71854,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Hombre","Técnicos y Profesionales Nivel Medio","Cardenal Caro",77756,103366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Hombre","Agricultores y  y Trabajadores Calificados","Cauquenes",30831,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","Hombre","Comerciantes y Vendedores","Cauquenes",60351,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","Hombre","Empleados de Oficina","Cauquenes",18788,NA,NA,161000,200800,NA,159444,247450,332163,264019,225000,380613
+"68","Hombre","Ff.aa.","Cauquenes",73890,NA,91035,NA,NA,251867,NA,NA,NA,NA,NA,NA
+"69","Hombre","Miembros del Poder Ejecutivo","Cauquenes",2131000,NA,NA,NA,NA,NA,NA,NA,471386,NA,NA,NA
+"70","Hombre","Oficiales, Operarios y Artesanos","Cauquenes",32201,NA,82040,NA,NA,130546,NA,NA,NA,NA,NA,NA
+"71","Hombre","Operadores y Montadores","Cauquenes",36240,52234,188333,NA,NA,143290,NA,NA,NA,NA,NA,NA
+"72","Hombre","Profesionales y Científicos","Cauquenes",59242,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","Hombre","Técnicos y Profesionales Nivel Medio","Cauquenes",41109,59730,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","Hombre","Agricultores y  y Trabajadores Calificados","Cautín",39396,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Hombre","Comerciantes y Vendedores","Cautín",65347,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","Hombre","Empleados de Oficina","Cautín",74393,NA,NA,149658,178801,NA,254628,259856,314138,340339,336182,322304
+"77","Hombre","Ff.aa.","Cautín",96622,NA,323978,NA,NA,341164,NA,NA,NA,NA,NA,NA
+"78","Hombre","Miembros del Poder Ejecutivo","Cautín",474180,NA,NA,NA,NA,NA,NA,NA,749674,NA,NA,NA
+"79","Hombre","Oficiales, Operarios y Artesanos","Cautín",50226,NA,161281,NA,NA,154527,NA,NA,NA,NA,NA,NA
+"80","Hombre","Operadores y Montadores","Cautín",82446,81362,171698,NA,NA,158368,NA,NA,NA,NA,NA,NA
+"81","Hombre","Profesionales y Científicos","Cautín",124500,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Hombre","Técnicos y Profesionales Nivel Medio","Cautín",144990,184594,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","Hombre","Trabajadores No Calificados","Cautín",36240,53430,NA,70523,81851,NA,100065,121995,174642,211567,198514,234727
+"84","Hombre","Agricultores y  y Trabajadores Calificados","Chacabuco",43327,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","Hombre","Comerciantes y Vendedores","Chacabuco",58448,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","Hombre","Empleados de Oficina","Chacabuco",49741,NA,NA,124857,232905,NA,226292,264322,371517,296762,351000,410173
+"87","Hombre","Ff.aa.","Chacabuco",89458,NA,133875,NA,NA,345284,NA,NA,NA,NA,NA,NA
+"88","Hombre","Miembros del Poder Ejecutivo","Chacabuco",321740,NA,NA,NA,NA,NA,NA,NA,804211,NA,NA,NA
+"89","Hombre","Oficiales, Operarios y Artesanos","Chacabuco",59863,NA,136076,NA,NA,189409,NA,NA,NA,NA,NA,NA
+"90","Hombre","Operadores y Montadores","Chacabuco",65232,110335,133059,NA,NA,177155,NA,NA,NA,NA,NA,NA
+"91","Hombre","Profesionales y Científicos","Chacabuco",90257,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","Hombre","Técnicos y Profesionales Nivel Medio","Chacabuco",85547,114722,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","Hombre","Agricultores y  y Trabajadores Calificados","Chañaral",125445,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","Hombre","Comerciantes y Vendedores","Chañaral",79868,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","Hombre","Empleados de Oficina","Chañaral",34615,NA,NA,230041,160740,NA,228915,369083,379844,607170,515154,420882
+"96","Hombre","Ff.aa.","Chañaral",333686,NA,133875,NA,NA,294500,NA,NA,NA,NA,NA,NA
+"97","Hombre","Miembros del Poder Ejecutivo","Chañaral",637650,NA,NA,NA,NA,NA,NA,NA,347912,NA,NA,NA
+"98","Hombre","Oficiales, Operarios y Artesanos","Chañaral",66971,NA,157634,NA,NA,190379,NA,NA,NA,NA,NA,NA
+"99","Hombre","Operadores y Montadores","Chañaral",132880,139246,153456,NA,NA,317403,NA,NA,NA,NA,NA,NA
+"100","Hombre","Profesionales y Científicos","Chañaral",237881,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","Hombre","Técnicos y Profesionales Nivel Medio","Chañaral",83185,237549,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","Hombre","Agricultores y  y Trabajadores Calificados","Chiloé",36701,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","Hombre","Comerciantes y Vendedores","Chiloé",76280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","Hombre","Empleados de Oficina","Chiloé",58140,NA,NA,183775,209200,NA,266273,264294,345178,418208,382697,454928
+"105","Hombre","Ff.aa.","Chiloé",144447,NA,175376,NA,NA,5e+05,NA,NA,NA,NA,NA,NA
+"106","Hombre","Miembros del Poder Ejecutivo","Chiloé",396000,NA,NA,NA,NA,NA,NA,NA,554103,NA,NA,NA
+"107","Hombre","Oficiales, Operarios y Artesanos","Chiloé",56928,NA,94826,NA,NA,164338,NA,NA,NA,NA,NA,NA
+"108","Hombre","Operadores y Montadores","Chiloé",84560,125635,137462,NA,NA,187095,NA,NA,NA,NA,NA,NA
+"109","Hombre","Profesionales y Científicos","Chiloé",89183,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","Hombre","Técnicos y Profesionales Nivel Medio","Chiloé",183935,320630,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","Hombre","Agricultores y  y Trabajadores Calificados","Choapa",61334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","Hombre","Comerciantes y Vendedores","Choapa",50904,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","Hombre","Empleados de Oficina","Choapa",36240,NA,NA,198000,186781,NA,219286,278660,361230,382747,448453,336889
+"114","Hombre","Miembros del Poder Ejecutivo","Choapa",118384,NA,NA,NA,NA,NA,NA,NA,757539,NA,NA,NA
+"115","Hombre","Oficiales, Operarios y Artesanos","Choapa",55887,NA,170315,NA,NA,156091,NA,NA,NA,NA,NA,NA
+"116","Hombre","Operadores y Montadores","Choapa",54360,69599,171115,NA,NA,209987,NA,NA,NA,NA,NA,NA
+"117","Hombre","Profesionales y Científicos","Choapa",55746,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Hombre","Técnicos y Profesionales Nivel Medio","Choapa",41528,98308,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","Hombre","Agricultores y  y Trabajadores Calificados","Colchagua",39758,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","Hombre","Comerciantes y Vendedores","Colchagua",48399,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","Hombre","Empleados de Oficina","Colchagua",37680,NA,NA,157385,195529,NA,192538,204495,252851,328818,377152,385052
+"122","Hombre","Ff.aa.","Colchagua",72745,NA,160650,NA,NA,217809,NA,NA,NA,NA,NA,NA
+"123","Hombre","Miembros del Poder Ejecutivo","Colchagua",242235,NA,NA,NA,NA,NA,NA,NA,562009,NA,NA,NA
+"124","Hombre","Oficiales, Operarios y Artesanos","Colchagua",49572,NA,77479,NA,NA,185529,NA,NA,NA,NA,NA,NA
+"125","Hombre","Operadores y Montadores","Colchagua",72681,107085,92022,NA,NA,162787,NA,NA,NA,NA,NA,NA
+"126","Hombre","Profesionales y Científicos","Colchagua",76184,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","Hombre","Técnicos y Profesionales Nivel Medio","Colchagua",58528,121911,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","Hombre","Agricultores y  y Trabajadores Calificados","Concepción",47367,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","Hombre","Comerciantes y Vendedores","Concepción",83878,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","Hombre","Empleados de Oficina","Concepción",82939,NA,NA,173678,242065,NA,230780,224514,344012,495529,336720,457229
+"131","Hombre","Ff.aa.","Concepción",123107,NA,151859,NA,NA,253167,NA,NA,NA,NA,NA,NA
+"132","Hombre","Miembros del Poder Ejecutivo","Concepción",560406,NA,NA,NA,NA,NA,NA,NA,1054746,NA,NA,NA
+"133","Hombre","Oficiales, Operarios y Artesanos","Concepción",69287,NA,109486,NA,NA,164188,NA,NA,NA,NA,NA,NA
+"134","Hombre","Operadores y Montadores","Concepción",99526,84872,106677,NA,NA,172858,NA,NA,NA,NA,NA,NA
+"135","Hombre","Profesionales y Científicos","Concepción",126635,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","Hombre","Técnicos y Profesionales Nivel Medio","Concepción",100821,162806,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","Hombre","Trabajadores No Calificados","Concepción",50333,51328,NA,79763,93629,NA,114892,141540,192557,235577,220492,281945
+"138","Hombre","Agricultores y  y Trabajadores Calificados","Copiapó",48673,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","Hombre","Comerciantes y Vendedores","Copiapó",76121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","Hombre","Empleados de Oficina","Copiapó",44489,NA,NA,219004,219425,NA,246145,235120,280855,453015,461561,519705
+"141","Hombre","Ff.aa.","Copiapó",188551,NA,NA,NA,NA,280000,NA,NA,NA,NA,NA,NA
+"142","Hombre","Miembros del Poder Ejecutivo","Copiapó",1021427,NA,NA,NA,NA,NA,NA,NA,529620,NA,NA,NA
+"143","Hombre","Oficiales, Operarios y Artesanos","Copiapó",70540,NA,117806,NA,NA,193779,NA,NA,NA,NA,NA,NA
+"144","Hombre","Operadores y Montadores","Copiapó",265760,123354,120928,NA,NA,238030,NA,NA,NA,NA,NA,NA
+"145","Hombre","Profesionales y Científicos","Copiapó",110266,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","Hombre","Técnicos y Profesionales Nivel Medio","Copiapó",81102,142470,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","Hombre","Agricultores y  y Trabajadores Calificados","Cordillera",46262,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","Hombre","Comerciantes y Vendedores","Cordillera",87462,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","Hombre","Empleados de Oficina","Cordillera",42307,NA,NA,190150,191140,NA,285571,333887,380570,302874,371713,462649
+"150","Hombre","Ff.aa.","Cordillera",224605,NA,94248,NA,NA,120000,NA,NA,NA,NA,NA,NA
+"151","Hombre","Miembros del Poder Ejecutivo","Cordillera",763455,NA,NA,NA,NA,NA,NA,NA,1634950,NA,NA,NA
+"152","Hombre","Oficiales, Operarios y Artesanos","Cordillera",55850,NA,138846,NA,NA,192750,NA,NA,NA,NA,NA,NA
+"153","Hombre","Operadores y Montadores","Cordillera",51340,125106,190308,NA,NA,203990,NA,NA,NA,NA,NA,NA
+"154","Hombre","Profesionales y Científicos","Cordillera",126266,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","Hombre","Técnicos y Profesionales Nivel Medio","Cordillera",111297,234648,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","Hombre","Trabajadores No Calificados","Cordillera",39600,60931,NA,128774,117290,NA,151964,166716,208247,260159,283653,310996
+"157","Hombre","Agricultores y  y Trabajadores Calificados","Coyhaique",40300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","Hombre","Comerciantes y Vendedores","Coyhaique",66430,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","Hombre","Empleados de Oficina","Coyhaique",44816,NA,NA,211267,191757,NA,249155,348396,571350,424942,379737,839042
+"160","Hombre","Ff.aa.","Coyhaique",146973,NA,302022,NA,NA,395556,NA,NA,NA,NA,NA,NA
+"161","Hombre","Miembros del Poder Ejecutivo","Coyhaique",292668,NA,NA,NA,NA,NA,NA,NA,1164670,NA,NA,NA
+"162","Hombre","Oficiales, Operarios y Artesanos","Coyhaique",54805,NA,135948,NA,NA,153382,NA,NA,NA,NA,NA,NA
+"163","Hombre","Operadores y Montadores","Coyhaique",120438,89185,136083,NA,NA,131735,NA,NA,NA,NA,NA,NA
+"164","Hombre","Profesionales y Científicos","Coyhaique",110712,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","Hombre","Técnicos y Profesionales Nivel Medio","Coyhaique",144629,176247,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","Hombre","Agricultores y  y Trabajadores Calificados","Curicó",32234,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","Hombre","Comerciantes y Vendedores","Curicó",46870,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","Hombre","Empleados de Oficina","Curicó",34864,NA,NA,115652,170085,NA,179434,196555,361385,366637,329788,363753
+"169","Hombre","Ff.aa.","Curicó",93478,NA,173307,NA,NA,196667,NA,NA,NA,NA,NA,NA
+"170","Hombre","Miembros del Poder Ejecutivo","Curicó",1185276,NA,NA,NA,NA,NA,NA,NA,1088272,NA,NA,NA
+"171","Hombre","Oficiales, Operarios y Artesanos","Curicó",56372,NA,92218,NA,NA,160431,NA,NA,NA,NA,NA,NA
+"172","Hombre","Operadores y Montadores","Curicó",69057,153850,90283,NA,NA,203674,NA,NA,NA,NA,NA,NA
+"173","Hombre","Profesionales y Científicos","Curicó",151836,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","Hombre","Técnicos y Profesionales Nivel Medio","Curicó",147055,148338,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","Hombre","Agricultores y  y Trabajadores Calificados","El Loa",67629,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Hombre","Comerciantes y Vendedores","El Loa",111275,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","Hombre","Empleados de Oficina","El Loa",43871,NA,NA,174000,219602,NA,313528,256369,398491,466766,412491,634969
+"178","Hombre","Ff.aa.","El Loa",218605,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","Hombre","Miembros del Poder Ejecutivo","El Loa",755160,NA,NA,NA,NA,NA,NA,NA,1164052,NA,NA,NA
+"180","Hombre","Oficiales, Operarios y Artesanos","El Loa",93432,NA,150139,NA,NA,258490,NA,NA,NA,NA,NA,NA
+"181","Hombre","Profesionales y Científicos","El Loa",80408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","Hombre","Técnicos y Profesionales Nivel Medio","El Loa",154533,268718,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","Hombre","Agricultores y  y Trabajadores Calificados","Elqui",47042,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","Hombre","Comerciantes y Vendedores","Elqui",70060,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","Hombre","Empleados de Oficina","Elqui",44097,NA,NA,177720,235400,NA,234841,186550,452472,421435,424816,477230
+"186","Hombre","Ff.aa.","Elqui",133289,NA,131733,NA,NA,4e+05,NA,NA,NA,NA,NA,NA
+"187","Hombre","Miembros del Poder Ejecutivo","Elqui",615744,NA,NA,NA,NA,NA,NA,NA,755760,NA,NA,NA
+"188","Hombre","Oficiales, Operarios y Artesanos","Elqui",60393,NA,130058,NA,NA,168433,NA,NA,NA,NA,NA,NA
+"189","Hombre","Operadores y Montadores","Elqui",257707,121818,135016,NA,NA,190308,NA,NA,NA,NA,NA,NA
+"190","Hombre","Profesionales y Científicos","Elqui",115949,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","Hombre","Técnicos y Profesionales Nivel Medio","Elqui",144353,164894,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","Hombre","Trabajadores No Calificados","Elqui",60720,53995,NA,98491,97545,NA,112990,141018,231770,260677,251594,297841
+"193","Hombre","Agricultores y  y Trabajadores Calificados","Huasco",39249,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","Hombre","Comerciantes y Vendedores","Huasco",65687,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","Hombre","Empleados de Oficina","Huasco",33827,NA,NA,233840,199322,NA,189483,266992,337527,364955,360882,578889
+"196","Hombre","Ff.aa.","Huasco",197529,NA,107100,NA,NA,246200,NA,NA,NA,NA,NA,NA
+"197","Hombre","Miembros del Poder Ejecutivo","Huasco",523520,NA,NA,NA,NA,NA,NA,NA,563503,NA,NA,NA
+"198","Hombre","Oficiales, Operarios y Artesanos","Huasco",75638,NA,152729,NA,NA,174323,NA,NA,NA,NA,NA,NA
+"199","Hombre","Profesionales y Científicos","Huasco",155018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","Hombre","Técnicos y Profesionales Nivel Medio","Huasco",97924,90847,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","Hombre","Agricultores y  y Trabajadores Calificados","Iquique",83494,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","Hombre","Comerciantes y Vendedores","Iquique",104904,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","Hombre","Empleados de Oficina","Iquique",84792,NA,NA,195559,296446,NA,250713,303841,491075,406122,434446,430958
+"204","Hombre","Ff.aa.","Iquique",222610,NA,155295,NA,NA,524633,NA,NA,NA,NA,NA,NA
+"205","Hombre","Miembros del Poder Ejecutivo","Iquique",633256,NA,NA,NA,NA,NA,NA,NA,1175200,NA,NA,NA
+"206","Hombre","Oficiales, Operarios y Artesanos","Iquique",82096,NA,140942,NA,NA,213919,NA,NA,NA,NA,NA,NA
+"207","Hombre","Operadores y Montadores","Iquique",115062,124637,147858,NA,NA,243607,NA,NA,NA,NA,NA,NA
+"208","Hombre","Profesionales y Científicos","Iquique",139339,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","Hombre","Técnicos y Profesionales Nivel Medio","Iquique",181807,150087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","Hombre","Trabajadores No Calificados","Iquique",132880,87048,NA,110828,146834,NA,163964,167131,252221,317322,285329,315409
+"211","Hombre","Agricultores y  y Trabajadores Calificados","Limarí",33376,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212","Hombre","Comerciantes y Vendedores","Limarí",46644,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","Hombre","Empleados de Oficina","Limarí",61865,NA,NA,129760,153207,NA,228333,300095,280960,376420,325101,338518
+"214","Hombre","Ff.aa.","Limarí",153520,NA,146370,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","Hombre","Miembros del Poder Ejecutivo","Limarí",346335,NA,NA,NA,NA,NA,NA,NA,533490,NA,NA,NA
+"216","Hombre","Oficiales, Operarios y Artesanos","Limarí",41529,NA,121398,NA,NA,168791,NA,NA,NA,NA,NA,NA
+"217","Hombre","Operadores y Montadores","Limarí",96640,73849,99133,NA,NA,184966,NA,NA,NA,NA,NA,NA
+"218","Hombre","Profesionales y Científicos","Limarí",79989,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"219","Hombre","Técnicos y Profesionales Nivel Medio","Limarí",52247,91782,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220","Hombre","Agricultores y  y Trabajadores Calificados","Linares",30293,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","Hombre","Comerciantes y Vendedores","Linares",63295,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222","Hombre","Empleados de Oficina","Linares",65681,NA,NA,112237,189705,NA,168584,206991,315963,290208,285484,439294
+"223","Hombre","Ff.aa.","Linares",128854,NA,154046,NA,NA,258433,NA,NA,NA,NA,NA,NA
+"224","Hombre","Miembros del Poder Ejecutivo","Linares",516800,NA,NA,NA,NA,NA,NA,NA,736236,NA,NA,NA
+"225","Hombre","Oficiales, Operarios y Artesanos","Linares",50420,NA,92334,NA,NA,143222,NA,NA,NA,NA,NA,NA
+"226","Hombre","Operadores y Montadores","Linares",79728,99009,94570,NA,NA,155858,NA,NA,NA,NA,NA,NA
+"227","Hombre","Profesionales y Científicos","Linares",107191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","Hombre","Técnicos y Profesionales Nivel Medio","Linares",82959,151499,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229","Hombre","Agricultores y  y Trabajadores Calificados","Llanquihue",42521,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230","Hombre","Comerciantes y Vendedores","Llanquihue",71066,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231","Hombre","Empleados de Oficina","Llanquihue",41227,NA,NA,176274,209861,NA,206167,252416,356192,407848,318611,367428
+"232","Hombre","Ff.aa.","Llanquihue",123772,NA,NA,NA,NA,380000,NA,NA,NA,NA,NA,NA
+"233","Hombre","Miembros del Poder Ejecutivo","Llanquihue",630333,NA,NA,NA,NA,NA,NA,NA,730297,NA,NA,NA
+"234","Hombre","Oficiales, Operarios y Artesanos","Llanquihue",47648,NA,104059,NA,NA,171493,NA,NA,NA,NA,NA,NA
+"235","Hombre","Operadores y Montadores","Llanquihue",82667,95241,136619,NA,NA,180001,NA,NA,NA,NA,NA,NA
+"236","Hombre","Profesionales y Científicos","Llanquihue",198980,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237","Hombre","Técnicos y Profesionales Nivel Medio","Llanquihue",75039,171918,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","Hombre","Trabajadores No Calificados","Llanquihue",50570,44019,NA,105879,92303,NA,117682,139506,211149,265882,224570,259937
+"239","Hombre","Agricultores y  y Trabajadores Calificados","Los Andes",97247,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240","Hombre","Comerciantes y Vendedores","Los Andes",45304,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","Hombre","Empleados de Oficina","Los Andes",31005,NA,NA,178456,241468,NA,202200,222006,230475,500602,318629,530633
+"242","Hombre","Ff.aa.","Los Andes",55827,NA,130718,NA,NA,181600,NA,NA,NA,NA,NA,NA
+"243","Hombre","Oficiales, Operarios y Artesanos","Los Andes",48615,NA,148684,NA,NA,191424,NA,NA,NA,NA,NA,NA
+"244","Hombre","Profesionales y Científicos","Los Andes",62212,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","Hombre","Técnicos y Profesionales Nivel Medio","Los Andes",124740,226392,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","Hombre","Trabajadores No Calificados","Los Andes",99056,58387,NA,82932,97538,NA,117773,147659,210322,247788,238437,258439
+"247","Hombre","Agricultores y  y Trabajadores Calificados","Magallanes",62945,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"248","Hombre","Comerciantes y Vendedores","Magallanes",65718,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"249","Hombre","Empleados de Oficina","Magallanes",61754,NA,NA,139823,212179,NA,286920,313722,521806,548017,427705,601722
+"250","Hombre","Ff.aa.","Magallanes",175090,NA,199141,NA,NA,314024,NA,NA,NA,NA,NA,NA
+"251","Hombre","Miembros del Poder Ejecutivo","Magallanes",244620,NA,NA,NA,NA,NA,NA,NA,1957526,NA,NA,NA
+"252","Hombre","Oficiales, Operarios y Artesanos","Magallanes",71017,NA,163258,NA,NA,223334,NA,NA,NA,NA,NA,NA
+"253","Hombre","Operadores y Montadores","Magallanes",125446,142791,194138,NA,NA,278949,NA,NA,NA,NA,NA,NA
+"254","Hombre","Profesionales y Científicos","Magallanes",197342,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"255","Hombre","Técnicos y Profesionales Nivel Medio","Magallanes",141587,223662,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"256","Hombre","Agricultores y  y Trabajadores Calificados","Maipo",41375,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"257","Hombre","Comerciantes y Vendedores","Maipo",55257,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"258","Hombre","Empleados de Oficina","Maipo",44509,NA,NA,347409,233513,NA,216710,238957,360888,478490,368763,407116
+"259","Hombre","Ff.aa.","Maipo",185062,NA,294359,NA,NA,281898,NA,NA,NA,NA,NA,NA
+"260","Hombre","Miembros del Poder Ejecutivo","Maipo",359186,NA,NA,NA,NA,NA,NA,NA,1267253,NA,NA,NA
+"261","Hombre","Oficiales, Operarios y Artesanos","Maipo",62128,NA,117450,NA,NA,185241,NA,NA,NA,NA,NA,NA
+"262","Hombre","Operadores y Montadores","Maipo",91284,96152,106519,NA,NA,197297,NA,NA,NA,NA,NA,NA
+"263","Hombre","Profesionales y Científicos","Maipo",93743,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264","Hombre","Técnicos y Profesionales Nivel Medio","Maipo",168165,134418,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265","Hombre","Trabajadores No Calificados","Maipo",65465,58512,NA,87786,112472,NA,127307,156444,217150,241577,240804,290859
+"266","Hombre","Agricultores y  y Trabajadores Calificados","Malleco",34617,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","Hombre","Comerciantes y Vendedores","Malleco",36753,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","Hombre","Empleados de Oficina","Malleco",35616,NA,NA,434389,168867,NA,210354,210499,251894,305226,375976,339542
+"269","Hombre","Ff.aa.","Malleco",127863,NA,142775,NA,NA,290451,NA,NA,NA,NA,NA,NA
+"270","Hombre","Miembros del Poder Ejecutivo","Malleco",234960,NA,NA,NA,NA,NA,NA,NA,784965,NA,NA,NA
+"271","Hombre","Oficiales, Operarios y Artesanos","Malleco",46698,NA,98276,NA,NA,123907,NA,NA,NA,NA,NA,NA
+"272","Hombre","Operadores y Montadores","Malleco",67648,69724,107053,NA,NA,140792,NA,NA,NA,NA,NA,NA
+"273","Hombre","Profesionales y Científicos","Malleco",119360,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","Hombre","Técnicos y Profesionales Nivel Medio","Malleco",91567,134864,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275","Hombre","Agricultores y  y Trabajadores Calificados","Marga Marga",71798,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276","Hombre","Comerciantes y Vendedores","Marga Marga",79051,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277","Hombre","Empleados de Oficina","Marga Marga",54154,NA,NA,211198,197656,NA,291316,295238,387746,422537,394123,388184
+"278","Hombre","Ff.aa.","Marga Marga",101714,NA,126485,NA,NA,224447,NA,NA,NA,NA,NA,NA
+"279","Hombre","Miembros del Poder Ejecutivo","Marga Marga",208900,NA,NA,NA,NA,NA,NA,NA,1157238,NA,NA,NA
+"280","Hombre","Oficiales, Operarios y Artesanos","Marga Marga",53975,NA,115120,NA,NA,184544,NA,NA,NA,NA,NA,NA
+"281","Hombre","Operadores y Montadores","Marga Marga",105700,115382,145267,NA,NA,230534,NA,NA,NA,NA,NA,NA
+"282","Hombre","Profesionales y Científicos","Marga Marga",106299,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283","Hombre","Técnicos y Profesionales Nivel Medio","Marga Marga",100968,278810,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"284","Hombre","Trabajadores No Calificados","Marga Marga",129860,61772,NA,85250,115434,NA,129952,137781,194601,215322,226101,287244
+"285","Hombre","Agricultores y  y Trabajadores Calificados","Melipilla",36150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286","Hombre","Comerciantes y Vendedores","Melipilla",58040,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287","Hombre","Empleados de Oficina","Melipilla",54330,NA,NA,208654,231627,NA,198591,416427,272534,332819,297551,412285
+"288","Hombre","Ff.aa.","Melipilla",82621,NA,135374,NA,NA,266667,NA,NA,NA,NA,NA,NA
+"289","Hombre","Miembros del Poder Ejecutivo","Melipilla",287373,NA,NA,NA,NA,NA,NA,NA,761120,NA,NA,NA
+"290","Hombre","Oficiales, Operarios y Artesanos","Melipilla",48138,NA,100901,NA,NA,209974,NA,NA,NA,NA,NA,NA
+"291","Hombre","Operadores y Montadores","Melipilla",69719,107489,129184,NA,NA,177614,NA,NA,NA,NA,NA,NA
+"292","Hombre","Profesionales y Científicos","Melipilla",102087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"293","Hombre","Técnicos y Profesionales Nivel Medio","Melipilla",103172,115099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"294","Hombre","Trabajadores No Calificados","Melipilla",36844,59868,NA,85469,98643,NA,120266,148218,196479,227059,209959,282654
+"295","Hombre","Agricultores y  y Trabajadores Calificados","Ñuble",26700,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","Hombre","Comerciantes y Vendedores","Ñuble",46078,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297","Hombre","Empleados de Oficina","Ñuble",38372,NA,NA,127263,156023,NA,182516,231293,297938,282503,312707,363944
+"298","Hombre","Ff.aa.","Ñuble",76951,NA,152618,NA,NA,380500,NA,NA,NA,NA,NA,NA
+"299","Hombre","Miembros del Poder Ejecutivo","Ñuble",77284,NA,NA,NA,NA,NA,NA,NA,597320,NA,NA,NA
+"300","Hombre","Oficiales, Operarios y Artesanos","Ñuble",38722,NA,76055,NA,NA,140722,NA,NA,NA,NA,NA,NA
+"301","Hombre","Operadores y Montadores","Ñuble",64829,80128,90234,NA,NA,170671,NA,NA,NA,NA,NA,NA
+"302","Hombre","Profesionales y Científicos","Ñuble",94830,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303","Hombre","Técnicos y Profesionales Nivel Medio","Ñuble",155840,113132,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","Hombre","Trabajadores No Calificados","Ñuble",50639,46911,NA,61836,74228,NA,86422,105212,159386,191308,179207,202544
+"305","Hombre","Agricultores y  y Trabajadores Calificados","Osorno",32534,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"306","Hombre","Comerciantes y Vendedores","Osorno",43602,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"307","Hombre","Empleados de Oficina","Osorno",48130,NA,NA,131250,154575,NA,191512,205595,272846,366237,390578,396012
+"308","Hombre","Ff.aa.","Osorno",263158,NA,NA,NA,NA,180000,NA,NA,NA,NA,NA,NA
+"309","Hombre","Miembros del Poder Ejecutivo","Osorno",855889,NA,NA,NA,NA,NA,NA,NA,1255199,NA,NA,NA
+"310","Hombre","Oficiales, Operarios y Artesanos","Osorno",42510,NA,107081,NA,NA,159539,NA,NA,NA,NA,NA,NA
+"311","Hombre","Operadores y Montadores","Osorno",76144,97496,103068,NA,NA,136866,NA,NA,NA,NA,NA,NA
+"312","Hombre","Profesionales y Científicos","Osorno",251485,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313","Hombre","Técnicos y Profesionales Nivel Medio","Osorno",97614,127522,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"314","Hombre","Agricultores y  y Trabajadores Calificados","Petorca",35189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"315","Hombre","Comerciantes y Vendedores","Petorca",35974,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","Hombre","Empleados de Oficina","Petorca",35860,NA,NA,156000,196162,NA,188538,294470,276641,263396,360000,372624
+"317","Hombre","Ff.aa.","Petorca",63713,NA,123165,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","Hombre","Oficiales, Operarios y Artesanos","Petorca",42813,NA,114213,NA,NA,186814,NA,NA,NA,NA,NA,NA
+"319","Hombre","Profesionales y Científicos","Petorca",163958,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"320","Hombre","Técnicos y Profesionales Nivel Medio","Petorca",64477,227642,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321","Hombre","Agricultores y  y Trabajadores Calificados","Quillota",38460,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","Hombre","Comerciantes y Vendedores","Quillota",49814,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"323","Hombre","Empleados de Oficina","Quillota",40843,NA,NA,142202,225564,NA,232002,234165,354784,309275,482544,414511
+"324","Hombre","Ff.aa.","Quillota",84731,NA,NA,NA,NA,245000,NA,NA,NA,NA,NA,NA
+"325","Hombre","Miembros del Poder Ejecutivo","Quillota",302000,NA,NA,NA,NA,NA,NA,NA,635425,NA,NA,NA
+"326","Hombre","Oficiales, Operarios y Artesanos","Quillota",50333,NA,131761,NA,NA,206712,NA,NA,NA,NA,NA,NA
+"327","Hombre","Profesionales y Científicos","Quillota",71027,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","Hombre","Técnicos y Profesionales Nivel Medio","Quillota",91458,182559,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","Hombre","Trabajadores No Calificados","Quillota",36240,52101,NA,76683,97580,NA,129931,145867,207676,259239,225739,254794
+"330","Hombre","Agricultores y  y Trabajadores Calificados","Ranco",54843,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331","Hombre","Comerciantes y Vendedores","Ranco",32603,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","Hombre","Empleados de Oficina","Ranco",50110,NA,NA,122167,305216,NA,170115,164176,419144,312439,319640,317750
+"333","Hombre","Ff.aa.","Ranco",304336,NA,NA,NA,NA,282793,NA,NA,NA,NA,NA,NA
+"334","Hombre","Miembros del Poder Ejecutivo","Ranco",584100,NA,NA,NA,NA,NA,NA,NA,437883,NA,NA,NA
+"335","Hombre","Oficiales, Operarios y Artesanos","Ranco",67250,NA,122175,NA,NA,145157,NA,NA,NA,NA,NA,NA
+"336","Hombre","Profesionales y Científicos","Ranco",268176,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"337","Hombre","Técnicos y Profesionales Nivel Medio","Ranco",127860,148365,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"338","Hombre","Agricultores y  y Trabajadores Calificados","San Antonio",33737,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339","Hombre","Comerciantes y Vendedores","San Antonio",68478,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"340","Hombre","Empleados de Oficina","San Antonio",42461,NA,NA,331285,202489,NA,207704,236084,366260,337226,308037,393200
+"341","Hombre","Ff.aa.","San Antonio",42280,NA,117810,NA,NA,210000,NA,NA,NA,NA,NA,NA
+"342","Hombre","Oficiales, Operarios y Artesanos","San Antonio",42341,NA,120079,NA,NA,180342,NA,NA,NA,NA,NA,NA
+"343","Hombre","Operadores y Montadores","San Antonio",48320,145756,181906,NA,NA,235582,NA,NA,NA,NA,NA,NA
+"344","Hombre","Profesionales y Científicos","San Antonio",81724,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"345","Hombre","Técnicos y Profesionales Nivel Medio","San Antonio",52669,178378,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"346","Hombre","Agricultores y  y Trabajadores Calificados","San Felipe",40049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","Hombre","Comerciantes y Vendedores","San Felipe",42522,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348","Hombre","Empleados de Oficina","San Felipe",73690,NA,NA,173364,170219,NA,192203,233535,319757,274539,285000,448079
+"349","Hombre","Ff.aa.","San Felipe",229220,NA,160650,NA,NA,3e+05,NA,NA,NA,NA,NA,NA
+"350","Hombre","Miembros del Poder Ejecutivo","San Felipe",114760,NA,NA,NA,NA,NA,NA,NA,1103963,NA,NA,NA
+"351","Hombre","Oficiales, Operarios y Artesanos","San Felipe",53586,NA,115684,NA,NA,157539,NA,NA,NA,NA,NA,NA
+"352","Hombre","Profesionales y Científicos","San Felipe",296853,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"353","Hombre","Técnicos y Profesionales Nivel Medio","San Felipe",122784,230608,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"354","Hombre","Agricultores y  y Trabajadores Calificados","Santiago",57198,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355","Hombre","Comerciantes y Vendedores","Santiago",75885,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"356","Hombre","Empleados de Oficina","Santiago",59869,NA,NA,219127,253150,NA,267561,286248,374109,385480,379418,437168
+"357","Hombre","Ff.aa.","Santiago",187326,NA,261661,NA,NA,244942,NA,NA,NA,NA,NA,NA
+"358","Hombre","Miembros del Poder Ejecutivo","Santiago",556837,NA,NA,NA,NA,NA,NA,NA,1659774,NA,NA,NA
+"359","Hombre","Oficiales, Operarios y Artesanos","Santiago",63851,NA,149277,NA,NA,204035,NA,NA,NA,NA,NA,NA
+"360","Hombre","Operadores y Montadores","Santiago",67346,112054,150930,NA,NA,215971,NA,NA,NA,NA,NA,NA
+"361","Hombre","Profesionales y Científicos","Santiago",132744,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"362","Hombre","Técnicos y Profesionales Nivel Medio","Santiago",107042,267875,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"363","Hombre","Trabajadores No Calificados","Santiago",71834,72796,NA,114367,136367,NA,153124,182264,248251,290430,266659,302483
+"364","Hombre","Agricultores y  y Trabajadores Calificados","Talagante",39565,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"365","Hombre","Comerciantes y Vendedores","Talagante",70738,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366","Hombre","Empleados de Oficina","Talagante",38748,NA,NA,303800,246696,NA,239479,221249,301349,511957,354286,544538
+"367","Hombre","Ff.aa.","Talagante",137000,NA,151011,NA,NA,140000,NA,NA,NA,NA,NA,NA
+"368","Hombre","Miembros del Poder Ejecutivo","Talagante",452249,NA,NA,NA,NA,NA,NA,NA,968980,NA,NA,NA
+"369","Hombre","Oficiales, Operarios y Artesanos","Talagante",72336,NA,119915,NA,NA,208730,NA,NA,NA,NA,NA,NA
+"370","Hombre","Operadores y Montadores","Talagante",53756,104654,116831,NA,NA,191722,NA,NA,NA,NA,NA,NA
+"371","Hombre","Profesionales y Científicos","Talagante",144809,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372","Hombre","Técnicos y Profesionales Nivel Medio","Talagante",91095,178138,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","Hombre","Trabajadores No Calificados","Talagante",89995,67566,NA,91078,110517,NA,126825,141845,215977,251953,233385,285089
+"374","Hombre","Agricultores y  y Trabajadores Calificados","Talca",35493,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"375","Hombre","Comerciantes y Vendedores","Talca",69026,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"376","Hombre","Empleados de Oficina","Talca",49018,NA,NA,178788,273786,NA,201414,228672,397611,338484,367485,487220
+"377","Hombre","Ff.aa.","Talca",181401,NA,182223,NA,NA,320200,NA,NA,NA,NA,NA,NA
+"378","Hombre","Miembros del Poder Ejecutivo","Talca",190190,NA,NA,NA,NA,NA,NA,NA,936134,NA,NA,NA
+"379","Hombre","Oficiales, Operarios y Artesanos","Talca",61739,NA,97352,NA,NA,158703,NA,NA,NA,NA,NA,NA
+"380","Hombre","Operadores y Montadores","Talca",68575,75261,98056,NA,NA,159731,NA,NA,NA,NA,NA,NA
+"381","Hombre","Profesionales y Científicos","Talca",127405,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","Hombre","Técnicos y Profesionales Nivel Medio","Talca",92050,210334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","Hombre","Agricultores y  y Trabajadores Calificados","Tamarugal",50753,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","Hombre","Comerciantes y Vendedores","Tamarugal",109325,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"385","Hombre","Empleados de Oficina","Tamarugal",38624,NA,NA,199720,261699,NA,180542,209182,252200,467140,356667,436875
+"386","Hombre","Ff.aa.","Tamarugal",125330,NA,283815,NA,NA,334125,NA,NA,NA,NA,NA,NA
+"387","Hombre","Oficiales, Operarios y Artesanos","Tamarugal",52533,NA,106816,NA,NA,213477,NA,NA,NA,NA,NA,NA
+"388","Hombre","Operadores y Montadores","Tamarugal",60400,206709,99285,NA,NA,226258,NA,NA,NA,NA,NA,NA
+"389","Hombre","Profesionales y Científicos","Tamarugal",142309,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","Hombre","Técnicos y Profesionales Nivel Medio","Tamarugal",84207,321900,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","Hombre","Agricultores y  y Trabajadores Calificados","Tierra del Fuego",41881,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"392","Hombre","Ff.aa.","Tierra del Fuego",103284,NA,178500,NA,NA,382793,NA,NA,NA,NA,NA,NA
+"393","Hombre","Oficiales, Operarios y Artesanos","Tierra del Fuego",48320,NA,196702,NA,NA,316304,NA,NA,NA,NA,NA,NA
+"394","Hombre","Operadores y Montadores","Tierra del Fuego",102680,75110,160123,NA,NA,239355,NA,NA,NA,NA,NA,NA
+"395","Hombre","Profesionales y Científicos","Tierra del Fuego",79728,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","Hombre","Técnicos y Profesionales Nivel Medio","Tierra del Fuego",59400,173826,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","Hombre","Agricultores y  y Trabajadores Calificados","Tocopilla",67562,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","Hombre","Comerciantes y Vendedores","Tocopilla",74775,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"399","Hombre","Empleados de Oficina","Tocopilla",41223,NA,NA,262627,257392,NA,286435,304894,483340,313021,311429,663333
+"400","Hombre","Ff.aa.","Tocopilla",91860,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","Hombre","Oficiales, Operarios y Artesanos","Tocopilla",57007,NA,124132,NA,NA,214684,NA,NA,NA,NA,NA,NA
+"402","Hombre","Operadores y Montadores","Tocopilla",71755,132246,171606,NA,NA,247995,NA,NA,NA,NA,NA,NA
+"403","Hombre","Profesionales y Científicos","Tocopilla",88335,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"404","Hombre","Técnicos y Profesionales Nivel Medio","Tocopilla",108660,365394,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"405","Hombre","Agricultores y  y Trabajadores Calificados","Última Esperanza",42846,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406","Hombre","Comerciantes y Vendedores","Última Esperanza",73465,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"407","Hombre","Empleados de Oficina","Última Esperanza",29525,NA,NA,251620,223582,NA,249745,211292,321923,616287,355714,469012
+"408","Hombre","Ff.aa.","Última Esperanza",160037,NA,174038,NA,NA,351667,NA,NA,NA,NA,NA,NA
+"409","Hombre","Oficiales, Operarios y Artesanos","Última Esperanza",38925,NA,125073,NA,NA,175419,NA,NA,NA,NA,NA,NA
+"410","Hombre","Operadores y Montadores","Última Esperanza",100506,202827,106080,NA,NA,215935,NA,NA,NA,NA,NA,NA
+"411","Hombre","Profesionales y Científicos","Última Esperanza",96144,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"412","Hombre","Técnicos y Profesionales Nivel Medio","Última Esperanza",72600,123395,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","Hombre","Agricultores y  y Trabajadores Calificados","Valdivia",43932,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","Hombre","Comerciantes y Vendedores","Valdivia",57273,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"415","Hombre","Empleados de Oficina","Valdivia",36486,NA,NA,168149,267290,NA,180011,318510,452047,306851,297793,350483
+"416","Hombre","Ff.aa.","Valdivia",126898,NA,222232,NA,NA,238125,NA,NA,NA,NA,NA,NA
+"417","Hombre","Miembros del Poder Ejecutivo","Valdivia",360537,NA,NA,NA,NA,NA,NA,NA,796185,NA,NA,NA
+"418","Hombre","Oficiales, Operarios y Artesanos","Valdivia",50301,NA,103081,NA,NA,153008,NA,NA,NA,NA,NA,NA
+"419","Hombre","Operadores y Montadores","Valdivia",66742,83585,120149,NA,NA,178307,NA,NA,NA,NA,NA,NA
+"420","Hombre","Profesionales y Científicos","Valdivia",89799,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","Hombre","Técnicos y Profesionales Nivel Medio","Valdivia",90271,123185,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","Hombre","Agricultores y  y Trabajadores Calificados","Valparaíso",43480,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"423","Hombre","Comerciantes y Vendedores","Valparaíso",65627,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"424","Hombre","Empleados de Oficina","Valparaíso",48839,NA,NA,194304,217586,NA,243906,223237,349155,344093,326792,432441
+"425","Hombre","Ff.aa.","Valparaíso",209595,NA,121380,NA,NA,241093,NA,NA,NA,NA,NA,NA
+"426","Hombre","Miembros del Poder Ejecutivo","Valparaíso",759417,NA,NA,NA,NA,NA,NA,NA,822762,NA,NA,NA
+"427","Hombre","Oficiales, Operarios y Artesanos","Valparaíso",60917,NA,116875,NA,NA,203967,NA,NA,NA,NA,NA,NA
+"428","Hombre","Operadores y Montadores","Valparaíso",84780,102630,147188,NA,NA,230008,NA,NA,NA,NA,NA,NA
+"429","Hombre","Profesionales y Científicos","Valparaíso",109578,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"430","Hombre","Técnicos y Profesionales Nivel Medio","Valparaíso",83073,237636,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"431","Hombre","Trabajadores No Calificados","Valparaíso",65538,65913,NA,92326,111602,NA,146024,152051,212905,225184,247652,264035
+"432","Mujer","Agricultores y  y Trabajadores Calificados","Antofagasta",62014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","Mujer","Comerciantes y Vendedores","Antofagasta",99000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","Mujer","Empleados de Oficina","Antofagasta",42831,NA,NA,134886,137681,NA,187790,220889,252144,337921,328011,479324
+"435","Mujer","Ff.aa.","Antofagasta",85085,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","Mujer","Miembros del Poder Ejecutivo","Antofagasta",257400,NA,NA,NA,NA,NA,NA,NA,909025,NA,NA,NA
+"437","Mujer","Oficiales, Operarios y Artesanos","Antofagasta",32395,NA,79019,NA,NA,127862,NA,NA,NA,NA,NA,NA
+"438","Mujer","Operadores y Montadores","Antofagasta",132880,147340,90780,NA,NA,197692,NA,NA,NA,NA,NA,NA
+"439","Mujer","Profesionales y Científicos","Antofagasta",79674,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"440","Mujer","Técnicos y Profesionales Nivel Medio","Antofagasta",79633,133566,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"441","Mujer","Trabajadores No Calificados","Antofagasta",59400,40606,NA,78237,85576,NA,93654,131181,205051,215524,201890,249327
+"442","Mujer","Agricultores y  y Trabajadores Calificados","Arauco",26017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"443","Mujer","Empleados de Oficina","Arauco",40138,NA,NA,103066,136468,NA,146273,132835,209286,214509,241918,263301
+"444","Mujer","Ff.aa.","Arauco",65165,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"445","Mujer","Profesionales y Científicos","Arauco",39392,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","Mujer","Técnicos y Profesionales Nivel Medio","Arauco",71590,56640,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447","Mujer","Agricultores y  y Trabajadores Calificados","Arica",35947,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","Mujer","Comerciantes y Vendedores","Arica",74632,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449","Mujer","Empleados de Oficina","Arica",41563,NA,NA,99609,139207,NA,132208,169552,207624,292572,275838,348311
+"450","Mujer","Ff.aa.","Arica",95163,NA,166005,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","Mujer","Miembros del Poder Ejecutivo","Arica",573111,NA,NA,NA,NA,NA,NA,NA,409834,NA,NA,NA
+"452","Mujer","Oficiales, Operarios y Artesanos","Arica",31106,NA,187316,NA,NA,22463,NA,NA,NA,NA,NA,NA
+"453","Mujer","Profesionales y Científicos","Arica",60942,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","Mujer","Técnicos y Profesionales Nivel Medio","Arica",69581,153965,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","Mujer","Comerciantes y Vendedores","Aysén",59400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"456","Mujer","Empleados de Oficina","Aysén",37298,NA,NA,132203,201067,NA,225104,295342,251567,432389,336556,447038
+"457","Mujer","Ff.aa.","Aysén",74755,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"458","Mujer","Oficiales, Operarios y Artesanos","Aysén",42366,NA,60024,NA,NA,111334,NA,NA,NA,NA,NA,NA
+"459","Mujer","Profesionales y Científicos","Aysén",75940,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","Mujer","Técnicos y Profesionales Nivel Medio","Aysén",98924,64380,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","Mujer","Agricultores y  y Trabajadores Calificados","Bíobío",30603,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"462","Mujer","Empleados de Oficina","Bíobío",21548,NA,NA,120542,142384,NA,129252,171190,245891,247302,244663,302329
+"463","Mujer","Ff.aa.","Bíobío",53394,NA,NA,NA,NA,190000,NA,NA,NA,NA,NA,NA
+"464","Mujer","Miembros del Poder Ejecutivo","Bíobío",108720,NA,NA,NA,NA,NA,NA,NA,397385,NA,NA,NA
+"465","Mujer","Oficiales, Operarios y Artesanos","Bíobío",26576,NA,49686,NA,NA,97581,NA,NA,NA,NA,NA,NA
+"466","Mujer","Profesionales y Científicos","Bíobío",73429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","Mujer","Técnicos y Profesionales Nivel Medio","Bíobío",106759,77614,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","Mujer","Agricultores y  y Trabajadores Calificados","Cachapoal",35228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"469","Mujer","Comerciantes y Vendedores","Cachapoal",43998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","Mujer","Empleados de Oficina","Cachapoal",32050,NA,NA,123795,150296,NA,155111,200426,223423,254053,290123,334994
+"471","Mujer","Ff.aa.","Cachapoal",71919,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","Mujer","Oficiales, Operarios y Artesanos","Cachapoal",35449,NA,52784,NA,NA,137249,NA,NA,NA,NA,NA,NA
+"473","Mujer","Profesionales y Científicos","Cachapoal",66349,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474","Mujer","Técnicos y Profesionales Nivel Medio","Cachapoal",76912,128608,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475","Mujer","Agricultores y  y Trabajadores Calificados","Cardenal Caro",9900,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"476","Mujer","Empleados de Oficina","Cardenal Caro",28388,NA,NA,77500,118640,NA,140800,140785,229617,293301,247463,306038
+"477","Mujer","Ff.aa.","Cardenal Caro",58180,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","Mujer","Oficiales, Operarios y Artesanos","Cardenal Caro",9900,NA,22695,NA,NA,129342,NA,NA,NA,NA,NA,NA
+"479","Mujer","Profesionales y Científicos","Cardenal Caro",53595,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","Mujer","Técnicos y Profesionales Nivel Medio","Cardenal Caro",72050,86555,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","Mujer","Agricultores y  y Trabajadores Calificados","Cauquenes",6460,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","Mujer","Empleados de Oficina","Cauquenes",31992,NA,NA,83333,148027,NA,150173,183686,251439,183630,326182,302102
+"483","Mujer","Ff.aa.","Cauquenes",57742,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"484","Mujer","Oficiales, Operarios y Artesanos","Cauquenes",13915,NA,27063,NA,NA,63687,NA,NA,NA,NA,NA,NA
+"485","Mujer","Profesionales y Científicos","Cauquenes",59155,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","Mujer","Técnicos y Profesionales Nivel Medio","Cauquenes",30438,53650,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"487","Mujer","Agricultores y  y Trabajadores Calificados","Cautín",23964,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","Mujer","Empleados de Oficina","Cautín",34458,NA,NA,115828,125185,NA,147638,168342,191611,241679,285323,269883
+"489","Mujer","Ff.aa.","Cautín",72583,NA,160650,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","Mujer","Oficiales, Operarios y Artesanos","Cautín",46555,NA,154161,NA,NA,95245,NA,NA,NA,NA,NA,NA
+"491","Mujer","Profesionales y Científicos","Cautín",71784,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","Mujer","Técnicos y Profesionales Nivel Medio","Cautín",68524,92317,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","Mujer","Agricultores y  y Trabajadores Calificados","Chacabuco",46078,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","Mujer","Comerciantes y Vendedores","Chacabuco",41201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"495","Mujer","Empleados de Oficina","Chacabuco",29565,NA,NA,112221,167559,NA,169026,182646,235595,260044,300692,416271
+"496","Mujer","Ff.aa.","Chacabuco",51041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","Mujer","Oficiales, Operarios y Artesanos","Chacabuco",34408,NA,60520,NA,NA,120020,NA,NA,NA,NA,NA,NA
+"498","Mujer","Profesionales y Científicos","Chacabuco",60952,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"499","Mujer","Técnicos y Profesionales Nivel Medio","Chacabuco",82562,118268,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"500","Mujer","Agricultores y  y Trabajadores Calificados","Chañaral",24750,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"501","Mujer","Empleados de Oficina","Chañaral",25329,NA,NA,124667,133030,NA,148262,175995,247915,333106,301850,344930
+"502","Mujer","Ff.aa.","Chañaral",84560,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"503","Mujer","Profesionales y Científicos","Chañaral",86171,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"504","Mujer","Técnicos y Profesionales Nivel Medio","Chañaral",50416,113014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","Mujer","Agricultores y  y Trabajadores Calificados","Chiloé",66538,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","Mujer","Empleados de Oficina","Chiloé",33084,NA,NA,111113,153190,NA,181271,190173,236219,271346,274171,342527
+"507","Mujer","Ff.aa.","Chiloé",51390,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","Mujer","Oficiales, Operarios y Artesanos","Chiloé",32012,NA,63546,NA,NA,93874,NA,NA,NA,NA,NA,NA
+"509","Mujer","Profesionales y Científicos","Chiloé",47783,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","Mujer","Técnicos y Profesionales Nivel Medio","Chiloé",58584,76988,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"511","Mujer","Agricultores y  y Trabajadores Calificados","Choapa",33000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"512","Mujer","Empleados de Oficina","Choapa",22549,NA,NA,83398,124678,NA,158402,177798,213735,252187,219798,306115
+"513","Mujer","Ff.aa.","Choapa",57984,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"514","Mujer","Oficiales, Operarios y Artesanos","Choapa",19800,NA,32473,NA,NA,121937,NA,NA,NA,NA,NA,NA
+"515","Mujer","Profesionales y Científicos","Choapa",35111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","Mujer","Técnicos y Profesionales Nivel Medio","Choapa",38077,72964,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"517","Mujer","Agricultores y  y Trabajadores Calificados","Colchagua",26475,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"518","Mujer","Comerciantes y Vendedores","Colchagua",39864,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"519","Mujer","Empleados de Oficina","Colchagua",20635,NA,NA,126870,177771,NA,165620,173180,212354,241368,284941,288796
+"520","Mujer","Ff.aa.","Colchagua",57344,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","Mujer","Oficiales, Operarios y Artesanos","Colchagua",49889,NA,41846,NA,NA,90427,NA,NA,NA,NA,NA,NA
+"522","Mujer","Profesionales y Científicos","Colchagua",47988,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","Mujer","Técnicos y Profesionales Nivel Medio","Colchagua",42717,80475,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","Mujer","Agricultores y  y Trabajadores Calificados","Concepción",44291,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","Mujer","Comerciantes y Vendedores","Concepción",65513,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","Mujer","Empleados de Oficina","Concepción",22825,NA,NA,121559,154839,NA,165533,189777,274127,266837,299502,306067
+"527","Mujer","Ff.aa.","Concepción",65062,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"528","Mujer","Oficiales, Operarios y Artesanos","Concepción",53323,NA,129677,NA,NA,93622,NA,NA,NA,NA,NA,NA
+"529","Mujer","Profesionales y Científicos","Concepción",57817,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"530","Mujer","Técnicos y Profesionales Nivel Medio","Concepción",80412,92374,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","Mujer","Trabajadores No Calificados","Concepción",33220,32897,NA,54265,67985,NA,81505,90888,136779,153650,153666,188560
+"532","Mujer","Agricultores y  y Trabajadores Calificados","Copiapó",41825,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","Mujer","Comerciantes y Vendedores","Copiapó",36838,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"534","Mujer","Empleados de Oficina","Copiapó",33560,NA,NA,126644,152812,NA,167672,202600,236398,298094,344835,374804
+"535","Mujer","Ff.aa.","Copiapó",92660,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"536","Mujer","Miembros del Poder Ejecutivo","Copiapó",229520,NA,NA,NA,NA,NA,NA,NA,540989,NA,NA,NA
+"537","Mujer","Oficiales, Operarios y Artesanos","Copiapó",26040,NA,87341,NA,NA,98593,NA,NA,NA,NA,NA,NA
+"538","Mujer","Profesionales y Científicos","Copiapó",104780,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"539","Mujer","Técnicos y Profesionales Nivel Medio","Copiapó",57495,64087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"540","Mujer","Agricultores y  y Trabajadores Calificados","Cordillera",83071,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"541","Mujer","Comerciantes y Vendedores","Cordillera",102740,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"542","Mujer","Empleados de Oficina","Cordillera",34020,NA,NA,147508,250962,NA,235560,206169,255186,321460,315055,359216
+"543","Mujer","Ff.aa.","Cordillera",79087,NA,171360,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"544","Mujer","Miembros del Poder Ejecutivo","Cordillera",191280,NA,NA,NA,NA,NA,NA,NA,509166,NA,NA,NA
+"545","Mujer","Oficiales, Operarios y Artesanos","Cordillera",94652,NA,88932,NA,NA,155562,NA,NA,NA,NA,NA,NA
+"546","Mujer","Profesionales y Científicos","Cordillera",93960,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"547","Mujer","Técnicos y Profesionales Nivel Medio","Cordillera",68060,131391,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","Mujer","Trabajadores No Calificados","Cordillera",83315,42124,NA,95924,92960,NA,115209,134819,157826,194781,188927,208331
+"549","Mujer","Agricultores y  y Trabajadores Calificados","Coyhaique",27972,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"550","Mujer","Empleados de Oficina","Coyhaique",28107,NA,NA,121811,132292,NA,209385,211037,420834,334677,329734,428477
+"551","Mujer","Ff.aa.","Coyhaique",116522,NA,203490,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","Mujer","Miembros del Poder Ejecutivo","Coyhaique",159708,NA,NA,NA,NA,NA,NA,NA,705727,NA,NA,NA
+"553","Mujer","Oficiales, Operarios y Artesanos","Coyhaique",50333,NA,50577,NA,NA,83706,NA,NA,NA,NA,NA,NA
+"554","Mujer","Profesionales y Científicos","Coyhaique",84484,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","Mujer","Técnicos y Profesionales Nivel Medio","Coyhaique",70409,79494,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","Mujer","Agricultores y  y Trabajadores Calificados","Curicó",30529,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"557","Mujer","Comerciantes y Vendedores","Curicó",40350,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558","Mujer","Empleados de Oficina","Curicó",28274,NA,NA,94032,129949,NA,143971,193577,317758,239500,269434,295424
+"559","Mujer","Ff.aa.","Curicó",80416,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"560","Mujer","Miembros del Poder Ejecutivo","Curicó",277200,NA,NA,NA,NA,NA,NA,NA,528292,NA,NA,NA
+"561","Mujer","Oficiales, Operarios y Artesanos","Curicó",35153,NA,51490,NA,NA,84303,NA,NA,NA,NA,NA,NA
+"562","Mujer","Profesionales y Científicos","Curicó",61868,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"563","Mujer","Técnicos y Profesionales Nivel Medio","Curicó",80800,70831,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"564","Mujer","Trabajadores No Calificados","Curicó",31408,43736,NA,56691,67931,NA,81012,109320,159548,169094,186381,213058
+"565","Mujer","Agricultores y  y Trabajadores Calificados","El Loa",21906,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","Mujer","Empleados de Oficina","El Loa",27682,NA,NA,132138,152211,NA,167333,256902,298368,309409,351474,378717
+"567","Mujer","Ff.aa.","El Loa",62061,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","Mujer","Miembros del Poder Ejecutivo","El Loa",495000,NA,NA,NA,NA,NA,NA,NA,697840,NA,NA,NA
+"569","Mujer","Profesionales y Científicos","El Loa",62281,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"570","Mujer","Técnicos y Profesionales Nivel Medio","El Loa",122587,100862,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","Mujer","Agricultores y  y Trabajadores Calificados","Elqui",36477,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","Mujer","Comerciantes y Vendedores","Elqui",104450,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"573","Mujer","Empleados de Oficina","Elqui",26628,NA,NA,126778,215607,NA,173057,160313,248435,265993,260177,335673
+"574","Mujer","Ff.aa.","Elqui",58051,NA,74970,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","Mujer","Miembros del Poder Ejecutivo","Elqui",613800,NA,NA,NA,NA,NA,NA,NA,350805,NA,NA,NA
+"576","Mujer","Oficiales, Operarios y Artesanos","Elqui",29976,NA,44187,NA,NA,178490,NA,NA,NA,NA,NA,NA
+"577","Mujer","Profesionales y Científicos","Elqui",58186,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"578","Mujer","Técnicos y Profesionales Nivel Medio","Elqui",67743,94884,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","Mujer","Trabajadores No Calificados","Elqui",31408,39651,NA,61748,75980,NA,86388,102420,160958,163566,177488,195609
+"580","Mujer","Agricultores y  y Trabajadores Calificados","Huasco",25215,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"581","Mujer","Empleados de Oficina","Huasco",17819,NA,NA,105030,123326,NA,145131,172097,242811,268054,279140,269850
+"582","Mujer","Ff.aa.","Huasco",89555,NA,107100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583","Mujer","Miembros del Poder Ejecutivo","Huasco",241600,NA,NA,NA,NA,NA,NA,NA,393120,NA,NA,NA
+"584","Mujer","Oficiales, Operarios y Artesanos","Huasco",118800,NA,56917,NA,NA,86008,NA,NA,NA,NA,NA,NA
+"585","Mujer","Profesionales y Científicos","Huasco",60956,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","Mujer","Técnicos y Profesionales Nivel Medio","Huasco",39187,57454,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"587","Mujer","Agricultores y  y Trabajadores Calificados","Iquique",51208,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"588","Mujer","Comerciantes y Vendedores","Iquique",12080,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","Mujer","Empleados de Oficina","Iquique",76321,NA,NA,174870,161403,NA,209408,187620,286193,333359,348412,363916
+"590","Mujer","Ff.aa.","Iquique",82398,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","Mujer","Miembros del Poder Ejecutivo","Iquique",819250,NA,NA,NA,NA,NA,NA,NA,346840,NA,NA,NA
+"592","Mujer","Oficiales, Operarios y Artesanos","Iquique",106304,NA,61776,NA,NA,233905,NA,NA,NA,NA,NA,NA
+"593","Mujer","Operadores y Montadores","Iquique",43488,55635,105145,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"594","Mujer","Profesionales y Científicos","Iquique",93063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"595","Mujer","Técnicos y Profesionales Nivel Medio","Iquique",90219,163672,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"596","Mujer","Agricultores y  y Trabajadores Calificados","Limarí",31324,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"597","Mujer","Comerciantes y Vendedores","Limarí",41555,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"598","Mujer","Empleados de Oficina","Limarí",22928,NA,NA,96911,117346,NA,163463,147272,219379,198865,247148,286946
+"599","Mujer","Ff.aa.","Limarí",69339,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"600","Mujer","Oficiales, Operarios y Artesanos","Limarí",71148,NA,35214,NA,NA,100144,NA,NA,NA,NA,NA,NA
+"601","Mujer","Profesionales y Científicos","Limarí",63912,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"602","Mujer","Técnicos y Profesionales Nivel Medio","Limarí",40915,104642,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","Mujer","Agricultores y  y Trabajadores Calificados","Linares",35801,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","Mujer","Comerciantes y Vendedores","Linares",34911,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"605","Mujer","Empleados de Oficina","Linares",38610,NA,NA,103487,149484,NA,146469,175304,213038,243592,248612,302769
+"606","Mujer","Ff.aa.","Linares",55805,NA,NA,NA,NA,153333,NA,NA,NA,NA,NA,NA
+"607","Mujer","Miembros del Poder Ejecutivo","Linares",72480,NA,NA,NA,NA,NA,NA,NA,347533,NA,NA,NA
+"608","Mujer","Oficiales, Operarios y Artesanos","Linares",23556,NA,41514,NA,NA,100866,NA,NA,NA,NA,NA,NA
+"609","Mujer","Profesionales y Científicos","Linares",78416,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"610","Mujer","Técnicos y Profesionales Nivel Medio","Linares",51511,84659,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"611","Mujer","Agricultores y  y Trabajadores Calificados","Llanquihue",38464,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"612","Mujer","Comerciantes y Vendedores","Llanquihue",24348,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"613","Mujer","Empleados de Oficina","Llanquihue",28392,NA,NA,108616,173509,NA,152562,180860,255654,295862,273571,322728
+"614","Mujer","Ff.aa.","Llanquihue",73780,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"615","Mujer","Oficiales, Operarios y Artesanos","Llanquihue",34363,NA,75019,NA,NA,96036,NA,NA,NA,NA,NA,NA
+"616","Mujer","Operadores y Montadores","Llanquihue",54360,41489,137099,NA,NA,99995,NA,NA,NA,NA,NA,NA
+"617","Mujer","Profesionales y Científicos","Llanquihue",73122,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"618","Mujer","Técnicos y Profesionales Nivel Medio","Llanquihue",61179,110992,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"619","Mujer","Trabajadores No Calificados","Llanquihue",24160,36116,NA,74765,62808,NA,78580,99143,140210,171305,152884,178833
+"620","Mujer","Agricultores y  y Trabajadores Calificados","Los Andes",26040,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"621","Mujer","Empleados de Oficina","Los Andes",20778,NA,NA,104758,143732,NA,183978,206304,302113,254114,297553,354976
+"622","Mujer","Ff.aa.","Los Andes",27542,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"623","Mujer","Profesionales y Científicos","Los Andes",86212,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"624","Mujer","Agricultores y  y Trabajadores Calificados","Magallanes",68403,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"625","Mujer","Empleados de Oficina","Magallanes",39970,NA,NA,114588,164811,NA,227018,236870,239081,298656,349441,427952
+"626","Mujer","Ff.aa.","Magallanes",108769,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"627","Mujer","Oficiales, Operarios y Artesanos","Magallanes",46767,NA,74240,NA,NA,129418,NA,NA,NA,NA,NA,NA
+"628","Mujer","Profesionales y Científicos","Magallanes",73454,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","Mujer","Técnicos y Profesionales Nivel Medio","Magallanes",63762,167401,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"630","Mujer","Agricultores y  y Trabajadores Calificados","Maipo",40063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","Mujer","Comerciantes y Vendedores","Maipo",41609,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"632","Mujer","Empleados de Oficina","Maipo",31904,NA,NA,151730,172036,NA,199935,217514,264348,260609,291201,358131
+"633","Mujer","Ff.aa.","Maipo",63054,NA,NA,NA,NA,280000,NA,NA,NA,NA,NA,NA
+"634","Mujer","Miembros del Poder Ejecutivo","Maipo",188100,NA,NA,NA,NA,NA,NA,NA,401896,NA,NA,NA
+"635","Mujer","Oficiales, Operarios y Artesanos","Maipo",41676,NA,91895,NA,NA,106428,NA,NA,NA,NA,NA,NA
+"636","Mujer","Profesionales y Científicos","Maipo",66647,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"637","Mujer","Técnicos y Profesionales Nivel Medio","Maipo",36754,78140,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"638","Mujer","Agricultores y  y Trabajadores Calificados","Malleco",19371,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","Mujer","Empleados de Oficina","Malleco",22720,NA,NA,90492,104707,NA,136058,150604,188904,298221,306428,297999
+"640","Mujer","Ff.aa.","Malleco",61607,NA,NA,NA,NA,2e+05,NA,NA,NA,NA,NA,NA
+"641","Mujer","Oficiales, Operarios y Artesanos","Malleco",21744,NA,104728,NA,NA,81804,NA,NA,NA,NA,NA,NA
+"642","Mujer","Profesionales y Científicos","Malleco",62808,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"643","Mujer","Técnicos y Profesionales Nivel Medio","Malleco",109549,136413,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"644","Mujer","Agricultores y  y Trabajadores Calificados","Marga Marga",34136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"645","Mujer","Empleados de Oficina","Marga Marga",26956,NA,NA,125850,164069,NA,171863,174751,235342,296137,283184,315082
+"646","Mujer","Ff.aa.","Marga Marga",80012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"647","Mujer","Oficiales, Operarios y Artesanos","Marga Marga",50354,NA,58415,NA,NA,161001,NA,NA,NA,NA,NA,NA
+"648","Mujer","Profesionales y Científicos","Marga Marga",85011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"649","Mujer","Técnicos y Profesionales Nivel Medio","Marga Marga",117994,140394,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"650","Mujer","Agricultores y  y Trabajadores Calificados","Melipilla",34058,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"651","Mujer","Empleados de Oficina","Melipilla",33047,NA,NA,144370,158914,NA,179993,227880,218668,251657,302602,320272
+"652","Mujer","Ff.aa.","Melipilla",85070,NA,192780,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","Mujer","Miembros del Poder Ejecutivo","Melipilla",60400,NA,NA,NA,NA,NA,NA,NA,693712,NA,NA,NA
+"654","Mujer","Oficiales, Operarios y Artesanos","Melipilla",38348,NA,62443,NA,NA,102629,NA,NA,NA,NA,NA,NA
+"655","Mujer","Profesionales y Científicos","Melipilla",47198,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"656","Mujer","Técnicos y Profesionales Nivel Medio","Melipilla",45527,66472,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"657","Mujer","Agricultores y  y Trabajadores Calificados","Ñuble",27004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"658","Mujer","Comerciantes y Vendedores","Ñuble",32936,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"659","Mujer","Empleados de Oficina","Ñuble",17522,NA,NA,109794,138617,NA,144620,163657,214424,266433,246173,268798
+"660","Mujer","Ff.aa.","Ñuble",59593,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","Mujer","Miembros del Poder Ejecutivo","Ñuble",99000,NA,NA,NA,NA,NA,NA,NA,484681,NA,NA,NA
+"662","Mujer","Oficiales, Operarios y Artesanos","Ñuble",28187,NA,43192,NA,NA,77011,NA,NA,NA,NA,NA,NA
+"663","Mujer","Profesionales y Científicos","Ñuble",44727,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"664","Mujer","Técnicos y Profesionales Nivel Medio","Ñuble",45322,99866,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"665","Mujer","Agricultores y  y Trabajadores Calificados","Osorno",20297,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"666","Mujer","Comerciantes y Vendedores","Osorno",19979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"667","Mujer","Empleados de Oficina","Osorno",22230,NA,NA,109423,160362,NA,134551,173996,246492,257538,276879,288189
+"668","Mujer","Ff.aa.","Osorno",105201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"669","Mujer","Miembros del Poder Ejecutivo","Osorno",175160,NA,NA,NA,NA,NA,NA,NA,539210,NA,NA,NA
+"670","Mujer","Oficiales, Operarios y Artesanos","Osorno",36869,NA,63287,NA,NA,79450,NA,NA,NA,NA,NA,NA
+"671","Mujer","Profesionales y Científicos","Osorno",64024,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"672","Mujer","Técnicos y Profesionales Nivel Medio","Osorno",55847,99558,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"673","Mujer","Agricultores y  y Trabajadores Calificados","Petorca",59520,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"674","Mujer","Empleados de Oficina","Petorca",39356,NA,NA,94357,114049,NA,153672,187316,202176,226156,245238,298807
+"675","Mujer","Ff.aa.","Petorca",47112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"676","Mujer","Oficiales, Operarios y Artesanos","Petorca",38656,NA,62853,NA,NA,73607,NA,NA,NA,NA,NA,NA
+"677","Mujer","Profesionales y Científicos","Petorca",45300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"678","Mujer","Técnicos y Profesionales Nivel Medio","Petorca",39466,80058,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"679","Mujer","Agricultores y  y Trabajadores Calificados","Quillota",28804,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"680","Mujer","Comerciantes y Vendedores","Quillota",81661,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"681","Mujer","Empleados de Oficina","Quillota",21315,NA,NA,102677,145933,NA,160270,172258,235987,261393,267487,314902
+"682","Mujer","Ff.aa.","Quillota",61756,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"683","Mujer","Miembros del Poder Ejecutivo","Quillota",42280,NA,NA,NA,NA,NA,NA,NA,958458,NA,NA,NA
+"684","Mujer","Profesionales y Científicos","Quillota",36336,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","Mujer","Técnicos y Profesionales Nivel Medio","Quillota",160424,268250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"686","Mujer","Agricultores y  y Trabajadores Calificados","Ranco",57984,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"687","Mujer","Empleados de Oficina","Ranco",24502,NA,NA,97625,100554,NA,138368,166871,176140,292482,305795,304536
+"688","Mujer","Ff.aa.","Ranco",69643,NA,NA,NA,NA,350000,NA,NA,NA,NA,NA,NA
+"689","Mujer","Oficiales, Operarios y Artesanos","Ranco",36240,NA,36164,NA,NA,124597,NA,NA,NA,NA,NA,NA
+"690","Mujer","Profesionales y Científicos","Ranco",78520,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"691","Mujer","Técnicos y Profesionales Nivel Medio","Ranco",139520,64380,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"692","Mujer","Agricultores y  y Trabajadores Calificados","San Antonio",25740,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"693","Mujer","Comerciantes y Vendedores","San Antonio",59400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"694","Mujer","Empleados de Oficina","San Antonio",11290,NA,NA,113188,149695,NA,139486,182694,247430,257425,301754,357652
+"695","Mujer","Ff.aa.","San Antonio",48320,NA,96390,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"696","Mujer","Operadores y Montadores","San Antonio",4228,71891,70153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"697","Mujer","Profesionales y Científicos","San Antonio",46870,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"698","Mujer","Técnicos y Profesionales Nivel Medio","San Antonio",41250,117136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"699","Mujer","Agricultores y  y Trabajadores Calificados","San Felipe",36007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"700","Mujer","Comerciantes y Vendedores","San Felipe",50155,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"701","Mujer","Empleados de Oficina","San Felipe",21810,NA,NA,105461,126724,NA,145704,155526,230167,248721,272163,330717
+"702","Mujer","Ff.aa.","San Felipe",84837,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"703","Mujer","Profesionales y Científicos","San Felipe",88827,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"704","Mujer","Técnicos y Profesionales Nivel Medio","San Felipe",63427,30044,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"705","Mujer","Agricultores y  y Trabajadores Calificados","Santiago",45243,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"706","Mujer","Comerciantes y Vendedores","Santiago",49334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"707","Mujer","Empleados de Oficina","Santiago",35444,NA,NA,168304,190409,NA,219525,233664,289814,321711,338774,401434
+"708","Mujer","Ff.aa.","Santiago",92650,NA,96390,NA,NA,212500,NA,NA,NA,NA,NA,NA
+"709","Mujer","Miembros del Poder Ejecutivo","Santiago",396296,NA,NA,NA,NA,NA,NA,NA,778014,NA,NA,NA
+"710","Mujer","Oficiales, Operarios y Artesanos","Santiago",48864,NA,102859,NA,NA,139296,NA,NA,NA,NA,NA,NA
+"711","Mujer","Operadores y Montadores","Santiago",92291,105783,96997,NA,NA,157578,NA,NA,NA,NA,NA,NA
+"712","Mujer","Profesionales y Científicos","Santiago",92502,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"713","Mujer","Técnicos y Profesionales Nivel Medio","Santiago",73329,156073,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"714","Mujer","Trabajadores No Calificados","Santiago",132880,50074,NA,84862,105431,NA,125883,140449,179777,206746,198210,237888
+"715","Mujer","Agricultores y  y Trabajadores Calificados","Talagante",51995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"716","Mujer","Comerciantes y Vendedores","Talagante",46945,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"717","Mujer","Empleados de Oficina","Talagante",30792,NA,NA,109862,152144,NA,197004,197370,277456,259092,331091,463777
+"718","Mujer","Ff.aa.","Talagante",74940,NA,72114,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"719","Mujer","Miembros del Poder Ejecutivo","Talagante",78520,NA,NA,NA,NA,NA,NA,NA,578142,NA,NA,NA
+"720","Mujer","Oficiales, Operarios y Artesanos","Talagante",32114,NA,66715,NA,NA,121652,NA,NA,NA,NA,NA,NA
+"721","Mujer","Profesionales y Científicos","Talagante",82671,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"722","Mujer","Técnicos y Profesionales Nivel Medio","Talagante",56174,108300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"723","Mujer","Trabajadores No Calificados","Talagante",9900,51034,NA,80449,87346,NA,95477,116111,155059,216654,180950,191939
+"724","Mujer","Agricultores y  y Trabajadores Calificados","Talca",45872,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"725","Mujer","Comerciantes y Vendedores","Talca",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"726","Mujer","Empleados de Oficina","Talca",39507,NA,NA,108571,129036,NA,156624,158497,218231,263114,291269,321613
+"727","Mujer","Ff.aa.","Talca",69972,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"728","Mujer","Miembros del Poder Ejecutivo","Talca",174720,NA,NA,NA,NA,NA,NA,NA,562615,NA,NA,NA
+"729","Mujer","Oficiales, Operarios y Artesanos","Talca",20680,NA,49052,NA,NA,73684,NA,NA,NA,NA,NA,NA
+"730","Mujer","Profesionales y Científicos","Talca",59787,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"731","Mujer","Técnicos y Profesionales Nivel Medio","Talca",62113,120495,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"732","Mujer","Agricultores y  y Trabajadores Calificados","Tamarugal",37403,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"733","Mujer","Empleados de Oficina","Tamarugal",35795,NA,NA,114500,156406,NA,142888,172504,258601,276878,336154,344571
+"734","Mujer","Ff.aa.","Tamarugal",65131,NA,NA,NA,NA,280000,NA,NA,NA,NA,NA,NA
+"735","Mujer","Miembros del Poder Ejecutivo","Tamarugal",47112,NA,NA,NA,NA,NA,NA,NA,380402,NA,NA,NA
+"736","Mujer","Oficiales, Operarios y Artesanos","Tamarugal",20001,NA,NA,NA,NA,118075,NA,NA,NA,NA,NA,NA
+"737","Mujer","Profesionales y Científicos","Tamarugal",51582,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"738","Mujer","Técnicos y Profesionales Nivel Medio","Tamarugal",68889,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"739","Mujer","Empleados de Oficina","Tierra del Fuego",52597,NA,NA,86667,99597,NA,212625,229400,373404,256325,242857,547846
+"740","Mujer","Ff.aa.","Tierra del Fuego",24160,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"741","Mujer","Técnicos y Profesionales Nivel Medio","Tierra del Fuego",44196,84230,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"742","Mujer","Comerciantes y Vendedores","Tocopilla",99000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"743","Mujer","Empleados de Oficina","Tocopilla",29465,NA,NA,116886,147478,NA,170999,193774,295290,332766,432159,387214
+"744","Mujer","Ff.aa.","Tocopilla",63111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"745","Mujer","Profesionales y Científicos","Tocopilla",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"746","Mujer","Técnicos y Profesionales Nivel Medio","Tocopilla",59046,144855,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"747","Mujer","Agricultores y  y Trabajadores Calificados","Última Esperanza",23600,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"748","Mujer","Empleados de Oficina","Última Esperanza",38629,NA,NA,125778,139036,NA,130346,245818,234334,756383,330899,349141
+"749","Mujer","Ff.aa.","Última Esperanza",67577,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"750","Mujer","Oficiales, Operarios y Artesanos","Última Esperanza",18720,NA,55887,NA,NA,70447,NA,NA,NA,NA,NA,NA
+"751","Mujer","Profesionales y Científicos","Última Esperanza",34361,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"752","Mujer","Técnicos y Profesionales Nivel Medio","Última Esperanza",118990,85840,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"753","Mujer","Agricultores y  y Trabajadores Calificados","Valdivia",44953,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"754","Mujer","Empleados de Oficina","Valdivia",31352,NA,NA,120153,129169,NA,159143,169535,265123,270520,277477,292129
+"755","Mujer","Ff.aa.","Valdivia",70344,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"756","Mujer","Oficiales, Operarios y Artesanos","Valdivia",40347,NA,68239,NA,NA,110473,NA,NA,NA,NA,NA,NA
+"757","Mujer","Profesionales y Científicos","Valdivia",52612,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"758","Mujer","Técnicos y Profesionales Nivel Medio","Valdivia",52442,72322,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"759","Mujer","Agricultores y  y Trabajadores Calificados","Valparaíso",33687,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"760","Mujer","Comerciantes y Vendedores","Valparaíso",22952,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"761","Mujer","Empleados de Oficina","Valparaíso",31866,NA,NA,123530,153854,NA,162009,175342,246026,307654,303234,292709
+"762","Mujer","Ff.aa.","Valparaíso",73497,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"763","Mujer","Miembros del Poder Ejecutivo","Valparaíso",235560,NA,NA,NA,NA,NA,NA,NA,669756,NA,NA,NA
+"764","Mujer","Oficiales, Operarios y Artesanos","Valparaíso",18462,NA,81697,NA,NA,136693,NA,NA,NA,NA,NA,NA
+"765","Mujer","Profesionales y Científicos","Valparaíso",57012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"766","Mujer","Técnicos y Profesionales Nivel Medio","Valparaíso",47705,116211,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
