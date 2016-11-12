@@ -3,8 +3,8 @@
 ########
 
 # Paste the relevant columns here (region, province, comuna and household's income)
-wage_by_gender_2013 <- as.data.frame(cbind(as.character(casen_2013$comuna), as.character(casen_2013$yoprcor), as.character(casen_2013$oficio4), as.character(casen_2013$sexo)))
-setnames(wage_by_gender_2013, colnames(wage_by_gender_2013), c("comuna","ingreso_ocup_principal", "oficio_id", "sexo"))
+wage_by_gender_2013 <- as.data.frame(cbind(as.character(casen_2013$comuna), as.character(casen_2013$yoprcor), as.character(casen_2013$sexo)))
+setnames(wage_by_gender_2013, colnames(wage_by_gender_2013), c("comuna","ingreso_ocup_principal", "sexo"))
 
 # Trim leading/ending whitespace
 #wage_by_gender_2013 <- as.data.frame(lapply(wage_by_gender_2013, function(x) iconv(x)))
@@ -45,7 +45,7 @@ wage_by_gender_2013 <- as.data.frame(lapply(wage_by_gender_2013, function(x) gsu
 
 # Add provincia and region
 wage_by_gender_2013 <- join(wage_by_gender_2013, regiones_casen_2015, by = "comuna")
-wage_by_gender_2013 <- wage_by_gender_2013[,c("comuna","provincia","region","ingreso_ocup_principal", "oficio_id", "sexo")]
+wage_by_gender_2013 <- wage_by_gender_2013[,c("comuna","provincia","region","ingreso_ocup_principal", "sexo")]
 
 # Keep only the households that reported their wage
 wage_by_gender_2013$ingreso_ocup_principal <- as.numeric(as.character(wage_by_gender_2013$ingreso_ocup_principal))
