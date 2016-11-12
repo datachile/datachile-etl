@@ -1,269 +1,269 @@
-"","sexo","region","oficio_id","1990","1992","1994","1996","1998","2000","2003","2006","2009","2011","2013","2015"
-"1","Hombre","Antofagasta","Agricultores y  y Trabajadores Calificados",60400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"2","Hombre","Araucanía","Agricultores y  y Trabajadores Calificados",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"3","Hombre","Arica y Parinacota","Agricultores y  y Trabajadores Calificados",39600,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"4","Hombre","Atacama","Agricultores y  y Trabajadores Calificados",37424,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"5","Hombre","Aysén","Agricultores y  y Trabajadores Calificados",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"6","Hombre","Bíobío","Agricultores y  y Trabajadores Calificados",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"7","Hombre","Coquimbo","Agricultores y  y Trabajadores Calificados",33462,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"8","Hombre","Los Lagos","Agricultores y  y Trabajadores Calificados",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"9","Hombre","Los Ríos","Agricultores y  y Trabajadores Calificados",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"10","Hombre","Magallanes","Agricultores y  y Trabajadores Calificados",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"11","Hombre","Maule","Agricultores y  y Trabajadores Calificados",30200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"12","Hombre","Metropolitana","Agricultores y  y Trabajadores Calificados",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"13","Hombre","O'Higgins","Agricultores y  y Trabajadores Calificados",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"14","Hombre","Tarapacá","Agricultores y  y Trabajadores Calificados",46750,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"15","Hombre","Valparaíso","Agricultores y  y Trabajadores Calificados",35640,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"16","Hombre","Antofagasta","Comerciantes y Vendedores",70064,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"17","Hombre","Araucanía","Comerciantes y Vendedores",37206,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"18","Hombre","Arica y Parinacota","Comerciantes y Vendedores",59400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"19","Hombre","Atacama","Comerciantes y Vendedores",60400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"20","Hombre","Aysén","Comerciantes y Vendedores",59400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"21","Hombre","Bíobío","Comerciantes y Vendedores",48320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"22","Hombre","Coquimbo","Comerciantes y Vendedores",42280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"23","Hombre","Los Lagos","Comerciantes y Vendedores",41978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"24","Hombre","Los Ríos","Comerciantes y Vendedores",39260,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"25","Hombre","Magallanes","Comerciantes y Vendedores",51084,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"26","Hombre","Maule","Comerciantes y Vendedores",37448,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"27","Hombre","Metropolitana","Comerciantes y Vendedores",48320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"28","Hombre","O'Higgins","Comerciantes y Vendedores",51340,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"29","Hombre","Tarapacá","Comerciantes y Vendedores",60400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"30","Hombre","Valparaíso","Comerciantes y Vendedores",45904,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"31","Hombre","Antofagasta","Empleados de Oficina",37508,NA,NA,170000,190760,NA,235000,261590,353600,382900,351724,5e+05
-"32","Hombre","Araucanía","Empleados de Oficina",34732,NA,NA,120000,150600,NA,180000,179275,221000,243415,280000,3e+05
-"33","Hombre","Arica y Parinacota","Empleados de Oficina",45300,NA,NA,176000,202808,NA,2e+05,186850,276250,328200,3e+05,450000
-"34","Hombre","Atacama","Empleados de Oficina",36240,NA,NA,2e+05,180720,NA,190000,218160,243100,382900,4e+05,4e+05
-"35","Hombre","Aysén","Empleados de Oficina",48320,NA,NA,140000,175700,NA,250000,282800,464100,328200,347500,395000
-"36","Hombre","Bíobío","Empleados de Oficina",36240,NA,NA,140000,180720,NA,180000,191900,276250,266871,280000,350000
-"37","Hombre","Coquimbo","Empleados de Oficina",33824,NA,NA,140000,160640,NA,180000,181800,254150,278970,350000,350000
-"38","Hombre","Los Lagos","Empleados de Oficina",33166,NA,NA,120000,158520,NA,180000,202000,254150,273500,3e+05,305500
-"39","Hombre","Los Ríos","Empleados de Oficina",31408,NA,NA,130000,170680,NA,155000,181800,276250,232475,250000,3e+05
-"40","Hombre","Magallanes","Empleados de Oficina",37448,NA,NA,150969,177708,NA,250000,247450,419900,317260,350000,4e+05
-"41","Hombre","Maule","Empleados de Oficina",31408,NA,NA,120000,150600,NA,150000,171700,254150,251620,280000,3e+05
-"42","Hombre","Metropolitana","Empleados de Oficina",38656,NA,NA,160000,180720,NA,2e+05,202000,276250,273500,310000,380000
-"43","Hombre","O'Higgins","Empleados de Oficina",35636,NA,NA,150000,180720,NA,180000,181800,276250,273500,340000,380000
-"44","Hombre","Tarapacá","Empleados de Oficina",48320,NA,NA,160000,235940,NA,195000,181800,331500,328200,350000,379000
-"45","Hombre","Valparaíso","Empleados de Oficina",33824,NA,NA,180000,160640,NA,2e+05,202000,265200,273500,295000,355302
-"46","Hombre","Antofagasta","Ff.aa.",129256,NA,149940,NA,NA,238000,NA,NA,NA,NA,NA,NA
-"47","Hombre","Araucanía","Ff.aa.",89100,NA,165930,NA,NA,316988,NA,NA,NA,NA,NA,NA
-"48","Hombre","Arica y Parinacota","Ff.aa.",84560,NA,235620,NA,NA,341950,NA,NA,NA,NA,NA,NA
-"49","Hombre","Atacama","Ff.aa.",157040,NA,107100,NA,NA,247500,NA,NA,NA,NA,NA,NA
-"50","Hombre","Aysén","Ff.aa.",157040,NA,299880,NA,NA,310000,NA,NA,NA,NA,NA,NA
-"51","Hombre","Bíobío","Ff.aa.",84560,NA,139230,NA,NA,243000,NA,NA,NA,NA,NA,NA
-"52","Hombre","Coquimbo","Ff.aa.",93016,NA,160650,NA,NA,4e+05,NA,NA,NA,NA,NA,NA
-"53","Hombre","Los Lagos","Ff.aa.",96640,NA,182070,NA,NA,375000,NA,NA,NA,NA,NA,NA
-"54","Hombre","Los Ríos","Ff.aa.",84560,NA,246330,NA,NA,248912,NA,NA,NA,NA,NA,NA
-"55","Hombre","Magallanes","Ff.aa.",119800,NA,160650,NA,NA,350000,NA,NA,NA,NA,NA,NA
-"56","Hombre","Maule","Ff.aa.",91808,NA,149940,NA,NA,262800,NA,NA,NA,NA,NA,NA
-"57","Hombre","Metropolitana","Ff.aa.",102680,NA,160650,NA,NA,245000,NA,NA,NA,NA,NA,NA
-"58","Hombre","O'Higgins","Ff.aa.",108720,NA,160650,NA,NA,154663,NA,NA,NA,NA,NA,NA
-"59","Hombre","Tarapacá","Ff.aa.",157040,NA,160650,NA,NA,350000,NA,NA,NA,NA,NA,NA
-"60","Hombre","Valparaíso","Ff.aa.",84560,NA,107100,NA,NA,2e+05,NA,NA,NA,NA,NA,NA
-"61","Hombre","Antofagasta","Miembros del Poder Ejecutivo",485100,NA,NA,NA,NA,NA,NA,NA,801450,NA,NA,NA
-"62","Hombre","Araucanía","Miembros del Poder Ejecutivo",297000,NA,NA,NA,NA,NA,NA,NA,338910,NA,NA,NA
-"63","Hombre","Arica y Parinacota","Miembros del Poder Ejecutivo",362400,NA,NA,NA,NA,NA,NA,NA,639600,NA,NA,NA
-"64","Hombre","Atacama","Miembros del Poder Ejecutivo",594000,NA,NA,NA,NA,NA,NA,NA,477750,NA,NA,NA
-"65","Hombre","Aysén","Miembros del Poder Ejecutivo",211400,NA,NA,NA,NA,NA,NA,NA,552500,NA,NA,NA
-"66","Hombre","Bíobío","Miembros del Poder Ejecutivo",396000,NA,NA,NA,NA,NA,NA,NA,497250,NA,NA,NA
-"67","Hombre","Coquimbo","Miembros del Poder Ejecutivo",396000,NA,NA,NA,NA,NA,NA,NA,400530,NA,NA,NA
-"68","Hombre","Los Lagos","Miembros del Poder Ejecutivo",396000,NA,NA,NA,NA,NA,NA,NA,484542,NA,NA,NA
-"69","Hombre","Los Ríos","Miembros del Poder Ejecutivo",375191,NA,NA,NA,NA,NA,NA,NA,495105,NA,NA,NA
-"70","Hombre","Magallanes","Miembros del Poder Ejecutivo",244620,NA,NA,NA,NA,NA,NA,NA,891826,NA,NA,NA
-"71","Hombre","Maule","Miembros del Poder Ejecutivo",332200,NA,NA,NA,NA,NA,NA,NA,564850,NA,NA,NA
-"72","Hombre","Metropolitana","Miembros del Poder Ejecutivo",422800,NA,NA,NA,NA,NA,NA,NA,777798,NA,NA,NA
-"73","Hombre","O'Higgins","Miembros del Poder Ejecutivo",297000,NA,NA,NA,NA,NA,NA,NA,442000,NA,NA,NA
-"74","Hombre","Tarapacá","Miembros del Poder Ejecutivo",396000,NA,NA,NA,NA,NA,NA,NA,410800,NA,NA,NA
-"75","Hombre","Valparaíso","Miembros del Poder Ejecutivo",376200,NA,NA,NA,NA,NA,NA,NA,552500,NA,NA,NA
-"76","Hombre","Antofagasta","Oficiales, Operarios y Artesanos",54360,NA,112124,NA,NA,190000,NA,NA,NA,NA,NA,NA
-"77","Hombre","Araucanía","Oficiales, Operarios y Artesanos",39600,NA,75650,NA,NA,110000,NA,NA,NA,NA,NA,NA
-"78","Hombre","Arica y Parinacota","Oficiales, Operarios y Artesanos",48320,NA,107100,NA,NA,117500,NA,NA,NA,NA,NA,NA
-"79","Hombre","Atacama","Oficiales, Operarios y Artesanos",59400,NA,107100,NA,NA,160000,NA,NA,NA,NA,NA,NA
-"80","Hombre","Aysén","Oficiales, Operarios y Artesanos",54360,NA,93712,NA,NA,130000,NA,NA,NA,NA,NA,NA
-"81","Hombre","Bíobío","Oficiales, Operarios y Artesanos",42280,NA,74970,NA,NA,120000,NA,NA,NA,NA,NA,NA
-"82","Hombre","Coquimbo","Oficiales, Operarios y Artesanos",39600,NA,85680,NA,NA,137179,NA,NA,NA,NA,NA,NA
-"83","Hombre","Los Lagos","Oficiales, Operarios y Artesanos",36240,NA,80325,NA,NA,120655,NA,NA,NA,NA,NA,NA
-"84","Hombre","Los Ríos","Oficiales, Operarios y Artesanos",39600,NA,85680,NA,NA,120000,NA,NA,NA,NA,NA,NA
-"85","Hombre","Magallanes","Oficiales, Operarios y Artesanos",48320,NA,136170,NA,NA,182600,NA,NA,NA,NA,NA,NA
-"86","Hombre","Maule","Oficiales, Operarios y Artesanos",42280,NA,74970,NA,NA,120000,NA,NA,NA,NA,NA,NA
-"87","Hombre","Metropolitana","Oficiales, Operarios y Artesanos",49528,NA,107100,NA,NA,170000,NA,NA,NA,NA,NA,NA
-"88","Hombre","O'Higgins","Oficiales, Operarios y Artesanos",59400,NA,91035,NA,NA,140000,NA,NA,NA,NA,NA,NA
-"89","Hombre","Tarapacá","Oficiales, Operarios y Artesanos",60400,NA,107100,NA,NA,180000,NA,NA,NA,NA,NA,NA
-"90","Hombre","Valparaíso","Oficiales, Operarios y Artesanos",39600,NA,96390,NA,NA,150000,NA,NA,NA,NA,NA,NA
-"91","Hombre","Antofagasta","Operadores y Montadores",67648,100966,136170,NA,NA,220000,NA,NA,NA,NA,NA,NA
-"92","Hombre","Araucanía","Operadores y Montadores",72480,53650,85680,NA,NA,120000,NA,NA,NA,NA,NA,NA
-"93","Hombre","Arica y Parinacota","Operadores y Montadores",96640,64380,128520,NA,NA,148040,NA,NA,NA,NA,NA,NA
-"94","Hombre","Atacama","Operadores y Montadores",181200,96570,107100,NA,NA,180000,NA,NA,NA,NA,NA,NA
-"95","Hombre","Aysén","Operadores y Montadores",132880,88065,107100,NA,NA,140000,NA,NA,NA,NA,NA,NA
-"96","Hombre","Bíobío","Operadores y Montadores",84560,64380,80325,NA,NA,140000,NA,NA,NA,NA,NA,NA
-"97","Hombre","Coquimbo","Operadores y Montadores",96640,66526,95319,NA,NA,160000,NA,NA,NA,NA,NA,NA
-"98","Hombre","Los Lagos","Operadores y Montadores",72480,64380,85680,NA,NA,120000,NA,NA,NA,NA,NA,NA
-"99","Hombre","Los Ríos","Operadores y Montadores",61608,64380,74970,NA,NA,118500,NA,NA,NA,NA,NA,NA
-"100","Hombre","Magallanes","Operadores y Montadores",102680,96570,145265,NA,NA,2e+05,NA,NA,NA,NA,NA,NA
-"101","Hombre","Maule","Operadores y Montadores",81302,64380,80325,NA,NA,127820,NA,NA,NA,NA,NA,NA
-"102","Hombre","Metropolitana","Operadores y Montadores",60400,80475,107100,NA,NA,170000,NA,NA,NA,NA,NA,NA
-"103","Hombre","O'Higgins","Operadores y Montadores",90600,75110,86751,NA,NA,141804,NA,NA,NA,NA,NA,NA
-"104","Hombre","Tarapacá","Operadores y Montadores",108720,100981,107100,NA,NA,2e+05,NA,NA,NA,NA,NA,NA
-"105","Hombre","Valparaíso","Operadores y Montadores",82144,85840,107100,NA,NA,161089,NA,NA,NA,NA,NA,NA
-"106","Hombre","Antofagasta","Profesionales y Científicos",72480,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"107","Hombre","Araucanía","Profesionales y Científicos",54360,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"108","Hombre","Arica y Parinacota","Profesionales y Científicos",72480,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"109","Hombre","Atacama","Profesionales y Científicos",72480,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"110","Hombre","Aysén","Profesionales y Científicos",79200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"111","Hombre","Bíobío","Profesionales y Científicos",49500,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"112","Hombre","Coquimbo","Profesionales y Científicos",59400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"113","Hombre","Los Lagos","Profesionales y Científicos",68474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"114","Hombre","Los Ríos","Profesionales y Científicos",59400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"115","Hombre","Magallanes","Profesionales y Científicos",108720,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"116","Hombre","Maule","Profesionales y Científicos",50118,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"117","Hombre","Metropolitana","Profesionales y Científicos",71360,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"118","Hombre","O'Higgins","Profesionales y Científicos",88098,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"119","Hombre","Tarapacá","Profesionales y Científicos",84560,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"120","Hombre","Valparaíso","Profesionales y Científicos",68856,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"121","Hombre","Antofagasta","Técnicos y Profesionales Nivel Medio",59900,160950,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"122","Hombre","Araucanía","Técnicos y Profesionales Nivel Medio",49500,107300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"123","Hombre","Arica y Parinacota","Técnicos y Profesionales Nivel Medio",56108,214600,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"124","Hombre","Atacama","Técnicos y Profesionales Nivel Medio",59400,127150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"125","Hombre","Aysén","Técnicos y Profesionales Nivel Medio",76626,158268,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"126","Hombre","Bíobío","Técnicos y Profesionales Nivel Medio",51212,114811,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"127","Hombre","Coquimbo","Técnicos y Profesionales Nivel Medio",48320,128760,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"128","Hombre","Los Lagos","Técnicos y Profesionales Nivel Medio",59400,126983,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"129","Hombre","Los Ríos","Técnicos y Profesionales Nivel Medio",62816,97643,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"130","Hombre","Magallanes","Técnicos y Profesionales Nivel Medio",59400,191038,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"131","Hombre","Maule","Técnicos y Profesionales Nivel Medio",55336,116420,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"132","Hombre","Metropolitana","Técnicos y Profesionales Nivel Medio",59400,160950,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"133","Hombre","O'Higgins","Técnicos y Profesionales Nivel Medio",59400,126227,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"134","Hombre","Tarapacá","Técnicos y Profesionales Nivel Medio",99000,107300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"135","Hombre","Valparaíso","Técnicos y Profesionales Nivel Medio",59400,160950,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"136","Hombre","Araucanía","Trabajadores No Calificados",36240,42920,NA,60000,80320,NA,98815,121200,165750,196920,210000,241000
-"137","Hombre","Aysén","Trabajadores No Calificados",33824,51590,NA,75000,83332,NA,120000,151500,198900,218800,220000,280000
-"138","Hombre","Bíobío","Trabajadores No Calificados",41072,40774,NA,61290,80320,NA,95342,121200,165750,196920,210000,241000
-"139","Hombre","Coquimbo","Trabajadores No Calificados",51480,42996,NA,65000,80822,NA,110000,136350,182325,202390,211757,248000
-"140","Hombre","Los Lagos","Trabajadores No Calificados",46780,40774,NA,65000,80320,NA,111000,136350,176800,199108,210000,241000
-"141","Hombre","Metropolitana","Trabajadores No Calificados",50132,53650,NA,96000,100400,NA,120000,141400,191942,218800,230000,280000
-"142","Hombre","O'Higgins","Trabajadores No Calificados",25542,46139,NA,65500,82384,NA,112000,131300,182325,199108,210000,247000
-"143","Hombre","Tarapacá","Trabajadores No Calificados",132880,63746,NA,91935,97750,NA,120000,136350,205400,262560,250000,3e+05
-"144","Hombre","Valparaíso","Trabajadores No Calificados",99056,48285,NA,75000,85340,NA,115000,136350,182325,199108,210000,250000
-"145","Mujer","Antofagasta","Agricultores y  y Trabajadores Calificados",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"146","Mujer","Araucanía","Agricultores y  y Trabajadores Calificados",18120,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"147","Mujer","Arica y Parinacota","Agricultores y  y Trabajadores Calificados",32204,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"148","Mujer","Atacama","Agricultores y  y Trabajadores Calificados",33220,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"149","Mujer","Aysén","Agricultores y  y Trabajadores Calificados",29700,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"150","Mujer","Bíobío","Agricultores y  y Trabajadores Calificados",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"151","Mujer","Coquimbo","Agricultores y  y Trabajadores Calificados",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"152","Mujer","Los Lagos","Agricultores y  y Trabajadores Calificados",29700,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"153","Mujer","Los Ríos","Agricultores y  y Trabajadores Calificados",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"154","Mujer","Magallanes","Agricultores y  y Trabajadores Calificados",19800,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"155","Mujer","Maule","Agricultores y  y Trabajadores Calificados",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"156","Mujer","Metropolitana","Agricultores y  y Trabajadores Calificados",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"157","Mujer","O'Higgins","Agricultores y  y Trabajadores Calificados",32616,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"158","Mujer","Tarapacá","Agricultores y  y Trabajadores Calificados",44660,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"159","Mujer","Valparaíso","Agricultores y  y Trabajadores Calificados",31408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"160","Mujer","Antofagasta","Comerciantes y Vendedores",99000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"161","Mujer","Arica y Parinacota","Comerciantes y Vendedores",54360,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"162","Mujer","Atacama","Comerciantes y Vendedores",35032,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"163","Mujer","Aysén","Comerciantes y Vendedores",59400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"164","Mujer","Bíobío","Comerciantes y Vendedores",37448,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"165","Mujer","Coquimbo","Comerciantes y Vendedores",60400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"166","Mujer","Los Lagos","Comerciantes y Vendedores",22164,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"167","Mujer","Maule","Comerciantes y Vendedores",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"168","Mujer","Metropolitana","Comerciantes y Vendedores",36240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"169","Mujer","O'Higgins","Comerciantes y Vendedores",42280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"170","Mujer","Tarapacá","Comerciantes y Vendedores",12080,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"171","Mujer","Valparaíso","Comerciantes y Vendedores",33824,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"172","Mujer","Antofagasta","Empleados de Oficina",25542,NA,NA,1e+05,130520,NA,160000,202000,243100,284440,320000,350000
-"173","Mujer","Araucanía","Empleados de Oficina",21744,NA,NA,95000,100400,NA,120000,139380,182325,218800,230000,250000
-"174","Mujer","Arica y Parinacota","Empleados de Oficina",24764,NA,NA,90000,150600,NA,150000,131300,182325,261648,250000,250000
-"175","Mujer","Atacama","Empleados de Oficina",24160,NA,NA,115000,120480,NA,138000,161600,205400,257195,3e+05,3e+05
-"176","Mujer","Aysén","Empleados de Oficina",30200,NA,NA,100092,120480,NA,164296,202000,198900,295380,3e+05,380000
-"177","Mujer","Bíobío","Empleados de Oficina",18120,NA,NA,95000,120480,NA,130000,151500,198900,218800,236866,255000
-"178","Mujer","Coquimbo","Empleados de Oficina",24160,NA,NA,90000,117300,NA,140000,151500,198900,218800,230000,3e+05
-"179","Mujer","Los Lagos","Empleados de Oficina",21744,NA,NA,1e+05,135540,NA,133330,158570,213265,218800,250000,3e+05
-"180","Mujer","Los Ríos","Empleados de Oficina",24160,NA,NA,80000,100400,NA,130000,141400,182325,251073,250000,250000
-"181","Mujer","Magallanes","Empleados de Oficina",26576,NA,NA,1e+05,119476,NA,160000,200990,221000,273500,3e+05,350000
-"182","Mujer","Maule","Empleados de Oficina",21744,NA,NA,90000,120480,NA,130000,141859,182325,218800,230236,265000
-"183","Mujer","Metropolitana","Empleados de Oficina",30200,NA,NA,149715,150600,NA,180000,190890,232050,267260,290000,350000
-"184","Mujer","O'Higgins","Empleados de Oficina",24160,NA,NA,1e+05,120480,NA,145000,151500,187850,207860,250000,290000
-"185","Mujer","Tarapacá","Empleados de Oficina",31408,NA,NA,161720,150600,NA,140000,151500,221000,273500,3e+05,310000
-"186","Mujer","Valparaíso","Empleados de Oficina",21744,NA,NA,108739,120480,NA,137000,151500,217132,218800,250000,270000
-"187","Mujer","Antofagasta","Ff.aa.",60400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"188","Mujer","Araucanía","Ff.aa.",60400,NA,160650,NA,NA,2e+05,NA,NA,NA,NA,NA,NA
-"189","Mujer","Arica y Parinacota","Ff.aa.",90322,NA,166005,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"190","Mujer","Atacama","Ff.aa.",67648,NA,107100,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"191","Mujer","Aysén","Ff.aa.",96640,NA,203490,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"192","Mujer","Bíobío","Ff.aa.",54360,NA,NA,NA,NA,190000,NA,NA,NA,NA,NA,NA
-"193","Mujer","Coquimbo","Ff.aa.",57984,NA,74970,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"194","Mujer","Los Lagos","Ff.aa.",60400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"195","Mujer","Los Ríos","Ff.aa.",60400,NA,NA,NA,NA,350000,NA,NA,NA,NA,NA,NA
-"196","Mujer","Magallanes","Ff.aa.",83956,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"197","Mujer","Maule","Ff.aa.",60400,NA,NA,NA,NA,120000,NA,NA,NA,NA,NA,NA
-"198","Mujer","Metropolitana","Ff.aa.",60400,NA,89428,NA,NA,225000,NA,NA,NA,NA,NA,NA
-"199","Mujer","O'Higgins","Ff.aa.",57078,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"200","Mujer","Tarapacá","Ff.aa.",72480,NA,NA,NA,NA,280000,NA,NA,NA,NA,NA,NA
-"201","Mujer","Valparaíso","Ff.aa.",53152,NA,96390,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"202","Mujer","Antofagasta","Miembros del Poder Ejecutivo",396000,NA,NA,NA,NA,NA,NA,NA,414375,NA,NA,NA
-"203","Mujer","Arica y Parinacota","Miembros del Poder Ejecutivo",573111,NA,NA,NA,NA,NA,NA,NA,287560,NA,NA,NA
-"204","Mujer","Atacama","Miembros del Poder Ejecutivo",235560,NA,NA,NA,NA,NA,NA,NA,552500,NA,NA,NA
-"205","Mujer","Aysén","Miembros del Poder Ejecutivo",159708,NA,NA,NA,NA,NA,NA,NA,616200,NA,NA,NA
-"206","Mujer","Bíobío","Miembros del Poder Ejecutivo",103860,NA,NA,NA,NA,NA,NA,NA,276250,NA,NA,NA
-"207","Mujer","Coquimbo","Miembros del Poder Ejecutivo",594000,NA,NA,NA,NA,NA,NA,NA,343525,NA,NA,NA
-"208","Mujer","Los Lagos","Miembros del Poder Ejecutivo",175160,NA,NA,NA,NA,NA,NA,NA,398775,NA,NA,NA
-"209","Mujer","Maule","Miembros del Poder Ejecutivo",198000,NA,NA,NA,NA,NA,NA,NA,410800,NA,NA,NA
-"210","Mujer","Metropolitana","Miembros del Poder Ejecutivo",221480,NA,NA,NA,NA,NA,NA,NA,462236,NA,NA,NA
-"211","Mujer","Tarapacá","Miembros del Poder Ejecutivo",396000,NA,NA,NA,NA,NA,NA,NA,331500,NA,NA,NA
-"212","Mujer","Valparaíso","Miembros del Poder Ejecutivo",108720,NA,NA,NA,NA,NA,NA,NA,410800,NA,NA,NA
-"213","Mujer","Antofagasta","Oficiales, Operarios y Artesanos",32395,NA,58905,NA,NA,76694,NA,NA,NA,NA,NA,NA
-"214","Mujer","Araucanía","Oficiales, Operarios y Artesanos",25722,NA,45390,NA,NA,73040,NA,NA,NA,NA,NA,NA
-"215","Mujer","Arica y Parinacota","Oficiales, Operarios y Artesanos",28388,NA,62790,NA,NA,56520,NA,NA,NA,NA,NA,NA
-"216","Mujer","Atacama","Oficiales, Operarios y Artesanos",36240,NA,52955,NA,NA,1e+05,NA,NA,NA,NA,NA,NA
-"217","Mujer","Aysén","Oficiales, Operarios y Artesanos",44696,NA,52479,NA,NA,102730,NA,NA,NA,NA,NA,NA
-"218","Mujer","Bíobío","Oficiales, Operarios y Artesanos",31408,NA,32330,NA,NA,80000,NA,NA,NA,NA,NA,NA
-"219","Mujer","Coquimbo","Oficiales, Operarios y Artesanos",31408,NA,34978,NA,NA,104216,NA,NA,NA,NA,NA,NA
-"220","Mujer","Los Lagos","Oficiales, Operarios y Artesanos",31408,NA,60628,NA,NA,1e+05,NA,NA,NA,NA,NA,NA
-"221","Mujer","Los Ríos","Oficiales, Operarios y Artesanos",36240,NA,60628,NA,NA,91300,NA,NA,NA,NA,NA,NA
-"222","Mujer","Magallanes","Oficiales, Operarios y Artesanos",33824,NA,64260,NA,NA,104780,NA,NA,NA,NA,NA,NA
-"223","Mujer","Maule","Oficiales, Operarios y Artesanos",28992,NA,32529,NA,NA,71520,NA,NA,NA,NA,NA,NA
-"224","Mujer","Metropolitana","Oficiales, Operarios y Artesanos",35636,NA,75650,NA,NA,109560,NA,NA,NA,NA,NA,NA
-"225","Mujer","O'Higgins","Oficiales, Operarios y Artesanos",31408,NA,53474,NA,NA,95650,NA,NA,NA,NA,NA,NA
-"226","Mujer","Tarapacá","Oficiales, Operarios y Artesanos",25368,NA,60520,NA,NA,91300,NA,NA,NA,NA,NA,NA
-"227","Mujer","Valparaíso","Oficiales, Operarios y Artesanos",28086,NA,56763,NA,NA,91300,NA,NA,NA,NA,NA,NA
-"228","Mujer","Antofagasta","Operadores y Montadores",132880,53650,139230,NA,NA,145000,NA,NA,NA,NA,NA,NA
-"229","Mujer","Los Lagos","Operadores y Montadores",54360,44530,64260,NA,NA,92500,NA,NA,NA,NA,NA,NA
-"230","Mujer","Metropolitana","Operadores y Montadores",60400,64380,74970,NA,NA,120000,NA,NA,NA,NA,NA,NA
-"231","Mujer","Tarapacá","Operadores y Montadores",43488,55635,69615,NA,NA,87390,NA,NA,NA,NA,NA,NA
-"232","Mujer","Valparaíso","Operadores y Montadores",4228,59015,64260,NA,NA,1e+05,NA,NA,NA,NA,NA,NA
-"233","Mujer","Antofagasta","Profesionales y Científicos",62816,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"234","Mujer","Araucanía","Profesionales y Científicos",48320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"235","Mujer","Arica y Parinacota","Profesionales y Científicos",48320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"236","Mujer","Atacama","Profesionales y Científicos",54360,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"237","Mujer","Aysén","Profesionales y Científicos",54360,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"238","Mujer","Bíobío","Profesionales y Científicos",42280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"239","Mujer","Coquimbo","Profesionales y Científicos",42280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"240","Mujer","Los Lagos","Profesionales y Científicos",44696,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"241","Mujer","Los Ríos","Profesionales y Científicos",49822,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"242","Mujer","Magallanes","Profesionales y Científicos",49528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"243","Mujer","Maule","Profesionales y Científicos",42280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"244","Mujer","Metropolitana","Profesionales y Científicos",60277,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"245","Mujer","O'Higgins","Profesionales y Científicos",48320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"246","Mujer","Tarapacá","Profesionales y Científicos",60400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"247","Mujer","Valparaíso","Profesionales y Científicos",45501,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"248","Mujer","Antofagasta","Técnicos y Profesionales Nivel Medio",59400,118030,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"249","Mujer","Araucanía","Técnicos y Profesionales Nivel Medio",42884,77125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"250","Mujer","Arica y Parinacota","Técnicos y Profesionales Nivel Medio",49500,107300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"251","Mujer","Atacama","Técnicos y Profesionales Nivel Medio",36240,61698,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"252","Mujer","Aysén","Técnicos y Profesionales Nivel Medio",39600,67062,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"253","Mujer","Bíobío","Técnicos y Profesionales Nivel Medio",39600,69208,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"254","Mujer","Coquimbo","Técnicos y Profesionales Nivel Medio",39600,77792,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"255","Mujer","Los Lagos","Técnicos y Profesionales Nivel Medio",49500,80475,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"256","Mujer","Los Ríos","Técnicos y Profesionales Nivel Medio",39600,61698,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"257","Mujer","Magallanes","Técnicos y Profesionales Nivel Medio",39732,140563,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"258","Mujer","Maule","Técnicos y Profesionales Nivel Medio",37448,75110,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"259","Mujer","Metropolitana","Técnicos y Profesionales Nivel Medio",43008,91205,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"260","Mujer","O'Higgins","Técnicos y Profesionales Nivel Medio",39600,85840,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"261","Mujer","Tarapacá","Técnicos y Profesionales Nivel Medio",38656,150220,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"262","Mujer","Valparaíso","Técnicos y Profesionales Nivel Medio",39600,85840,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"263","Mujer","Antofagasta","Trabajadores No Calificados",59400,39140,NA,60000,80320,NA,1e+05,131300,182325,207860,208405,241000
-"264","Mujer","Bíobío","Trabajadores No Calificados",33220,26825,NA,46500,60240,NA,70000,75750,123240,136750,150000,190000
-"265","Mujer","Coquimbo","Trabajadores No Calificados",31408,37868,NA,60000,70280,NA,90000,116150,165750,164320,2e+05,220000
-"266","Mujer","Los Lagos","Trabajadores No Calificados",24160,32190,NA,50000,60240,NA,79000,101000,130390,142220,150000,180000
-"267","Mujer","Maule","Trabajadores No Calificados",31408,39140,NA,52752,60240,NA,70000,105632,149175,153160,198000,2e+05
-"268","Mujer","Metropolitana","Trabajadores No Calificados",65572,46139,NA,80000,90360,NA,115000,128270,166073,196920,2e+05,240000
+"","sexo","region","oficio","1990","1992","1994","1996","1998","2000","2003","2006","2009","2011","2013","2015"
+"1","Hombre","Antofagasta","Empleados de Oficina",37508,107300,149940,170000,190760,2e+05,235000,261590,353600,382900,351724,5e+05
+"2","Hombre","Araucanía","Empleados de Oficina",34732,85840,96390,120000,150600,150000,180000,179275,221000,243415,280000,3e+05
+"3","Hombre","Arica y Parinacota","Empleados de Oficina",45300,104618,149940,176000,202808,182600,2e+05,186850,276250,328200,3e+05,450000
+"4","Hombre","Atacama","Empleados de Oficina",36240,128760,139230,2e+05,180720,273900,190000,218160,243100,382900,4e+05,4e+05
+"5","Hombre","Aysén","Empleados de Oficina",48320,85840,137088,140000,175700,265000,250000,282800,464100,328200,347500,395000
+"6","Hombre","Bíobío","Empleados de Oficina",36240,85840,107100,140000,180720,160000,180000,191900,276250,266871,280000,350000
+"7","Hombre","Coquimbo","Empleados de Oficina",33824,71891,94248,140000,160640,170000,180000,181800,254150,278970,350000,350000
+"8","Hombre","Los Lagos","Empleados de Oficina",33166,80475,128520,120000,158520,150000,180000,202000,254150,273500,3e+05,305500
+"9","Hombre","Los Ríos","Empleados de Oficina",31408,77792,112455,130000,170680,220000,155000,181800,276250,232475,250000,3e+05
+"10","Hombre","Magallanes","Empleados de Oficina",37448,160950,164666,150969,177708,185000,250000,247450,419900,317260,350000,4e+05
+"11","Hombre","Maule","Empleados de Oficina",31408,75110,96390,120000,150600,160000,150000,171700,254150,251620,280000,3e+05
+"12","Hombre","Metropolitana","Empleados de Oficina",38656,85840,139230,160000,180720,2e+05,2e+05,202000,276250,273500,310000,380000
+"13","Hombre","O'Higgins","Empleados de Oficina",35636,93351,128520,150000,180720,192300,180000,181800,276250,273500,340000,380000
+"14","Hombre","Tarapacá","Empleados de Oficina",48320,91205,128671,160000,235940,2e+05,195000,181800,331500,328200,350000,379000
+"15","Hombre","Valparaíso","Empleados de Oficina",33824,96570,128520,180000,160640,180000,2e+05,202000,265200,273500,295000,355302
+"16","Hombre","Antofagasta","Fuerzas Armadas",129256,118030,149940,349120,155620,238000,350000,626200,718250,508710,520000,5e+05
+"17","Hombre","Araucanía","Fuerzas Armadas",89100,85840,165930,2e+05,269072,316988,220292,237350,288681,410797,340000,474000
+"18","Hombre","Arica y Parinacota","Fuerzas Armadas",84560,150220,235620,2e+05,326212,341950,4e+05,454500,386750,645296,575000,525000
+"19","Hombre","Atacama","Fuerzas Armadas",157040,107300,107100,193000,225900,247500,247500,323200,607750,568880,8e+05,960000
+"20","Hombre","Aysén","Fuerzas Armadas",157040,155585,299880,250000,426700,310000,450000,606000,690625,765800,9e+05,850000
+"21","Hombre","Bíobío","Fuerzas Armadas",84560,107300,139230,180000,248490,243000,250000,252500,389458,547000,5e+05,485000
+"22","Hombre","Coquimbo","Fuerzas Armadas",93016,75110,160650,NA,156122,4e+05,430000,NA,NA,NA,3e+05,6e+05
+"23","Hombre","Los Lagos","Fuerzas Armadas",96640,121249,182070,195000,351400,375000,280000,404000,541450,251620,6e+05,390000
+"24","Hombre","Los Ríos","Fuerzas Armadas",84560,87986,246330,166468,145580,248912,3e+05,505000,386750,656400,5e+05,4e+05
+"25","Hombre","Magallanes","Fuerzas Armadas",119800,151652,160650,2e+05,315871,350000,448318,454500,751400,823557,560000,8e+05
+"26","Hombre","Maule","Fuerzas Armadas",91808,107300,149940,227500,240960,262800,425200,190526,281775,714613,380000,762170
+"27","Hombre","Metropolitana","Fuerzas Armadas",102680,107300,160650,199522,200800,245000,320000,323200,442000,547000,570000,932500
+"28","Hombre","O'Higgins","Fuerzas Armadas",108720,107300,160650,160000,130520,154663,4e+05,242400,353600,547000,375000,6e+05
+"29","Hombre","Tarapacá","Fuerzas Armadas",157040,252155,160650,255000,240960,350000,250000,505000,414375,547000,600300,550000
+"30","Hombre","Valparaíso","Fuerzas Armadas",84560,98538,107100,154489,180720,2e+05,260000,303000,386750,536060,5e+05,7e+05
+"31","Hombre","Antofagasta","Miembros del Poder Ejecutivo y Cuerpos Legislativos",485100,156560,181560,408600,391000,339622,431347,592800,801450,1027000,580000,5e+05
+"32","Hombre","Araucanía","Miembros del Poder Ejecutivo y Cuerpos Legislativos",297000,195700,226950,286020,381520,273900,355680,395200,338910,410800,4e+05,5e+05
+"33","Hombre","Arica y Parinacota","Miembros del Poder Ejecutivo y Cuerpos Legislativos",362400,231975,278460,510750,251000,365200,247000,197600,639600,513500,3e+05,325000
+"34","Hombre","Atacama","Miembros del Poder Ejecutivo y Cuerpos Legislativos",594000,156560,214200,470000,254150,310420,316160,395200,477750,513500,6e+05,525000
+"35","Hombre","Aysén","Miembros del Poder Ejecutivo y Cuerpos Legislativos",211400,293550,385560,398385,351400,473250,592800,461067,552500,821600,5e+05,7e+05
+"36","Hombre","Bíobío","Miembros del Poder Ejecutivo y Cuerpos Legislativos",396000,214600,151300,306450,351900,219120,395200,395200,497250,513500,4e+05,350000
+"37","Hombre","Coquimbo","Miembros del Poder Ejecutivo y Cuerpos Legislativos",396000,160950,226950,367740,293250,182600,355680,434720,400530,513500,4e+05,5e+05
+"38","Hombre","Los Lagos","Miembros del Poder Ejecutivo y Cuerpos Legislativos",396000,293550,302600,5e+05,391000,292160,395200,395200,484542,557600,5e+05,4e+05
+"39","Hombre","Los Ríos","Miembros del Poder Ejecutivo y Cuerpos Legislativos",375191,156560,374850,510750,293250,273900,395200,494000,495105,547000,4e+05,3e+05
+"40","Hombre","Magallanes","Miembros del Poder Ejecutivo y Cuerpos Legislativos",244620,489250,375921,408600,635375,6e+05,845200,494000,891826,1094000,850000,9e+05
+"41","Hombre","Maule","Miembros del Poder Ejecutivo y Cuerpos Legislativos",332200,293550,226950,306450,293250,3e+05,369633,378750,564850,513500,4e+05,4e+05
+"42","Hombre","Metropolitana","Miembros del Poder Ejecutivo y Cuerpos Legislativos",422800,352260,453900,612900,586500,547800,790400,790400,777798,1027000,8e+05,1e+06
+"43","Hombre","O'Higgins","Miembros del Poder Ejecutivo y Cuerpos Legislativos",297000,317510,376550,367740,391000,273900,395200,395200,442000,513500,5e+05,4e+05
+"44","Hombre","Tarapacá","Miembros del Poder Ejecutivo y Cuerpos Legislativos",396000,300440,378250,353225,391000,365200,395200,326040,410800,616200,6e+05,5e+05
+"45","Hombre","Valparaíso","Miembros del Poder Ejecutivo y Cuerpos Legislativos",376200,383475,226950,460919,391000,328680,472264,494000,552500,513500,475000,467742
+"46","Hombre","Antofagasta","Operadores y Montadores de Instalaciones y Máquinas",67648,100966,136170,190000,216864,220000,250000,282800,397800,459480,5e+05,580000
+"47","Hombre","Araucanía","Operadores y Montadores de Instalaciones y Máquinas",72480,53650,85680,1e+05,100400,120000,123000,151500,221000,251620,250000,3e+05
+"48","Hombre","Arica y Parinacota","Operadores y Montadores de Instalaciones y Máquinas",96640,64380,128520,120000,150600,148040,2e+05,242400,276250,382900,350000,3e+05
+"49","Hombre","Atacama","Operadores y Montadores de Instalaciones y Máquinas",181200,96570,107100,160000,160640,180000,220000,252500,353600,415720,450000,5e+05
+"50","Hombre","Aysén","Operadores y Montadores de Instalaciones y Máquinas",132880,88065,107100,145000,150600,140000,2e+05,272195,309400,308100,350000,380000
+"51","Hombre","Bíobío","Operadores y Montadores de Instalaciones y Máquinas",84560,64380,80325,102150,123815,140000,150000,161600,221000,273500,3e+05,330000
+"52","Hombre","Coquimbo","Operadores y Montadores de Instalaciones y Máquinas",96640,66526,95319,120000,150600,160000,170000,202000,309400,336677,350000,380000
+"53","Hombre","Los Lagos","Operadores y Montadores de Instalaciones y Máquinas",72480,64380,85680,120000,120480,120000,150000,167660,221000,218800,250000,280000
+"54","Hombre","Los Ríos","Operadores y Montadores de Instalaciones y Máquinas",61608,64380,74970,90000,110440,118500,150000,156045,205400,273500,250000,3e+05
+"55","Hombre","Magallanes","Operadores y Montadores de Instalaciones y Máquinas",102680,96570,145265,151000,180720,2e+05,210000,251490,364650,410800,4e+05,408394
+"56","Hombre","Maule","Operadores y Montadores de Instalaciones y Máquinas",81302,64380,80325,1e+05,120480,127820,130000,151500,212523,251620,260000,3e+05
+"57","Hombre","Metropolitana","Operadores y Montadores de Instalaciones y Máquinas",60400,80475,107100,146000,156400,170000,180000,202000,276250,284440,3e+05,380000
+"58","Hombre","O'Higgins","Operadores y Montadores de Instalaciones y Máquinas",90600,75110,86751,105500,130520,141804,159040,181800,254150,273500,282152,330000
+"59","Hombre","Tarapacá","Operadores y Montadores de Instalaciones y Máquinas",108720,100981,107100,190000,180720,2e+05,2e+05,252500,331500,437600,450000,450000
+"60","Hombre","Valparaíso","Operadores y Montadores de Instalaciones y Máquinas",82144,85840,107100,140000,150600,161089,170000,202000,276250,306320,3e+05,350000
+"61","Hombre","Antofagasta","Profesionales, Científicos e Intelectuales",72480,219428,415310,4e+05,488750,5e+05,544705,535300,884000,875200,990208,1e+06
+"62","Hombre","Araucanía","Profesionales, Científicos e Intelectuales",54360,109982,160650,220000,301200,365200,4e+05,505000,552500,656400,750000,740000
+"63","Hombre","Arica y Parinacota","Profesionales, Científicos e Intelectuales",72480,214600,281006,284500,396580,440500,390000,449771,524875,656400,670000,836193
+"64","Hombre","Atacama","Profesionales, Científicos e Intelectuales",72480,214600,267750,282000,401600,400860,6e+05,555500,762450,765800,1e+06,9e+05
+"65","Hombre","Aysén","Profesionales, Científicos e Intelectuales",79200,150220,227588,280000,451800,7e+05,592800,707000,884000,1033150,1e+06,1100000
+"66","Hombre","Bíobío","Profesionales, Científicos e Intelectuales",49500,136990,187960,3e+05,381520,365200,415000,505000,552500,711100,704098,8e+05
+"67","Hombre","Coquimbo","Profesionales, Científicos e Intelectuales",59400,128760,192780,3e+05,344372,357600,450000,404000,651950,746770,693897,8e+05
+"68","Hombre","Los Lagos","Profesionales, Científicos e Intelectuales",68474,230622,257040,244502,301200,380000,5e+05,505000,616200,656400,8e+05,833184
+"69","Hombre","Los Ríos","Profesionales, Científicos e Intelectuales",59400,128761,192780,225000,586500,380000,450000,423026,455812,656400,7e+05,7e+05
+"70","Hombre","Magallanes","Profesionales, Científicos e Intelectuales",108720,214600,324513,350000,351400,5e+05,6e+05,505000,884000,875200,9e+05,1e+06
+"71","Hombre","Maule","Profesionales, Científicos e Intelectuales",50118,134125,181654,250000,331320,329340,380000,484800,606504,584196,7e+05,7e+05
+"72","Hombre","Metropolitana","Profesionales, Científicos e Intelectuales",71360,321900,459926,5e+05,627809,6e+05,712368,707000,777437,1094000,1e+06,1095231
+"73","Hombre","O'Higgins","Profesionales, Científicos e Intelectuales",88098,300440,321300,3e+05,401600,4e+05,480000,480888,663000,656400,680000,8e+05
+"74","Hombre","Tarapacá","Profesionales, Científicos e Intelectuales",84560,203870,214200,260000,401600,420000,475000,454500,828750,910072,1e+06,9e+05
+"75","Hombre","Valparaíso","Profesionales, Científicos e Intelectuales",68856,194420,302600,350000,401600,480000,450000,505000,663000,842380,791032,815000
+"76","Hombre","Antofagasta","Técnicos y Profesionales de Nivel Medio",59900,160950,160650,245000,308730,310000,350000,383800,495040,590760,6e+05,6e+05
+"77","Hombre","Araucanía","Técnicos y Profesionales de Nivel Medio",49500,107300,192780,170000,220880,190000,230592,282800,276250,370840,4e+05,4e+05
+"78","Hombre","Arica y Parinacota","Técnicos y Profesionales de Nivel Medio",56108,214600,107100,250000,431720,2e+05,250000,164670,442000,492300,4e+05,5e+05
+"79","Hombre","Atacama","Técnicos y Profesionales de Nivel Medio",59400,127150,149940,3e+05,200800,240000,280000,323200,372710,547000,6e+05,6e+05
+"80","Hombre","Aysén","Técnicos y Profesionales de Nivel Medio",76626,158268,214200,145000,301200,280000,310000,323200,556556,519310,634000,580000
+"81","Hombre","Bíobío","Técnicos y Profesionales de Nivel Medio",51212,114811,136629,180000,251000,230000,250000,296400,331500,350080,400917,4e+05
+"82","Hombre","Coquimbo","Técnicos y Profesionales de Nivel Medio",48320,128760,149940,143010,212346,250000,269000,303000,331500,437600,5e+05,5e+05
+"83","Hombre","Los Lagos","Técnicos y Profesionales de Nivel Medio",59400,126983,160650,2e+05,245230,220000,278320,282800,331500,328200,4e+05,4e+05
+"84","Hombre","Los Ríos","Técnicos y Profesionales de Nivel Medio",62816,97643,144585,232748,251000,250000,256880,323200,309400,415720,395000,4e+05
+"85","Hombre","Magallanes","Técnicos y Profesionales de Nivel Medio",59400,191038,267750,212500,301200,360000,352600,404000,519350,543639,6e+05,650000
+"86","Hombre","Maule","Técnicos y Profesionales de Nivel Medio",55336,116420,149940,182000,200800,234677,233560,252500,320450,330388,4e+05,450000
+"87","Hombre","Metropolitana","Técnicos y Profesionales de Nivel Medio",59400,160950,192780,245160,281120,3e+05,311639,353500,386750,492300,5e+05,6e+05
+"88","Hombre","O'Higgins","Técnicos y Profesionales de Nivel Medio",59400,126227,251685,2e+05,251000,273900,280000,251070,331500,415720,476000,465000
+"89","Hombre","Tarapacá","Técnicos y Profesionales de Nivel Medio",99000,107300,149940,2e+05,234600,3e+05,265000,202000,409825,492300,6e+05,6e+05
+"90","Hombre","Valparaíso","Técnicos y Profesionales de Nivel Medio",59400,160950,156188,245160,251000,250000,250000,275225,386750,382900,450000,5e+05
+"91","Hombre","Antofagasta","Trabajadores Agropecuarios y Pesqueros",60400,78280,74970,122580,127075,123255,197600,197600,323047,410800,284392,208656
+"92","Hombre","Araucanía","Trabajadores Agropecuarios y Pesqueros",31408,48925,30260,81720,80320,85000,79040,98800,164320,170439,150000,180000
+"93","Hombre","Arica y Parinacota","Trabajadores Agropecuarios y Pesqueros",39600,42920,75650,102150,156400,1e+05,118560,118560,198900,308100,2e+05,180000
+"94","Hombre","Atacama","Trabajadores Agropecuarios y Pesqueros",37424,69562,64260,122580,136195,110340,138320,181800,215670,268648,280000,285000
+"95","Hombre","Aysén","Trabajadores Agropecuarios y Pesqueros",36240,83691,90780,138005,136850,127820,158080,202000,287300,347727,210000,250000
+"96","Hombre","Bíobío","Trabajadores Agropecuarios y Pesqueros",36240,53650,45390,80000,97750,90000,1e+05,118560,165750,196920,184650,2e+05
+"97","Hombre","Coquimbo","Trabajadores Agropecuarios y Pesqueros",33462,58710,58905,84500,92870,1e+05,115000,138320,205400,199108,207000,240000
+"98","Hombre","Los Lagos","Trabajadores Agropecuarios y Pesqueros",31408,58710,72624,88696,97750,1e+05,127001,148200,187850,205400,191000,240000
+"99","Hombre","Los Ríos","Trabajadores Agropecuarios y Pesqueros",31408,58710,53550,70000,87160,1e+05,102000,136350,198900,205400,2e+05,2e+05
+"100","Hombre","Magallanes","Trabajadores Agropecuarios y Pesqueros",36240,64380,91035,120000,156400,130000,150000,165640,246480,240680,260000,350000
+"101","Hombre","Maule","Trabajadores Agropecuarios y Pesqueros",30200,58710,55692,78500,88666,98000,110000,136350,205400,199108,210000,241000
+"102","Hombre","Metropolitana","Trabajadores Agropecuarios y Pesqueros",36240,67321,75650,1e+05,120480,120000,158080,177840,221000,218800,210000,250000
+"103","Hombre","O'Higgins","Trabajadores Agropecuarios y Pesqueros",36240,53650,74970,92000,120480,103500,120000,136350,205400,205400,210000,250000
+"104","Hombre","Tarapacá","Trabajadores Agropecuarios y Pesqueros",46750,80743,106505,204300,136850,91300,160000,111940,143780,308100,2e+05,2e+05
+"105","Hombre","Valparaíso","Trabajadores Agropecuarios y Pesqueros",35640,58710,79254,110000,117300,115000,138320,158080,198900,218800,210000,241000
+"106","Hombre","Antofagasta","Trabajadores de Artes Mecánicas y Otros",54360,96570,112124,170000,200800,190000,220000,262600,331500,437600,450000,4e+05
+"107","Hombre","Araucanía","Trabajadores de Artes Mecánicas y Otros",39600,64380,75650,81000,107280,110000,118560,151500,198900,218800,210000,250000
+"108","Hombre","Arica y Parinacota","Trabajadores de Artes Mecánicas y Otros",48320,83694,107100,120000,140560,117500,120000,197600,270725,306320,275000,3e+05
+"109","Hombre","Atacama","Trabajadores de Artes Mecánicas y Otros",59400,96570,107100,130000,156400,160000,180000,237120,309400,410800,4e+05,4e+05
+"110","Hombre","Aysén","Trabajadores de Artes Mecánicas y Otros",54360,84996,93712,120000,155620,130000,180000,252500,297141,328200,280000,350000
+"111","Hombre","Bíobío","Trabajadores de Artes Mecánicas y Otros",42280,58710,74970,1e+05,120480,120000,140000,151500,211451,240680,250000,280000
+"112","Hombre","Coquimbo","Trabajadores de Artes Mecánicas y Otros",39600,65626,85680,112000,125500,137179,140000,202000,265200,328200,3e+05,320000
+"113","Hombre","Los Lagos","Trabajadores de Artes Mecánicas y Otros",36240,68672,80325,90000,117300,120655,138320,158080,221000,236818,219890,250000
+"114","Hombre","Los Ríos","Trabajadores de Artes Mecánicas y Otros",39600,64380,85680,81181,90360,120000,140000,151500,205400,218800,210000,250000
+"115","Hombre","Magallanes","Trabajadores de Artes Mecánicas y Otros",48320,77167,136170,140000,179540,182600,185000,252500,331500,369720,3e+05,350000
+"116","Hombre","Maule","Trabajadores de Artes Mecánicas y Otros",42280,64380,74970,1e+05,120480,120000,131013,151500,216504,218800,247000,250000
+"117","Hombre","Metropolitana","Trabajadores de Artes Mecánicas y Otros",49528,78280,107100,143010,160640,170000,180000,202000,276250,284440,3e+05,341806
+"118","Hombre","O'Higgins","Trabajadores de Artes Mecánicas y Otros",59400,78280,91035,108500,150600,140000,177840,181800,234812,286000,250000,3e+05
+"119","Hombre","Tarapacá","Trabajadores de Artes Mecánicas y Otros",60400,88065,107100,180000,184987,180000,197600,227250,308100,380596,350000,350000
+"120","Hombre","Valparaíso","Trabajadores de Artes Mecánicas y Otros",39600,75110,96390,127500,150600,150000,177840,197600,276250,306320,290000,3e+05
+"121","Hombre","Antofagasta","Trabajadores de Servicios y Vendedores",70064,75110,82778,150000,160640,182600,150000,222200,267237,328200,350000,375000
+"122","Hombre","Araucanía","Trabajadores de Servicios y Vendedores",37206,75110,85680,90000,117693,120000,120000,151500,198900,210048,220000,250000
+"123","Hombre","Arica y Parinacota","Trabajadores de Servicios y Vendedores",59400,80690,98940,150000,195500,130500,119280,195028,221000,273500,250000,280000
+"124","Hombre","Atacama","Trabajadores de Servicios y Vendedores",60400,53650,90780,142500,120480,126736,140000,181800,243100,328200,280000,3e+05
+"125","Hombre","Aysén","Trabajadores de Servicios y Vendedores",59400,64380,123165,136000,135540,204000,220000,313100,308100,328200,3e+05,3e+05
+"126","Hombre","Bíobío","Trabajadores de Servicios y Vendedores",48320,64380,64260,101575,100400,120000,130000,151500,198900,218800,220000,255000
+"127","Hombre","Coquimbo","Trabajadores de Servicios y Vendedores",42280,67868,75650,120000,120480,130000,130000,141400,221000,218800,250000,250000
+"128","Hombre","Los Lagos","Trabajadores de Servicios y Vendedores",41978,64380,95319,96000,150600,130000,150000,181295,243100,249050,218392,3e+05
+"129","Hombre","Los Ríos","Trabajadores de Servicios y Vendedores",39260,51504,74970,172986,96565,120000,138000,151500,205400,218800,210000,280000
+"130","Hombre","Magallanes","Trabajadores de Servicios y Vendedores",51084,67062,106505,141642,120480,150000,171312,202000,276250,303585,321441,390000
+"131","Hombre","Maule","Trabajadores de Servicios y Vendedores",37448,64380,74970,88000,120480,140000,124538,142999,221000,203484,210000,260000
+"132","Hombre","Metropolitana","Trabajadores de Servicios y Vendedores",48320,75110,107100,140000,150600,150000,158080,181800,243100,262560,250000,3e+05
+"133","Hombre","O'Higgins","Trabajadores de Servicios y Vendedores",51340,75110,85680,1e+05,120480,120000,150000,151500,221000,218800,220000,261474
+"134","Hombre","Tarapacá","Trabajadores de Servicios y Vendedores",60400,85840,128520,181935,150600,180000,2e+05,191900,250315,308100,314774,374091
+"135","Hombre","Valparaíso","Trabajadores de Servicios y Vendedores",45904,69745,85680,120000,120480,143566,140000,163893,221000,218800,240000,251189
+"136","Hombre","Araucanía","Trabajadores No Calificados",36240,42920,55692,60000,80320,85000,98815,121200,165750,196920,210000,241000
+"137","Hombre","Aysén","Trabajadores No Calificados",33824,51590,64260,75000,83332,1e+05,120000,151500,198900,218800,220000,280000
+"138","Hombre","Bíobío","Trabajadores No Calificados",41072,40774,48784,61290,80320,85000,95342,121200,165750,196920,210000,241000
+"139","Hombre","Coquimbo","Trabajadores No Calificados",51480,42996,56763,65000,80822,1e+05,110000,136350,182325,202390,211757,248000
+"140","Hombre","Los Lagos","Trabajadores No Calificados",46780,40774,55692,65000,80320,95000,111000,136350,176800,199108,210000,241000
+"141","Hombre","Metropolitana","Trabajadores No Calificados",50132,53650,74970,96000,100400,110000,120000,141400,191942,218800,230000,280000
+"142","Hombre","O'Higgins","Trabajadores No Calificados",25542,46139,58905,65500,82384,1e+05,112000,131300,182325,199108,210000,247000
+"143","Hombre","Tarapacá","Trabajadores No Calificados",132880,63746,74970,91935,97750,1e+05,120000,136350,205400,262560,250000,3e+05
+"144","Hombre","Valparaíso","Trabajadores No Calificados",99056,48285,64260,75000,85340,1e+05,115000,136350,182325,199108,210000,250000
+"145","Mujer","Antofagasta","Empleados de Oficina",25542,78329,92106,1e+05,130520,160000,160000,202000,243100,284440,320000,350000
+"146","Mujer","Araucanía","Empleados de Oficina",21744,53650,74970,95000,100400,128390,120000,139380,182325,218800,230000,250000
+"147","Mujer","Arica y Parinacota","Empleados de Oficina",24764,70818,107100,90000,150600,140890,150000,131300,182325,261648,250000,250000
+"148","Mujer","Atacama","Empleados de Oficina",24160,64380,96390,115000,120480,140500,138000,161600,205400,257195,3e+05,3e+05
+"149","Mujer","Aysén","Empleados de Oficina",30200,75110,85680,100092,120480,150000,164296,202000,198900,295380,3e+05,380000
+"150","Mujer","Bíobío","Empleados de Oficina",18120,59015,85680,95000,120480,120000,130000,151500,198900,218800,236866,255000
+"151","Mujer","Coquimbo","Empleados de Oficina",24160,60676,74970,90000,117300,120000,140000,151500,198900,218800,230000,3e+05
+"152","Mujer","Los Lagos","Empleados de Oficina",21744,64380,107100,1e+05,135540,140000,133330,158570,213265,218800,250000,3e+05
+"153","Mujer","Los Ríos","Empleados de Oficina",24160,69846,104958,80000,100400,148334,130000,141400,182325,251073,250000,250000
+"154","Mujer","Magallanes","Empleados de Oficina",26576,64380,128520,1e+05,119476,150000,160000,200990,221000,273500,3e+05,350000
+"155","Mujer","Maule","Empleados de Oficina",21744,69745,74970,90000,120480,120000,130000,141859,182325,218800,230236,265000
+"156","Mujer","Metropolitana","Empleados de Oficina",30200,85840,107100,149715,150600,168471,180000,190890,232050,267260,290000,350000
+"157","Mujer","O'Higgins","Empleados de Oficina",24160,64380,96390,1e+05,120480,120000,145000,151500,187850,207860,250000,290000
+"158","Mujer","Tarapacá","Empleados de Oficina",31408,75110,109369,161720,150600,134168,140000,151500,221000,273500,3e+05,310000
+"159","Mujer","Valparaíso","Empleados de Oficina",21744,64380,85680,108739,120480,120000,137000,151500,217132,218800,250000,270000
+"160","Mujer","Antofagasta","Fuerzas Armadas",60400,NA,NA,NA,NA,NA,NA,NA,NA,1203400,480000,NA
+"161","Mujer","Araucanía","Fuerzas Armadas",60400,NA,160650,NA,NA,2e+05,NA,NA,NA,678280,4e+05,NA
+"162","Mujer","Arica y Parinacota","Fuerzas Armadas",90322,NA,166005,NA,NA,NA,480000,NA,607750,NA,340000,NA
+"163","Mujer","Atacama","Fuerzas Armadas",67648,NA,107100,NA,180720,NA,NA,NA,NA,NA,NA,7e+05
+"164","Mujer","Aysén","Fuerzas Armadas",96640,NA,203490,NA,451800,NA,NA,NA,NA,NA,5e+05,850000
+"165","Mujer","Bíobío","Fuerzas Armadas",54360,71891,NA,5000,NA,190000,375000,181800,663000,514180,4e+05,160000
+"166","Mujer","Coquimbo","Fuerzas Armadas",57984,NA,74970,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","Mujer","Los Lagos","Fuerzas Armadas",60400,NA,NA,NA,NA,NA,NA,NA,442000,295380,86000,NA
+"168","Mujer","Los Ríos","Fuerzas Armadas",60400,NA,NA,NA,NA,350000,NA,NA,132600,NA,NA,NA
+"169","Mujer","Magallanes","Fuerzas Armadas",83956,109446,NA,4e+05,NA,NA,NA,656500,276250,1531600,430000,9e+05
+"170","Mujer","Maule","Fuerzas Armadas",60400,NA,NA,NA,NA,120000,NA,16160,309400,218800,NA,598484
+"171","Mujer","Metropolitana","Fuerzas Armadas",60400,NA,89428,120000,177010,225000,430000,404000,386750,656400,611129,1e+06
+"172","Mujer","O'Higgins","Fuerzas Armadas",57078,NA,NA,150000,NA,NA,NA,NA,NA,NA,295000,NA
+"173","Mujer","Tarapacá","Fuerzas Armadas",72480,NA,NA,NA,NA,280000,NA,NA,NA,485736,335000,605000
+"174","Mujer","Valparaíso","Fuerzas Armadas",53152,NA,96390,NA,100400,NA,NA,NA,386750,NA,6e+05,570000
+"175","Mujer","Antofagasta","Miembros del Poder Ejecutivo y Cuerpos Legislativos",396000,86952,96390,350000,234600,219120,296400,321100,414375,513500,385000,3e+05
+"176","Mujer","Arica y Parinacota","Miembros del Poder Ejecutivo y Cuerpos Legislativos",573111,160950,236580,122580,185740,182600,197600,152036,287560,369720,2e+05,3e+05
+"177","Mujer","Atacama","Miembros del Poder Ejecutivo y Cuerpos Legislativos",235560,97850,113475,306450,195500,182600,197600,235144,552500,410800,262608,3e+05
+"178","Mujer","Aysén","Miembros del Poder Ejecutivo y Cuerpos Legislativos",159708,190808,226950,171612,391000,209560,296400,395200,616200,513500,275000,325000
+"179","Mujer","Bíobío","Miembros del Poder Ejecutivo y Cuerpos Legislativos",103860,117420,75650,204300,195500,182600,197600,197600,276250,308100,2e+05,2e+05
+"180","Mujer","Coquimbo","Miembros del Poder Ejecutivo y Cuerpos Legislativos",594000,138213,121040,204300,175950,182600,197600,266760,343525,346517,2e+05,250000
+"181","Mujer","Los Lagos","Miembros del Poder Ejecutivo y Cuerpos Legislativos",175160,156560,302600,306450,293250,182600,237120,296400,398775,308100,250000,2e+05
+"182","Mujer","Maule","Miembros del Poder Ejecutivo y Cuerpos Legislativos",198000,156560,121040,122580,195500,152605,158080,197600,410800,205400,2e+05,2e+05
+"183","Mujer","Metropolitana","Miembros del Poder Ejecutivo y Cuerpos Legislativos",221480,214600,321300,367740,294172,255640,355680,395200,462236,451880,350000,450000
+"184","Mujer","Tarapacá","Miembros del Poder Ejecutivo y Cuerpos Legislativos",396000,163175,151300,367740,293250,219120,197600,197600,331500,369720,3e+05,250000
+"185","Mujer","Valparaíso","Miembros del Poder Ejecutivo y Cuerpos Legislativos",108720,264195,121040,309000,203320,182773,220000,237120,410800,369720,2e+05,250000
+"186","Mujer","Antofagasta","Operadores y Montadores de Instalaciones y Máquinas",132880,53650,139230,107500,120480,145000,184500,313100,386750,371960,3e+05,425000
+"187","Mujer","Los Lagos","Operadores y Montadores de Instalaciones y Máquinas",54360,44530,64260,58000,80320,92500,115000,136350,182325,199108,210000,245500
+"188","Mujer","Metropolitana","Operadores y Montadores de Instalaciones y Máquinas",60400,64380,74970,91928,100400,120000,128071,141788,198900,207248,220000,260000
+"189","Mujer","Tarapacá","Operadores y Montadores de Instalaciones y Máquinas",43488,55635,69615,367740,100400,87390,155000,123725,176800,374855,290000,3e+05
+"190","Mujer","Valparaíso","Operadores y Montadores de Instalaciones y Máquinas",4228,59015,64260,90000,106024,1e+05,138000,136350,186745,213330,214000,250000
+"191","Mujer","Antofagasta","Profesionales, Científicos e Intelectuales",62816,90668,171360,203000,319272,391000,419135,458305,552500,601700,685000,649976
+"192","Mujer","Araucanía","Profesionales, Científicos e Intelectuales",48320,89059,147798,150000,230920,287212,350000,353500,475150,505085,580000,6e+05
+"193","Mujer","Arica y Parinacota","Profesionales, Científicos e Intelectuales",48320,104618,107100,180000,286140,350000,450000,343400,442000,547000,6e+05,685000
+"194","Mujer","Atacama","Profesionales, Científicos e Intelectuales",54360,103008,144585,222000,240960,265066,355000,406525,419900,560558,6e+05,7e+05
+"195","Mujer","Aysén","Profesionales, Científicos e Intelectuales",54360,118030,198135,215000,301200,4e+05,5e+05,498909,612462,782210,8e+05,858020
+"196","Mujer","Bíobío","Profesionales, Científicos e Intelectuales",42280,91205,149940,2e+05,251000,290000,320000,385820,442000,547000,550000,6e+05
+"197","Mujer","Coquimbo","Profesionales, Científicos e Intelectuales",42280,128760,129591,160015,210840,250000,3e+05,330426,406640,448540,540000,6e+05
+"198","Mujer","Los Lagos","Profesionales, Científicos e Intelectuales",44696,109446,160650,189000,251000,3e+05,4e+05,404000,519350,656400,598750,621738
+"199","Mujer","Los Ríos","Profesionales, Científicos e Intelectuales",49822,96570,160650,158900,296180,3e+05,350000,398950,469625,547000,549000,6e+05
+"200","Mujer","Magallanes","Profesionales, Científicos e Intelectuales",49528,142709,192780,245000,341360,4e+05,450000,505000,621010,656400,730870,8e+05
+"201","Mujer","Maule","Profesionales, Científicos e Intelectuales",42280,87986,139230,180000,200800,280000,320000,353500,442000,547000,535000,6e+05
+"202","Mujer","Metropolitana","Profesionales, Científicos e Intelectuales",60277,128760,214200,261543,349611,350000,427475,454500,552500,724345,7e+05,8e+05
+"203","Mujer","O'Higgins","Profesionales, Científicos e Intelectuales",48320,85840,149940,166000,211645,250000,3e+05,378750,442000,492300,495000,6e+05
+"204","Mujer","Tarapacá","Profesionales, Científicos e Intelectuales",60400,109982,155295,2e+05,301200,350000,360000,388850,552500,634520,7e+05,7e+05
+"205","Mujer","Valparaíso","Profesionales, Científicos e Intelectuales",45501,95253,149940,2e+05,251000,260000,316500,347440,410800,547000,512636,6e+05
+"206","Mujer","Antofagasta","Técnicos y Profesionales de Nivel Medio",59400,118030,85680,160000,240960,2e+05,2e+05,246489,265200,400653,399377,4e+05
+"207","Mujer","Araucanía","Técnicos y Profesionales de Nivel Medio",42884,77125,144585,120000,150600,159000,175000,179820,221000,308871,3e+05,3e+05
+"208","Mujer","Arica y Parinacota","Técnicos y Profesionales de Nivel Medio",49500,107300,117810,150000,185740,2e+05,207500,202000,276250,287560,320000,380000
+"209","Mujer","Atacama","Técnicos y Profesionales de Nivel Medio",36240,61698,107100,122000,175700,155000,2e+05,202000,257108,328200,384000,415000
+"210","Mujer","Aysén","Técnicos y Profesionales de Nivel Medio",39600,67062,115132,140000,180720,206000,282500,242400,442000,382900,4e+05,4e+05
+"211","Mujer","Bíobío","Técnicos y Profesionales de Nivel Medio",39600,69208,85680,122000,176202,150000,160000,197600,224430,284440,3e+05,330000
+"212","Mujer","Coquimbo","Técnicos y Profesionales de Nivel Medio",39600,77792,76041,127018,153612,153500,150000,171700,243100,300850,3e+05,358000
+"213","Mujer","Los Lagos","Técnicos y Profesionales de Nivel Medio",49500,80475,118881,120000,180720,180000,185000,202000,276250,328200,3e+05,360000
+"214","Mujer","Los Ríos","Técnicos y Profesionales de Nivel Medio",39600,61698,90372,130000,190760,2e+05,170590,151500,254150,308259,3e+05,3e+05
+"215","Mujer","Magallanes","Técnicos y Profesionales de Nivel Medio",39732,140563,107100,180000,185740,240000,278500,343400,331500,353578,394000,430714
+"216","Mujer","Maule","Técnicos y Profesionales de Nivel Medio",37448,75110,87286,1e+05,140560,150000,147500,181800,226525,295380,3e+05,320000
+"217","Mujer","Metropolitana","Técnicos y Profesionales de Nivel Medio",43008,91205,128520,181935,200800,212021,250000,275453,297360,382900,4e+05,450000
+"218","Mujer","O'Higgins","Técnicos y Profesionales de Nivel Medio",39600,85840,86216,150000,140560,160000,166624,191900,249015,320542,280000,350000
+"219","Mujer","Tarapacá","Técnicos y Profesionales de Nivel Medio",38656,150220,128520,230000,215860,210000,193000,181800,254150,350080,4e+05,4e+05
+"220","Mujer","Valparaíso","Técnicos y Profesionales de Nivel Medio",39600,85840,108706,150000,150620,167500,176920,202000,243100,328200,3e+05,340000
+"221","Mujer","Antofagasta","Trabajadores Agropecuarios y Pesqueros",31408,34248,22695,32688,74290,52000,141440,79040,205400,252642,175000,2e+05
+"222","Mujer","Araucanía","Trabajadores Agropecuarios y Pesqueros",18120,39140,12608,61290,58650,47825,39810,60600,123240,164320,87500,1e+05
+"223","Mujer","Arica y Parinacota","Trabajadores Agropecuarios y Pesqueros",32204,42920,105910,40860,89428,63910,67184,79040,174038,232640,190000,1e+05
+"224","Mujer","Atacama","Trabajadores Agropecuarios y Pesqueros",33220,67599,42542,96018,120480,1e+05,98800,137612,198900,199108,265000,270000
+"225","Mujer","Aysén","Trabajadores Agropecuarios y Pesqueros",29700,59015,128605,123158,97750,140000,150000,166650,182325,231282,180000,155000
+"226","Mujer","Bíobío","Trabajadores Agropecuarios y Pesqueros",31408,42076,30260,63948,75300,57390,78020,79040,143650,156989,150000,174163
+"227","Mujer","Coquimbo","Trabajadores Agropecuarios y Pesqueros",31408,39594,49220,61290,80320,90000,79040,121200,147888,196920,160000,2e+05
+"228","Mujer","Los Lagos","Trabajadores Agropecuarios y Pesqueros",29700,58710,54825,70860,110440,75090,96500,98800,149175,102700,145000,195000
+"229","Mujer","Los Ríos","Trabajadores Agropecuarios y Pesqueros",36240,195700,37825,49000,351900,1e+05,54538,120672,176800,198014,85000,97500
+"230","Mujer","Magallanes","Trabajadores Agropecuarios y Pesqueros",19800,58906,37825,71414,97750,95650,279109,98800,266338,213330,275000,3e+05
+"231","Mujer","Maule","Trabajadores Agropecuarios y Pesqueros",31408,40774,47591,66083,62248,88500,70000,116150,182325,188532,210000,240000
+"232","Mujer","Metropolitana","Trabajadores Agropecuarios y Pesqueros",36240,48285,64260,121290,92368,96000,124000,136350,180115,196920,210000,241000
+"233","Mujer","O'Higgins","Trabajadores Agropecuarios y Pesqueros",32616,54723,56738,65000,78814,90000,1e+05,116150,182325,196920,210000,241000
+"234","Mujer","Tarapacá","Trabajadores Agropecuarios y Pesqueros",44660,55367,45390,70645,75300,54780,79040,59280,102700,205400,150000,150000
+"235","Mujer","Valparaíso","Trabajadores Agropecuarios y Pesqueros",31408,42920,74970,65000,81324,1e+05,112000,131300,175695,196920,210000,240000
+"236","Mujer","Antofagasta","Trabajadores de Artes Mecánicas y Otros",32395,39140,58905,80860,82254,76694,98400,136350,243100,273500,204000,2e+05
+"237","Mujer","Araucanía","Trabajadores de Artes Mecánicas y Otros",25722,39140,45390,61290,78200,73040,77692,59280,102700,136395,1e+05,150000
+"238","Mujer","Arica y Parinacota","Trabajadores de Artes Mecánicas y Otros",28388,72964,62790,65800,73236,56520,72500,79040,139672,196920,1e+05,150000
+"239","Mujer","Atacama","Trabajadores de Artes Mecánicas y Otros",36240,50815,52955,61290,80155,1e+05,95000,128440,179562,187584,120000,168000
+"240","Mujer","Aysén","Trabajadores de Artes Mecánicas y Otros",44696,58710,52479,61145,80320,102730,119280,137335,137116,199108,210000,240000
+"241","Mujer","Bíobío","Trabajadores de Artes Mecánicas y Otros",31408,37555,32330,61290,74795,80000,98400,80800,148070,124442,160000,150000
+"242","Mujer","Coquimbo","Trabajadores de Artes Mecánicas y Otros",31408,39140,34978,40860,78200,104216,1e+05,118560,182325,164320,165000,150000
+"243","Mujer","Los Lagos","Trabajadores de Artes Mecánicas y Otros",31408,37555,60628,56000,71284,1e+05,111000,126835,182325,183493,185000,140000
+"244","Mujer","Los Ríos","Trabajadores de Artes Mecánicas y Otros",36240,40774,60628,81720,61244,91300,102108,81016,182325,131280,1e+05,55000
+"245","Mujer","Magallanes","Trabajadores de Artes Mecánicas y Otros",33824,56789,64260,65000,58650,104780,120000,159840,165750,196920,198000,2e+05
+"246","Mujer","Maule","Trabajadores de Artes Mecánicas y Otros",28992,39140,32529,60000,75300,71520,79040,121200,143780,182870,1e+05,1e+05
+"247","Mujer","Metropolitana","Trabajadores de Artes Mecánicas y Otros",35636,53650,75650,102150,110440,109560,115000,138370,198900,199108,180000,2e+05
+"248","Mujer","O'Higgins","Trabajadores de Artes Mecánicas y Otros",31408,42384,53474,63768,91506,95650,112000,121200,182325,195826,120000,2e+05
+"249","Mujer","Tarapacá","Trabajadores de Artes Mecánicas y Otros",25368,49708,60520,122580,100400,91300,79040,98800,205400,205400,180000,2e+05
+"250","Mujer","Valparaíso","Trabajadores de Artes Mecánicas y Otros",28086,48285,56763,102150,97750,91300,108680,119880,164320,158740,120000,140000
+"251","Mujer","Antofagasta","Trabajadores de Servicios y Vendedores",99000,48285,64260,90000,100400,120000,120000,141400,209950,240680,222000,272500
+"252","Mujer","Arica y Parinacota","Trabajadores de Servicios y Vendedores",54360,58710,88510,81720,80320,85000,1e+05,118560,173485,204578,2e+05,2e+05
+"253","Mujer","Atacama","Trabajadores de Servicios y Vendedores",35032,42920,64260,69000,85340,1e+05,110000,131300,187850,207860,210000,250000
+"254","Mujer","Aysén","Trabajadores de Servicios y Vendedores",59400,48285,64260,70000,90360,1e+05,120000,151500,193375,202390,210000,264000
+"255","Mujer","Bíobío","Trabajadores de Servicios y Vendedores",37448,41847,55692,66000,80822,90000,108680,121200,165750,196920,198000,233330
+"256","Mujer","Coquimbo","Trabajadores de Servicios y Vendedores",60400,48285,55960,70000,80822,90000,95000,121200,182325,196920,2e+05,240000
+"257","Mujer","Los Lagos","Trabajadores de Servicios y Vendedores",22164,51504,64260,79000,90360,1e+05,105000,121200,176800,196920,185000,240000
+"258","Mujer","Maule","Trabajadores de Servicios y Vendedores",36240,41418,55692,65000,85340,92000,98800,121200,176800,199108,207676,240000
+"259","Mujer","Metropolitana","Trabajadores de Servicios y Vendedores",36240,59015,80325,1e+05,117300,120000,120000,141400,201805,205400,210000,250000
+"260","Mujer","O'Higgins","Trabajadores de Servicios y Vendedores",42280,53650,64367,76106,94610,1e+05,115100,121200,182325,199108,210000,241000
+"261","Mujer","Tarapacá","Trabajadores de Servicios y Vendedores",12080,64380,79786,1e+05,100400,1e+05,115000,131300,182325,207860,230000,250000
+"262","Mujer","Valparaíso","Trabajadores de Servicios y Vendedores",33824,52539,64260,91968,86344,1e+05,115000,125240,182325,196920,2e+05,240000
+"263","Mujer","Antofagasta","Trabajadores No Calificados",59400,39140,52955,60000,80320,80730,1e+05,131300,182325,207860,208405,241000
+"264","Mujer","Bíobío","Trabajadores No Calificados",33220,26825,32130,46500,60240,60000,70000,75750,123240,136750,150000,190000
+"265","Mujer","Coquimbo","Trabajadores No Calificados",31408,37868,50337,60000,70280,80000,90000,116150,165750,164320,2e+05,220000
+"266","Mujer","Los Lagos","Trabajadores No Calificados",24160,32190,42840,50000,60240,70000,79000,101000,130390,142220,150000,180000
+"267","Mujer","Maule","Trabajadores No Calificados",31408,39140,42840,52752,60240,73040,70000,105632,149175,153160,198000,2e+05
+"268","Mujer","Metropolitana","Trabajadores No Calificados",65572,46139,64260,80000,90360,1e+05,115000,128270,166073,196920,2e+05,240000

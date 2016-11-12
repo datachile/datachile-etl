@@ -4,7 +4,7 @@
 
 # Paste the relevant columns here (region, provincia, comuna, wage, occupation and  sex)
 wage_by_gender_and_occupation_2011 <- as.data.frame(cbind(as.character(casen_2011$comuna), as.character(casen_2011$yopraj), as.character(casen_2011$oficio1), as.character(casen_2011$sexo)))
-setnames(wage_by_gender_and_occupation_2011, colnames(wage_by_gender_and_occupation_2011), c("comuna","ingreso_ocup_principal", "oficio_id", "sexo"))
+setnames(wage_by_gender_and_occupation_2011, colnames(wage_by_gender_and_occupation_2011), c("comuna","ingreso_ocup_principal", "oficio", "sexo"))
 
 # Trim leading/ending whitespace
 #wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) iconv(x)))
@@ -48,7 +48,7 @@ wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_oc
 
 # Add provincia and region
 wage_by_gender_and_occupation_2011 <- join(wage_by_gender_and_occupation_2011, regiones_casen_2015, by = "comuna")
-wage_by_gender_and_occupation_2011 <- wage_by_gender_and_occupation_2011[,c("comuna","provincia","region","ingreso_ocup_principal", "oficio_id", "sexo")]
+wage_by_gender_and_occupation_2011 <- wage_by_gender_and_occupation_2011[,c("comuna","provincia","region","ingreso_ocup_principal", "oficio", "sexo")]
 
 # Fix oficio
 wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("Agricultores y Trabajadores Calificados Agropecuarios y Pesqueros", "Trabajadores Agropecuarios y Pesqueros", x)))
