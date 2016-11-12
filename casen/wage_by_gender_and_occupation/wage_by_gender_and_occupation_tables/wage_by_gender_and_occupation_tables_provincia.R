@@ -161,11 +161,11 @@ tidy_ub_mean_income_provincia <- ub_mean_income_provincia %>% gather(year, ub_me
 # join all #
 ############
 
-tidy_all_provincia <- join(tidy_mean_income_provincia, tidy_median_income_provincia, by = c("sexo","oficio_id","provincia","year"))
-tidy_all_provincia <- join(tidy_all_provincia, tidy_lb_mean_income_provincia, by = c("sexo","oficio_id","provincia","year"))
-tidy_all_provincia <- join(tidy_all_provincia, tidy_ub_mean_income_provincia, by = c("sexo","oficio_id","provincia","year"))
-tidy_all_provincia <- join(tidy_all_provincia, tidy_lb_median_income_provincia, by = c("sexo","oficio_id","provincia","year"))
-tidy_all_provincia <- join(tidy_all_provincia, tidy_ub_median_income_provincia, by = c("sexo","oficio_id","provincia","year"))
+tidy_all_provincia <- join(tidy_mean_income_provincia, tidy_median_income_provincia, by = c("sexo","oficio","provincia","year"))
+tidy_all_provincia <- join(tidy_all_provincia, tidy_lb_mean_income_provincia, by = c("sexo","oficio","provincia","year"))
+tidy_all_provincia <- join(tidy_all_provincia, tidy_ub_mean_income_provincia, by = c("sexo","oficio","provincia","year"))
+tidy_all_provincia <- join(tidy_all_provincia, tidy_lb_median_income_provincia, by = c("sexo","oficio","provincia","year"))
+tidy_all_provincia <- join(tidy_all_provincia, tidy_ub_median_income_provincia, by = c("sexo","oficio","provincia","year"))
 
 setnames(tidy_all_provincia, "provincia", "provincia_name")
 tidy_all_provincia <- join(tidy_all_provincia, unique(provincia_codes_pacha[,c("provincia_name","provincia_pacha_id")]), by = "provincia_name")

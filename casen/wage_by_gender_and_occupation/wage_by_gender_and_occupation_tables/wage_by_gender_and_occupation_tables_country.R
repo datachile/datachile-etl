@@ -161,11 +161,11 @@ tidy_ub_mean_income_country <- ub_mean_income_country %>% gather(year, ub_mean_i
 # join all #
 ############
 
-tidy_all_country <- join(tidy_mean_income_country, tidy_median_income_country, by = c("sexo","oficio_id","year"))
-tidy_all_country <- join(tidy_all_country, tidy_lb_mean_income_country, by = c("sexo","oficio_id","year"))
-tidy_all_country <- join(tidy_all_country, tidy_ub_mean_income_country, by = c("sexo","oficio_id","year"))
-tidy_all_country <- join(tidy_all_country, tidy_lb_median_income_country, by = c("sexo","oficio_id","year"))
-tidy_all_country <- join(tidy_all_country, tidy_ub_median_income_country, by = c("sexo","oficio_id","year"))
+tidy_all_country <- join(tidy_mean_income_country, tidy_median_income_country, by = c("sexo","oficio","year"))
+tidy_all_country <- join(tidy_all_country, tidy_lb_mean_income_country, by = c("sexo","oficio","year"))
+tidy_all_country <- join(tidy_all_country, tidy_ub_mean_income_country, by = c("sexo","oficio","year"))
+tidy_all_country <- join(tidy_all_country, tidy_lb_median_income_country, by = c("sexo","oficio","year"))
+tidy_all_country <- join(tidy_all_country, tidy_ub_median_income_country, by = c("sexo","oficio","year"))
 
 tidy_all_country$geography_level <- "pais"
 tidy_all_country$geography_name <- "Pa\u00eds"

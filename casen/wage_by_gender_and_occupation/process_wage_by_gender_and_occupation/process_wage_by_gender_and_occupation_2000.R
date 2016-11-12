@@ -132,6 +132,19 @@ wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_oc
 wage_by_gender_and_occupation_2000 <- join(wage_by_gender_and_occupation_2000, regiones_casen_2015, by = "comuna")
 wage_by_gender_and_occupation_2000 <- wage_by_gender_and_occupation_2000[,c("comuna","provincia","region","ingreso_ocup_principal", "oficio_id", "sexo")]
 
+# Fix oficio
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Agricultores y Trab.calificado", "Trabajadores Agropecuarios y Pesqueros", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Emp.oficina", "Empleados de Oficina", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Ff.aa.", "Fuerzas Armadas", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("M.poder Ejecutivo", "Miembros del Poder Ejecutivo y Cuerpos Legislativos", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Oficiales, Operarios y Artesanos", "Trabajadores de Artes Mec\u00e1nicas y Otros", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Operadores y Montadores", "Operadores y Montadores de Instalaciones y M\u00e1quinas", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Profesionales Cientif.", "Profesionales, Cient\u00edficos e Intelectuales", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Tecnicos y Prof.nivel Medio", "T\u00e9cnicos y Profesionales de Nivel Medio", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Trab. No Calificados", "Trabajadores No Calificados", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Vendedores Comercio", "Trabajadores de Servicios y Vendedores", x)))
+wage_by_gender_and_occupation_2000 <- as.data.frame(lapply(wage_by_gender_and_occupation_2000, function(x) gsub("Sin Respuesta", NA, x)))
+
 # Keep only the households that reported their wage
 wage_by_gender_and_occupation_2000$ingreso_ocup_principal <- as.numeric(as.character(wage_by_gender_and_occupation_2000$ingreso_ocup_principal))
 wage_by_gender_and_occupation_2000 <- subset(wage_by_gender_and_occupation_2000, wage_by_gender_and_occupation_2000$ingreso_ocup_principal > 0)

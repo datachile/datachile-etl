@@ -38,6 +38,7 @@ wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_oc
 wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub(" La ", " la ", x)))
 wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub(" Los ", " los ", x)))
 wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub(" Y ", " y ", x)))
+wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub(" E ", " e ", x)))
 
 # Fix comuna
 wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("Alto Biob\u00edo", "Alto B\u00edob\u00edo", x)))
@@ -48,6 +49,15 @@ wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_oc
 # Add provincia and region
 wage_by_gender_and_occupation_2011 <- join(wage_by_gender_and_occupation_2011, regiones_casen_2015, by = "comuna")
 wage_by_gender_and_occupation_2011 <- wage_by_gender_and_occupation_2011[,c("comuna","provincia","region","ingreso_ocup_principal", "oficio_id", "sexo")]
+
+# Fix oficio
+wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("Agricultores y Trabajadores Calificados Agropecuarios y Pesqueros", "Trabajadores Agropecuarios y Pesqueros", x)))
+wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("Miembros del Poder Ejecutivo y de los Cuerpos Legislativos y Personal Directivo de la Administración P\u00fablica", "Miembros del Poder Ejecutivo y Cuerpos Legislativos", x)))
+wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("Oficiales, Operarios y Artesanos de Artes Mec\u00e1nicas y de Otros Oficios", "Trabajadores de Artes Mec\u00e1nicas y Otros", x)))
+wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("Operadores de Instalaciones y M\u00e1quinas y Montadores", "Operadores y Montadores de Instalaciones y M\u00e1quinas", x)))
+wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("Profesionales Cient\u00edficos e Intelectuales", "Profesionales, Cient\u00edficos e Intelectuales", x)))
+wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("T\u00e9cnicos y Profesionales de Nivel Medio", "T\u00e9cnicos y Profesionales de Nivel Medio", x)))
+wage_by_gender_and_occupation_2011 <- as.data.frame(lapply(wage_by_gender_and_occupation_2011, function(x) gsub("Trabajadores de los Servicios y Vendedores de Comercios y Mercados", "Trabajadores de Servicios y Vendedores", x)))
 
 # Keep only the households that reported their wage
 wage_by_gender_and_occupation_2011$ingreso_ocup_principal <- as.numeric(as.character(wage_by_gender_and_occupation_2011$ingreso_ocup_principal))

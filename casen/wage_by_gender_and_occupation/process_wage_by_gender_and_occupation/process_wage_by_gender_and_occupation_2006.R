@@ -38,6 +38,7 @@ wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_oc
 wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub(" La ", " la ", x)))
 wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub(" Los ", " los ", x)))
 wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub(" Y ", " y ", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub(" E ", " e ", x)))
 
 # Fix characters/uppercase
 wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("tarapac\u00e1", "Tarapac\u00e1", x)))
@@ -71,6 +72,19 @@ wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_oc
 # Add provincia and region
 wage_by_gender_and_occupation_2006 <- join(wage_by_gender_and_occupation_2006, regiones_casen_2015, by = "comuna")
 wage_by_gender_and_occupation_2006 <- wage_by_gender_and_occupation_2006[,c("comuna","provincia","region","ingreso_ocup_principal", "oficio_id", "sexo")]
+
+# Fix oficio
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Agricultores y Trabajadores Calificados  Agropecuarios y Pes", "Trabajadores Agropecuarios y Pesqueros", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Emp.oficina", "Empleados de Oficina", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Ff.aa.", "Fuerzas Armadas", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Miembros del Poder Ejecutivo y de los Cuerpos Legislativos Y", "Miembros del Poder Ejecutivo y Cuerpos Legislativos", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Oficiales, Operarios y Artesanos de Artes Mec\u00e1nica y Otros O", "Trabajadores de Artes Mec\u00e1nicas y Otros", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Operadores y Montadores de Instalaciones y Maquinaria", "Operadores y Montadores de Instalaciones y M\u00e1quinas", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Profesionales, Cient\u00edficos e Intelectuales", "Profesionales, Cient\u00edficos e Intelectuales", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("T\u00e9cnicos y Profesionales de Nivel Medio", "T\u00e9cnicos y Profesionales de Nivel Medio", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Trabajadores de los Servicios y Vendedores de Comercio y Mer", "Trabajadores de Servicios y Vendedores", x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Sin Respuesta", NA, x)))
+wage_by_gender_and_occupation_2006 <- as.data.frame(lapply(wage_by_gender_and_occupation_2006, function(x) gsub("Ocupacion No Bien Especificada", NA, x)))
 
 # Keep only the households that reported their wage
 wage_by_gender_and_occupation_2006$ingreso_ocup_principal <- as.numeric(as.character(wage_by_gender_and_occupation_2006$ingreso_ocup_principal))

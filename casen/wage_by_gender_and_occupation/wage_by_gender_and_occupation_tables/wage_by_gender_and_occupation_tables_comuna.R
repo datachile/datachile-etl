@@ -161,11 +161,11 @@ tidy_ub_mean_income_comuna <- ub_mean_income_comuna %>% gather(year, ub_mean_inc
 # join all #
 ############
 
-tidy_all_comuna <- join(tidy_mean_income_comuna, tidy_median_income_comuna, by = c("sexo","oficio_id","comuna","year"))
-tidy_all_comuna <- join(tidy_all_comuna, tidy_lb_mean_income_comuna, by = c("sexo","oficio_id","comuna","year"))
-tidy_all_comuna <- join(tidy_all_comuna, tidy_ub_mean_income_comuna, by = c("sexo","oficio_id","comuna","year"))
-tidy_all_comuna <- join(tidy_all_comuna, tidy_lb_median_income_comuna, by = c("sexo","oficio_id","comuna","year"))
-tidy_all_comuna <- join(tidy_all_comuna, tidy_ub_median_income_comuna, by = c("sexo","oficio_id","comuna","year"))
+tidy_all_comuna <- join(tidy_mean_income_comuna, tidy_median_income_comuna, by = c("sexo","oficio","comuna","year"))
+tidy_all_comuna <- join(tidy_all_comuna, tidy_lb_mean_income_comuna, by = c("sexo","oficio","comuna","year"))
+tidy_all_comuna <- join(tidy_all_comuna, tidy_ub_mean_income_comuna, by = c("sexo","oficio","comuna","year"))
+tidy_all_comuna <- join(tidy_all_comuna, tidy_lb_median_income_comuna, by = c("sexo","oficio","comuna","year"))
+tidy_all_comuna <- join(tidy_all_comuna, tidy_ub_median_income_comuna, by = c("sexo","oficio","comuna","year"))
 
 setnames(tidy_all_comuna, "comuna", "comuna_name")
 tidy_all_comuna <- join(tidy_all_comuna, unique(region_codes_datachile[,c("comuna_name","comuna_datachile_id")]), by = "comuna_name")
