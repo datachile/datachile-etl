@@ -7,6 +7,7 @@
 * household_income
 * wage_by_gender
 * wage_by_gender_and_occupation
+* wage_by_gender_and_branch
 
 3. There is a master file named `do_all.R` inside each of the relevant folders named before. Those files will download and/or load datasets, process information and create a csv file named `relevant_topic/csv_final_files/relevant_topic_tidy_all.csv` that contains all the information at all levels with a column that shows if the row i^th refers to a region, provincia or comuna. 
 
@@ -14,7 +15,7 @@
 
 5. Inside each master file there are instructions in case you want to calculate, for example, the median by region ignoring any other level.
 
-### `household_income/csv_final_files/household_income_tidy_all.csv`'s structure
+### `household_income_tidy_all.csv`'s structure
 
 | Index | Column ID        | Type   | Description                                                   |
 | ----- | ---------------- | ------ | ------------------------------------------------------------- |
@@ -29,9 +30,9 @@
 | 8     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
 | 9     | ci_gini_income   | num    | confidence interval (via bootstrapping) for gini_income       |
 
-No. of observation: 4,080
+No. of observations: 4,080
 
-### `wage_by_gender/csv_final_files/wage_by_gender_tidy_all.csv`'s structure
+### `wage_by_gender_tidy_all.csv`'s structure
 
 | Index | Column ID        | Type   | Description                                                   |
 | ----- | ---------------- | ------ | ------------------------------------------------------------- |
@@ -45,11 +46,11 @@ No. of observation: 4,080
 | 7     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
 | 8     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
 
-No. of observation: 5,054
+No. of observations: 5,054
 
 * Please notice how unanswered questions reduce the geographic areas in this file * 
 
-### `wage_by_gender_and_occupation/csv_final_files/wage_by_gender_and_occupation_tidy_all.csv`'s structure
+### `wage_by_gender_and_occupation_tidy_all.csv`'s structure
 
 | Index | Column ID        | Type   | Description                                                   |
 | ----- | ---------------- | ------ | ------------------------------------------------------------- |
@@ -58,12 +59,15 @@ No. of observation: 5,054
 | 2     | geography_id     | Factor | Factor w/ 207 levels "1", "2", ... , "p11", "p21", "pais"     |
 | 3     | year             | num    | from 1990 to 2015                                             |
 | 4     | sexo             | Factor | Factor w/ 2 levels "Hombre", "Mujer"                          |
-| 5     | mean_income      | num    | mean by geography_id                                          |
-| 6     | median_income    | num    | median by geography_id                                        |
-| 7     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
-| 8     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
+| 5     | oficio           | Factor | Factor w/ 10 levels "Empleados de Oficina", ...               |
+| 6     | mean_income      | num    | mean by geography_id                                          |
+| 7     | median_income    | num    | median by geography_id                                        |
+| 8     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
+| 9     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
 
-No. of observation: 33,361
+No. of observations: 33,361
+
+* Please notice how unanswered questions reduce the geographic areas in this file * 
 
 #### Explanation about `occupation` variable
 
@@ -81,6 +85,25 @@ No. of observation: 33,361
 |8    |Trabajadores de Artes Mecánicas y Otros            |Mechanical and Other Arts Workers                           |
 |9    |Trabajadores de Servicios y Vendedores             |Service and Sales Workers                                   |
 |10   |Trabajadores No Calificados                        |Unqualified Workers                                         |
+
+### `wage_by_gender_and_branch_tidy_all.csv`'s structure
+
+| Index | Column ID        | Type   | Description                                                   |
+| ----- | ---------------- | ------ | ------------------------------------------------------------- |
+| 0     | geography_level  | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
+| 1     | geography_name   | Factor | Factor w/ 356 levels "Arica", "Antofagasta", ...              |
+| 2     | geography_id     | Factor | Factor w/ 375 levels "1", "2", ... , "p11", "p21", "pais"     |
+| 3     | year             | num    | from 2011 to 2015                                             |
+| 4     | sexo             | Factor | Factor w/ 2 levels "Hombre", "Mujer"                          |
+| 5     | rama             | Factor | Factor w/ 17 levels "Actividades Inmobiliarias", ...          |
+| 6     | mean_income      | num    | mean by geography_id                                          |
+| 7     | median_income    | num    | median by geography_id                                        |
+| 8     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
+| 9     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
+
+No. of observations: 25,832
+
+* Please notice how unanswered questions reduce the geographic areas in this file * 
 
 # Important note about `geography_id` variable
 

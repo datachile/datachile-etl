@@ -1,0 +1,5 @@
+# you can comment some years to exclude them from the tables
+
+source("wage_by_gender_and_branch/wage_by_gender_and_branch_statistics_region/wage_by_gender_and_branch_statistics_region_2015.R")
+source("wage_by_gender_and_branch/wage_by_gender_and_branch_statistics_region/wage_by_gender_and_branch_statistics_region_2013.R")
+source("wage_by_gender_and_branch/wage_by_gender_and_branch_statistics_region/wage_by_gender_and_branch_statistics_region_2011.R")
