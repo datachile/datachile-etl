@@ -48,7 +48,7 @@ No. of observations: 4,080
 
 No. of observations: 5,054
 
-* Please notice how unanswered questions reduce the geographic areas in this file * 
+*Please notice how unanswered questions reduce the geographic areas in this file* 
 
 ### `wage_by_gender_and_occupation_tidy_all.csv`'s structure
 
@@ -67,7 +67,7 @@ No. of observations: 5,054
 
 No. of observations: 33,361
 
-* Please notice how unanswered questions reduce the geographic areas in this file * 
+*Please notice how unanswered questions reduce the geographic areas in this file* 
 
 #### Explanation about `occupation` variable
 
@@ -103,7 +103,7 @@ No. of observations: 33,361
 
 No. of observations: 25,832
 
-* Please notice how unanswered questions reduce the geographic areas in this file * 
+*Please notice how unanswered questions reduce the geographic areas in this file* 
 
 # Important note about `geography_id` variable
 
