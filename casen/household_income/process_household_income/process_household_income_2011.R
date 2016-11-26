@@ -47,7 +47,7 @@ household_income_2011 <- as.data.frame(lapply(household_income_2011, function(x)
 
 # Add provincia and region
 household_income_2011 <- join(household_income_2011, regiones_casen_2015, by = "comuna")
-household_income_2011 <- household_income_2011[,c("comuna","provincia","region","ingreso_pc")]
+household_income_2011 <- household_income_2011[,c("comuna","provincia","region","ingreso_pc", "exp_region", "exp_comuna")]
 
 # Keep only the households that reported their income
 household_income_2011$ingreso_pc <- as.numeric(as.character(household_income_2011$ingreso_pc))

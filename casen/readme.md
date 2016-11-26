@@ -5,11 +5,12 @@
 2. The relevant folders (at the moment) are:
 
 * household_income
+* household_income_with_weights
 * wage_by_gender
 * wage_by_gender_and_occupation
 * wage_by_gender_and_branch
 
-3. There is a master file named `do_all.R` inside each of the relevant folders named before. Those files will download and/or load datasets, process information and create a csv file named `relevant_topic/csv_final_files/relevant_topic_tidy_all.csv` that contains all the information at all levels with a column that shows if the row i^th refers to a region, provincia or comuna. 
+3. There is a master file named `do_all.R` inside each of the relevant folders named before. Those files will download and/or load datasets, process information and create a csv file named `relevant_topic/csv_final_files/relevant_topic_tidy_all.csv` that contains all the information at all levels with a column that shows if the row i^th refers to a region, provincia or comuna.
 
 4. `do_all.R` will also create additional files that inside `relevant_topic/csv_final_files` and `relevant_topic/csv_intermediate_files` that are just subsets of `relevant_topic/csv_final_files/relevant_topic_tidy_all.csv` divided by geographical areas (`region`, `provincia` or `comuna`) and variable (`mean_income`, `median_income` or `gini_income`)
 
@@ -32,6 +33,10 @@
 
 No. of observations: 4,080
 
+### `household_income_with_weights_tidy_all.csv`'s structure
+
+The same as before but the numbers change as I included weights for every statistic function.
+
 ### `wage_by_gender_tidy_all.csv`'s structure
 
 | Index | Column ID        | Type   | Description                                                   |
@@ -48,7 +53,7 @@ No. of observations: 4,080
 
 No. of observations: 5,054
 
-*Please notice how unanswered questions reduce the geographic areas in this file* 
+*Please notice how unanswered questions reduce the geographic areas in this file*
 
 ### `wage_by_gender_and_occupation_tidy_all.csv`'s structure
 
@@ -67,7 +72,7 @@ No. of observations: 5,054
 
 No. of observations: 33,361
 
-*Please notice how unanswered questions reduce the geographic areas in this file* 
+*Please notice how unanswered questions reduce the geographic areas in this file*
 
 #### Explanation about `occupation` variable
 
@@ -103,7 +108,7 @@ No. of observations: 33,361
 
 No. of observations: 25,832
 
-*Please notice how unanswered questions reduce the geographic areas in this file* 
+*Please notice how unanswered questions reduce the geographic areas in this file*
 
 # Important note about `geography_id` variable
 

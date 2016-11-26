@@ -46,7 +46,7 @@ wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch
 wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch_2015, function(x) gsub("Regi\u00f3n de Valpara\u00edso", "Valpara\u00edso", x)))
 wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch_2015, function(x) gsub("Regi\u00f3n del Maule", "Maule", x)))
 wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch_2015, function(x) gsub("Regi\u00f3n de la Araucan\u00eda", "Araucan\u00eda", x)))
-wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch_2015, function(x) gsub("Regi\u00f3n de Ays\u00e9n del Gral. Carlos Ibá\u00f1ez del Campo", "Ays\u00e9n", x)))
+wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch_2015, function(x) gsub("Regi\u00f3n de Ays\u00e9n del Gral. Carlos Ib\u00e1\u00f1ez del Campo", "Ays\u00e9n", x)))
 wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch_2015, function(x) gsub("Regi\u00f3n Metropolitana de Santiago", "Metropolitana", x)))
 wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch_2015, function(x) gsub("Regi\u00f3n de Arica y Parinacota", "Arica y Parinacota", x)))
 wage_by_gender_and_branch_2015 <- as.data.frame(lapply(wage_by_gender_and_branch_2015, function(x) gsub("Regi\u00f3n de Antofagasta", "Antofagasta", x)))
