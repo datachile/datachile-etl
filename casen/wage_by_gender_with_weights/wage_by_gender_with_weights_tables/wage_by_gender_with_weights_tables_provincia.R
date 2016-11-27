@@ -1,0 +1,229 @@
+#uncomment lines 2-3 when running this file alone
+#source("wage_by_gender_with_weights/functions/normalization.R")
+#source("wage_by_gender_with_weights/process_wage_by_gender_with_weights/process_wage_by_gender_with_weights.R")
+source("wage_by_gender_with_weights/wage_by_gender_with_weights_statistics_provincia/wage_by_gender_with_weights_statistics_provincia.R")
+
+###############
+# join median #
+###############
+
+weighted_median_income_provincia <- as.data.frame(unique(c(as.character(weighted_median_1990_provincia$sexo), as.character(weighted_median_2015_provincia$sexo))))
+setnames(weighted_median_income_provincia, colnames(weighted_median_income_provincia), "sexo")
+
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_1990_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_1992_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_1994_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_1996_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_1998_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_2000_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_2003_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_2006_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_2009_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_2011_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_2013_provincia, type = "left")
+weighted_median_income_provincia <- join(weighted_median_income_provincia, weighted_median_2015_provincia, type = "left")
+
+weighted_median_income_provincia <- weighted_median_income_provincia[order(weighted_median_income_provincia$sexo),]
+rownames(weighted_median_income_provincia) <- c(seq(1:nrow(weighted_median_income_provincia)))
+
+#############
+# join mean #
+#############
+
+weighted_mean_income_provincia <- as.data.frame(unique(c(as.character(weighted_mean_1990_provincia$sexo), as.character(weighted_mean_2015_provincia$sexo))))
+setnames(weighted_mean_income_provincia, colnames(weighted_mean_income_provincia), "sexo")
+
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_1990_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_1992_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_1994_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_1996_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_1998_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_2000_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_2003_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_2006_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_2009_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_2011_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_2013_provincia, type = "left")
+weighted_mean_income_provincia <- join(weighted_mean_income_provincia, weighted_mean_2015_provincia, type = "left")
+
+weighted_mean_income_provincia <- weighted_mean_income_provincia[order(weighted_mean_income_provincia$sexo),]
+rownames(weighted_mean_income_provincia) <- c(seq(1:nrow(weighted_mean_income_provincia)))
+
+#########################
+# join lb_weighted_median_income #
+#########################
+
+lb_weighted_median_income_provincia <- as.data.frame(unique(c(as.character(lb_weighted_median_1990_provincia$sexo), as.character(lb_weighted_median_2015_provincia$sexo))))
+setnames(lb_weighted_median_income_provincia, colnames(lb_weighted_median_income_provincia), "sexo")
+
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_1990_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_1992_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_1994_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_1996_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_1998_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_2000_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_2003_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_2006_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_2009_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_2011_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_2013_provincia, type = "left")
+lb_weighted_median_income_provincia <- join(lb_weighted_median_income_provincia, lb_weighted_median_2015_provincia, type = "left")
+
+lb_weighted_median_income_provincia <- lb_weighted_median_income_provincia[order(lb_weighted_median_income_provincia$sexo),]
+rownames(lb_weighted_median_income_provincia) <- c(seq(1:nrow(lb_weighted_median_income_provincia)))
+
+#########################
+# join ub_weighted_median_income #
+#########################
+
+ub_weighted_median_income_provincia <- as.data.frame(unique(c(as.character(ub_weighted_median_1990_provincia$sexo), as.character(ub_weighted_median_2015_provincia$sexo))))
+setnames(ub_weighted_median_income_provincia, colnames(ub_weighted_median_income_provincia), "sexo")
+
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_1990_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_1992_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_1994_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_1996_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_1998_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_2000_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_2003_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_2006_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_2009_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_2011_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_2013_provincia, type = "left")
+ub_weighted_median_income_provincia <- join(ub_weighted_median_income_provincia, ub_weighted_median_2015_provincia, type = "left")
+
+ub_weighted_median_income_provincia <- ub_weighted_median_income_provincia[order(ub_weighted_median_income_provincia$sexo),]
+rownames(ub_weighted_median_income_provincia) <- c(seq(1:nrow(ub_weighted_median_income_provincia)))
+
+#########################
+# join lb_weighted_mean_income #
+#########################
+
+lb_weighted_mean_income_provincia <- as.data.frame(unique(c(as.character(lb_weighted_mean_1990_provincia$sexo), as.character(lb_weighted_mean_2015_provincia$sexo))))
+setnames(lb_weighted_mean_income_provincia, colnames(lb_weighted_mean_income_provincia), "sexo")
+
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_1990_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_1992_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_1994_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_1996_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_1998_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_2000_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_2003_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_2006_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_2009_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_2011_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_2013_provincia, type = "left")
+lb_weighted_mean_income_provincia <- join(lb_weighted_mean_income_provincia, lb_weighted_mean_2015_provincia, type = "left")
+
+lb_weighted_mean_income_provincia <- lb_weighted_mean_income_provincia[order(lb_weighted_mean_income_provincia$sexo),]
+rownames(lb_weighted_mean_income_provincia) <- c(seq(1:nrow(lb_weighted_mean_income_provincia)))
+
+#########################
+# join ub_weighted_mean_income #
+#########################
+
+ub_weighted_mean_income_provincia <- as.data.frame(unique(c(as.character(ub_weighted_mean_1990_provincia$sexo), as.character(ub_weighted_mean_2015_provincia$sexo))))
+setnames(ub_weighted_mean_income_provincia, colnames(ub_weighted_mean_income_provincia), "sexo")
+
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_1990_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_1992_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_1994_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_1996_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_1998_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_2000_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_2003_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_2006_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_2009_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_2011_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_2013_provincia, type = "left")
+ub_weighted_mean_income_provincia <- join(ub_weighted_mean_income_provincia, ub_weighted_mean_2015_provincia, type = "left")
+
+ub_weighted_mean_income_provincia <- ub_weighted_mean_income_provincia[order(ub_weighted_mean_income_provincia$sexo),]
+rownames(ub_weighted_mean_income_provincia) <- c(seq(1:nrow(ub_weighted_mean_income_provincia)))
+
+###############
+# tidy median #
+###############
+
+tidy_weighted_median_income_provincia <- weighted_median_income_provincia %>% gather(year, weighted_median_income, `1990`:`2015`)
+tidy_lb_weighted_median_income_provincia <- lb_weighted_median_income_provincia %>% gather(year, lb_weighted_median_income, `1990`:`2015`)
+tidy_ub_weighted_median_income_provincia <- ub_weighted_median_income_provincia %>% gather(year, ub_weighted_median_income, `1990`:`2015`)
+
+#############
+# tidy mean #
+#############
+
+tidy_weighted_mean_income_provincia <- weighted_mean_income_provincia %>% gather(year, weighted_mean_income, `1990`:`2015`)
+tidy_lb_weighted_mean_income_provincia <- lb_weighted_mean_income_provincia %>% gather(year, lb_weighted_mean_income, `1990`:`2015`)
+tidy_ub_weighted_mean_income_provincia <- ub_weighted_mean_income_provincia %>% gather(year, ub_weighted_mean_income, `1990`:`2015`)
+
+############
+# join all #
+############
+
+tidy_all_provincia <- join(tidy_weighted_mean_income_provincia, tidy_weighted_median_income_provincia, by = c("sexo","provincia","year"))
+tidy_all_provincia <- join(tidy_all_provincia, tidy_lb_weighted_mean_income_provincia, by = c("sexo","provincia","year"))
+tidy_all_provincia <- join(tidy_all_provincia, tidy_ub_weighted_mean_income_provincia, by = c("sexo","provincia","year"))
+tidy_all_provincia <- join(tidy_all_provincia, tidy_lb_weighted_median_income_provincia, by = c("sexo","provincia","year"))
+tidy_all_provincia <- join(tidy_all_provincia, tidy_ub_weighted_median_income_provincia, by = c("sexo","provincia","year"))
+
+setnames(tidy_all_provincia, "provincia", "provincia_name")
+tidy_all_provincia <- join(tidy_all_provincia, unique(provincia_codes_pacha[,c("provincia_name","provincia_pacha_id")]), by = "provincia_name")
+tidy_all_provincia$geography_level <- "provincia"
+tidy_all_provincia <- move_col(tidy_all_provincia, c("geography_level"=1, "provincia_name"=2, "provincia_pacha_id"=3, "year"=4))
+setnames(tidy_all_provincia, c("provincia_name","provincia_pacha_id"), c("geography_name","geography_id"))
+
+tidy_all_provincia$geography_level <- as.character(tidy_all_provincia$geography_level)
+tidy_all_provincia$geography_name <- as.character(tidy_all_provincia$geography_name)
+tidy_all_provincia$geography_id <- as.character(tidy_all_provincia$geography_id)
+
+tidy_all_provincia$ci_weighted_mean_income <- paste0("[",tidy_all_provincia$lb_weighted_mean_income,", ",tidy_all_provincia$ub_weighted_mean_income,"]")
+tidy_all_provincia$ci_weighted_median_income <- paste0("[",tidy_all_provincia$lb_weighted_median_income,", ",tidy_all_provincia$ub_weighted_median_income,"]")
+
+tidy_all_provincia <- tidy_all_provincia[, !(colnames(tidy_all_provincia) %in% c("lb_weighted_mean_income","ub_weighted_mean_income","lb_weighted_median_income","ub_weighted_median_income"))]
+
+tidy_all_provincia <- tidy_all_provincia[complete.cases(tidy_all_provincia),]
+
+########
+# save #
+########
+
+write.csv(weighted_median_income_provincia, file = "wage_by_gender_with_weights/csv_intermediate_files/wage_by_gender_with_weights_weighted_median_income_provincia.csv")
+write.csv(weighted_mean_income_provincia, file = "wage_by_gender_with_weights/csv_intermediate_files/wage_by_gender_with_weights_weighted_mean_income_provincia.csv")
+write.csv(tidy_all_provincia, file = "wage_by_gender_with_weights/csv_final_files/wage_by_gender_with_weights_tidy_all_provincia.csv")
+
+##################
+# free up memory #
+##################
+
+rm(weighted_median_income_provincia, weighted_mean_income_provincia,
+   lb_weighted_median_income_provincia, lb_weighted_mean_income_provincia,
+   ub_weighted_median_income_provincia, ub_weighted_mean_income_provincia)
+
+rm(tidy_weighted_median_income_provincia, tidy_weighted_mean_income_provincia,
+   tidy_lb_weighted_median_income_provincia, tidy_lb_weighted_mean_income_provincia,
+   tidy_ub_weighted_median_income_provincia, tidy_ub_weighted_mean_income_provincia)
+
+rm(weighted_median_1990_provincia, weighted_median_1992_provincia, weighted_median_1994_provincia, weighted_median_1996_provincia, weighted_median_1998_provincia,
+   weighted_median_2000_provincia, weighted_median_2003_provincia, weighted_median_2006_provincia, weighted_median_2009_provincia, 
+   weighted_median_2011_provincia, weighted_median_2013_provincia, weighted_median_2015_provincia)
+
+rm(weighted_mean_1990_provincia, weighted_mean_1992_provincia, weighted_mean_1994_provincia, weighted_mean_1996_provincia, weighted_mean_1998_provincia,
+   weighted_mean_2000_provincia, weighted_mean_2003_provincia, weighted_mean_2006_provincia, weighted_mean_2009_provincia, 
+   weighted_mean_2011_provincia, weighted_mean_2013_provincia, weighted_mean_2015_provincia)
+
+rm(lb_weighted_median_1990_provincia, lb_weighted_median_1992_provincia, lb_weighted_median_1994_provincia, lb_weighted_median_1996_provincia, lb_weighted_median_1998_provincia,
+   lb_weighted_median_2000_provincia, lb_weighted_median_2003_provincia, lb_weighted_median_2006_provincia, lb_weighted_median_2009_provincia, 
+   lb_weighted_median_2011_provincia, lb_weighted_median_2013_provincia, lb_weighted_median_2015_provincia)
+
+rm(ub_weighted_median_1990_provincia, ub_weighted_median_1992_provincia, ub_weighted_median_1994_provincia, ub_weighted_median_1996_provincia, ub_weighted_median_1998_provincia,
+   ub_weighted_median_2000_provincia, ub_weighted_median_2003_provincia, ub_weighted_median_2006_provincia, ub_weighted_median_2009_provincia, 
+   ub_weighted_median_2011_provincia, ub_weighted_median_2013_provincia, ub_weighted_median_2015_provincia)
+
+rm(lb_weighted_mean_1990_provincia, lb_weighted_mean_1992_provincia, lb_weighted_mean_1994_provincia, lb_weighted_mean_1996_provincia, lb_weighted_mean_1998_provincia,
+   lb_weighted_mean_2000_provincia, lb_weighted_mean_2003_provincia, lb_weighted_mean_2006_provincia, lb_weighted_mean_2009_provincia, 
+   lb_weighted_mean_2011_provincia, lb_weighted_mean_2013_provincia, lb_weighted_mean_2015_provincia)
+
+rm(ub_weighted_mean_1990_provincia, ub_weighted_mean_1992_provincia, ub_weighted_mean_1994_provincia, ub_weighted_mean_1996_provincia, ub_weighted_mean_1998_provincia,
+   ub_weighted_mean_2000_provincia, ub_weighted_mean_2003_provincia, ub_weighted_mean_2006_provincia, ub_weighted_mean_2009_provincia, 
+   ub_weighted_mean_2011_provincia, ub_weighted_mean_2013_provincia, ub_weighted_mean_2015_provincia)

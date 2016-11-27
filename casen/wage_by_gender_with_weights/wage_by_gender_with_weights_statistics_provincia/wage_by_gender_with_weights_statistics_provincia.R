@@ -1,0 +1,14 @@
+# you can comment some years to exclude them from the tables
+
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_2015.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_2013.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_2011.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_2009.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_2006.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_2003.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_2000.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_1998.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_1996.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_1994.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_1992.R")
+source("wage_by_gender/wage_by_gender_statistics_provincia/wage_by_gender_statistics_provincia_1990.R")

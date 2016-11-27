@@ -1,0 +1,12 @@
+source("wage_by_gender_with_weights/functions/libraries.R")
+source("wage_by_gender_with_weights/functions/normalization.R")
+source("wage_by_gender_with_weights/functions/margin_of_error.R")
+
+source("wage_by_gender_with_weights/process_wage_by_gender_with_weights/process_wage_by_gender_with_weights.R")
+
+source("wage_by_gender_with_weights/wage_by_gender_with_weights_tables/wage_by_gender_with_weights_tables_country.R")
+source("wage_by_gender_with_weights/wage_by_gender_with_weights_tables/wage_by_gender_with_weights_tables_region.R")
+source("wage_by_gender_with_weights/wage_by_gender_with_weights_tables/wage_by_gender_with_weights_tables_provincia.R")
+source("wage_by_gender_with_weights/wage_by_gender_with_weights_tables/wage_by_gender_with_weights_tables_comuna.R")
+
+source("wage_by_gender_with_weights/functions/join_all.R")

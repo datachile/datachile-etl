@@ -1,0 +1,14 @@
+# you can comment some years to exclude them from the tables
+
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_2015.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_2013.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_2011.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_2009.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_2006.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_2003.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_2000.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_1998.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_1996.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_1994.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_1992.R")
+source("wage_by_gender/wage_by_gender_statistics_comuna/wage_by_gender_statistics_comuna_1990.R")
