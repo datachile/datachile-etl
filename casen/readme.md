@@ -1,5 +1,9 @@
 # README
 
+OK hasta ahora final 1 link 100% real mega no fake
+
+wage_by_gender_with_weights
+
 1. I have divided the code in several files and folders to keep this simple :)
 
 2. The relevant folders (at the moment) are:

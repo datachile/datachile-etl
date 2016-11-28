@@ -1,5 +1,0 @@
-# you can comment some years to exclude them from the tables
-
-source("wage_by_gender_and_branch/wage_by_gender_and_branch_statistics_provincia/wage_by_gender_and_branch_statistics_provincia_2015.R")
-source("wage_by_gender_and_branch/wage_by_gender_and_branch_statistics_provincia/wage_by_gender_and_branch_statistics_provincia_2013.R")
-source("wage_by_gender_and_branch/wage_by_gender_and_branch_statistics_provincia/wage_by_gender_and_branch_statistics_provincia_2011.R")

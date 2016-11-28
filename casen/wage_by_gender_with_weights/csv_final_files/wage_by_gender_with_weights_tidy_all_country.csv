@@ -1,4 +1,4 @@
-"","geography_level","geography_name","geography_id","year","sexo","weighted_mean_income","weighted_median_income","ci_weighted_mean_income","ci_weighted_median_income"
+"","geography_level","geography_name","geography_id","year","sex","weighted_mean_income","weighted_median_income","ci_weighted_mean_income","ci_weighted_median_income"
 "1","pais","País","pais","1990","Hombre",93651,48320,"[91105, 97474]","[48320, 48939]"
 "2","pais","País","pais","1990","Mujer",60989,36240,"[59371, 63551]","[36240, 38020]"
 "3","pais","País","pais","1992","Hombre",141926,75110,"[137864, 146337]","[75110, 75110]"

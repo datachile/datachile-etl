@@ -1,0 +1,7 @@
+source("wage_by_gender_with_weights/functions/libraries.R")
+source("wage_by_gender_with_weights/functions/normalization.R")
+source("wage_by_gender_with_weights/functions/margin_of_error.R")
+source("wage_by_gender_with_weights/functions/insert_row.R")
+source("wage_by_gender_with_weights/functions/move_col.R")
+source("wage_by_gender_with_weights/functions/load_data.R")
+source("wage_by_gender_with_weights/functions/batch_load_data.R")

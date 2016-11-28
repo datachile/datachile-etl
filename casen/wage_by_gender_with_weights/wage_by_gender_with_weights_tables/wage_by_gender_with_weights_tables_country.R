@@ -1,15 +1,13 @@
 #uncomment lines 2-3 when running this file alone
-#source("wage_by_gender_with_weights/functions/normalization.R")
-#source("wage_by_gender_with_weights/process_wage_by_gender_with_weights/process_wage_by_gender_with_weights.R")
 source("wage_by_gender_with_weights/wage_by_gender_with_weights_statistics_country/wage_by_gender_with_weights_statistics_country.R")
 
 ###############
 # join median #
 ###############
 
-weighted_median_income_country <- as.data.frame(unique(c(as.character(weighted_median_1990_country$sexo), as.character(weighted_median_2015_country$sexo))))
-setnames(weighted_median_income_country, colnames(weighted_median_income_country), "sexo")
+sex <- unique(c(as.character(weighted_median_2015_country$sex)))
 
+weighted_median_income_country <- as.data.frame(sex)
 weighted_median_income_country <- join(weighted_median_income_country, weighted_median_1990_country, type = "left")
 weighted_median_income_country <- join(weighted_median_income_country, weighted_median_1992_country, type = "left")
 weighted_median_income_country <- join(weighted_median_income_country, weighted_median_1994_country, type = "left")
@@ -23,16 +21,11 @@ weighted_median_income_country <- join(weighted_median_income_country, weighted_
 weighted_median_income_country <- join(weighted_median_income_country, weighted_median_2013_country, type = "left")
 weighted_median_income_country <- join(weighted_median_income_country, weighted_median_2015_country, type = "left")
 
-weighted_median_income_country <- weighted_median_income_country[order(weighted_median_income_country$sexo),]
-rownames(weighted_median_income_country) <- c(seq(1:nrow(weighted_median_income_country)))
-
 #############
 # join mean #
 #############
 
-weighted_mean_income_country <- as.data.frame(unique(c(as.character(weighted_mean_1990_country$sexo), as.character(weighted_mean_2015_country$sexo))))
-setnames(weighted_mean_income_country, colnames(weighted_mean_income_country), "sexo")
-
+weighted_mean_income_country <- as.data.frame(sex)
 weighted_mean_income_country <- join(weighted_mean_income_country, weighted_mean_1990_country, type = "left")
 weighted_mean_income_country <- join(weighted_mean_income_country, weighted_mean_1992_country, type = "left")
 weighted_mean_income_country <- join(weighted_mean_income_country, weighted_mean_1994_country, type = "left")
@@ -46,16 +39,11 @@ weighted_mean_income_country <- join(weighted_mean_income_country, weighted_mean
 weighted_mean_income_country <- join(weighted_mean_income_country, weighted_mean_2013_country, type = "left")
 weighted_mean_income_country <- join(weighted_mean_income_country, weighted_mean_2015_country, type = "left")
 
-weighted_mean_income_country <- weighted_mean_income_country[order(weighted_mean_income_country$sexo),]
-rownames(weighted_mean_income_country) <- c(seq(1:nrow(weighted_mean_income_country)))
-
 ##################################
 # join lb_weighted_median_income #
 ##################################
 
-lb_weighted_median_income_country <- as.data.frame(unique(c(as.character(lb_weighted_median_1990_country$sexo), as.character(lb_weighted_median_2015_country$sexo))))
-setnames(lb_weighted_median_income_country, colnames(lb_weighted_median_income_country), "sexo")
-
+lb_weighted_median_income_country <- as.data.frame(sex)
 lb_weighted_median_income_country <- join(lb_weighted_median_income_country, lb_weighted_median_1990_country, type = "left")
 lb_weighted_median_income_country <- join(lb_weighted_median_income_country, lb_weighted_median_1992_country, type = "left")
 lb_weighted_median_income_country <- join(lb_weighted_median_income_country, lb_weighted_median_1994_country, type = "left")
@@ -69,16 +57,11 @@ lb_weighted_median_income_country <- join(lb_weighted_median_income_country, lb_
 lb_weighted_median_income_country <- join(lb_weighted_median_income_country, lb_weighted_median_2013_country, type = "left")
 lb_weighted_median_income_country <- join(lb_weighted_median_income_country, lb_weighted_median_2015_country, type = "left")
 
-lb_weighted_median_income_country <- lb_weighted_median_income_country[order(lb_weighted_median_income_country$sexo),]
-rownames(lb_weighted_median_income_country) <- c(seq(1:nrow(lb_weighted_median_income_country)))
-
 ##################################
 # join ub_weighted_median_income #
 ##################################
 
-ub_weighted_median_income_country <- as.data.frame(unique(c(as.character(ub_weighted_median_1990_country$sexo), as.character(ub_weighted_median_2015_country$sexo))))
-setnames(ub_weighted_median_income_country, colnames(ub_weighted_median_income_country), "sexo")
-
+ub_weighted_median_income_country <- as.data.frame(sex)
 ub_weighted_median_income_country <- join(ub_weighted_median_income_country, ub_weighted_median_1990_country, type = "left")
 ub_weighted_median_income_country <- join(ub_weighted_median_income_country, ub_weighted_median_1992_country, type = "left")
 ub_weighted_median_income_country <- join(ub_weighted_median_income_country, ub_weighted_median_1994_country, type = "left")
@@ -92,16 +75,11 @@ ub_weighted_median_income_country <- join(ub_weighted_median_income_country, ub_
 ub_weighted_median_income_country <- join(ub_weighted_median_income_country, ub_weighted_median_2013_country, type = "left")
 ub_weighted_median_income_country <- join(ub_weighted_median_income_country, ub_weighted_median_2015_country, type = "left")
 
-ub_weighted_median_income_country <- ub_weighted_median_income_country[order(ub_weighted_median_income_country$sexo),]
-rownames(ub_weighted_median_income_country) <- c(seq(1:nrow(ub_weighted_median_income_country)))
-
 ################################
 # join lb_weighted_mean_income #
 ################################
 
-lb_weighted_mean_income_country <- as.data.frame(unique(c(as.character(lb_weighted_mean_1990_country$sexo), as.character(lb_weighted_mean_2015_country$sexo))))
-setnames(lb_weighted_mean_income_country, colnames(lb_weighted_mean_income_country), "sexo")
-
+lb_weighted_mean_income_country <- as.data.frame(sex)
 lb_weighted_mean_income_country <- join(lb_weighted_mean_income_country, lb_weighted_mean_1990_country, type = "left")
 lb_weighted_mean_income_country <- join(lb_weighted_mean_income_country, lb_weighted_mean_1992_country, type = "left")
 lb_weighted_mean_income_country <- join(lb_weighted_mean_income_country, lb_weighted_mean_1994_country, type = "left")
@@ -115,16 +93,11 @@ lb_weighted_mean_income_country <- join(lb_weighted_mean_income_country, lb_weig
 lb_weighted_mean_income_country <- join(lb_weighted_mean_income_country, lb_weighted_mean_2013_country, type = "left")
 lb_weighted_mean_income_country <- join(lb_weighted_mean_income_country, lb_weighted_mean_2015_country, type = "left")
 
-lb_weighted_mean_income_country <- lb_weighted_mean_income_country[order(lb_weighted_mean_income_country$sexo),]
-rownames(lb_weighted_mean_income_country) <- c(seq(1:nrow(lb_weighted_mean_income_country)))
-
 ################################
 # join ub_weighted_mean_income #
 ################################
 
-ub_weighted_mean_income_country <- as.data.frame(unique(c(as.character(ub_weighted_mean_1990_country$sexo), as.character(ub_weighted_mean_2015_country$sexo))))
-setnames(ub_weighted_mean_income_country, colnames(ub_weighted_mean_income_country), "sexo")
-
+ub_weighted_mean_income_country <- as.data.frame(sex)
 ub_weighted_mean_income_country <- join(ub_weighted_mean_income_country, ub_weighted_mean_1990_country, type = "left")
 ub_weighted_mean_income_country <- join(ub_weighted_mean_income_country, ub_weighted_mean_1992_country, type = "left")
 ub_weighted_mean_income_country <- join(ub_weighted_mean_income_country, ub_weighted_mean_1994_country, type = "left")
@@ -137,9 +110,6 @@ ub_weighted_mean_income_country <- join(ub_weighted_mean_income_country, ub_weig
 ub_weighted_mean_income_country <- join(ub_weighted_mean_income_country, ub_weighted_mean_2011_country, type = "left")
 ub_weighted_mean_income_country <- join(ub_weighted_mean_income_country, ub_weighted_mean_2013_country, type = "left")
 ub_weighted_mean_income_country <- join(ub_weighted_mean_income_country, ub_weighted_mean_2015_country, type = "left")
-
-ub_weighted_mean_income_country <- ub_weighted_mean_income_country[order(ub_weighted_mean_income_country$sexo),]
-rownames(ub_weighted_mean_income_country) <- c(seq(1:nrow(ub_weighted_mean_income_country)))
 
 ###############
 # tidy median #
@@ -161,11 +131,11 @@ tidy_ub_weighted_mean_income_country <- ub_weighted_mean_income_country %>% gath
 # join all #
 ############
 
-tidy_all_country <- join(tidy_weighted_mean_income_country, tidy_weighted_median_income_country, by = c("sexo","year"))
-tidy_all_country <- join(tidy_all_country, tidy_lb_weighted_mean_income_country, by = c("sexo","year"))
-tidy_all_country <- join(tidy_all_country, tidy_ub_weighted_mean_income_country, by = c("sexo","year"))
-tidy_all_country <- join(tidy_all_country, tidy_lb_weighted_median_income_country, by = c("sexo","year"))
-tidy_all_country <- join(tidy_all_country, tidy_ub_weighted_median_income_country, by = c("sexo","year"))
+tidy_all_country <- join(tidy_weighted_mean_income_country, tidy_weighted_median_income_country, by = c("sex","year"))
+tidy_all_country <- join(tidy_all_country, tidy_lb_weighted_mean_income_country, by = c("sex","year"))
+tidy_all_country <- join(tidy_all_country, tidy_ub_weighted_mean_income_country, by = c("sex","year"))
+tidy_all_country <- join(tidy_all_country, tidy_lb_weighted_median_income_country, by = c("sex","year"))
+tidy_all_country <- join(tidy_all_country, tidy_ub_weighted_median_income_country, by = c("sex","year"))
 
 tidy_all_country$geography_level <- "pais"
 tidy_all_country$geography_name <- "Pa\u00eds"

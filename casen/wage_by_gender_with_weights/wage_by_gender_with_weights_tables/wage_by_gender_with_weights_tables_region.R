@@ -7,9 +7,20 @@ source("wage_by_gender_with_weights/wage_by_gender_with_weights_statistics_regio
 # join median #
 ###############
 
-weighted_median_income_region <- as.data.frame(unique(c(as.character(weighted_median_1990_region$sexo), as.character(weighted_median_2015_region$sexo))))
-setnames(weighted_median_income_region, colnames(weighted_median_income_region), "sexo")
+region <- unique(c(as.character(weighted_median_1990_region$region),
+                   as.character(weighted_median_1992_region$region),
+                   as.character(weighted_median_1994_region$region),
+                   as.character(weighted_median_1996_region$region),
+                   as.character(weighted_median_1998_region$region),
+                   as.character(weighted_median_2000_region$region),
+                   as.character(weighted_median_2003_region$region),
+                   as.character(weighted_median_2006_region$region),
+                   as.character(weighted_median_2009_region$region),
+                   as.character(weighted_median_2011_region$region),
+                   as.character(weighted_median_2013_region$region),
+                   as.character(weighted_median_2015_region$region)))
 
+weighted_median_income_region <- as.data.frame(region)
 weighted_median_income_region <- join(weighted_median_income_region, weighted_median_1990_region, type = "left")
 weighted_median_income_region <- join(weighted_median_income_region, weighted_median_1992_region, type = "left")
 weighted_median_income_region <- join(weighted_median_income_region, weighted_median_1994_region, type = "left")
@@ -23,16 +34,11 @@ weighted_median_income_region <- join(weighted_median_income_region, weighted_me
 weighted_median_income_region <- join(weighted_median_income_region, weighted_median_2013_region, type = "left")
 weighted_median_income_region <- join(weighted_median_income_region, weighted_median_2015_region, type = "left")
 
-weighted_median_income_region <- weighted_median_income_region[order(weighted_median_income_region$sexo),]
-rownames(weighted_median_income_region) <- c(seq(1:nrow(weighted_median_income_region)))
-
 #############
 # join mean #
 #############
 
-weighted_mean_income_region <- as.data.frame(unique(c(as.character(weighted_mean_1990_region$sexo), as.character(weighted_mean_2015_region$sexo))))
-setnames(weighted_mean_income_region, colnames(weighted_mean_income_region), "sexo")
-
+weighted_mean_income_region <- as.data.frame(region)
 weighted_mean_income_region <- join(weighted_mean_income_region, weighted_mean_1990_region, type = "left")
 weighted_mean_income_region <- join(weighted_mean_income_region, weighted_mean_1992_region, type = "left")
 weighted_mean_income_region <- join(weighted_mean_income_region, weighted_mean_1994_region, type = "left")
@@ -46,16 +52,11 @@ weighted_mean_income_region <- join(weighted_mean_income_region, weighted_mean_2
 weighted_mean_income_region <- join(weighted_mean_income_region, weighted_mean_2013_region, type = "left")
 weighted_mean_income_region <- join(weighted_mean_income_region, weighted_mean_2015_region, type = "left")
 
-weighted_mean_income_region <- weighted_mean_income_region[order(weighted_mean_income_region$sexo),]
-rownames(weighted_mean_income_region) <- c(seq(1:nrow(weighted_mean_income_region)))
-
 ##################################
 # join lb_weighted_median_income #
 ##################################
 
-lb_weighted_median_income_region <- as.data.frame(unique(c(as.character(lb_weighted_median_1990_region$sexo), as.character(lb_weighted_median_2015_region$sexo))))
-setnames(lb_weighted_median_income_region, colnames(lb_weighted_median_income_region), "sexo")
-
+lb_weighted_median_income_region <- as.data.frame(region)
 lb_weighted_median_income_region <- join(lb_weighted_median_income_region, lb_weighted_median_1990_region, type = "left")
 lb_weighted_median_income_region <- join(lb_weighted_median_income_region, lb_weighted_median_1992_region, type = "left")
 lb_weighted_median_income_region <- join(lb_weighted_median_income_region, lb_weighted_median_1994_region, type = "left")
@@ -69,16 +70,11 @@ lb_weighted_median_income_region <- join(lb_weighted_median_income_region, lb_we
 lb_weighted_median_income_region <- join(lb_weighted_median_income_region, lb_weighted_median_2013_region, type = "left")
 lb_weighted_median_income_region <- join(lb_weighted_median_income_region, lb_weighted_median_2015_region, type = "left")
 
-lb_weighted_median_income_region <- lb_weighted_median_income_region[order(lb_weighted_median_income_region$sexo),]
-rownames(lb_weighted_median_income_region) <- c(seq(1:nrow(lb_weighted_median_income_region)))
-
 ##################################
 # join ub_weighted_median_income #
 ##################################
 
-ub_weighted_median_income_region <- as.data.frame(unique(c(as.character(ub_weighted_median_1990_region$sexo), as.character(ub_weighted_median_2015_region$sexo))))
-setnames(ub_weighted_median_income_region, colnames(ub_weighted_median_income_region), "sexo")
-
+ub_weighted_median_income_region <- as.data.frame(region)
 ub_weighted_median_income_region <- join(ub_weighted_median_income_region, ub_weighted_median_1990_region, type = "left")
 ub_weighted_median_income_region <- join(ub_weighted_median_income_region, ub_weighted_median_1992_region, type = "left")
 ub_weighted_median_income_region <- join(ub_weighted_median_income_region, ub_weighted_median_1994_region, type = "left")
@@ -92,16 +88,11 @@ ub_weighted_median_income_region <- join(ub_weighted_median_income_region, ub_we
 ub_weighted_median_income_region <- join(ub_weighted_median_income_region, ub_weighted_median_2013_region, type = "left")
 ub_weighted_median_income_region <- join(ub_weighted_median_income_region, ub_weighted_median_2015_region, type = "left")
 
-ub_weighted_median_income_region <- ub_weighted_median_income_region[order(ub_weighted_median_income_region$sexo),]
-rownames(ub_weighted_median_income_region) <- c(seq(1:nrow(ub_weighted_median_income_region)))
-
 ################################
 # join lb_weighted_mean_income #
 ################################
 
-lb_weighted_mean_income_region <- as.data.frame(unique(c(as.character(lb_weighted_mean_1990_region$sexo), as.character(lb_weighted_mean_2015_region$sexo))))
-setnames(lb_weighted_mean_income_region, colnames(lb_weighted_mean_income_region), "sexo")
-
+lb_weighted_mean_income_region <- as.data.frame(region)
 lb_weighted_mean_income_region <- join(lb_weighted_mean_income_region, lb_weighted_mean_1990_region, type = "left")
 lb_weighted_mean_income_region <- join(lb_weighted_mean_income_region, lb_weighted_mean_1992_region, type = "left")
 lb_weighted_mean_income_region <- join(lb_weighted_mean_income_region, lb_weighted_mean_1994_region, type = "left")
@@ -115,16 +106,11 @@ lb_weighted_mean_income_region <- join(lb_weighted_mean_income_region, lb_weight
 lb_weighted_mean_income_region <- join(lb_weighted_mean_income_region, lb_weighted_mean_2013_region, type = "left")
 lb_weighted_mean_income_region <- join(lb_weighted_mean_income_region, lb_weighted_mean_2015_region, type = "left")
 
-lb_weighted_mean_income_region <- lb_weighted_mean_income_region[order(lb_weighted_mean_income_region$sexo),]
-rownames(lb_weighted_mean_income_region) <- c(seq(1:nrow(lb_weighted_mean_income_region)))
-
 ################################
 # join ub_weighted_mean_income #
 ################################
 
-ub_weighted_mean_income_region <- as.data.frame(unique(c(as.character(ub_weighted_mean_1990_region$sexo), as.character(ub_weighted_mean_2015_region$sexo))))
-setnames(ub_weighted_mean_income_region, colnames(ub_weighted_mean_income_region), "sexo")
-
+ub_weighted_mean_income_region <- as.data.frame(region)
 ub_weighted_mean_income_region <- join(ub_weighted_mean_income_region, ub_weighted_mean_1990_region, type = "left")
 ub_weighted_mean_income_region <- join(ub_weighted_mean_income_region, ub_weighted_mean_1992_region, type = "left")
 ub_weighted_mean_income_region <- join(ub_weighted_mean_income_region, ub_weighted_mean_1994_region, type = "left")
@@ -137,9 +123,6 @@ ub_weighted_mean_income_region <- join(ub_weighted_mean_income_region, ub_weight
 ub_weighted_mean_income_region <- join(ub_weighted_mean_income_region, ub_weighted_mean_2011_region, type = "left")
 ub_weighted_mean_income_region <- join(ub_weighted_mean_income_region, ub_weighted_mean_2013_region, type = "left")
 ub_weighted_mean_income_region <- join(ub_weighted_mean_income_region, ub_weighted_mean_2015_region, type = "left")
-
-ub_weighted_mean_income_region <- ub_weighted_mean_income_region[order(ub_weighted_mean_income_region$sexo),]
-rownames(ub_weighted_mean_income_region) <- c(seq(1:nrow(ub_weighted_mean_income_region)))
 
 ###############
 # tidy median #
@@ -161,11 +144,11 @@ tidy_ub_weighted_mean_income_region <- ub_weighted_mean_income_region %>% gather
 # join all #
 ############
 
-tidy_all_region <- join(tidy_weighted_mean_income_region, tidy_weighted_median_income_region, by = c("sexo","region","year"))
-tidy_all_region <- join(tidy_all_region, tidy_lb_weighted_mean_income_region, by = c("sexo","region","year"))
-tidy_all_region <- join(tidy_all_region, tidy_ub_weighted_mean_income_region, by = c("sexo","region","year"))
-tidy_all_region <- join(tidy_all_region, tidy_lb_weighted_median_income_region, by = c("sexo","region","year"))
-tidy_all_region <- join(tidy_all_region, tidy_ub_weighted_median_income_region, by = c("sexo","region","year"))
+tidy_all_region <- join(tidy_weighted_mean_income_region, tidy_weighted_median_income_region, by = c("sex","region","year"))
+tidy_all_region <- join(tidy_all_region, tidy_lb_weighted_mean_income_region, by = c("sex","region","year"))
+tidy_all_region <- join(tidy_all_region, tidy_ub_weighted_mean_income_region, by = c("sex","region","year"))
+tidy_all_region <- join(tidy_all_region, tidy_lb_weighted_median_income_region, by = c("sex","region","year"))
+tidy_all_region <- join(tidy_all_region, tidy_ub_weighted_median_income_region, by = c("sex","region","year"))
 
 setnames(tidy_all_region, "region", "region_name")
 tidy_all_region <- join(tidy_all_region, unique(region_codes_datachile[,c("region_name","region_id")]), by = "region_name")
