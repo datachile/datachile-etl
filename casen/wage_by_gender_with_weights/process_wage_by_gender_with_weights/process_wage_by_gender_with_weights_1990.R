@@ -61,5 +61,8 @@ wage_by_gender_with_weights_1990 <- subset(wage_by_gender_with_weights_1990, wag
 wage_by_gender_with_weights_1990$exp_comuna <- as.numeric(as.character(wage_by_gender_with_weights_1990$exp_comuna))
 wage_by_gender_with_weights_1990$exp_region <- as.numeric(as.character(wage_by_gender_with_weights_1990$exp_region))
 
+wage_by_gender_with_weights_1990$exp_region <- ifelse(wage_by_gender_with_weights_1990$exp_region == 0, 1, wage_by_gender_with_weights_1990$exp_region)
+wage_by_gender_with_weights_1990$exp_region <- ifelse(is.na(wage_by_gender_with_weights_1990$exp_region), 1, wage_by_gender_with_weights_1990$exp_region)
+
 wage_by_gender_with_weights_1990$exp_comuna <- ifelse(wage_by_gender_with_weights_1990$exp_comuna == 0, 1, wage_by_gender_with_weights_1990$exp_comuna)
 wage_by_gender_with_weights_1990$exp_comuna <- ifelse(is.na(wage_by_gender_with_weights_1990$exp_comuna), 1, wage_by_gender_with_weights_1990$exp_comuna)

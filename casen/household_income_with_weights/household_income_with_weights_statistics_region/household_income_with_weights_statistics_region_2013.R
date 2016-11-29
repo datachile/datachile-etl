@@ -39,6 +39,12 @@ setnames(lb_weighted_mean_2013_region, colnames(lb_weighted_mean_2013_region), c
 lb_weighted_mean_2013_region$`2013` <- as.numeric(lb_weighted_mean_2013_region$`2013`)
 lb_weighted_mean_2013_region$`2013` <- round(lb_weighted_mean_2013_region$`2013`, 0)
 
+# Upper Bound for Mean by region
+ub_weighted_mean_2013_region <- ddply(household_income_with_weights_2013, .(region), summarise, FUN = ub_weighted_mean_plyr(per_capita_income, exp_region))
+setnames(ub_weighted_mean_2013_region, colnames(ub_weighted_mean_2013_region), c("region","2013"))
+ub_weighted_mean_2013_region$`2013` <- as.numeric(ub_weighted_mean_2013_region$`2013`)
+ub_weighted_mean_2013_region$`2013` <- round(ub_weighted_mean_2013_region$`2013`, 0)
+
 # Lower Bound for Gini by region
 lb_weighted_gini_2013_region <- ddply(household_income_with_weights_2013, .(region), summarise, FUN = lb_weighted_gini_plyr(per_capita_income, exp_region))
 setnames(lb_weighted_gini_2013_region, colnames(lb_weighted_gini_2013_region), c("region","2013"))

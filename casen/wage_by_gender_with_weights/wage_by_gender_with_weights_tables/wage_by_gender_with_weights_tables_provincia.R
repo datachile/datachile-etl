@@ -1,6 +1,3 @@
-#uncomment lines 2-3 when running this file alone
-#source("wage_by_gender_with_weights/functions/normalization.R")
-#source("wage_by_gender_with_weights/process_wage_by_gender_with_weights/process_wage_by_gender_with_weights.R")
 source("wage_by_gender_with_weights/wage_by_gender_with_weights_statistics_provincia/wage_by_gender_with_weights_statistics_provincia.R")
 
 ###############

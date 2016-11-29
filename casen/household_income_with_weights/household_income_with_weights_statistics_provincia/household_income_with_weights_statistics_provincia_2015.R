@@ -39,6 +39,12 @@ setnames(lb_weighted_mean_2015_provincia, colnames(lb_weighted_mean_2015_provinc
 lb_weighted_mean_2015_provincia$`2015` <- as.numeric(lb_weighted_mean_2015_provincia$`2015`)
 lb_weighted_mean_2015_provincia$`2015` <- round(lb_weighted_mean_2015_provincia$`2015`, 0)
 
+# Upper Bound for Mean by provincia
+ub_weighted_mean_2015_provincia <- ddply(household_income_with_weights_2015, .(provincia), summarise, FUN = ub_weighted_mean_plyr(per_capita_income, exp_region))
+setnames(ub_weighted_mean_2015_provincia, colnames(ub_weighted_mean_2015_provincia), c("provincia","2015"))
+ub_weighted_mean_2015_provincia$`2015` <- as.numeric(ub_weighted_mean_2015_provincia$`2015`)
+ub_weighted_mean_2015_provincia$`2015` <- round(ub_weighted_mean_2015_provincia$`2015`, 0)
+
 # Lower Bound for Gini by provincia
 lb_weighted_gini_2015_provincia <- ddply(household_income_with_weights_2015, .(provincia), summarise, FUN = lb_weighted_gini_plyr(per_capita_income, exp_region))
 setnames(lb_weighted_gini_2015_provincia, colnames(lb_weighted_gini_2015_provincia), c("provincia","2015"))

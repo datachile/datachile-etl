@@ -1,118 +1,53 @@
 # README
 
-OK hasta ahora final 1 link 100% real mega no fake
-
-wage_by_gender_with_weights
-
 1. I have divided the code in several files and folders to keep this simple :)
 
 2. The relevant folders (at the moment) are:
 
-* household_income
 * household_income_with_weights
-* wage_by_gender
-* wage_by_gender_and_occupation
-* wage_by_gender_and_branch
+* wage_by_gender_with_weights
 
-3. There is a master file named `do_all.R` inside each of the relevant folders named before. Those files will download and/or load datasets, process information and create a csv file named `relevant_topic/csv_final_files/relevant_topic_tidy_all.csv` that contains all the information at all levels with a column that shows if the row i^th refers to a region, provincia or comuna.
+tomorrow's morning I'll have completed and checked
 
-4. `do_all.R` will also create additional files that inside `relevant_topic/csv_final_files` and `relevant_topic/csv_intermediate_files` that are just subsets of `relevant_topic/csv_final_files/relevant_topic_tidy_all.csv` divided by geographical areas (`region`, `provincia` or `comuna`) and variable (`mean_income`, `median_income` or `gini_income`)
+* wage_by_gender_and_branch_with_weights
+* wage_by_gender_and_occupation_with_weights
 
-5. Inside each master file there are instructions in case you want to calculate, for example, the median by region ignoring any other level.
+3. There is a master file named `do_all_relevant_topic.R` inside each of the relevant folders named before. Those files will download and/or load datasets, process information and create a csv file named `relevant_topic/csv_final_files/relevant_topic_tidy_all.csv` that contains all the information at all levels with a column that shows if the row i^th refers to a region, provincia or comuna.
 
-### `household_income_tidy_all.csv`'s structure
-
-| Index | Column ID        | Type   | Description                                                   |
-| ----- | ---------------- | ------ | ------------------------------------------------------------- |
-| 0     | geography_level  | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
-| 1     | geography_name   | Factor | Factor w/ 356 levels "Arica", "Antofagasta", ...              |
-| 2     | geography_id     | Factor | Factor w/ 375 levels "1", "2", ... , "p11", "p21", "pais"     |
-| 3     | year             | num    | from 1990 to 2015                                             |
-| 4     | mean_income      | num    | mean by geography_id                                          |
-| 5     | median_income    | num    | median by geography_id                                        |
-| 6     | gini_income      | num    | normed [0-1] inequality parameter                             |
-| 7     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
-| 8     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
-| 9     | ci_gini_income   | num    | confidence interval (via bootstrapping) for gini_income       |
-
-No. of observations: 4,080
+4. `do_all_relevant_topic.R` will also create additional files that inside `relevant_topic/csv_final_files` and `relevant_topic/csv_intermediate_files` that are just subsets of `relevant_topic/csv_final_files/relevant_topic_tidy_all.csv` divided by geographical areas (`pais`, `region`, `provincia` or `comuna`) and variable (`mean_income`, `median_income` or `gini_income`)
 
 ### `household_income_with_weights_tidy_all.csv`'s structure
 
-The same as before but the numbers change as I included weights for every statistic function.
+| Index | Column ID                 | Type   | Description                                                        |
+| ----- | ------------------------- | ------ | ------------------------------------------------------------------ |
+| 0     | geography_level           | factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais"      |
+| 1     | geography_name            | factor | Factor w/ 369 levels "Arica", "Antofagasta", ...                   |
+| 2     | geography_id              | factor | Factor w/ 390 levels "1", "2", ... , "p11", "p21", "pais"          |
+| 3     | year                      | num    | From 1990 to 2015                                                  |
+| 4     | weighted_mean_income      | num    | Mean by geography_id                                               |
+| 5     | weighted_median_income    | num    | Median by geography_id                                             |
+| 6     | weighted_gini_income      | num    | Normed [0-1] inequality parameter                                  |
+| 7     | ci_weighted_mean_income   | num    | Confidence interval (via bootstrapping) for weighted_mean_income   |
+| 8     | ci_weighted_median_income | num    | Confidence interval (via bootstrapping) for weighted_median_income |
+| 9     | ci_weighted_gini_income   | num    | Confidence interval (via bootstrapping) for weighted_gini_income   |
 
-### `wage_by_gender_tidy_all.csv`'s structure
+No. of observations: 4,122
 
-| Index | Column ID        | Type   | Description                                                   |
-| ----- | ---------------- | ------ | ------------------------------------------------------------- |
-| 0     | geography_level  | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
-| 1     | geography_name   | Factor | Factor w/ 184 levels "Arica", "Antofagasta", ...              |
-| 2     | geography_id     | Factor | Factor w/ 207 levels "1", "2", ... , "p11", "p21", "pais"     |
-| 3     | year             | num    | from 1990 to 2015                                             |
-| 4     | sexo             | Factor | Factor w/ 2 levels "Hombre", "Mujer"                          |
-| 5     | mean_income      | num    | mean by geography_id                                          |
-| 6     | median_income    | num    | median by geography_id                                        |
-| 7     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
-| 8     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
+### `wage_by_gender_with_weights_tidy_all.csv`'s structure
+
+| Index | Column ID                 | Type   | Description                                                        |
+| ----- | ------------------------- | ------ | ------------------------------------------------------------------ |
+| 0     | geography_level           | factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais"      |
+| 1     | geography_name            | factor | Factor w/ 184 levels "Arica", "Antofagasta", ...                   |
+| 2     | geography_id              | factor | Factor w/ 207 levels "1", "2", ... , "p11", "p21", "pais"          |
+| 3     | year                      | num    | From 1990 to 2015                                                  |
+| 4     | sex                       | factor | Factor w/ 2 levels "Hombre", "Mujer"                               |
+| 5     | weighted_mean_income      | num    | Mean by geography_id                                               |
+| 6     | weighted_median_income    | num    | Median by geography_id                                             |
+| 7     | ci_weighted_mean_income   | num    | confidence interval (via bootstrapping) for weighted_mean_income   |
+| 8     | ci_weighted_median_income | num    | confidence interval (via bootstrapping) for weighted_median_income |
 
 No. of observations: 5,054
-
-*Please notice how unanswered questions reduce the geographic areas in this file*
-
-### `wage_by_gender_and_occupation_tidy_all.csv`'s structure
-
-| Index | Column ID        | Type   | Description                                                   |
-| ----- | ---------------- | ------ | ------------------------------------------------------------- |
-| 0     | geography_level  | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
-| 1     | geography_name   | Factor | Factor w/ 184 levels "Arica", "Antofagasta", ...              |
-| 2     | geography_id     | Factor | Factor w/ 207 levels "1", "2", ... , "p11", "p21", "pais"     |
-| 3     | year             | num    | from 1990 to 2015                                             |
-| 4     | sexo             | Factor | Factor w/ 2 levels "Hombre", "Mujer"                          |
-| 5     | oficio           | Factor | Factor w/ 10 levels "Empleados de Oficina", ...               |
-| 6     | mean_income      | num    | mean by geography_id                                          |
-| 7     | median_income    | num    | median by geography_id                                        |
-| 8     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
-| 9     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
-
-No. of observations: 33,361
-
-*Please notice how unanswered questions reduce the geographic areas in this file*
-
-#### Explanation about `occupation` variable
-
-`occupation` is very gross way to classify workers but that variable is a common ground for *any* CASEN survey applied between the years 1990 and 2015.
-
-|Level|Label                                              |Label translation                                           |
-|-----|---------------------------------------------------|------------------------------------------------------------|
-|1    |Empleados de Oficina                               |Office workers                                              |
-|2    |Fuerzas Armadas                                    |Armed forces                                                |
-|3    |Miembros del Poder Ejecutivo y Cuerpos Legislativos|Members of the Executive Power and Legislative Bodies       |
-|4    |Operadores y Montadores de Instalaciones y Máquinas|Plant and Machine Operators and Assemblers                  |
-|5    |Profesionales, Científicos e Intelectuales         |Professionals, Scientists and Intellectuals                 |
-|6    |Técnicos y Profesionales de Nivel Medio            |Technicians and Professionals in Middle Managerial Positions|
-|7    |Trabajadores Agropecuarios y Pesqueros             |Agricultural and fishing workers                            |
-|8    |Trabajadores de Artes Mecánicas y Otros            |Mechanical and Other Arts Workers                           |
-|9    |Trabajadores de Servicios y Vendedores             |Service and Sales Workers                                   |
-|10   |Trabajadores No Calificados                        |Unqualified Workers                                         |
-
-### `wage_by_gender_and_branch_tidy_all.csv`'s structure
-
-| Index | Column ID        | Type   | Description                                                   |
-| ----- | ---------------- | ------ | ------------------------------------------------------------- |
-| 0     | geography_level  | Factor | Factor w/ 4 levels "comuna", "provincia", "region" and "pais" |
-| 1     | geography_name   | Factor | Factor w/ 356 levels "Arica", "Antofagasta", ...              |
-| 2     | geography_id     | Factor | Factor w/ 375 levels "1", "2", ... , "p11", "p21", "pais"     |
-| 3     | year             | num    | from 2011 to 2015                                             |
-| 4     | sexo             | Factor | Factor w/ 2 levels "Hombre", "Mujer"                          |
-| 5     | rama             | Factor | Factor w/ 17 levels "Actividades Inmobiliarias", ...          |
-| 6     | mean_income      | num    | mean by geography_id                                          |
-| 7     | median_income    | num    | median by geography_id                                        |
-| 8     | ci_mean_income   | num    | confidence interval (via bootstrapping) for mean_income       |
-| 9     | ci_median_income | num    | confidence interval (via bootstrapping) for median_income     |
-
-No. of observations: 25,832
-
-*Please notice how unanswered questions reduce the geographic areas in this file*
 
 # Important note about `geography_id` variable
 

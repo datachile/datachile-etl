@@ -213,10 +213,10 @@ tidy_all_provincia <- join(tidy_all_provincia, tidy_lb_weighted_gini_income_prov
 tidy_all_provincia <- join(tidy_all_provincia, tidy_ub_weighted_gini_income_provincia, by = c("provincia","year"))
 
 setnames(tidy_all_provincia, "provincia", "provincia_name")
-tidy_all_provincia <- join(tidy_all_provincia, unique(provincia_codes_datachile[,c("provincia_name","provincia_id")]), by = "provincia_name")
+tidy_all_provincia <- join(tidy_all_provincia, unique(provincia_codes_pacha[,c("provincia_name","provincia_pacha_id")]), by = "provincia_name")
 tidy_all_provincia$geography_level <- "provincia"
-tidy_all_provincia <- move_col(tidy_all_provincia, c("geography_level"=1, "provincia_name"=2, "provincia_id"=3, "year"=4))
-setnames(tidy_all_provincia, c("provincia_name","provincia_id"), c("geography_name","geography_id"))
+tidy_all_provincia <- move_col(tidy_all_provincia, c("geography_level"=1, "provincia_name"=2, "provincia_pacha_id"=3, "year"=4))
+setnames(tidy_all_provincia, c("provincia_name","provincia_pacha_id"), c("geography_name","geography_id"))
 
 tidy_all_provincia$geography_level <- as.character(tidy_all_provincia$geography_level)
 tidy_all_provincia$geography_name <- as.character(tidy_all_provincia$geography_name)

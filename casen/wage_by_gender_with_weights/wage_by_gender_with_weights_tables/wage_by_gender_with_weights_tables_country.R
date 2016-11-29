@@ -1,4 +1,3 @@
-#uncomment lines 2-3 when running this file alone
 source("wage_by_gender_with_weights/wage_by_gender_with_weights_statistics_country/wage_by_gender_with_weights_statistics_country.R")
 
 ###############
