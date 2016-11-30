@@ -1,0 +1,1540 @@
+"","provincia","sex","branch","2011","2013","2015"
+"1","Antofagasta","Hombre","Agricultura, Ganadería, Caza y Silvicultura",393993,225813,348395
+"2","Antofagasta","Hombre","Pesca",464586,358323,271663
+"3","Antofagasta","Hombre","Explotación de Minas y Canteras",810752,916997,986750
+"4","Antofagasta","Hombre","Industrias Manufactureras",635000,535528,693643
+"5","Antofagasta","Hombre","Electricidad, Gas y Agua",622795,685570,895302
+"6","Antofagasta","Hombre","Construcción",607762,477678,609703
+"7","Antofagasta","Hombre","Comercio",528867,519573,468131
+"8","Antofagasta","Hombre","Hoteles y Restaurantes",561242,346990,839994
+"9","Antofagasta","Hombre","Transporte, Almacenamiento y Comunicaciones",523988,487698,567994
+"10","Antofagasta","Hombre","Intermediación Financiera",705895,678194,685473
+"11","Antofagasta","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",658244,935326,875154
+"12","Antofagasta","Hombre","Administración Pública y Defensa",529551,636065,612628
+"13","Antofagasta","Hombre","Enseñanza",659609,695699,708691
+"14","Antofagasta","Hombre","Servicios Sociales y de Salud",772434,1077593,702651
+"15","Antofagasta","Hombre","Otras Actividades de Servicios",373312,317862,421898
+"16","Antofagasta","Hombre","Servicio Doméstico",285689,552907,463174
+"17","Antofagasta","Hombre","No Bien Especificado",770635,713559,670588
+"18","Antofagasta","Mujer","Agricultura, Ganadería, Caza y Silvicultura",2057547,210000,200000
+"19","Antofagasta","Mujer","Pesca",240680,121750,207600
+"20","Antofagasta","Mujer","Explotación de Minas y Canteras",545334,1081815,639166
+"21","Antofagasta","Mujer","Industrias Manufactureras",408693,272454,384786
+"22","Antofagasta","Mujer","Electricidad, Gas y Agua",970332,635398,328885
+"23","Antofagasta","Mujer","Construcción",486356,603280,623214
+"24","Antofagasta","Mujer","Comercio",355924,278668,473451
+"25","Antofagasta","Mujer","Hoteles y Restaurantes",346429,295797,421715
+"26","Antofagasta","Mujer","Transporte, Almacenamiento y Comunicaciones",512682,311969,504031
+"27","Antofagasta","Mujer","Intermediación Financiera",786884,700189,652470
+"28","Antofagasta","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",455944,397617,586659
+"29","Antofagasta","Mujer","Administración Pública y Defensa",461469,641918,540344
+"30","Antofagasta","Mujer","Enseñanza",423399,451436,462202
+"31","Antofagasta","Mujer","Servicios Sociales y de Salud",407951,612432,498083
+"32","Antofagasta","Mujer","Otras Actividades de Servicios",396460,333743,308512
+"33","Antofagasta","Mujer","Servicio Doméstico",189565,186762,206361
+"34","Antofagasta","Mujer","Organizaciones y Órganos Extraterritoriales",328200,NA,NA
+"35","Antofagasta","Mujer","No Bien Especificado",340842,312000,244554
+"36","Arauco","Hombre","Agricultura, Ganadería, Caza y Silvicultura",209597,255987,304775
+"37","Arauco","Hombre","Pesca",213750,134110,219807
+"38","Arauco","Hombre","Explotación de Minas y Canteras",246588,375899,894699
+"39","Arauco","Hombre","Industrias Manufactureras",301060,332157,310842
+"40","Arauco","Hombre","Electricidad, Gas y Agua",175864,170000,420051
+"41","Arauco","Hombre","Construcción",242522,246101,290433
+"42","Arauco","Hombre","Comercio",248042,295488,331569
+"43","Arauco","Hombre","Hoteles y Restaurantes",301357,343840,259795
+"44","Arauco","Hombre","Transporte, Almacenamiento y Comunicaciones",324756,321443,395909
+"45","Arauco","Hombre","Intermediación Financiera",403676,1400000,671857
+"46","Arauco","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",542359,655994,384724
+"47","Arauco","Hombre","Administración Pública y Defensa",226588,521164,400139
+"48","Arauco","Hombre","Enseñanza",367822,431337,658530
+"49","Arauco","Hombre","Servicios Sociales y de Salud",395111,552438,539570
+"50","Arauco","Hombre","Otras Actividades de Servicios",209590,229838,233612
+"51","Arauco","Hombre","Servicio Doméstico",308100,142696,143977
+"52","Arauco","Mujer","Agricultura, Ganadería, Caza y Silvicultura",173695,166490,183894
+"53","Arauco","Mujer","Pesca",112949,76319,126034
+"54","Arauco","Mujer","Industrias Manufactureras",131095,167427,130096
+"55","Arauco","Mujer","Comercio",168961,241269,242705
+"56","Arauco","Mujer","Hoteles y Restaurantes",217295,203835,205115
+"57","Arauco","Mujer","Transporte, Almacenamiento y Comunicaciones",54700,216824,251926
+"58","Arauco","Mujer","Intermediación Financiera",765800,700000,405486
+"59","Arauco","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",406719,241490,238284
+"60","Arauco","Mujer","Administración Pública y Defensa",172822,287199,348173
+"61","Arauco","Mujer","Enseñanza",295638,434596,407318
+"62","Arauco","Mujer","Servicios Sociales y de Salud",315346,355680,416250
+"63","Arauco","Mujer","Otras Actividades de Servicios",191944,179119,196314
+"64","Arauco","Mujer","Servicio Doméstico",89932,105600,135531
+"65","Arauco","Mujer","Organizaciones y Órganos Extraterritoriales",161912,210000,NA
+"66","Arica","Hombre","Agricultura, Ganadería, Caza y Silvicultura",329345,250690,288691
+"67","Arica","Hombre","Pesca",439686,357516,465480
+"68","Arica","Hombre","Explotación de Minas y Canteras",655548,539911,789908
+"69","Arica","Hombre","Industrias Manufactureras",422418,314641,327006
+"70","Arica","Hombre","Electricidad, Gas y Agua",520335,655646,425332
+"71","Arica","Hombre","Construcción",351121,282165,363406
+"72","Arica","Hombre","Comercio",365736,291521,316934
+"73","Arica","Hombre","Hoteles y Restaurantes",279349,256135,278996
+"74","Arica","Hombre","Transporte, Almacenamiento y Comunicaciones",500432,311626,399136
+"75","Arica","Hombre","Intermediación Financiera",318266,430833,260000
+"76","Arica","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",799862,426715,930158
+"77","Arica","Hombre","Administración Pública y Defensa",594037,705232,688723
+"78","Arica","Hombre","Enseñanza",596577,468052,678369
+"79","Arica","Hombre","Servicios Sociales y de Salud",529132,545662,933733
+"80","Arica","Hombre","Otras Actividades de Servicios",318834,270380,342153
+"81","Arica","Hombre","Servicio Doméstico",220933,185889,200000
+"82","Arica","Hombre","No Bien Especificado",266608,416729,300000
+"83","Arica","Mujer","Agricultura, Ganadería, Caza y Silvicultura",247561,242965,215148
+"84","Arica","Mujer","Pesca",186304,359000,NA
+"85","Arica","Mujer","Explotación de Minas y Canteras",316573,344184,544252
+"86","Arica","Mujer","Industrias Manufactureras",280868,157912,286587
+"87","Arica","Mujer","Electricidad, Gas y Agua",322766,800000,NA
+"88","Arica","Mujer","Construcción",438670,313761,347645
+"89","Arica","Mujer","Comercio",281552,179463,241348
+"90","Arica","Mujer","Hoteles y Restaurantes",255517,208863,189920
+"91","Arica","Mujer","Transporte, Almacenamiento y Comunicaciones",449161,262266,407193
+"92","Arica","Mujer","Intermediación Financiera",331777,300681,912096
+"93","Arica","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",357387,301927,370306
+"94","Arica","Mujer","Administración Pública y Defensa",463991,526231,575495
+"95","Arica","Mujer","Enseñanza",382984,376849,384257
+"96","Arica","Mujer","Servicios Sociales y de Salud",435700,444981,535178
+"97","Arica","Mujer","Otras Actividades de Servicios",233829,245469,246619
+"98","Arica","Mujer","Servicio Doméstico",153702,130965,166643
+"99","Arica","Mujer","No Bien Especificado",268527,365523,NA
+"100","Aysén","Hombre","Agricultura, Ganadería, Caza y Silvicultura",307342,276096,491154
+"101","Aysén","Hombre","Pesca",418951,342812,414181
+"102","Aysén","Hombre","Explotación de Minas y Canteras",423013,514720,515890
+"103","Aysén","Hombre","Industrias Manufactureras",386461,379422,208707
+"104","Aysén","Hombre","Electricidad, Gas y Agua",297890,357500,265000
+"105","Aysén","Hombre","Construcción",464080,360500,380660
+"106","Aysén","Hombre","Comercio",459289,456949,354768
+"107","Aysén","Hombre","Hoteles y Restaurantes",535074,307186,434424
+"108","Aysén","Hombre","Transporte, Almacenamiento y Comunicaciones",484159,587715,446281
+"109","Aysén","Hombre","Intermediación Financiera",328200,NA,701353
+"110","Aysén","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",738607,348889,431474
+"111","Aysén","Hombre","Administración Pública y Defensa",775613,587295,866694
+"112","Aysén","Hombre","Enseñanza",664949,887981,553854
+"113","Aysén","Hombre","Servicios Sociales y de Salud",2209160,556596,634071
+"114","Aysén","Hombre","Otras Actividades de Servicios",458234,386494,314545
+"115","Aysén","Hombre","Servicio Doméstico",260858,600000,406250
+"116","Aysén","Mujer","Agricultura, Ganadería, Caza y Silvicultura",346916,189905,84134
+"117","Aysén","Mujer","Pesca",273463,326832,338208
+"118","Aysén","Mujer","Industrias Manufactureras",320503,339939,253638
+"119","Aysén","Mujer","Electricidad, Gas y Agua",382900,210000,300000
+"120","Aysén","Mujer","Construcción",383119,412903,909434
+"121","Aysén","Mujer","Comercio",283558,271198,242265
+"122","Aysén","Mujer","Hoteles y Restaurantes",655531,251854,251897
+"123","Aysén","Mujer","Transporte, Almacenamiento y Comunicaciones",625217,220347,421653
+"124","Aysén","Mujer","Intermediación Financiera",1312800,222174,590769
+"125","Aysén","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",386341,258382,153366
+"126","Aysén","Mujer","Administración Pública y Defensa",399133,410313,711122
+"127","Aysén","Mujer","Enseñanza",367523,485743,546418
+"128","Aysén","Mujer","Servicios Sociales y de Salud",586847,487497,726857
+"129","Aysén","Mujer","Otras Actividades de Servicios",715237,198969,249841
+"130","Aysén","Mujer","Servicio Doméstico",128506,131474,172772
+"131","Bíobío","Hombre","Agricultura, Ganadería, Caza y Silvicultura",250184,241787,311378
+"132","Bíobío","Hombre","Pesca",224241,272152,349678
+"133","Bíobío","Hombre","Explotación de Minas y Canteras",536106,451806,643172
+"134","Bíobío","Hombre","Industrias Manufactureras",339450,287699,382276
+"135","Bíobío","Hombre","Electricidad, Gas y Agua",311085,290972,497414
+"136","Bíobío","Hombre","Construcción",294309,307589,360345
+"137","Bíobío","Hombre","Comercio",340035,298974,317561
+"138","Bíobío","Hombre","Hoteles y Restaurantes",284834,230410,498020
+"139","Bíobío","Hombre","Transporte, Almacenamiento y Comunicaciones",414361,368340,441411
+"140","Bíobío","Hombre","Intermediación Financiera",358974,NA,752202
+"141","Bíobío","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",453646,480973,590462
+"142","Bíobío","Hombre","Administración Pública y Defensa",560065,429679,537249
+"143","Bíobío","Hombre","Enseñanza",417017,470717,506772
+"144","Bíobío","Hombre","Servicios Sociales y de Salud",528151,765318,858715
+"145","Bíobío","Hombre","Otras Actividades de Servicios",368417,314423,306309
+"146","Bíobío","Hombre","Servicio Doméstico",160375,159096,164876
+"147","Bíobío","Mujer","Agricultura, Ganadería, Caza y Silvicultura",176510,188666,231162
+"148","Bíobío","Mujer","Pesca",247734,500000,546667
+"149","Bíobío","Mujer","Explotación de Minas y Canteras",76580,300000,800000
+"150","Bíobío","Mujer","Industrias Manufactureras",189426,207718,293201
+"151","Bíobío","Mujer","Electricidad, Gas y Agua",1094000,271669,287408
+"152","Bíobío","Mujer","Construcción",217856,271918,535933
+"153","Bíobío","Mujer","Comercio",222420,194154,242250
+"154","Bíobío","Mujer","Hoteles y Restaurantes",186495,214109,253625
+"155","Bíobío","Mujer","Transporte, Almacenamiento y Comunicaciones",261795,581373,282415
+"156","Bíobío","Mujer","Intermediación Financiera",405620,566546,531426
+"157","Bíobío","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",362727,257322,378194
+"158","Bíobío","Mujer","Administración Pública y Defensa",314276,428231,492521
+"159","Bíobío","Mujer","Enseñanza",380754,370195,442614
+"160","Bíobío","Mujer","Servicios Sociales y de Salud",307024,505558,433178
+"161","Bíobío","Mujer","Otras Actividades de Servicios",393574,122829,233674
+"162","Bíobío","Mujer","Servicio Doméstico",136285,142641,159208
+"163","Cachapoal","Hombre","Agricultura, Ganadería, Caza y Silvicultura",270972,256064,334373
+"164","Cachapoal","Hombre","Explotación de Minas y Canteras",528398,788722,845812
+"165","Cachapoal","Hombre","Industrias Manufactureras",357687,358285,434714
+"166","Cachapoal","Hombre","Electricidad, Gas y Agua",636033,351278,425078
+"167","Cachapoal","Hombre","Construcción",412942,332363,385803
+"168","Cachapoal","Hombre","Comercio",329477,317755,320375
+"169","Cachapoal","Hombre","Hoteles y Restaurantes",602636,357106,458019
+"170","Cachapoal","Hombre","Transporte, Almacenamiento y Comunicaciones",475930,326629,449927
+"171","Cachapoal","Hombre","Intermediación Financiera",504922,608688,758689
+"172","Cachapoal","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",406239,737945,683902
+"173","Cachapoal","Hombre","Administración Pública y Defensa",534942,681094,573890
+"174","Cachapoal","Hombre","Enseñanza",466513,290484,583004
+"175","Cachapoal","Hombre","Servicios Sociales y de Salud",1063017,801522,725628
+"176","Cachapoal","Hombre","Otras Actividades de Servicios",312246,324946,297779
+"177","Cachapoal","Hombre","Servicio Doméstico",327000,221367,309306
+"178","Cachapoal","Hombre","No Bien Especificado",1027000,366841,279143
+"179","Cachapoal","Mujer","Agricultura, Ganadería, Caza y Silvicultura",192239,231075,265166
+"180","Cachapoal","Mujer","Explotación de Minas y Canteras",338869,319555,1336348
+"181","Cachapoal","Mujer","Industrias Manufactureras",347668,220892,290558
+"182","Cachapoal","Mujer","Electricidad, Gas y Agua",252675,398679,289797
+"183","Cachapoal","Mujer","Construcción",614450,282093,365232
+"184","Cachapoal","Mujer","Comercio",251074,228708,227480
+"185","Cachapoal","Mujer","Hoteles y Restaurantes",276230,232643,267162
+"186","Cachapoal","Mujer","Transporte, Almacenamiento y Comunicaciones",374773,259663,300559
+"187","Cachapoal","Mujer","Intermediación Financiera",398608,873023,645442
+"188","Cachapoal","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",327191,360331,408699
+"189","Cachapoal","Mujer","Administración Pública y Defensa",492118,568085,555083
+"190","Cachapoal","Mujer","Enseñanza",358648,372777,477567
+"191","Cachapoal","Mujer","Servicios Sociales y de Salud",302821,364196,468787
+"192","Cachapoal","Mujer","Otras Actividades de Servicios",251644,223395,271918
+"193","Cachapoal","Mujer","Servicio Doméstico",134348,157715,177704
+"194","Cachapoal","Mujer","No Bien Especificado",616200,518079,209000
+"195","Capitán Prat","Hombre","Agricultura, Ganadería, Caza y Silvicultura",517272,330973,249205
+"196","Capitán Prat","Hombre","Industrias Manufactureras",958533,650000,500000
+"197","Capitán Prat","Hombre","Construcción",999893,386672,349270
+"198","Capitán Prat","Hombre","Comercio",457000,400000,326158
+"199","Capitán Prat","Hombre","Hoteles y Restaurantes",616200,NA,273077
+"200","Capitán Prat","Hombre","Intermediación Financiera",199108,NA,NA
+"201","Capitán Prat","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",765800,400000,600000
+"202","Capitán Prat","Hombre","Administración Pública y Defensa",899224,2294366,727329
+"203","Capitán Prat","Hombre","Enseñanza",369430,NA,1037308
+"204","Capitán Prat","Hombre","Servicios Sociales y de Salud",492300,418125,676000
+"205","Capitán Prat","Hombre","Otras Actividades de Servicios",187911,500000,NA
+"206","Capitán Prat","Mujer","Agricultura, Ganadería, Caza y Silvicultura",609309,600000,115000
+"207","Capitán Prat","Mujer","Electricidad, Gas y Agua",656400,NA,NA
+"208","Capitán Prat","Mujer","Construcción",202895,NA,700000
+"209","Capitán Prat","Mujer","Comercio",228488,206870,636000
+"210","Capitán Prat","Mujer","Hoteles y Restaurantes",477299,193327,265000
+"211","Capitán Prat","Mujer","Transporte, Almacenamiento y Comunicaciones",410800,300000,300000
+"212","Capitán Prat","Mujer","Intermediación Financiera",429723,900000,NA
+"213","Capitán Prat","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",273500,NA,NA
+"214","Capitán Prat","Mujer","Administración Pública y Defensa",305562,766134,972609
+"215","Capitán Prat","Mujer","Enseñanza",406827,772324,643867
+"216","Capitán Prat","Mujer","Servicios Sociales y de Salud",1203400,440000,695000
+"217","Capitán Prat","Mujer","Otras Actividades de Servicios",189232,210000,350000
+"218","Capitán Prat","Mujer","Servicio Doméstico",91340,153454,181474
+"219","Cardenal Caro","Hombre","Agricultura, Ganadería, Caza y Silvicultura",248699,225851,319134
+"220","Cardenal Caro","Hombre","Pesca",409206,280261,232364
+"221","Cardenal Caro","Hombre","Explotación de Minas y Canteras",450728,255385,329592
+"222","Cardenal Caro","Hombre","Industrias Manufactureras",237830,403470,422985
+"223","Cardenal Caro","Hombre","Electricidad, Gas y Agua",202390,255152,275221
+"224","Cardenal Caro","Hombre","Construcción",330384,221975,330033
+"225","Cardenal Caro","Hombre","Comercio",488916,250239,344634
+"226","Cardenal Caro","Hombre","Hoteles y Restaurantes",270169,173410,310368
+"227","Cardenal Caro","Hombre","Transporte, Almacenamiento y Comunicaciones",325778,241792,362097
+"228","Cardenal Caro","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",429712,821145,691068
+"229","Cardenal Caro","Hombre","Administración Pública y Defensa",468353,329752,404677
+"230","Cardenal Caro","Hombre","Enseñanza",356193,369679,391022
+"231","Cardenal Caro","Hombre","Servicios Sociales y de Salud",418167,239920,639726
+"232","Cardenal Caro","Hombre","Otras Actividades de Servicios",206980,427027,307930
+"233","Cardenal Caro","Hombre","Servicio Doméstico",177614,219831,229423
+"234","Cardenal Caro","Mujer","Agricultura, Ganadería, Caza y Silvicultura",139780,160883,246461
+"235","Cardenal Caro","Mujer","Pesca",273867,100000,135806
+"236","Cardenal Caro","Mujer","Explotación de Minas y Canteras",308100,NA,250000
+"237","Cardenal Caro","Mujer","Industrias Manufactureras",178045,212452,177531
+"238","Cardenal Caro","Mujer","Construcción",1094000,401829,NA
+"239","Cardenal Caro","Mujer","Comercio",176643,164756,213488
+"240","Cardenal Caro","Mujer","Hoteles y Restaurantes",265594,166408,304991
+"241","Cardenal Caro","Mujer","Transporte, Almacenamiento y Comunicaciones",131280,119891,292311
+"242","Cardenal Caro","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",821600,372838,312118
+"243","Cardenal Caro","Mujer","Administración Pública y Defensa",307974,318044,366086
+"244","Cardenal Caro","Mujer","Enseñanza",323649,376693,363468
+"245","Cardenal Caro","Mujer","Servicios Sociales y de Salud",357331,361348,373424
+"246","Cardenal Caro","Mujer","Otras Actividades de Servicios",278587,273139,598814
+"247","Cardenal Caro","Mujer","Servicio Doméstico",144518,153863,157626
+"248","Cauquenes","Hombre","Agricultura, Ganadería, Caza y Silvicultura",206410,254176,240812
+"249","Cauquenes","Hombre","Pesca",195130,244330,142410
+"250","Cauquenes","Hombre","Explotación de Minas y Canteras",323431,333991,300432
+"251","Cauquenes","Hombre","Industrias Manufactureras",244025,233705,268284
+"252","Cauquenes","Hombre","Electricidad, Gas y Agua",218800,210000,NA
+"253","Cauquenes","Hombre","Construcción",228694,236112,331403
+"254","Cauquenes","Hombre","Comercio",248588,265046,292373
+"255","Cauquenes","Hombre","Hoteles y Restaurantes",205400,210000,241000
+"256","Cauquenes","Hombre","Transporte, Almacenamiento y Comunicaciones",245894,251831,311147
+"257","Cauquenes","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",513500,200000,222174
+"258","Cauquenes","Hombre","Administración Pública y Defensa",355319,519608,443206
+"259","Cauquenes","Hombre","Enseñanza",353022,430792,286771
+"260","Cauquenes","Hombre","Servicios Sociales y de Salud",479479,700000,548067
+"261","Cauquenes","Hombre","Otras Actividades de Servicios",263387,280000,211533
+"262","Cauquenes","Hombre","Servicio Doméstico",87520,100000,NA
+"263","Cauquenes","Mujer","Agricultura, Ganadería, Caza y Silvicultura",158257,148941,185621
+"264","Cauquenes","Mujer","Pesca",236210,139468,NA
+"265","Cauquenes","Mujer","Industrias Manufactureras",130779,89673,274981
+"266","Cauquenes","Mujer","Comercio",214205,169128,170561
+"267","Cauquenes","Mujer","Hoteles y Restaurantes",143151,201714,241959
+"268","Cauquenes","Mujer","Intermediación Financiera",178337,NA,242000
+"269","Cauquenes","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",87520,371392,694194
+"270","Cauquenes","Mujer","Administración Pública y Defensa",311734,444428,617695
+"271","Cauquenes","Mujer","Enseñanza",299964,368245,383255
+"272","Cauquenes","Mujer","Servicios Sociales y de Salud",303449,671000,421544
+"273","Cauquenes","Mujer","Otras Actividades de Servicios",213353,249789,103000
+"274","Cauquenes","Mujer","Servicio Doméstico",104488,317661,183054
+"275","Cautín","Hombre","Agricultura, Ganadería, Caza y Silvicultura",217860,285154,225073
+"276","Cautín","Hombre","Pesca",269262,259351,360845
+"277","Cautín","Hombre","Explotación de Minas y Canteras",1052820,943713,396998
+"278","Cautín","Hombre","Industrias Manufactureras",313609,252274,306215
+"279","Cautín","Hombre","Electricidad, Gas y Agua",251019,484483,279191
+"280","Cautín","Hombre","Construcción",323433,305417,358830
+"281","Cautín","Hombre","Comercio",334750,295991,285266
+"282","Cautín","Hombre","Hoteles y Restaurantes",344606,324212,305715
+"283","Cautín","Hombre","Transporte, Almacenamiento y Comunicaciones",617788,310190,372825
+"284","Cautín","Hombre","Intermediación Financiera",768842,520019,853150
+"285","Cautín","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",498015,531291,850312
+"286","Cautín","Hombre","Administración Pública y Defensa",470217,548913,683284
+"287","Cautín","Hombre","Enseñanza",571910,438420,534001
+"288","Cautín","Hombre","Servicios Sociales y de Salud",580046,886550,1025222
+"289","Cautín","Hombre","Otras Actividades de Servicios",335368,303320,375143
+"290","Cautín","Hombre","Servicio Doméstico",195534,196704,194334
+"291","Cautín","Hombre","Organizaciones y Órganos Extraterritoriales",525120,NA,NA
+"292","Cautín","Hombre","No Bien Especificado",765800,411186,340595
+"293","Cautín","Mujer","Agricultura, Ganadería, Caza y Silvicultura",186361,144439,199703
+"294","Cautín","Mujer","Pesca",203158,169861,317761
+"295","Cautín","Mujer","Industrias Manufactureras",309064,148111,249677
+"296","Cautín","Mujer","Electricidad, Gas y Agua",173419,154857,407566
+"297","Cautín","Mujer","Construcción",461438,276664,487366
+"298","Cautín","Mujer","Comercio",291135,210488,208981
+"299","Cautín","Mujer","Hoteles y Restaurantes",202987,249046,222700
+"300","Cautín","Mujer","Transporte, Almacenamiento y Comunicaciones",1565390,423498,305239
+"301","Cautín","Mujer","Intermediación Financiera",512932,431141,480568
+"302","Cautín","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",891523,306660,354780
+"303","Cautín","Mujer","Administración Pública y Defensa",386078,735928,510347
+"304","Cautín","Mujer","Enseñanza",353117,377645,456663
+"305","Cautín","Mujer","Servicios Sociales y de Salud",358317,490029,575997
+"306","Cautín","Mujer","Otras Actividades de Servicios",282809,177381,217092
+"307","Cautín","Mujer","Servicio Doméstico",117755,143085,160360
+"308","Cautín","Mujer","Organizaciones y Órganos Extraterritoriales",80956,105000,NA
+"309","Chacabuco","Hombre","Agricultura, Ganadería, Caza y Silvicultura",260303,216700,281660
+"310","Chacabuco","Hombre","Explotación de Minas y Canteras",477152,425223,849113
+"311","Chacabuco","Hombre","Industrias Manufactureras",277299,289681,336266
+"312","Chacabuco","Hombre","Construcción",414830,360989,425932
+"313","Chacabuco","Hombre","Comercio",332176,331669,336390
+"314","Chacabuco","Hombre","Hoteles y Restaurantes",260535,228655,308040
+"315","Chacabuco","Hombre","Transporte, Almacenamiento y Comunicaciones",416855,315533,461320
+"316","Chacabuco","Hombre","Intermediación Financiera",227469,370000,800000
+"317","Chacabuco","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",643775,420921,598246
+"318","Chacabuco","Hombre","Administración Pública y Defensa",490789,444291,434827
+"319","Chacabuco","Hombre","Enseñanza",218800,371046,543609
+"320","Chacabuco","Hombre","Servicios Sociales y de Salud",1347633,407354,329710
+"321","Chacabuco","Hombre","Otras Actividades de Servicios",222983,278984,483785
+"322","Chacabuco","Hombre","Servicio Doméstico",319414,225695,288786
+"323","Chacabuco","Mujer","Agricultura, Ganadería, Caza y Silvicultura",202092,165564,287659
+"324","Chacabuco","Mujer","Explotación de Minas y Canteras",262560,202526,453299
+"325","Chacabuco","Mujer","Industrias Manufactureras",257983,209851,223950
+"326","Chacabuco","Mujer","Construcción",371395,230972,300000
+"327","Chacabuco","Mujer","Comercio",248272,238738,238003
+"328","Chacabuco","Mujer","Hoteles y Restaurantes",236328,178515,222336
+"329","Chacabuco","Mujer","Transporte, Almacenamiento y Comunicaciones",320218,216069,398476
+"330","Chacabuco","Mujer","Intermediación Financiera",437600,340000,250000
+"331","Chacabuco","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",344982,297563,436660
+"332","Chacabuco","Mujer","Administración Pública y Defensa",184562,437938,289276
+"333","Chacabuco","Mujer","Enseñanza",308868,306139,383059
+"334","Chacabuco","Mujer","Servicios Sociales y de Salud",607129,362643,507241
+"335","Chacabuco","Mujer","Otras Actividades de Servicios",183351,204165,220933
+"336","Chacabuco","Mujer","Servicio Doméstico",172219,215830,227815
+"337","Chañaral","Hombre","Agricultura, Ganadería, Caza y Silvicultura",278632,NA,200000
+"338","Chañaral","Hombre","Pesca",286468,255058,217090
+"339","Chañaral","Hombre","Explotación de Minas y Canteras",572955,684338,624009
+"340","Chañaral","Hombre","Industrias Manufactureras",461203,358201,437144
+"341","Chañaral","Hombre","Electricidad, Gas y Agua",309967,542935,287500
+"342","Chañaral","Hombre","Construcción",423112,350632,332178
+"343","Chañaral","Hombre","Comercio",471282,348197,420025
+"344","Chañaral","Hombre","Hoteles y Restaurantes",857794,209311,607059
+"345","Chañaral","Hombre","Transporte, Almacenamiento y Comunicaciones",381680,535324,450804
+"346","Chañaral","Hombre","Intermediación Financiera",2188000,NA,NA
+"347","Chañaral","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",900196,348267,544596
+"348","Chañaral","Hombre","Administración Pública y Defensa",387121,459433,733477
+"349","Chañaral","Hombre","Enseñanza",593169,611111,728442
+"350","Chañaral","Hombre","Servicios Sociales y de Salud",573579,541644,347586
+"351","Chañaral","Hombre","Otras Actividades de Servicios",664442,209595,351216
+"352","Chañaral","Hombre","Servicio Doméstico",382900,NA,45000
+"353","Chañaral","Mujer","Pesca",164100,NA,252703
+"354","Chañaral","Mujer","Explotación de Minas y Canteras",355696,664882,689082
+"355","Chañaral","Mujer","Industrias Manufactureras",377237,157934,164437
+"356","Chañaral","Mujer","Electricidad, Gas y Agua",210230,NA,214000
+"357","Chañaral","Mujer","Construcción",519650,320364,854545
+"358","Chañaral","Mujer","Comercio",403951,195475,232295
+"359","Chañaral","Mujer","Hoteles y Restaurantes",309757,209917,340465
+"360","Chañaral","Mujer","Transporte, Almacenamiento y Comunicaciones",401133,239000,404757
+"361","Chañaral","Mujer","Intermediación Financiera",443435,729412,458000
+"362","Chañaral","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",516183,283701,300000
+"363","Chañaral","Mujer","Administración Pública y Defensa",492082,458549,499332
+"364","Chañaral","Mujer","Enseñanza",327364,429281,437558
+"365","Chañaral","Mujer","Servicios Sociales y de Salud",389834,449453,413747
+"366","Chañaral","Mujer","Otras Actividades de Servicios",185325,244872,171516
+"367","Chañaral","Mujer","Servicio Doméstico",111182,146085,152494
+"368","Chiloé","Hombre","Agricultura, Ganadería, Caza y Silvicultura",261481,151424,208384
+"369","Chiloé","Hombre","Pesca",339319,267056,299604
+"370","Chiloé","Hombre","Explotación de Minas y Canteras",235589,NA,335900
+"371","Chiloé","Hombre","Industrias Manufactureras",277943,270411,326663
+"372","Chiloé","Hombre","Electricidad, Gas y Agua",241347,280000,287685
+"373","Chiloé","Hombre","Construcción",332436,283879,292559
+"374","Chiloé","Hombre","Comercio",373104,322188,295729
+"375","Chiloé","Hombre","Hoteles y Restaurantes",284814,192381,299993
+"376","Chiloé","Hombre","Transporte, Almacenamiento y Comunicaciones",625442,317292,411021
+"377","Chiloé","Hombre","Intermediación Financiera",877743,565667,634364
+"378","Chiloé","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",573599,355003,645727
+"379","Chiloé","Hombre","Administración Pública y Defensa",509819,403401,642990
+"380","Chiloé","Hombre","Enseñanza",343088,439642,562647
+"381","Chiloé","Hombre","Servicios Sociales y de Salud",458863,778612,799780
+"382","Chiloé","Hombre","Otras Actividades de Servicios",1446842,232279,336922
+"383","Chiloé","Hombre","Servicio Doméstico",119595,191877,186541
+"384","Chiloé","Mujer","Agricultura, Ganadería, Caza y Silvicultura",166051,107409,133492
+"385","Chiloé","Mujer","Pesca",276475,301337,302573
+"386","Chiloé","Mujer","Industrias Manufactureras",271016,201969,236371
+"387","Chiloé","Mujer","Electricidad, Gas y Agua",138801,250000,337882
+"388","Chiloé","Mujer","Construcción",493361,170702,490571
+"389","Chiloé","Mujer","Comercio",262434,153591,277248
+"390","Chiloé","Mujer","Hoteles y Restaurantes",269972,188670,260720
+"391","Chiloé","Mujer","Transporte, Almacenamiento y Comunicaciones",1356616,226413,247337
+"392","Chiloé","Mujer","Intermediación Financiera",429668,300000,496336
+"393","Chiloé","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",257620,286615,454325
+"394","Chiloé","Mujer","Administración Pública y Defensa",281481,377195,713318
+"395","Chiloé","Mujer","Enseñanza",392053,398916,412473
+"396","Chiloé","Mujer","Servicios Sociales y de Salud",540299,354705,463216
+"397","Chiloé","Mujer","Otras Actividades de Servicios",280790,249891,315268
+"398","Chiloé","Mujer","Servicio Doméstico",99550,128156,157648
+"399","Choapa","Hombre","Agricultura, Ganadería, Caza y Silvicultura",203602,248998,268405
+"400","Choapa","Hombre","Pesca",353418,209877,288726
+"401","Choapa","Hombre","Explotación de Minas y Canteras",453430,402271,514165
+"402","Choapa","Hombre","Industrias Manufactureras",445443,360957,405729
+"403","Choapa","Hombre","Electricidad, Gas y Agua",232954,394344,314000
+"404","Choapa","Hombre","Construcción",296211,304515,305251
+"405","Choapa","Hombre","Comercio",295062,258911,305832
+"406","Choapa","Hombre","Hoteles y Restaurantes",3008878,224188,1225890
+"407","Choapa","Hombre","Transporte, Almacenamiento y Comunicaciones",423731,395048,385462
+"408","Choapa","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",614986,585350,400057
+"409","Choapa","Hombre","Administración Pública y Defensa",580771,573905,413733
+"410","Choapa","Hombre","Enseñanza",454368,298763,415568
+"411","Choapa","Hombre","Servicios Sociales y de Salud",283311,679939,1312149
+"412","Choapa","Hombre","Servicio Doméstico",159830,218500,150497
+"413","Choapa","Mujer","Agricultura, Ganadería, Caza y Silvicultura",187753,159702,212424
+"414","Choapa","Mujer","Explotación de Minas y Canteras",277368,433279,648973
+"415","Choapa","Mujer","Industrias Manufactureras",123544,158035,160056
+"416","Choapa","Mujer","Comercio",203695,169521,236387
+"417","Choapa","Mujer","Hoteles y Restaurantes",1191609,193568,267251
+"418","Choapa","Mujer","Transporte, Almacenamiento y Comunicaciones",215909,283051,232703
+"419","Choapa","Mujer","Intermediación Financiera",115964,850000,389533
+"420","Choapa","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",351830,229229,636352
+"421","Choapa","Mujer","Administración Pública y Defensa",316922,567090,333875
+"422","Choapa","Mujer","Enseñanza",315654,354411,437038
+"423","Choapa","Mujer","Servicios Sociales y de Salud",262941,392742,502737
+"424","Choapa","Mujer","Otras Actividades de Servicios",209419,142203,267261
+"425","Choapa","Mujer","Servicio Doméstico",122854,142216,130060
+"426","Colchagua","Hombre","Agricultura, Ganadería, Caza y Silvicultura",247046,246892,294811
+"427","Colchagua","Hombre","Explotación de Minas y Canteras",342241,553435,532696
+"428","Colchagua","Hombre","Industrias Manufactureras",273154,265122,338738
+"429","Colchagua","Hombre","Electricidad, Gas y Agua",284660,289452,325946
+"430","Colchagua","Hombre","Construcción",337461,255799,334401
+"431","Colchagua","Hombre","Comercio",283725,273687,292516
+"432","Colchagua","Hombre","Hoteles y Restaurantes",329314,368546,243412
+"433","Colchagua","Hombre","Transporte, Almacenamiento y Comunicaciones",358648,287346,382860
+"434","Colchagua","Hombre","Intermediación Financiera",539140,729448,686160
+"435","Colchagua","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",450872,512008,610836
+"436","Colchagua","Hombre","Administración Pública y Defensa",351145,452680,513828
+"437","Colchagua","Hombre","Enseñanza",571389,469162,527804
+"438","Colchagua","Hombre","Servicios Sociales y de Salud",1136268,826380,575718
+"439","Colchagua","Hombre","Otras Actividades de Servicios",233384,203736,226179
+"440","Colchagua","Hombre","Servicio Doméstico",244855,200819,244946
+"441","Colchagua","Hombre","Organizaciones y Órganos Extraterritoriales",547000,NA,NA
+"442","Colchagua","Mujer","Agricultura, Ganadería, Caza y Silvicultura",186470,195939,259842
+"443","Colchagua","Mujer","Industrias Manufactureras",222741,169037,323034
+"444","Colchagua","Mujer","Construcción",372807,362712,322672
+"445","Colchagua","Mujer","Comercio",247093,206154,243303
+"446","Colchagua","Mujer","Hoteles y Restaurantes",216389,248907,197881
+"447","Colchagua","Mujer","Transporte, Almacenamiento y Comunicaciones",207836,289262,289207
+"448","Colchagua","Mujer","Intermediación Financiera",328234,373407,528201
+"449","Colchagua","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",584135,253735,431689
+"450","Colchagua","Mujer","Administración Pública y Defensa",435445,419748,365564
+"451","Colchagua","Mujer","Enseñanza",340673,393662,469560
+"452","Colchagua","Mujer","Servicios Sociales y de Salud",422442,394092,417504
+"453","Colchagua","Mujer","Otras Actividades de Servicios",248614,195952,232324
+"454","Colchagua","Mujer","Servicio Doméstico",156669,142101,159925
+"455","Concepción","Hombre","Agricultura, Ganadería, Caza y Silvicultura",263611,282521,363595
+"456","Concepción","Hombre","Pesca",281749,320383,370647
+"457","Concepción","Hombre","Explotación de Minas y Canteras",690123,683121,706038
+"458","Concepción","Hombre","Industrias Manufactureras",523391,423188,470259
+"459","Concepción","Hombre","Electricidad, Gas y Agua",763512,357844,470492
+"460","Concepción","Hombre","Construcción",410634,315641,444115
+"461","Concepción","Hombre","Comercio",685827,332903,378496
+"462","Concepción","Hombre","Hoteles y Restaurantes",252369,390454,335794
+"463","Concepción","Hombre","Transporte, Almacenamiento y Comunicaciones",335730,337076,392944
+"464","Concepción","Hombre","Intermediación Financiera",599998,723276,827112
+"465","Concepción","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",595321,550971,509093
+"466","Concepción","Hombre","Administración Pública y Defensa",631851,531945,681795
+"467","Concepción","Hombre","Enseñanza",559130,587453,663301
+"468","Concepción","Hombre","Servicios Sociales y de Salud",977293,571998,914348
+"469","Concepción","Hombre","Otras Actividades de Servicios",366768,338489,291980
+"470","Concepción","Hombre","Servicio Doméstico",607942,176403,224873
+"471","Concepción","Hombre","Organizaciones y Órganos Extraterritoriales",765800,NA,NA
+"472","Concepción","Hombre","No Bien Especificado",204578,307906,475936
+"473","Concepción","Mujer","Agricultura, Ganadería, Caza y Silvicultura",206585,191526,399744
+"474","Concepción","Mujer","Pesca",233391,244026,361902
+"475","Concepción","Mujer","Explotación de Minas y Canteras",306320,700000,1300000
+"476","Concepción","Mujer","Industrias Manufactureras",226294,253972,260744
+"477","Concepción","Mujer","Electricidad, Gas y Agua",484118,386466,647602
+"478","Concepción","Mujer","Construcción",581042,476116,456738
+"479","Concepción","Mujer","Comercio",317763,230032,254853
+"480","Concepción","Mujer","Hoteles y Restaurantes",473439,212039,210237
+"481","Concepción","Mujer","Transporte, Almacenamiento y Comunicaciones",571652,275332,328778
+"482","Concepción","Mujer","Intermediación Financiera",736954,479447,604330
+"483","Concepción","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",359245,410247,409993
+"484","Concepción","Mujer","Administración Pública y Defensa",310327,376150,573867
+"485","Concepción","Mujer","Enseñanza",465282,392566,469050
+"486","Concepción","Mujer","Servicios Sociales y de Salud",494608,398522,481453
+"487","Concepción","Mujer","Otras Actividades de Servicios",338316,238203,247901
+"488","Concepción","Mujer","Servicio Doméstico",138650,144455,169053
+"489","Copiapó","Hombre","Agricultura, Ganadería, Caza y Silvicultura",334772,258544,403177
+"490","Copiapó","Hombre","Pesca",549625,345878,412369
+"491","Copiapó","Hombre","Explotación de Minas y Canteras",541913,612764,764421
+"492","Copiapó","Hombre","Industrias Manufactureras",398902,397953,457443
+"493","Copiapó","Hombre","Electricidad, Gas y Agua",493032,488587,698324
+"494","Copiapó","Hombre","Construcción",448001,463132,523279
+"495","Copiapó","Hombre","Comercio",427807,387544,420570
+"496","Copiapó","Hombre","Hoteles y Restaurantes",533919,502497,403443
+"497","Copiapó","Hombre","Transporte, Almacenamiento y Comunicaciones",607958,481343,522934
+"498","Copiapó","Hombre","Intermediación Financiera",611655,390834,598566
+"499","Copiapó","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",601254,975257,671680
+"500","Copiapó","Hombre","Administración Pública y Defensa",735741,503899,783903
+"501","Copiapó","Hombre","Enseñanza",683698,707058,772849
+"502","Copiapó","Hombre","Servicios Sociales y de Salud",967424,494546,865021
+"503","Copiapó","Hombre","Otras Actividades de Servicios",381216,487403,433032
+"504","Copiapó","Hombre","Servicio Doméstico",236851,384454,183425
+"505","Copiapó","Hombre","No Bien Especificado",1277734,575294,NA
+"506","Copiapó","Mujer","Agricultura, Ganadería, Caza y Silvicultura",203325,279605,355743
+"507","Copiapó","Mujer","Pesca",237263,208904,207116
+"508","Copiapó","Mujer","Explotación de Minas y Canteras",395357,544160,724576
+"509","Copiapó","Mujer","Industrias Manufactureras",347766,164688,281933
+"510","Copiapó","Mujer","Electricidad, Gas y Agua",302544,378333,458795
+"511","Copiapó","Mujer","Construcción",371866,242596,525058
+"512","Copiapó","Mujer","Comercio",277858,281529,281299
+"513","Copiapó","Mujer","Hoteles y Restaurantes",326826,298907,292181
+"514","Copiapó","Mujer","Transporte, Almacenamiento y Comunicaciones",340836,330888,511071
+"515","Copiapó","Mujer","Intermediación Financiera",428071,890850,627406
+"516","Copiapó","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",545433,424859,430556
+"517","Copiapó","Mujer","Administración Pública y Defensa",483988,559481,713301
+"518","Copiapó","Mujer","Enseñanza",427910,441829,501011
+"519","Copiapó","Mujer","Servicios Sociales y de Salud",411152,437550,530282
+"520","Copiapó","Mujer","Otras Actividades de Servicios",231229,272672,408323
+"521","Copiapó","Mujer","Servicio Doméstico",165064,169257,198496
+"522","Copiapó","Mujer","No Bien Especificado",404323,286705,NA
+"523","Cordillera","Hombre","Agricultura, Ganadería, Caza y Silvicultura",281778,274276,430327
+"524","Cordillera","Hombre","Explotación de Minas y Canteras",376654,422427,535987
+"525","Cordillera","Hombre","Industrias Manufactureras",330221,325255,457642
+"526","Cordillera","Hombre","Electricidad, Gas y Agua",386034,424427,492654
+"527","Cordillera","Hombre","Construcción",376493,360446,398145
+"528","Cordillera","Hombre","Comercio",296516,308941,414971
+"529","Cordillera","Hombre","Hoteles y Restaurantes",230474,300584,321103
+"530","Cordillera","Hombre","Transporte, Almacenamiento y Comunicaciones",313373,378691,444090
+"531","Cordillera","Hombre","Intermediación Financiera",451781,823790,640887
+"532","Cordillera","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",508698,435867,549024
+"533","Cordillera","Hombre","Administración Pública y Defensa",394223,395221,590158
+"534","Cordillera","Hombre","Enseñanza",448749,456553,523759
+"535","Cordillera","Hombre","Servicios Sociales y de Salud",544352,320743,523047
+"536","Cordillera","Hombre","Otras Actividades de Servicios",449401,227989,445728
+"537","Cordillera","Hombre","Servicio Doméstico",243514,265657,294871
+"538","Cordillera","Mujer","Agricultura, Ganadería, Caza y Silvicultura",335821,122046,249940
+"539","Cordillera","Mujer","Pesca",76580,NA,NA
+"540","Cordillera","Mujer","Industrias Manufactureras",259510,208871,402241
+"541","Cordillera","Mujer","Electricidad, Gas y Agua",328200,251269,249711
+"542","Cordillera","Mujer","Construcción",380104,266396,380373
+"543","Cordillera","Mujer","Comercio",244077,212458,279949
+"544","Cordillera","Mujer","Hoteles y Restaurantes",326936,226823,272389
+"545","Cordillera","Mujer","Transporte, Almacenamiento y Comunicaciones",278144,438351,422260
+"546","Cordillera","Mujer","Intermediación Financiera",470689,242261,575672
+"547","Cordillera","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",385101,322659,384566
+"548","Cordillera","Mujer","Administración Pública y Defensa",582172,430309,660588
+"549","Cordillera","Mujer","Enseñanza",318588,313925,408941
+"550","Cordillera","Mujer","Servicios Sociales y de Salud",287195,367205,431854
+"551","Cordillera","Mujer","Otras Actividades de Servicios",248347,217870,271567
+"552","Cordillera","Mujer","Servicio Doméstico",168913,173295,216664
+"553","Cordillera","Mujer","Organizaciones y Órganos Extraterritoriales",158630,198000,NA
+"554","Coyhaique","Hombre","Agricultura, Ganadería, Caza y Silvicultura",391059,268914,372213
+"555","Coyhaique","Hombre","Pesca",510323,428352,584730
+"556","Coyhaique","Hombre","Explotación de Minas y Canteras",533648,634477,1375401
+"557","Coyhaique","Hombre","Industrias Manufactureras",589318,337906,395413
+"558","Coyhaique","Hombre","Electricidad, Gas y Agua",393542,754839,NA
+"559","Coyhaique","Hombre","Construcción",462409,483317,532585
+"560","Coyhaique","Hombre","Comercio",424104,377578,396611
+"561","Coyhaique","Hombre","Hoteles y Restaurantes",353037,464009,279436
+"562","Coyhaique","Hombre","Transporte, Almacenamiento y Comunicaciones",487400,388833,476870
+"563","Coyhaique","Hombre","Intermediación Financiera",576494,599390,1492516
+"564","Coyhaique","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",859102,608253,711590
+"565","Coyhaique","Hombre","Administración Pública y Defensa",971317,925652,1021774
+"566","Coyhaique","Hombre","Enseñanza",721341,595559,1179745
+"567","Coyhaique","Hombre","Servicios Sociales y de Salud",1196125,934990,495489
+"568","Coyhaique","Hombre","Otras Actividades de Servicios",616302,446061,268436
+"569","Coyhaique","Hombre","Servicio Doméstico",210009,259075,200000
+"570","Coyhaique","Hombre","Organizaciones y Órganos Extraterritoriales",667340,NA,NA
+"571","Coyhaique","Mujer","Agricultura, Ganadería, Caza y Silvicultura",482075,384679,180665
+"572","Coyhaique","Mujer","Pesca",411382,219711,362273
+"573","Coyhaique","Mujer","Industrias Manufactureras",231772,237363,196976
+"574","Coyhaique","Mujer","Electricidad, Gas y Agua",653198,259146,672068
+"575","Coyhaique","Mujer","Construcción",846105,1152552,1138687
+"576","Coyhaique","Mujer","Comercio",305937,238495,280578
+"577","Coyhaique","Mujer","Hoteles y Restaurantes",350644,203391,232097
+"578","Coyhaique","Mujer","Transporte, Almacenamiento y Comunicaciones",604223,410825,394297
+"579","Coyhaique","Mujer","Intermediación Financiera",404361,492195,584768
+"580","Coyhaique","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",549478,336933,404585
+"581","Coyhaique","Mujer","Administración Pública y Defensa",623087,571310,649496
+"582","Coyhaique","Mujer","Enseñanza",551712,660260,609322
+"583","Coyhaique","Mujer","Servicios Sociales y de Salud",565654,551740,601831
+"584","Coyhaique","Mujer","Otras Actividades de Servicios",250098,329687,368263
+"585","Coyhaique","Mujer","Servicio Doméstico",140293,146901,186496
+"586","Curicó","Hombre","Agricultura, Ganadería, Caza y Silvicultura",257278,235882,294526
+"587","Curicó","Hombre","Pesca",394852,116306,278187
+"588","Curicó","Hombre","Explotación de Minas y Canteras",385886,622449,834496
+"589","Curicó","Hombre","Industrias Manufactureras",400700,300661,369030
+"590","Curicó","Hombre","Electricidad, Gas y Agua",356696,498709,447290
+"591","Curicó","Hombre","Construcción",316556,328857,377267
+"592","Curicó","Hombre","Comercio",311231,333413,343699
+"593","Curicó","Hombre","Hoteles y Restaurantes",634463,251820,347647
+"594","Curicó","Hombre","Transporte, Almacenamiento y Comunicaciones",464546,294811,364463
+"595","Curicó","Hombre","Intermediación Financiera",375018,884942,432647
+"596","Curicó","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",551153,642187,614202
+"597","Curicó","Hombre","Administración Pública y Defensa",438802,536368,528518
+"598","Curicó","Hombre","Enseñanza",385407,544729,498828
+"599","Curicó","Hombre","Servicios Sociales y de Salud",1380095,488991,510953
+"600","Curicó","Hombre","Otras Actividades de Servicios",671807,305297,289980
+"601","Curicó","Hombre","Servicio Doméstico",203846,237429,256571
+"602","Curicó","Hombre","No Bien Especificado",293137,231659,NA
+"603","Curicó","Mujer","Agricultura, Ganadería, Caza y Silvicultura",195670,204078,256159
+"604","Curicó","Mujer","Explotación de Minas y Canteras",207501,NA,NA
+"605","Curicó","Mujer","Industrias Manufactureras",282762,216151,261845
+"606","Curicó","Mujer","Electricidad, Gas y Agua",271156,195214,282473
+"607","Curicó","Mujer","Construcción",523939,320369,700000
+"608","Curicó","Mujer","Comercio",235808,219900,236038
+"609","Curicó","Mujer","Hoteles y Restaurantes",245822,232472,226537
+"610","Curicó","Mujer","Transporte, Almacenamiento y Comunicaciones",311837,274645,383388
+"611","Curicó","Mujer","Intermediación Financiera",318643,532387,469919
+"612","Curicó","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",470884,372237,449977
+"613","Curicó","Mujer","Administración Pública y Defensa",342476,504144,504849
+"614","Curicó","Mujer","Enseñanza",405368,342642,421474
+"615","Curicó","Mujer","Servicios Sociales y de Salud",727632,384478,364554
+"616","Curicó","Mujer","Otras Actividades de Servicios",476984,197290,190071
+"617","Curicó","Mujer","Servicio Doméstico",133247,189928,185247
+"618","El Loa","Hombre","Agricultura, Ganadería, Caza y Silvicultura",235507,274881,271928
+"619","El Loa","Hombre","Explotación de Minas y Canteras",730816,800713,846630
+"620","El Loa","Hombre","Industrias Manufactureras",513616,543494,607907
+"621","El Loa","Hombre","Electricidad, Gas y Agua",514468,655000,525464
+"622","El Loa","Hombre","Construcción",629740,435631,559369
+"623","El Loa","Hombre","Comercio",535736,279772,439537
+"624","El Loa","Hombre","Hoteles y Restaurantes",508406,286875,733452
+"625","El Loa","Hombre","Transporte, Almacenamiento y Comunicaciones",560591,469642,682221
+"626","El Loa","Hombre","Intermediación Financiera",449131,407803,1200000
+"627","El Loa","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",614717,769259,582758
+"628","El Loa","Hombre","Administración Pública y Defensa",538788,429610,749845
+"629","El Loa","Hombre","Enseñanza",670177,761279,940075
+"630","El Loa","Hombre","Servicios Sociales y de Salud",499848,516906,474412
+"631","El Loa","Hombre","Otras Actividades de Servicios",403099,308501,560683
+"632","El Loa","Hombre","Servicio Doméstico",388957,425166,324800
+"633","El Loa","Hombre","No Bien Especificado",1335100,NA,570975
+"634","El Loa","Mujer","Agricultura, Ganadería, Caza y Silvicultura",165054,145570,303028
+"635","El Loa","Mujer","Explotación de Minas y Canteras",518740,457069,610296
+"636","El Loa","Mujer","Industrias Manufactureras",716999,264425,370832
+"637","El Loa","Mujer","Electricidad, Gas y Agua",505717,NA,600000
+"638","El Loa","Mujer","Construcción",549871,388016,779638
+"639","El Loa","Mujer","Comercio",337832,248724,280456
+"640","El Loa","Mujer","Hoteles y Restaurantes",392304,310598,397396
+"641","El Loa","Mujer","Transporte, Almacenamiento y Comunicaciones",381607,316981,364879
+"642","El Loa","Mujer","Intermediación Financiera",422401,487576,712881
+"643","El Loa","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",593302,351973,587536
+"644","El Loa","Mujer","Administración Pública y Defensa",336132,299042,537394
+"645","El Loa","Mujer","Enseñanza",401549,500806,462559
+"646","El Loa","Mujer","Servicios Sociales y de Salud",481259,884174,455773
+"647","El Loa","Mujer","Otras Actividades de Servicios",342505,254163,398550
+"648","El Loa","Mujer","Servicio Doméstico",181497,217235,162884
+"649","Elqui","Hombre","Agricultura, Ganadería, Caza y Silvicultura",265448,301324,285633
+"650","Elqui","Hombre","Pesca",323010,204038,277243
+"651","Elqui","Hombre","Explotación de Minas y Canteras",602189,680695,730178
+"652","Elqui","Hombre","Industrias Manufactureras",408908,375802,471649
+"653","Elqui","Hombre","Electricidad, Gas y Agua",855310,535798,344293
+"654","Elqui","Hombre","Construcción",362036,362170,457562
+"655","Elqui","Hombre","Comercio",358658,363203,384797
+"656","Elqui","Hombre","Hoteles y Restaurantes",257391,487908,322372
+"657","Elqui","Hombre","Transporte, Almacenamiento y Comunicaciones",458819,355121,358318
+"658","Elqui","Hombre","Intermediación Financiera",1122148,860508,681754
+"659","Elqui","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",481795,450369,864076
+"660","Elqui","Hombre","Administración Pública y Defensa",436550,468197,738861
+"661","Elqui","Hombre","Enseñanza",474002,538104,582094
+"662","Elqui","Hombre","Servicios Sociales y de Salud",906500,576801,575420
+"663","Elqui","Hombre","Otras Actividades de Servicios",501730,264456,406857
+"664","Elqui","Hombre","Servicio Doméstico",229518,223240,254968
+"665","Elqui","Mujer","Agricultura, Ganadería, Caza y Silvicultura",162053,216725,241319
+"666","Elqui","Mujer","Pesca",97803,296852,NA
+"667","Elqui","Mujer","Explotación de Minas y Canteras",452304,607274,489324
+"668","Elqui","Mujer","Industrias Manufactureras",252734,181417,207803
+"669","Elqui","Mujer","Electricidad, Gas y Agua",196920,180828,289362
+"670","Elqui","Mujer","Construcción",209737,265299,346659
+"671","Elqui","Mujer","Comercio",286855,206009,241350
+"672","Elqui","Mujer","Hoteles y Restaurantes",215622,197939,248903
+"673","Elqui","Mujer","Transporte, Almacenamiento y Comunicaciones",283406,354565,314470
+"674","Elqui","Mujer","Intermediación Financiera",262267,479913,565578
+"675","Elqui","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",283694,213753,530766
+"676","Elqui","Mujer","Administración Pública y Defensa",386527,460488,571838
+"677","Elqui","Mujer","Enseñanza",519000,365978,432103
+"678","Elqui","Mujer","Servicios Sociales y de Salud",262030,414331,444401
+"679","Elqui","Mujer","Otras Actividades de Servicios",745715,314112,255063
+"680","Elqui","Mujer","Servicio Doméstico",138548,156569,183136
+"681","Elqui","Mujer","No Bien Especificado",218800,345032,NA
+"682","General Carrera","Hombre","Agricultura, Ganadería, Caza y Silvicultura",301899,218554,209274
+"683","General Carrera","Hombre","Explotación de Minas y Canteras",688418,646445,754130
+"684","General Carrera","Hombre","Industrias Manufactureras",299884,279302,352041
+"685","General Carrera","Hombre","Electricidad, Gas y Agua",361020,NA,404800
+"686","General Carrera","Hombre","Construcción",403517,323908,608767
+"687","General Carrera","Hombre","Comercio",384306,318720,402184
+"688","General Carrera","Hombre","Hoteles y Restaurantes",306320,425150,522222
+"689","General Carrera","Hombre","Transporte, Almacenamiento y Comunicaciones",981823,321395,408113
+"690","General Carrera","Hombre","Administración Pública y Defensa",546316,627414,575000
+"691","General Carrera","Hombre","Enseñanza",714059,515998,897301
+"692","General Carrera","Hombre","Servicios Sociales y de Salud",365806,1000000,744119
+"693","General Carrera","Hombre","Otras Actividades de Servicios",218800,NA,380000
+"694","General Carrera","Hombre","Servicio Doméstico",200470,60000,234103
+"695","General Carrera","Mujer","Agricultura, Ganadería, Caza y Silvicultura",261248,263478,118713
+"696","General Carrera","Mujer","Industrias Manufactureras",214248,165149,100000
+"697","General Carrera","Mujer","Comercio",240044,226554,213048
+"698","General Carrera","Mujer","Hoteles y Restaurantes",996584,255792,460152
+"699","General Carrera","Mujer","Transporte, Almacenamiento y Comunicaciones",407802,302400,346111
+"700","General Carrera","Mujer","Intermediación Financiera",689220,NA,1950000
+"701","General Carrera","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",230230,NA,245000
+"702","General Carrera","Mujer","Administración Pública y Defensa",451351,646746,500179
+"703","General Carrera","Mujer","Enseñanza",491370,426456,481508
+"704","General Carrera","Mujer","Servicios Sociales y de Salud",615609,271957,711571
+"705","General Carrera","Mujer","Otras Actividades de Servicios",238098,216385,NA
+"706","General Carrera","Mujer","Servicio Doméstico",161979,155248,216857
+"707","Huasco","Hombre","Agricultura, Ganadería, Caza y Silvicultura",264421,260548,326935
+"708","Huasco","Hombre","Pesca",401183,536403,285960
+"709","Huasco","Hombre","Explotación de Minas y Canteras",522486,548620,563284
+"710","Huasco","Hombre","Industrias Manufactureras",392817,362637,410833
+"711","Huasco","Hombre","Electricidad, Gas y Agua",274656,499571,710908
+"712","Huasco","Hombre","Construcción",403593,370457,333732
+"713","Huasco","Hombre","Comercio",340025,253469,355150
+"714","Huasco","Hombre","Hoteles y Restaurantes",418715,350485,443527
+"715","Huasco","Hombre","Transporte, Almacenamiento y Comunicaciones",467068,403938,547776
+"716","Huasco","Hombre","Intermediación Financiera",177228,350000,798473
+"717","Huasco","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",459979,1156366,917305
+"718","Huasco","Hombre","Administración Pública y Defensa",395613,464138,408874
+"719","Huasco","Hombre","Enseñanza",453263,445151,507936
+"720","Huasco","Hombre","Servicios Sociales y de Salud",820125,431683,850833
+"721","Huasco","Hombre","Otras Actividades de Servicios",281070,346688,817262
+"722","Huasco","Hombre","Servicio Doméstico",205400,200000,94583
+"723","Huasco","Mujer","Agricultura, Ganadería, Caza y Silvicultura",220606,197190,264817
+"724","Huasco","Mujer","Pesca",222334,213235,NA
+"725","Huasco","Mujer","Explotación de Minas y Canteras",464197,421095,475007
+"726","Huasco","Mujer","Industrias Manufactureras",234439,146774,165866
+"727","Huasco","Mujer","Electricidad, Gas y Agua",252551,182512,335458
+"728","Huasco","Mujer","Construcción",214273,300000,280909
+"729","Huasco","Mujer","Comercio",246028,178308,238867
+"730","Huasco","Mujer","Hoteles y Restaurantes",203855,239914,299329
+"731","Huasco","Mujer","Transporte, Almacenamiento y Comunicaciones",192347,222680,262047
+"732","Huasco","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",299037,277858,291042
+"733","Huasco","Mujer","Administración Pública y Defensa",346080,359923,410867
+"734","Huasco","Mujer","Enseñanza",350515,308912,285939
+"735","Huasco","Mujer","Servicios Sociales y de Salud",501099,432700,400299
+"736","Huasco","Mujer","Otras Actividades de Servicios",207919,147982,193070
+"737","Huasco","Mujer","Servicio Doméstico",157467,189580,163017
+"738","Huasco","Mujer","Organizaciones y Órganos Extraterritoriales",144509,NA,NA
+"739","Iquique","Hombre","Agricultura, Ganadería, Caza y Silvicultura",417000,210163,392571
+"740","Iquique","Hombre","Pesca",407295,645619,399090
+"741","Iquique","Hombre","Explotación de Minas y Canteras",707747,791366,914094
+"742","Iquique","Hombre","Industrias Manufactureras",396184,555201,730671
+"743","Iquique","Hombre","Electricidad, Gas y Agua",719674,649866,413520
+"744","Iquique","Hombre","Construcción",432585,498456,486630
+"745","Iquique","Hombre","Comercio",462673,443485,503957
+"746","Iquique","Hombre","Hoteles y Restaurantes",403431,381145,501524
+"747","Iquique","Hombre","Transporte, Almacenamiento y Comunicaciones",494230,450430,461710
+"748","Iquique","Hombre","Intermediación Financiera",675828,682920,1807034
+"749","Iquique","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",538054,678387,955229
+"750","Iquique","Hombre","Administración Pública y Defensa",661117,793409,788423
+"751","Iquique","Hombre","Enseñanza",677635,790855,800237
+"752","Iquique","Hombre","Servicios Sociales y de Salud",871381,1218290,1457735
+"753","Iquique","Hombre","Otras Actividades de Servicios",350060,527045,503827
+"754","Iquique","Hombre","Servicio Doméstico",286161,309009,275929
+"755","Iquique","Mujer","Agricultura, Ganadería, Caza y Silvicultura",496118,171302,NA
+"756","Iquique","Mujer","Pesca",319774,139461,324118
+"757","Iquique","Mujer","Explotación de Minas y Canteras",622416,564580,784102
+"758","Iquique","Mujer","Industrias Manufactureras",307621,208238,287043
+"759","Iquique","Mujer","Electricidad, Gas y Agua",256934,732453,100000
+"760","Iquique","Mujer","Construcción",354226,624652,481995
+"761","Iquique","Mujer","Comercio",287032,284998,299937
+"762","Iquique","Mujer","Hoteles y Restaurantes",250462,292582,272688
+"763","Iquique","Mujer","Transporte, Almacenamiento y Comunicaciones",443596,347736,334280
+"764","Iquique","Mujer","Intermediación Financiera",778421,580389,626894
+"765","Iquique","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",512605,588122,468739
+"766","Iquique","Mujer","Administración Pública y Defensa",511344,942540,617470
+"767","Iquique","Mujer","Enseñanza",391048,485100,507843
+"768","Iquique","Mujer","Servicios Sociales y de Salud",509434,602222,637574
+"769","Iquique","Mujer","Otras Actividades de Servicios",338148,481599,472775
+"770","Iquique","Mujer","Servicio Doméstico",177177,187802,216878
+"771","Iquique","Mujer","Organizaciones y Órganos Extraterritoriales",112682,NA,NA
+"772","Iquique","Mujer","No Bien Especificado",218800,383398,546089
+"773","Limarí","Hombre","Agricultura, Ganadería, Caza y Silvicultura",236174,219223,235835
+"774","Limarí","Hombre","Pesca",202390,400000,149900
+"775","Limarí","Hombre","Explotación de Minas y Canteras",587915,689746,455447
+"776","Limarí","Hombre","Industrias Manufactureras",363812,366219,352846
+"777","Limarí","Hombre","Electricidad, Gas y Agua",331559,305836,479482
+"778","Limarí","Hombre","Construcción",297735,247113,346292
+"779","Limarí","Hombre","Comercio",250822,271129,289417
+"780","Limarí","Hombre","Hoteles y Restaurantes",322183,476417,560503
+"781","Limarí","Hombre","Transporte, Almacenamiento y Comunicaciones",374789,287901,373231
+"782","Limarí","Hombre","Intermediación Financiera",2054000,489787,350130
+"783","Limarí","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",416540,565316,669408
+"784","Limarí","Hombre","Administración Pública y Defensa",416014,417809,404868
+"785","Limarí","Hombre","Enseñanza",332340,723923,413750
+"786","Limarí","Hombre","Servicios Sociales y de Salud",649979,296757,402401
+"787","Limarí","Hombre","Otras Actividades de Servicios",231294,288520,457146
+"788","Limarí","Hombre","Servicio Doméstico",369720,195445,276842
+"789","Limarí","Mujer","Agricultura, Ganadería, Caza y Silvicultura",178295,184796,194520
+"790","Limarí","Mujer","Explotación de Minas y Canteras",342093,312446,331306
+"791","Limarí","Mujer","Industrias Manufactureras",191966,205202,185049
+"792","Limarí","Mujer","Electricidad, Gas y Agua",177587,83584,NA
+"793","Limarí","Mujer","Construcción",473085,230769,300000
+"794","Limarí","Mujer","Comercio",197702,207454,211107
+"795","Limarí","Mujer","Hoteles y Restaurantes",206454,338142,212283
+"796","Limarí","Mujer","Transporte, Almacenamiento y Comunicaciones",139363,217321,361236
+"797","Limarí","Mujer","Intermediación Financiera",1072522,376667,688548
+"798","Limarí","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",247209,336303,328470
+"799","Limarí","Mujer","Administración Pública y Defensa",191653,248725,337259
+"800","Limarí","Mujer","Enseñanza",313090,396472,427080
+"801","Limarí","Mujer","Servicios Sociales y de Salud",344205,347326,390295
+"802","Limarí","Mujer","Otras Actividades de Servicios",168197,148889,173947
+"803","Limarí","Mujer","Servicio Doméstico",130061,117604,138332
+"804","Linares","Hombre","Agricultura, Ganadería, Caza y Silvicultura",219563,226444,250624
+"805","Linares","Hombre","Explotación de Minas y Canteras",446787,688333,561295
+"806","Linares","Hombre","Industrias Manufactureras",253847,252219,241567
+"807","Linares","Hombre","Electricidad, Gas y Agua",322155,286901,470078
+"808","Linares","Hombre","Construcción",284919,279978,323237
+"809","Linares","Hombre","Comercio",311373,221692,258642
+"810","Linares","Hombre","Hoteles y Restaurantes",339707,227019,191974
+"811","Linares","Hombre","Transporte, Almacenamiento y Comunicaciones",302705,327358,392376
+"812","Linares","Hombre","Intermediación Financiera",575590,1118548,479088
+"813","Linares","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",448553,384049,487731
+"814","Linares","Hombre","Administración Pública y Defensa",409288,422957,558542
+"815","Linares","Hombre","Enseñanza",433994,510332,486539
+"816","Linares","Hombre","Servicios Sociales y de Salud",244717,332597,469357
+"817","Linares","Hombre","Otras Actividades de Servicios",315144,191564,254606
+"818","Linares","Hombre","Servicio Doméstico",112113,116282,214270
+"819","Linares","Mujer","Agricultura, Ganadería, Caza y Silvicultura",140068,161828,193313
+"820","Linares","Mujer","Industrias Manufactureras",196519,185494,198737
+"821","Linares","Mujer","Electricidad, Gas y Agua",260692,86000,194030
+"822","Linares","Mujer","Construcción",311758,250000,368258
+"823","Linares","Mujer","Comercio",164788,189081,225438
+"824","Linares","Mujer","Hoteles y Restaurantes",140803,187877,210958
+"825","Linares","Mujer","Transporte, Almacenamiento y Comunicaciones",342630,184286,244659
+"826","Linares","Mujer","Intermediación Financiera",307107,241935,582526
+"827","Linares","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",312704,218501,315754
+"828","Linares","Mujer","Administración Pública y Defensa",330145,488526,515735
+"829","Linares","Mujer","Enseñanza",301315,317846,379355
+"830","Linares","Mujer","Servicios Sociales y de Salud",354323,347836,316529
+"831","Linares","Mujer","Otras Actividades de Servicios",192909,212611,236912
+"832","Linares","Mujer","Servicio Doméstico",124317,135564,127888
+"833","Llanquihue","Hombre","Agricultura, Ganadería, Caza y Silvicultura",497588,242471,299680
+"834","Llanquihue","Hombre","Pesca",305896,362968,425894
+"835","Llanquihue","Hombre","Explotación de Minas y Canteras",337434,406407,226671
+"836","Llanquihue","Hombre","Industrias Manufactureras",558332,300880,344568
+"837","Llanquihue","Hombre","Electricidad, Gas y Agua",488451,640349,380422
+"838","Llanquihue","Hombre","Construcción",349205,318453,340372
+"839","Llanquihue","Hombre","Comercio",371424,332639,347851
+"840","Llanquihue","Hombre","Hoteles y Restaurantes",392212,304688,449864
+"841","Llanquihue","Hombre","Transporte, Almacenamiento y Comunicaciones",335099,412646,371322
+"842","Llanquihue","Hombre","Intermediación Financiera",548787,650867,721780
+"843","Llanquihue","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",420509,552135,609771
+"844","Llanquihue","Hombre","Administración Pública y Defensa",630157,681468,809788
+"845","Llanquihue","Hombre","Enseñanza",472006,630125,570920
+"846","Llanquihue","Hombre","Servicios Sociales y de Salud",922513,604290,894149
+"847","Llanquihue","Hombre","Otras Actividades de Servicios",575859,267698,332113
+"848","Llanquihue","Hombre","Servicio Doméstico",229756,209733,179727
+"849","Llanquihue","Mujer","Agricultura, Ganadería, Caza y Silvicultura",220189,243110,211858
+"850","Llanquihue","Mujer","Pesca",181419,180802,295221
+"851","Llanquihue","Mujer","Industrias Manufactureras",238830,263882,260444
+"852","Llanquihue","Mujer","Electricidad, Gas y Agua",197467,214356,333257
+"853","Llanquihue","Mujer","Construcción",695450,270000,1236666
+"854","Llanquihue","Mujer","Comercio",286954,204314,221289
+"855","Llanquihue","Mujer","Hoteles y Restaurantes",216662,291308,253360
+"856","Llanquihue","Mujer","Transporte, Almacenamiento y Comunicaciones",737815,348353,314261
+"857","Llanquihue","Mujer","Intermediación Financiera",646774,455953,422904
+"858","Llanquihue","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",558274,313540,332012
+"859","Llanquihue","Mujer","Administración Pública y Defensa",233101,553591,625930
+"860","Llanquihue","Mujer","Enseñanza",401230,425855,397883
+"861","Llanquihue","Mujer","Servicios Sociales y de Salud",481022,450432,779163
+"862","Llanquihue","Mujer","Otras Actividades de Servicios",253773,308973,334295
+"863","Llanquihue","Mujer","Servicio Doméstico",142279,156917,187070
+"864","Llanquihue","Mujer","Organizaciones y Órganos Extraterritoriales",1531600,NA,NA
+"865","Los Andes","Hombre","Agricultura, Ganadería, Caza y Silvicultura",204973,239833,288316
+"866","Los Andes","Hombre","Explotación de Minas y Canteras",821237,644268,1002436
+"867","Los Andes","Hombre","Industrias Manufactureras",560528,242875,500055
+"868","Los Andes","Hombre","Electricidad, Gas y Agua",213100,307423,811760
+"869","Los Andes","Hombre","Construcción",576693,359400,338215
+"870","Los Andes","Hombre","Comercio",406178,335420,345290
+"871","Los Andes","Hombre","Hoteles y Restaurantes",308679,248118,289131
+"872","Los Andes","Hombre","Transporte, Almacenamiento y Comunicaciones",529919,280976,429005
+"873","Los Andes","Hombre","Intermediación Financiera",546436,555855,557761
+"874","Los Andes","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",860504,423691,1297521
+"875","Los Andes","Hombre","Administración Pública y Defensa",509004,613911,634197
+"876","Los Andes","Hombre","Enseñanza",674455,426135,579915
+"877","Los Andes","Hombre","Servicios Sociales y de Salud",1203788,418066,399053
+"878","Los Andes","Hombre","Otras Actividades de Servicios",424613,279769,354466
+"879","Los Andes","Hombre","Servicio Doméstico",259156,215789,260292
+"880","Los Andes","Mujer","Agricultura, Ganadería, Caza y Silvicultura",175566,200705,234969
+"881","Los Andes","Mujer","Explotación de Minas y Canteras",340527,383694,540000
+"882","Los Andes","Mujer","Industrias Manufactureras",237163,252252,629121
+"883","Los Andes","Mujer","Electricidad, Gas y Agua",164100,200000,250481
+"884","Los Andes","Mujer","Construcción",1152039,NA,272111
+"885","Los Andes","Mujer","Comercio",248435,218768,270092
+"886","Los Andes","Mujer","Hoteles y Restaurantes",366182,227599,320958
+"887","Los Andes","Mujer","Transporte, Almacenamiento y Comunicaciones",311407,274845,431157
+"888","Los Andes","Mujer","Intermediación Financiera",582455,397384,890440
+"889","Los Andes","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",882480,624447,411005
+"890","Los Andes","Mujer","Administración Pública y Defensa",807584,483161,595722
+"891","Los Andes","Mujer","Enseñanza",411933,291767,369219
+"892","Los Andes","Mujer","Servicios Sociales y de Salud",499811,274992,529403
+"893","Los Andes","Mujer","Otras Actividades de Servicios",321694,157473,260367
+"894","Los Andes","Mujer","Servicio Doméstico",191396,147606,181925
+"895","Magallanes","Hombre","Agricultura, Ganadería, Caza y Silvicultura",600559,556062,1069146
+"896","Magallanes","Hombre","Pesca",435677,436938,681576
+"897","Magallanes","Hombre","Explotación de Minas y Canteras",952759,773075,1109837
+"898","Magallanes","Hombre","Industrias Manufactureras",496671,552541,503779
+"899","Magallanes","Hombre","Electricidad, Gas y Agua",684315,830482,590678
+"900","Magallanes","Hombre","Construcción",487466,403594,520676
+"901","Magallanes","Hombre","Comercio",389004,367443,444095
+"902","Magallanes","Hombre","Hoteles y Restaurantes",278910,388468,467337
+"903","Magallanes","Hombre","Transporte, Almacenamiento y Comunicaciones",959246,510803,517705
+"904","Magallanes","Hombre","Intermediación Financiera",442152,625875,1126159
+"905","Magallanes","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",765181,557615,1273242
+"906","Magallanes","Hombre","Administración Pública y Defensa",824218,715128,822249
+"907","Magallanes","Hombre","Enseñanza",955983,706199,687032
+"908","Magallanes","Hombre","Servicios Sociales y de Salud",580505,925822,1144613
+"909","Magallanes","Hombre","Otras Actividades de Servicios",350457,356256,463029
+"910","Magallanes","Hombre","Servicio Doméstico",236794,120361,219903
+"911","Magallanes","Mujer","Agricultura, Ganadería, Caza y Silvicultura",490405,262722,689542
+"912","Magallanes","Mujer","Pesca",437600,306789,357857
+"913","Magallanes","Mujer","Explotación de Minas y Canteras",234224,477986,450000
+"914","Magallanes","Mujer","Industrias Manufactureras",617197,245861,251811
+"915","Magallanes","Mujer","Electricidad, Gas y Agua",503240,NA,NA
+"916","Magallanes","Mujer","Construcción",503428,647486,630212
+"917","Magallanes","Mujer","Comercio",275858,248880,297913
+"918","Magallanes","Mujer","Hoteles y Restaurantes",300908,243838,293385
+"919","Magallanes","Mujer","Transporte, Almacenamiento y Comunicaciones",385558,461029,380121
+"920","Magallanes","Mujer","Intermediación Financiera",371238,431147,615180
+"921","Magallanes","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",711885,378664,513171
+"922","Magallanes","Mujer","Administración Pública y Defensa",651976,621567,840987
+"923","Magallanes","Mujer","Enseñanza",548266,536608,538336
+"924","Magallanes","Mujer","Servicios Sociales y de Salud",446168,471420,646210
+"925","Magallanes","Mujer","Otras Actividades de Servicios",331400,269737,270590
+"926","Magallanes","Mujer","Servicio Doméstico",158725,160003,179141
+"927","Maipo","Hombre","Agricultura, Ganadería, Caza y Silvicultura",276277,253466,277904
+"928","Maipo","Hombre","Explotación de Minas y Canteras",365196,525053,515379
+"929","Maipo","Hombre","Industrias Manufactureras",337320,378085,349160
+"930","Maipo","Hombre","Electricidad, Gas y Agua",229614,458472,303684
+"931","Maipo","Hombre","Construcción",271687,341627,385843
+"932","Maipo","Hombre","Comercio",329580,313251,395135
+"933","Maipo","Hombre","Hoteles y Restaurantes",257925,197063,271288
+"934","Maipo","Hombre","Transporte, Almacenamiento y Comunicaciones",395123,380694,436904
+"935","Maipo","Hombre","Intermediación Financiera",396935,483592,749403
+"936","Maipo","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",508312,745250,631605
+"937","Maipo","Hombre","Administración Pública y Defensa",469032,811305,1040383
+"938","Maipo","Hombre","Enseñanza",858078,410297,524137
+"939","Maipo","Hombre","Servicios Sociales y de Salud",338840,675245,815580
+"940","Maipo","Hombre","Otras Actividades de Servicios",380086,313151,460360
+"941","Maipo","Hombre","Servicio Doméstico",230371,285516,299052
+"942","Maipo","Hombre","No Bien Especificado",196920,314688,NA
+"943","Maipo","Mujer","Agricultura, Ganadería, Caza y Silvicultura",195583,253576,265464
+"944","Maipo","Mujer","Industrias Manufactureras",222976,268803,409716
+"945","Maipo","Mujer","Construcción",196920,586070,563389
+"946","Maipo","Mujer","Comercio",232393,245860,244852
+"947","Maipo","Mujer","Hoteles y Restaurantes",214663,205505,235866
+"948","Maipo","Mujer","Transporte, Almacenamiento y Comunicaciones",262814,368338,401720
+"949","Maipo","Mujer","Intermediación Financiera",311370,422484,625923
+"950","Maipo","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",446808,373943,618428
+"951","Maipo","Mujer","Administración Pública y Defensa",399596,730779,511200
+"952","Maipo","Mujer","Enseñanza",352076,402321,429198
+"953","Maipo","Mujer","Servicios Sociales y de Salud",306617,347883,506312
+"954","Maipo","Mujer","Otras Actividades de Servicios",190396,243121,348406
+"955","Maipo","Mujer","Servicio Doméstico",165140,186965,223278
+"956","Malleco","Hombre","Agricultura, Ganadería, Caza y Silvicultura",206865,216047,255418
+"957","Malleco","Hombre","Pesca",177011,232727,250000
+"958","Malleco","Hombre","Explotación de Minas y Canteras",441211,350033,598258
+"959","Malleco","Hombre","Industrias Manufactureras",248543,262339,359550
+"960","Malleco","Hombre","Electricidad, Gas y Agua",432590,364843,401804
+"961","Malleco","Hombre","Construcción",358185,355185,286002
+"962","Malleco","Hombre","Comercio",244193,272712,316068
+"963","Malleco","Hombre","Hoteles y Restaurantes",164634,450929,228044
+"964","Malleco","Hombre","Transporte, Almacenamiento y Comunicaciones",352318,288904,319438
+"965","Malleco","Hombre","Intermediación Financiera",444520,270000,1107368
+"966","Malleco","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",1145617,353017,418912
+"967","Malleco","Hombre","Administración Pública y Defensa",639712,533231,573957
+"968","Malleco","Hombre","Enseñanza",531753,466283,491100
+"969","Malleco","Hombre","Servicios Sociales y de Salud",291043,1097131,668648
+"970","Malleco","Hombre","Otras Actividades de Servicios",299275,257863,354138
+"971","Malleco","Hombre","Servicio Doméstico",188548,124783,135370
+"972","Malleco","Mujer","Agricultura, Ganadería, Caza y Silvicultura",126383,163587,190804
+"973","Malleco","Mujer","Industrias Manufactureras",159680,136096,172325
+"974","Malleco","Mujer","Electricidad, Gas y Agua",547000,NA,302381
+"975","Malleco","Mujer","Construcción",172115,211027,436842
+"976","Malleco","Mujer","Comercio",322469,242006,198432
+"977","Malleco","Mujer","Hoteles y Restaurantes",338703,231999,206807
+"978","Malleco","Mujer","Transporte, Almacenamiento y Comunicaciones",303944,348302,224452
+"979","Malleco","Mujer","Intermediación Financiera",431193,546634,678048
+"980","Malleco","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",204859,335955,257279
+"981","Malleco","Mujer","Administración Pública y Defensa",345354,335434,437685
+"982","Malleco","Mujer","Enseñanza",385633,397818,397019
+"983","Malleco","Mujer","Servicios Sociales y de Salud",312540,504939,587877
+"984","Malleco","Mujer","Otras Actividades de Servicios",200624,187281,191403
+"985","Malleco","Mujer","Servicio Doméstico",112052,121579,154513
+"986","Marga Marga","Hombre","Agricultura, Ganadería, Caza y Silvicultura",225662,269426,260245
+"987","Marga Marga","Hombre","Pesca",932294,519202,155551
+"988","Marga Marga","Hombre","Explotación de Minas y Canteras",1051488,717522,767486
+"989","Marga Marga","Hombre","Industrias Manufactureras",383194,607500,386727
+"990","Marga Marga","Hombre","Electricidad, Gas y Agua",829035,373479,714105
+"991","Marga Marga","Hombre","Construcción",330946,399011,461465
+"992","Marga Marga","Hombre","Comercio",365230,552086,396002
+"993","Marga Marga","Hombre","Hoteles y Restaurantes",282153,370597,239770
+"994","Marga Marga","Hombre","Transporte, Almacenamiento y Comunicaciones",452020,518381,454262
+"995","Marga Marga","Hombre","Intermediación Financiera",1028446,681153,726911
+"996","Marga Marga","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",643792,555458,691790
+"997","Marga Marga","Hombre","Administración Pública y Defensa",549982,623703,704346
+"998","Marga Marga","Hombre","Enseñanza",620667,467206,751973
+"999","Marga Marga","Hombre","Servicios Sociales y de Salud",437727,662067,575443
+"1000","Marga Marga","Hombre","Otras Actividades de Servicios",409897,304506,401474
+"1001","Marga Marga","Hombre","Servicio Doméstico",220133,163301,264990
+"1002","Marga Marga","Hombre","No Bien Especificado",452071,275235,NA
+"1003","Marga Marga","Mujer","Agricultura, Ganadería, Caza y Silvicultura",165874,227133,288217
+"1004","Marga Marga","Mujer","Explotación de Minas y Canteras",982149,502880,240000
+"1005","Marga Marga","Mujer","Industrias Manufactureras",325796,265129,271823
+"1006","Marga Marga","Mujer","Construcción",795371,615456,505682
+"1007","Marga Marga","Mujer","Comercio",220534,197357,272803
+"1008","Marga Marga","Mujer","Hoteles y Restaurantes",239103,191327,245153
+"1009","Marga Marga","Mujer","Transporte, Almacenamiento y Comunicaciones",695606,425386,297019
+"1010","Marga Marga","Mujer","Intermediación Financiera",465840,422320,441125
+"1011","Marga Marga","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",653326,287327,354931
+"1012","Marga Marga","Mujer","Administración Pública y Defensa",541788,432968,697977
+"1013","Marga Marga","Mujer","Enseñanza",433929,339249,452374
+"1014","Marga Marga","Mujer","Servicios Sociales y de Salud",436014,377117,580402
+"1015","Marga Marga","Mujer","Otras Actividades de Servicios",179426,269129,290795
+"1016","Marga Marga","Mujer","Servicio Doméstico",128445,141526,176112
+"1017","Marga Marga","Mujer","Organizaciones y Órganos Extraterritoriales",82050,NA,NA
+"1018","Melipilla","Hombre","Agricultura, Ganadería, Caza y Silvicultura",263627,232225,359360
+"1019","Melipilla","Hombre","Pesca",501052,NA,NA
+"1020","Melipilla","Hombre","Explotación de Minas y Canteras",457438,455026,663162
+"1021","Melipilla","Hombre","Industrias Manufactureras",351012,257224,379755
+"1022","Melipilla","Hombre","Electricidad, Gas y Agua",199108,116074,600000
+"1023","Melipilla","Hombre","Construcción",369717,337456,361831
+"1024","Melipilla","Hombre","Comercio",247755,276361,410267
+"1025","Melipilla","Hombre","Hoteles y Restaurantes",336454,258438,283092
+"1026","Melipilla","Hombre","Transporte, Almacenamiento y Comunicaciones",454838,314154,467152
+"1027","Melipilla","Hombre","Intermediación Financiera",306320,NA,433979
+"1028","Melipilla","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",924277,522777,746216
+"1029","Melipilla","Hombre","Administración Pública y Defensa",393926,649549,792438
+"1030","Melipilla","Hombre","Enseñanza",514696,370816,442012
+"1031","Melipilla","Hombre","Servicios Sociales y de Salud",153160,568551,351475
+"1032","Melipilla","Hombre","Otras Actividades de Servicios",337249,300000,357036
+"1033","Melipilla","Hombre","Servicio Doméstico",195715,200000,263122
+"1034","Melipilla","Mujer","Agricultura, Ganadería, Caza y Silvicultura",208692,182469,298283
+"1035","Melipilla","Mujer","Explotación de Minas y Canteras",295380,160000,339421
+"1036","Melipilla","Mujer","Industrias Manufactureras",602185,273121,273237
+"1037","Melipilla","Mujer","Construcción",202487,387598,240000
+"1038","Melipilla","Mujer","Comercio",248099,166385,310005
+"1039","Melipilla","Mujer","Hoteles y Restaurantes",208943,212252,235776
+"1040","Melipilla","Mujer","Transporte, Almacenamiento y Comunicaciones",935093,181169,283329
+"1041","Melipilla","Mujer","Intermediación Financiera",391957,NA,429468
+"1042","Melipilla","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",1296322,702634,372074
+"1043","Melipilla","Mujer","Administración Pública y Defensa",654431,327410,417427
+"1044","Melipilla","Mujer","Enseñanza",331192,355557,376192
+"1045","Melipilla","Mujer","Servicios Sociales y de Salud",330312,360584,431990
+"1046","Melipilla","Mujer","Otras Actividades de Servicios",224777,247363,472115
+"1047","Melipilla","Mujer","Servicio Doméstico",170780,140541,216206
+"1048","Ñuble","Hombre","Agricultura, Ganadería, Caza y Silvicultura",199527,220168,253846
+"1049","Ñuble","Hombre","Pesca",196920,138235,478517
+"1050","Ñuble","Hombre","Explotación de Minas y Canteras",458459,499476,544409
+"1051","Ñuble","Hombre","Industrias Manufactureras",321572,295634,388757
+"1052","Ñuble","Hombre","Electricidad, Gas y Agua",369752,238992,359036
+"1053","Ñuble","Hombre","Construcción",258237,332485,338799
+"1054","Ñuble","Hombre","Comercio",255352,263185,399384
+"1055","Ñuble","Hombre","Hoteles y Restaurantes",216092,199333,304109
+"1056","Ñuble","Hombre","Transporte, Almacenamiento y Comunicaciones",313866,307442,358994
+"1057","Ñuble","Hombre","Intermediación Financiera",211009,620152,608209
+"1058","Ñuble","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",358603,908766,479389
+"1059","Ñuble","Hombre","Administración Pública y Defensa",512225,554573,630518
+"1060","Ñuble","Hombre","Enseñanza",454626,422769,603264
+"1061","Ñuble","Hombre","Servicios Sociales y de Salud",2055554,462568,831961
+"1062","Ñuble","Hombre","Otras Actividades de Servicios",216299,229797,282584
+"1063","Ñuble","Hombre","Servicio Doméstico",224790,136629,147623
+"1064","Ñuble","Mujer","Agricultura, Ganadería, Caza y Silvicultura",178249,152015,161714
+"1065","Ñuble","Mujer","Industrias Manufactureras",170318,214104,169534
+"1066","Ñuble","Mujer","Electricidad, Gas y Agua",301524,89326,513159
+"1067","Ñuble","Mujer","Construcción",168219,279983,290159
+"1068","Ñuble","Mujer","Comercio",212722,155880,212665
+"1069","Ñuble","Mujer","Hoteles y Restaurantes",273853,179607,228176
+"1070","Ñuble","Mujer","Transporte, Almacenamiento y Comunicaciones",426141,203751,324730
+"1071","Ñuble","Mujer","Intermediación Financiera",258278,273375,440702
+"1072","Ñuble","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",431730,304664,483477
+"1073","Ñuble","Mujer","Administración Pública y Defensa",271146,384315,499465
+"1074","Ñuble","Mujer","Enseñanza",383942,441693,446195
+"1075","Ñuble","Mujer","Servicios Sociales y de Salud",313544,363648,544084
+"1076","Ñuble","Mujer","Otras Actividades de Servicios",209341,167188,256329
+"1077","Ñuble","Mujer","Servicio Doméstico",109656,126929,127886
+"1078","Osorno","Hombre","Agricultura, Ganadería, Caza y Silvicultura",404052,255673,298857
+"1079","Osorno","Hombre","Pesca",371788,431103,397977
+"1080","Osorno","Hombre","Industrias Manufactureras",295947,425349,322376
+"1081","Osorno","Hombre","Electricidad, Gas y Agua",307642,413283,724564
+"1082","Osorno","Hombre","Construcción",276673,324788,351519
+"1083","Osorno","Hombre","Comercio",326392,261992,372051
+"1084","Osorno","Hombre","Hoteles y Restaurantes",268270,289251,250371
+"1085","Osorno","Hombre","Transporte, Almacenamiento y Comunicaciones",289998,428620,351639
+"1086","Osorno","Hombre","Intermediación Financiera",434087,332591,762125
+"1087","Osorno","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",996710,503746,335756
+"1088","Osorno","Hombre","Administración Pública y Defensa",493728,499143,641164
+"1089","Osorno","Hombre","Enseñanza",552717,604661,537559
+"1090","Osorno","Hombre","Servicios Sociales y de Salud",608141,1439599,448641
+"1091","Osorno","Hombre","Otras Actividades de Servicios",240504,203652,295870
+"1092","Osorno","Hombre","Servicio Doméstico",147608,124838,164881
+"1093","Osorno","Mujer","Agricultura, Ganadería, Caza y Silvicultura",130436,204860,174760
+"1094","Osorno","Mujer","Pesca",2299751,187056,283182
+"1095","Osorno","Mujer","Industrias Manufactureras",240708,229698,247358
+"1096","Osorno","Mujer","Electricidad, Gas y Agua",362452,484146,244044
+"1097","Osorno","Mujer","Construcción",198014,336382,276136
+"1098","Osorno","Mujer","Comercio",188672,179221,188808
+"1099","Osorno","Mujer","Hoteles y Restaurantes",381744,271232,196805
+"1100","Osorno","Mujer","Transporte, Almacenamiento y Comunicaciones",235236,186964,262218
+"1101","Osorno","Mujer","Intermediación Financiera",628743,849198,466003
+"1102","Osorno","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",411599,328511,308523
+"1103","Osorno","Mujer","Administración Pública y Defensa",373599,457444,709800
+"1104","Osorno","Mujer","Enseñanza",399250,413586,445828
+"1105","Osorno","Mujer","Servicios Sociales y de Salud",366378,491787,553664
+"1106","Osorno","Mujer","Otras Actividades de Servicios",355674,282679,175892
+"1107","Osorno","Mujer","Servicio Doméstico",119676,154034,143053
+"1108","Osorno","Mujer","Organizaciones y Órganos Extraterritoriales",300850,NA,NA
+"1109","Parinacota","Hombre","Agricultura, Ganadería, Caza y Silvicultura",548802,87308,153306
+"1110","Parinacota","Hombre","Industrias Manufactureras",615375,NA,200000
+"1111","Parinacota","Hombre","Construcción",225638,258686,264239
+"1112","Parinacota","Hombre","Comercio",347175,80000,243846
+"1113","Parinacota","Hombre","Administración Pública y Defensa",571471,372727,369707
+"1114","Parinacota","Hombre","Enseñanza",289910,1150000,827692
+"1115","Parinacota","Hombre","Servicios Sociales y de Salud",142220,287222,318000
+"1116","Parinacota","Hombre","Otras Actividades de Servicios",169153,NA,NA
+"1117","Parinacota","Mujer","Agricultura, Ganadería, Caza y Silvicultura",300960,57683,116471
+"1118","Parinacota","Mujer","Pesca",308100,NA,NA
+"1119","Parinacota","Mujer","Construcción",174493,NA,NA
+"1120","Parinacota","Mujer","Comercio",229363,110000,219310
+"1121","Parinacota","Mujer","Administración Pública y Defensa",313282,257970,324909
+"1122","Parinacota","Mujer","Enseñanza",247302,238734,281250
+"1123","Parinacota","Mujer","Otras Actividades de Servicios",184860,NA,NA
+"1124","Petorca","Hombre","Agricultura, Ganadería, Caza y Silvicultura",230561,207542,283138
+"1125","Petorca","Hombre","Pesca",226519,171149,421076
+"1126","Petorca","Hombre","Explotación de Minas y Canteras",402621,474388,423723
+"1127","Petorca","Hombre","Industrias Manufactureras",300292,269094,327321
+"1128","Petorca","Hombre","Construcción",296507,363593,326523
+"1129","Petorca","Hombre","Comercio",395833,300393,313527
+"1130","Petorca","Hombre","Hoteles y Restaurantes",175422,208864,241361
+"1131","Petorca","Hombre","Transporte, Almacenamiento y Comunicaciones",279318,311730,348828
+"1132","Petorca","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",346709,334973,337243
+"1133","Petorca","Hombre","Administración Pública y Defensa",518645,448533,458130
+"1134","Petorca","Hombre","Enseñanza",477415,365404,737973
+"1135","Petorca","Hombre","Servicios Sociales y de Salud",382900,1166155,378100
+"1136","Petorca","Hombre","Otras Actividades de Servicios",276230,191752,303402
+"1137","Petorca","Hombre","Servicio Doméstico",258221,175281,297661
+"1138","Petorca","Hombre","Organizaciones y Órganos Extraterritoriales",513500,NA,NA
+"1139","Petorca","Mujer","Agricultura, Ganadería, Caza y Silvicultura",299385,175078,212056
+"1140","Petorca","Mujer","Explotación de Minas y Canteras",382900,500000,395588
+"1141","Petorca","Mujer","Industrias Manufactureras",224030,129100,181722
+"1142","Petorca","Mujer","Comercio",239360,189671,210991
+"1143","Petorca","Mujer","Hoteles y Restaurantes",412999,225315,209589
+"1144","Petorca","Mujer","Transporte, Almacenamiento y Comunicaciones",300385,336667,265811
+"1145","Petorca","Mujer","Intermediación Financiera",358534,NA,322447
+"1146","Petorca","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",461238,276651,295857
+"1147","Petorca","Mujer","Administración Pública y Defensa",258182,331560,362939
+"1148","Petorca","Mujer","Enseñanza",364001,241048,386599
+"1149","Petorca","Mujer","Servicios Sociales y de Salud",330609,367082,308365
+"1150","Petorca","Mujer","Otras Actividades de Servicios",192773,129161,256417
+"1151","Petorca","Mujer","Servicio Doméstico",168736,127362,205815
+"1152","Quillota","Hombre","Agricultura, Ganadería, Caza y Silvicultura",284670,264219,277591
+"1153","Quillota","Hombre","Explotación de Minas y Canteras",558814,676463,808210
+"1154","Quillota","Hombre","Industrias Manufactureras",485101,354661,454488
+"1155","Quillota","Hombre","Electricidad, Gas y Agua",250284,494953,428302
+"1156","Quillota","Hombre","Construcción",307788,319305,370807
+"1157","Quillota","Hombre","Comercio",298150,274918,302013
+"1158","Quillota","Hombre","Hoteles y Restaurantes",253390,308966,282040
+"1159","Quillota","Hombre","Transporte, Almacenamiento y Comunicaciones",404909,451095,423281
+"1160","Quillota","Hombre","Intermediación Financiera",750776,677564,559544
+"1161","Quillota","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",456971,677723,365651
+"1162","Quillota","Hombre","Administración Pública y Defensa",638559,555302,634836
+"1163","Quillota","Hombre","Enseñanza",332212,549959,504978
+"1164","Quillota","Hombre","Servicios Sociales y de Salud",583431,671249,751630
+"1165","Quillota","Hombre","Otras Actividades de Servicios",328466,316939,543772
+"1166","Quillota","Hombre","Servicio Doméstico",202390,178014,227607
+"1167","Quillota","Mujer","Agricultura, Ganadería, Caza y Silvicultura",183609,207610,269537
+"1168","Quillota","Mujer","Explotación de Minas y Canteras",471299,195703,683951
+"1169","Quillota","Mujer","Industrias Manufactureras",171569,155066,191373
+"1170","Quillota","Mujer","Electricidad, Gas y Agua",54700,NA,400000
+"1171","Quillota","Mujer","Construcción",213606,527458,246273
+"1172","Quillota","Mujer","Comercio",254598,200567,204198
+"1173","Quillota","Mujer","Hoteles y Restaurantes",188551,201966,183159
+"1174","Quillota","Mujer","Transporte, Almacenamiento y Comunicaciones",216748,365591,361571
+"1175","Quillota","Mujer","Intermediación Financiera",323612,240000,501945
+"1176","Quillota","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",323830,285689,177916
+"1177","Quillota","Mujer","Administración Pública y Defensa",363867,312225,375450
+"1178","Quillota","Mujer","Enseñanza",311975,340776,458115
+"1179","Quillota","Mujer","Servicios Sociales y de Salud",321518,657813,362438
+"1180","Quillota","Mujer","Otras Actividades de Servicios",174587,251016,230663
+"1181","Quillota","Mujer","Servicio Doméstico",176075,153634,153384
+"1182","Ranco","Hombre","Agricultura, Ganadería, Caza y Silvicultura",304569,366183,322369
+"1183","Ranco","Hombre","Pesca",459513,277699,335631
+"1184","Ranco","Hombre","Explotación de Minas y Canteras",467503,487934,436415
+"1185","Ranco","Hombre","Industrias Manufactureras",292266,303559,323741
+"1186","Ranco","Hombre","Electricidad, Gas y Agua",260588,264871,388618
+"1187","Ranco","Hombre","Construcción",269432,242096,330304
+"1188","Ranco","Hombre","Comercio",285338,224835,292814
+"1189","Ranco","Hombre","Hoteles y Restaurantes",598769,276599,205382
+"1190","Ranco","Hombre","Transporte, Almacenamiento y Comunicaciones",339194,299157,355747
+"1191","Ranco","Hombre","Intermediación Financiera",284369,695304,307718
+"1192","Ranco","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",366120,422466,450432
+"1193","Ranco","Hombre","Administración Pública y Defensa",674863,487132,666995
+"1194","Ranco","Hombre","Enseñanza",356609,455933,503971
+"1195","Ranco","Hombre","Servicios Sociales y de Salud",555149,1481832,465986
+"1196","Ranco","Hombre","Otras Actividades de Servicios",149929,169885,229950
+"1197","Ranco","Hombre","Servicio Doméstico",197457,247435,155039
+"1198","Ranco","Hombre","No Bien Especificado",328200,229847,NA
+"1199","Ranco","Mujer","Agricultura, Ganadería, Caza y Silvicultura",206059,118994,215620
+"1200","Ranco","Mujer","Pesca",235210,NA,2000000
+"1201","Ranco","Mujer","Explotación de Minas y Canteras",80956,284211,NA
+"1202","Ranco","Mujer","Industrias Manufactureras",285020,176289,224162
+"1203","Ranco","Mujer","Electricidad, Gas y Agua",196920,NA,350000
+"1204","Ranco","Mujer","Construcción",615375,162198,747614
+"1205","Ranco","Mujer","Comercio",217492,168067,181762
+"1206","Ranco","Mujer","Hoteles y Restaurantes",216577,221495,223614
+"1207","Ranco","Mujer","Transporte, Almacenamiento y Comunicaciones",252412,168174,362349
+"1208","Ranco","Mujer","Intermediación Financiera",263199,400000,50000
+"1209","Ranco","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",493994,405486,257033
+"1210","Ranco","Mujer","Administración Pública y Defensa",453047,694600,375146
+"1211","Ranco","Mujer","Enseñanza",472729,334139,349029
+"1212","Ranco","Mujer","Servicios Sociales y de Salud",374051,382274,386458
+"1213","Ranco","Mujer","Otras Actividades de Servicios",201153,145281,537368
+"1214","Ranco","Mujer","Servicio Doméstico",141713,173008,161513
+"1215","San Antonio","Hombre","Agricultura, Ganadería, Caza y Silvicultura",314321,275943,370735
+"1216","San Antonio","Hombre","Pesca",230462,126249,207482
+"1217","San Antonio","Hombre","Explotación de Minas y Canteras",231736,483473,501043
+"1218","San Antonio","Hombre","Industrias Manufactureras",242043,257446,355286
+"1219","San Antonio","Hombre","Electricidad, Gas y Agua",142220,301429,396028
+"1220","San Antonio","Hombre","Construcción",345225,313496,325716
+"1221","San Antonio","Hombre","Comercio",357833,402853,347279
+"1222","San Antonio","Hombre","Hoteles y Restaurantes",248190,198812,295577
+"1223","San Antonio","Hombre","Transporte, Almacenamiento y Comunicaciones",332259,339355,393986
+"1224","San Antonio","Hombre","Intermediación Financiera",601700,200000,725356
+"1225","San Antonio","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",268562,675534,557317
+"1226","San Antonio","Hombre","Administración Pública y Defensa",599721,508688,450061
+"1227","San Antonio","Hombre","Enseñanza",414935,746709,676970
+"1228","San Antonio","Hombre","Servicios Sociales y de Salud",820338,379284,604846
+"1229","San Antonio","Hombre","Otras Actividades de Servicios",337694,362521,325192
+"1230","San Antonio","Hombre","Servicio Doméstico",245675,238547,240535
+"1231","San Antonio","Mujer","Agricultura, Ganadería, Caza y Silvicultura",170611,172454,305636
+"1232","San Antonio","Mujer","Industrias Manufactureras",298513,222355,266522
+"1233","San Antonio","Mujer","Construcción",287560,458437,231281
+"1234","San Antonio","Mujer","Comercio",199590,235908,248031
+"1235","San Antonio","Mujer","Hoteles y Restaurantes",284445,198678,197219
+"1236","San Antonio","Mujer","Transporte, Almacenamiento y Comunicaciones",266082,329407,410778
+"1237","San Antonio","Mujer","Intermediación Financiera",350080,848060,298512
+"1238","San Antonio","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",234381,222007,470099
+"1239","San Antonio","Mujer","Administración Pública y Defensa",292519,483639,468510
+"1240","San Antonio","Mujer","Enseñanza",375495,289287,371393
+"1241","San Antonio","Mujer","Servicios Sociales y de Salud",263594,383661,375957
+"1242","San Antonio","Mujer","Otras Actividades de Servicios",203715,182351,207123
+"1243","San Antonio","Mujer","Servicio Doméstico",132239,140063,146722
+"1244","San Felipe","Hombre","Agricultura, Ganadería, Caza y Silvicultura",283549,233899,292940
+"1245","San Felipe","Hombre","Explotación de Minas y Canteras",659705,629716,674121
+"1246","San Felipe","Hombre","Industrias Manufactureras",433462,298086,347850
+"1247","San Felipe","Hombre","Electricidad, Gas y Agua",354432,210000,445913
+"1248","San Felipe","Hombre","Construcción",293613,287005,316128
+"1249","San Felipe","Hombre","Comercio",286567,259021,336793
+"1250","San Felipe","Hombre","Hoteles y Restaurantes",366766,234834,281396
+"1251","San Felipe","Hombre","Transporte, Almacenamiento y Comunicaciones",321084,455898,438292
+"1252","San Felipe","Hombre","Intermediación Financiera",382796,NA,549471
+"1253","San Felipe","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",1200571,1426459,592541
+"1254","San Felipe","Hombre","Administración Pública y Defensa",319319,428416,317446
+"1255","San Felipe","Hombre","Enseñanza",429568,479686,575794
+"1256","San Felipe","Hombre","Servicios Sociales y de Salud",241773,317870,542324
+"1257","San Felipe","Hombre","Otras Actividades de Servicios",248682,345027,353926
+"1258","San Felipe","Hombre","Servicio Doméstico",419525,182574,184504
+"1259","San Felipe","Mujer","Agricultura, Ganadería, Caza y Silvicultura",188615,211714,274537
+"1260","San Felipe","Mujer","Explotación de Minas y Canteras",270488,267261,396459
+"1261","San Felipe","Mujer","Industrias Manufactureras",199469,170688,184400
+"1262","San Felipe","Mujer","Electricidad, Gas y Agua",35008,230791,287563
+"1263","San Felipe","Mujer","Construcción",494031,180000,377421
+"1264","San Felipe","Mujer","Comercio",213235,175202,271644
+"1265","San Felipe","Mujer","Hoteles y Restaurantes",199971,200364,229384
+"1266","San Felipe","Mujer","Transporte, Almacenamiento y Comunicaciones",232985,346918,238229
+"1267","San Felipe","Mujer","Intermediación Financiera",625755,210000,460914
+"1268","San Felipe","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",202084,227968,417442
+"1269","San Felipe","Mujer","Administración Pública y Defensa",512249,334667,334664
+"1270","San Felipe","Mujer","Enseñanza",386799,342894,375053
+"1271","San Felipe","Mujer","Servicios Sociales y de Salud",274351,301624,417025
+"1272","San Felipe","Mujer","Otras Actividades de Servicios",361577,172719,330850
+"1273","San Felipe","Mujer","Servicio Doméstico",148623,159778,150647
+"1274","Santiago","Hombre","Agricultura, Ganadería, Caza y Silvicultura",921264,529260,546140
+"1275","Santiago","Hombre","Pesca",1258100,NA,825264
+"1276","Santiago","Hombre","Explotación de Minas y Canteras",1287201,1133707,1713232
+"1277","Santiago","Hombre","Industrias Manufactureras",499392,484311,499243
+"1278","Santiago","Hombre","Electricidad, Gas y Agua",1101372,769973,1173198
+"1279","Santiago","Hombre","Construcción",480142,523185,543114
+"1280","Santiago","Hombre","Comercio",567447,440514,502031
+"1281","Santiago","Hombre","Hoteles y Restaurantes",405045,368283,386314
+"1282","Santiago","Hombre","Transporte, Almacenamiento y Comunicaciones",522078,524099,586595
+"1283","Santiago","Hombre","Intermediación Financiera",1276340,1243808,1255743
+"1284","Santiago","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",1033240,1140901,1042198
+"1285","Santiago","Hombre","Administración Pública y Defensa",812122,761154,883587
+"1286","Santiago","Hombre","Enseñanza",708048,735594,838152
+"1287","Santiago","Hombre","Servicios Sociales y de Salud",1092167,915093,1271580
+"1288","Santiago","Hombre","Otras Actividades de Servicios",624794,511231,523501
+"1289","Santiago","Hombre","Servicio Doméstico",369359,257813,310745
+"1290","Santiago","Hombre","Organizaciones y Órganos Extraterritoriales",1396827,344258,3234869
+"1291","Santiago","Hombre","No Bien Especificado",304856,652040,270364
+"1292","Santiago","Mujer","Agricultura, Ganadería, Caza y Silvicultura",1051272,1131745,463260
+"1293","Santiago","Mujer","Pesca",492300,150000,416839
+"1294","Santiago","Mujer","Explotación de Minas y Canteras",1582072,1169391,1338175
+"1295","Santiago","Mujer","Industrias Manufactureras",442806,319368,379513
+"1296","Santiago","Mujer","Electricidad, Gas y Agua",659899,872409,692012
+"1297","Santiago","Mujer","Construcción",735130,527918,490774
+"1298","Santiago","Mujer","Comercio",331140,280381,315933
+"1299","Santiago","Mujer","Hoteles y Restaurantes",256374,282547,295275
+"1300","Santiago","Mujer","Transporte, Almacenamiento y Comunicaciones",462865,486678,549107
+"1301","Santiago","Mujer","Intermediación Financiera",652078,851136,787311
+"1302","Santiago","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",778850,658924,662968
+"1303","Santiago","Mujer","Administración Pública y Defensa",590739,683589,713591
+"1304","Santiago","Mujer","Enseñanza",476296,554454,543003
+"1305","Santiago","Mujer","Servicios Sociales y de Salud",660808,567560,625063
+"1306","Santiago","Mujer","Otras Actividades de Servicios",467952,413615,391891
+"1307","Santiago","Mujer","Servicio Doméstico",210913,207727,259410
+"1308","Santiago","Mujer","Organizaciones y Órganos Extraterritoriales",331802,1046235,1124614
+"1309","Santiago","Mujer","No Bien Especificado",281616,474442,319758
+"1310","Talagante","Hombre","Agricultura, Ganadería, Caza y Silvicultura",239781,249580,464272
+"1311","Talagante","Hombre","Explotación de Minas y Canteras",1217090,269888,1528715
+"1312","Talagante","Hombre","Industrias Manufactureras",355942,438651,401789
+"1313","Talagante","Hombre","Electricidad, Gas y Agua",1102953,232236,759025
+"1314","Talagante","Hombre","Construcción",396479,379716,393304
+"1315","Talagante","Hombre","Comercio",452720,362395,439331
+"1316","Talagante","Hombre","Hoteles y Restaurantes",469421,343613,387210
+"1317","Talagante","Hombre","Transporte, Almacenamiento y Comunicaciones",547548,361929,400253
+"1318","Talagante","Hombre","Intermediación Financiera",1033560,592856,1156788
+"1319","Talagante","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",719671,1310141,1129575
+"1320","Talagante","Hombre","Administración Pública y Defensa",762724,654171,506807
+"1321","Talagante","Hombre","Enseñanza",668432,584087,521551
+"1322","Talagante","Hombre","Servicios Sociales y de Salud",1440600,279715,835199
+"1323","Talagante","Hombre","Otras Actividades de Servicios",792249,279336,319878
+"1324","Talagante","Hombre","Servicio Doméstico",217749,343426,299612
+"1325","Talagante","Mujer","Agricultura, Ganadería, Caza y Silvicultura",177440,197651,208860
+"1326","Talagante","Mujer","Explotación de Minas y Canteras",185980,NA,NA
+"1327","Talagante","Mujer","Industrias Manufactureras",311622,306140,247700
+"1328","Talagante","Mujer","Construcción",240680,589841,604306
+"1329","Talagante","Mujer","Comercio",297853,193416,248058
+"1330","Talagante","Mujer","Hoteles y Restaurantes",373455,219439,264910
+"1331","Talagante","Mujer","Transporte, Almacenamiento y Comunicaciones",459807,272003,381802
+"1332","Talagante","Mujer","Intermediación Financiera",478016,776605,1463636
+"1333","Talagante","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",411199,678227,632706
+"1334","Talagante","Mujer","Administración Pública y Defensa",236622,542421,601872
+"1335","Talagante","Mujer","Enseñanza",378351,345061,373959
+"1336","Talagante","Mujer","Servicios Sociales y de Salud",482935,430580,360393
+"1337","Talagante","Mujer","Otras Actividades de Servicios",626580,248507,319637
+"1338","Talagante","Mujer","Servicio Doméstico",299366,162063,185192
+"1339","Talca","Hombre","Agricultura, Ganadería, Caza y Silvicultura",259509,238639,304336
+"1340","Talca","Hombre","Pesca",142751,220078,238777
+"1341","Talca","Hombre","Explotación de Minas y Canteras",496703,581877,615690
+"1342","Talca","Hombre","Industrias Manufactureras",362516,300187,416765
+"1343","Talca","Hombre","Electricidad, Gas y Agua",613854,712599,515997
+"1344","Talca","Hombre","Construcción",321222,325113,452959
+"1345","Talca","Hombre","Comercio",394740,272299,342649
+"1346","Talca","Hombre","Hoteles y Restaurantes",362144,405354,379844
+"1347","Talca","Hombre","Transporte, Almacenamiento y Comunicaciones",411217,404196,443876
+"1348","Talca","Hombre","Intermediación Financiera",620952,1790072,693818
+"1349","Talca","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",582345,623229,921858
+"1350","Talca","Hombre","Administración Pública y Defensa",550107,693929,599172
+"1351","Talca","Hombre","Enseñanza",463792,539777,835271
+"1352","Talca","Hombre","Servicios Sociales y de Salud",555678,651696,944607
+"1353","Talca","Hombre","Otras Actividades de Servicios",246189,336293,306055
+"1354","Talca","Hombre","Servicio Doméstico",256830,140598,261745
+"1355","Talca","Mujer","Agricultura, Ganadería, Caza y Silvicultura",160154,199055,217673
+"1356","Talca","Mujer","Pesca",32820,NA,NA
+"1357","Talca","Mujer","Industrias Manufactureras",184161,250610,298310
+"1358","Talca","Mujer","Electricidad, Gas y Agua",218800,181788,385811
+"1359","Talca","Mujer","Construcción",305675,379360,855103
+"1360","Talca","Mujer","Comercio",232453,190475,223820
+"1361","Talca","Mujer","Hoteles y Restaurantes",232380,239354,228901
+"1362","Talca","Mujer","Transporte, Almacenamiento y Comunicaciones",466908,247405,307083
+"1363","Talca","Mujer","Intermediación Financiera",577626,245208,615588
+"1364","Talca","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",392316,806666,928948
+"1365","Talca","Mujer","Administración Pública y Defensa",475204,511246,514034
+"1366","Talca","Mujer","Enseñanza",384224,406415,482814
+"1367","Talca","Mujer","Servicios Sociales y de Salud",428139,504582,398339
+"1368","Talca","Mujer","Otras Actividades de Servicios",302006,187491,256259
+"1369","Talca","Mujer","Servicio Doméstico",130657,130148,153445
+"1370","Tamarugal","Hombre","Agricultura, Ganadería, Caza y Silvicultura",255842,159613,207014
+"1371","Tamarugal","Hombre","Explotación de Minas y Canteras",509857,534993,528163
+"1372","Tamarugal","Hombre","Industrias Manufactureras",689739,215634,390440
+"1373","Tamarugal","Hombre","Construcción",339549,301596,354111
+"1374","Tamarugal","Hombre","Comercio",357534,302615,303019
+"1375","Tamarugal","Hombre","Hoteles y Restaurantes",164320,270288,355667
+"1376","Tamarugal","Hombre","Transporte, Almacenamiento y Comunicaciones",411440,377506,395568
+"1377","Tamarugal","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",531780,378403,467661
+"1378","Tamarugal","Hombre","Administración Pública y Defensa",392184,389582,594253
+"1379","Tamarugal","Hombre","Enseñanza",235210,249151,728803
+"1380","Tamarugal","Hombre","Servicios Sociales y de Salud",199108,NA,500000
+"1381","Tamarugal","Hombre","Otras Actividades de Servicios",504697,105517,381714
+"1382","Tamarugal","Hombre","Servicio Doméstico",183792,274194,268788
+"1383","Tamarugal","Mujer","Agricultura, Ganadería, Caza y Silvicultura",162028,158500,130676
+"1384","Tamarugal","Mujer","Explotación de Minas y Canteras",258613,376614,460750
+"1385","Tamarugal","Mujer","Industrias Manufactureras",153421,172195,164870
+"1386","Tamarugal","Mujer","Construcción",166625,300000,673077
+"1387","Tamarugal","Mujer","Comercio",240632,191599,212801
+"1388","Tamarugal","Mujer","Hoteles y Restaurantes",275131,245763,259849
+"1389","Tamarugal","Mujer","Transporte, Almacenamiento y Comunicaciones",197273,137463,367895
+"1390","Tamarugal","Mujer","Intermediación Financiera",218800,NA,225333
+"1391","Tamarugal","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",113322,419310,332039
+"1392","Tamarugal","Mujer","Administración Pública y Defensa",316452,422661,350900
+"1393","Tamarugal","Mujer","Enseñanza",328765,388583,364777
+"1394","Tamarugal","Mujer","Servicios Sociales y de Salud",440231,313438,363315
+"1395","Tamarugal","Mujer","Otras Actividades de Servicios",226973,279629,308735
+"1396","Tamarugal","Mujer","Servicio Doméstico",111881,102500,162316
+"1397","Tierra del Fuego","Hombre","Agricultura, Ganadería, Caza y Silvicultura",3273464,341772,397322
+"1398","Tierra del Fuego","Hombre","Pesca",368952,361163,418766
+"1399","Tierra del Fuego","Hombre","Explotación de Minas y Canteras",469914,459827,292118
+"1400","Tierra del Fuego","Hombre","Industrias Manufactureras",419256,346314,427672
+"1401","Tierra del Fuego","Hombre","Construcción",621222,302675,433580
+"1402","Tierra del Fuego","Hombre","Comercio",477248,287624,355547
+"1403","Tierra del Fuego","Hombre","Hoteles y Restaurantes",8216000,NA,754651
+"1404","Tierra del Fuego","Hombre","Transporte, Almacenamiento y Comunicaciones",522363,764005,425515
+"1405","Tierra del Fuego","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",849212,374883,287255
+"1406","Tierra del Fuego","Hombre","Administración Pública y Defensa",613384,658880,834818
+"1407","Tierra del Fuego","Hombre","Enseñanza",517696,961727,495745
+"1408","Tierra del Fuego","Hombre","Otras Actividades de Servicios",266737,1000000,379787
+"1409","Tierra del Fuego","Mujer","Pesca",274213,250000,337712
+"1410","Tierra del Fuego","Mujer","Industrias Manufactureras",319080,274000,292173
+"1411","Tierra del Fuego","Mujer","Comercio",381934,346604,307684
+"1412","Tierra del Fuego","Mujer","Hoteles y Restaurantes",179018,326944,407101
+"1413","Tierra del Fuego","Mujer","Transporte, Almacenamiento y Comunicaciones",322565,NA,511940
+"1414","Tierra del Fuego","Mujer","Intermediación Financiera",743920,NA,614848
+"1415","Tierra del Fuego","Mujer","Administración Pública y Defensa",804277,507604,977420
+"1416","Tierra del Fuego","Mujer","Enseñanza",554874,267712,449040
+"1417","Tierra del Fuego","Mujer","Servicios Sociales y de Salud",476747,815410,455945
+"1418","Tierra del Fuego","Mujer","Servicio Doméstico",155348,76071,203467
+"1419","Tocopilla","Hombre","Agricultura, Ganadería, Caza y Silvicultura",328200,NA,NA
+"1420","Tocopilla","Hombre","Pesca",438740,168119,223787
+"1421","Tocopilla","Hombre","Explotación de Minas y Canteras",496430,509346,581873
+"1422","Tocopilla","Hombre","Industrias Manufactureras",394597,395348,739444
+"1423","Tocopilla","Hombre","Electricidad, Gas y Agua",591018,537361,857150
+"1424","Tocopilla","Hombre","Construcción",417302,436543,363083
+"1425","Tocopilla","Hombre","Comercio",408782,351798,530202
+"1426","Tocopilla","Hombre","Hoteles y Restaurantes",274902,248611,436387
+"1427","Tocopilla","Hombre","Transporte, Almacenamiento y Comunicaciones",538719,429826,493482
+"1428","Tocopilla","Hombre","Intermediación Financiera",218800,465091,1073333
+"1429","Tocopilla","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",472405,972135,451376
+"1430","Tocopilla","Hombre","Administración Pública y Defensa",703575,973170,660307
+"1431","Tocopilla","Hombre","Enseñanza",923801,716107,551401
+"1432","Tocopilla","Hombre","Servicios Sociales y de Salud",451631,164835,453229
+"1433","Tocopilla","Hombre","Otras Actividades de Servicios",164320,300000,333602
+"1434","Tocopilla","Mujer","Pesca",321854,180556,192360
+"1435","Tocopilla","Mujer","Explotación de Minas y Canteras",430989,1220776,372240
+"1436","Tocopilla","Mujer","Industrias Manufactureras",368689,270000,588718
+"1437","Tocopilla","Mujer","Electricidad, Gas y Agua",218800,360000,NA
+"1438","Tocopilla","Mujer","Construcción",437600,221346,754453
+"1439","Tocopilla","Mujer","Comercio",463690,164127,255246
+"1440","Tocopilla","Mujer","Hoteles y Restaurantes",253035,251120,227681
+"1441","Tocopilla","Mujer","Transporte, Almacenamiento y Comunicaciones",236304,NA,281435
+"1442","Tocopilla","Mujer","Intermediación Financiera",191450,500000,544643
+"1443","Tocopilla","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",428498,194118,433825
+"1444","Tocopilla","Mujer","Administración Pública y Defensa",291172,444421,598256
+"1445","Tocopilla","Mujer","Enseñanza",609449,462000,475591
+"1446","Tocopilla","Mujer","Servicios Sociales y de Salud",332612,385128,427254
+"1447","Tocopilla","Mujer","Otras Actividades de Servicios",339420,288327,445748
+"1448","Tocopilla","Mujer","Servicio Doméstico",226957,94493,239951
+"1449","Última Esperanza","Hombre","Agricultura, Ganadería, Caza y Silvicultura",244641,347350,547090
+"1450","Última Esperanza","Hombre","Pesca",298784,369136,451549
+"1451","Última Esperanza","Hombre","Explotación de Minas y Canteras",545713,296244,575000
+"1452","Última Esperanza","Hombre","Industrias Manufactureras",1463370,307138,407554
+"1453","Última Esperanza","Hombre","Construcción",388821,544101,405301
+"1454","Última Esperanza","Hombre","Comercio",441301,247532,345919
+"1455","Última Esperanza","Hombre","Hoteles y Restaurantes",461853,1352233,486181
+"1456","Última Esperanza","Hombre","Transporte, Almacenamiento y Comunicaciones",714451,236216,498039
+"1457","Última Esperanza","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",410800,264615,685086
+"1458","Última Esperanza","Hombre","Administración Pública y Defensa",546700,583795,679295
+"1459","Última Esperanza","Hombre","Enseñanza",619633,1589827,831980
+"1460","Última Esperanza","Hombre","Servicios Sociales y de Salud",313205,322308,376810
+"1461","Última Esperanza","Hombre","Otras Actividades de Servicios",247465,383486,412376
+"1462","Última Esperanza","Hombre","Servicio Doméstico",204340,NA,NA
+"1463","Última Esperanza","Mujer","Agricultura, Ganadería, Caza y Silvicultura",153562,NA,1221379
+"1464","Última Esperanza","Mujer","Pesca",60170,NA,275450
+"1465","Última Esperanza","Mujer","Industrias Manufactureras",216339,266000,270251
+"1466","Última Esperanza","Mujer","Comercio",233805,219028,326984
+"1467","Última Esperanza","Mujer","Hoteles y Restaurantes",348504,274082,292050
+"1468","Última Esperanza","Mujer","Transporte, Almacenamiento y Comunicaciones",250428,208261,434517
+"1469","Última Esperanza","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",1165158,274956,294919
+"1470","Última Esperanza","Mujer","Administración Pública y Defensa",549738,377323,481207
+"1471","Última Esperanza","Mujer","Enseñanza",320624,318788,585607
+"1472","Última Esperanza","Mujer","Servicios Sociales y de Salud",181413,1198716,386269
+"1473","Última Esperanza","Mujer","Otras Actividades de Servicios",639933,365349,339921
+"1474","Última Esperanza","Mujer","Servicio Doméstico",146070,161931,148991
+"1475","Valdivia","Hombre","Agricultura, Ganadería, Caza y Silvicultura",303209,217997,292798
+"1476","Valdivia","Hombre","Pesca",292398,175370,325177
+"1477","Valdivia","Hombre","Explotación de Minas y Canteras",385142,375420,485463
+"1478","Valdivia","Hombre","Industrias Manufactureras",352183,281349,453497
+"1479","Valdivia","Hombre","Electricidad, Gas y Agua",497307,924327,353299
+"1480","Valdivia","Hombre","Construcción",313943,310033,334407
+"1481","Valdivia","Hombre","Comercio",349492,275130,306858
+"1482","Valdivia","Hombre","Hoteles y Restaurantes",401394,323343,314031
+"1483","Valdivia","Hombre","Transporte, Almacenamiento y Comunicaciones",427993,342266,352179
+"1484","Valdivia","Hombre","Intermediación Financiera",639343,539328,610225
+"1485","Valdivia","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",557009,535140,717196
+"1486","Valdivia","Hombre","Administración Pública y Defensa",504440,740772,622327
+"1487","Valdivia","Hombre","Enseñanza",634400,540297,501754
+"1488","Valdivia","Hombre","Servicios Sociales y de Salud",713285,563947,578626
+"1489","Valdivia","Hombre","Otras Actividades de Servicios",386261,318506,648993
+"1490","Valdivia","Hombre","Servicio Doméstico",202582,197658,139540
+"1491","Valdivia","Hombre","Organizaciones y Órganos Extraterritoriales",259681,380000,NA
+"1492","Valdivia","Mujer","Agricultura, Ganadería, Caza y Silvicultura",233178,180861,286024
+"1493","Valdivia","Mujer","Pesca",204148,180829,492157
+"1494","Valdivia","Mujer","Explotación de Minas y Canteras",175040,20000,NA
+"1495","Valdivia","Mujer","Industrias Manufactureras",304970,185769,195385
+"1496","Valdivia","Mujer","Electricidad, Gas y Agua",254050,232927,413692
+"1497","Valdivia","Mujer","Construcción",395512,277742,557529
+"1498","Valdivia","Mujer","Comercio",237457,195531,232430
+"1499","Valdivia","Mujer","Hoteles y Restaurantes",282740,201515,180869
+"1500","Valdivia","Mujer","Transporte, Almacenamiento y Comunicaciones",399491,268230,386443
+"1501","Valdivia","Mujer","Intermediación Financiera",411090,447803,727988
+"1502","Valdivia","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",455388,401600,603302
+"1503","Valdivia","Mujer","Administración Pública y Defensa",504319,495967,614220
+"1504","Valdivia","Mujer","Enseñanza",500676,411968,470206
+"1505","Valdivia","Mujer","Servicios Sociales y de Salud",479909,442305,473088
+"1506","Valdivia","Mujer","Otras Actividades de Servicios",433194,227273,215332
+"1507","Valdivia","Mujer","Servicio Doméstico",141475,136120,154737
+"1508","Valparaíso","Hombre","Agricultura, Ganadería, Caza y Silvicultura",210847,763887,783943
+"1509","Valparaíso","Hombre","Pesca",359911,203522,473597
+"1510","Valparaíso","Hombre","Explotación de Minas y Canteras",903236,946474,956493
+"1511","Valparaíso","Hombre","Industrias Manufactureras",412719,591904,507214
+"1512","Valparaíso","Hombre","Electricidad, Gas y Agua",361699,745314,1336298
+"1513","Valparaíso","Hombre","Construcción",384711,354450,423682
+"1514","Valparaíso","Hombre","Comercio",359603,282910,377510
+"1515","Valparaíso","Hombre","Hoteles y Restaurantes",357706,279119,318720
+"1516","Valparaíso","Hombre","Transporte, Almacenamiento y Comunicaciones",523160,633828,516636
+"1517","Valparaíso","Hombre","Intermediación Financiera",1148653,1211577,1069603
+"1518","Valparaíso","Hombre","Actividades Inmobiliarias, Empresariales y de Alquiler",682424,808465,592864
+"1519","Valparaíso","Hombre","Administración Pública y Defensa",477852,545662,815379
+"1520","Valparaíso","Hombre","Enseñanza",413134,604426,642290
+"1521","Valparaíso","Hombre","Servicios Sociales y de Salud",885079,711552,930665
+"1522","Valparaíso","Hombre","Otras Actividades de Servicios",471909,339145,338959
+"1523","Valparaíso","Hombre","Servicio Doméstico",260968,223463,265914
+"1524","Valparaíso","Mujer","Agricultura, Ganadería, Caza y Silvicultura",291651,281240,247806
+"1525","Valparaíso","Mujer","Pesca",196920,265580,NA
+"1526","Valparaíso","Mujer","Explotación de Minas y Canteras",1094000,1331946,1758320
+"1527","Valparaíso","Mujer","Industrias Manufactureras",316322,190210,257798
+"1528","Valparaíso","Mujer","Construcción",923985,251228,467619
+"1529","Valparaíso","Mujer","Comercio",278116,216857,259394
+"1530","Valparaíso","Mujer","Hoteles y Restaurantes",351294,215731,251326
+"1531","Valparaíso","Mujer","Transporte, Almacenamiento y Comunicaciones",407249,360357,380065
+"1532","Valparaíso","Mujer","Intermediación Financiera",1659478,761887,916247
+"1533","Valparaíso","Mujer","Actividades Inmobiliarias, Empresariales y de Alquiler",401241,395564,540305
+"1534","Valparaíso","Mujer","Administración Pública y Defensa",495192,565881,602361
+"1535","Valparaíso","Mujer","Enseñanza",442344,427693,493867
+"1536","Valparaíso","Mujer","Servicios Sociales y de Salud",374439,511374,497691
+"1537","Valparaíso","Mujer","Otras Actividades de Servicios",433417,231976,284578
+"1538","Valparaíso","Mujer","Servicio Doméstico",141966,158077,183194
+"1539","Valparaíso","Mujer","Organizaciones y Órganos Extraterritoriales",765800,NA,NA
