@@ -1,0 +1,1 @@
+provincias_codes <- as.vector(unique(household_income_2015$provincia))

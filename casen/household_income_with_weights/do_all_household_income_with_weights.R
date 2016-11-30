@@ -1,0 +1,11 @@
+source("household_income_with_weights/functions/load_functions.R")
+
+#source("household_income_with_weights/process_household_income_with_weights/process_household_income_with_weights.R")
+source("household_income_with_weights/processed_household_income_with_weights/load_processed_household_income_with_weights.R")
+
+source("household_income_with_weights/household_income_with_weights_tables/household_income_with_weights_tables_country.R")
+source("household_income_with_weights/household_income_with_weights_tables/household_income_with_weights_tables_region.R")
+source("household_income_with_weights/household_income_with_weights_tables/household_income_with_weights_tables_provincia.R")
+source("household_income_with_weights/household_income_with_weights_tables/household_income_with_weights_tables_comuna.R")
+
+source("household_income_with_weights/functions/join_all.R")
