@@ -93,9 +93,3 @@ nesi_individuals_with_grants_2010$REGION <- revalue(nesi_individuals_with_grants
                                                                                                 "Regi\u00f3n de los Lagos" = "Los Lagos",
                                                                                                 "Regi\u00f3n de Magallanes y Antártica Chilena" = "Magallanes",
                                                                                                 "Regi\u00f3n de los R\u00edos" = "Los R\u00edos"))
-
-
-
-
-
-

@@ -3,7 +3,7 @@
 ###########################
 
 # 1: define the libraries to use
-libraries <- c("foreign","httr", "data.table", "stringr", "plyr", "survey")
+libraries <- c("foreign","httr", "ggplot2", "data.table", "plyr", "tidyr", "SciencesPo", "matrixStats", "simpleboot")
 
 # 2: this is the function to download and or load libraries on the fly
 download_and_or_load <- function(pkg){
