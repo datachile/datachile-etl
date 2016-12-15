@@ -1,6 +1,13 @@
 # Paste the relevant columns
-nesi_individuals_with_grants_2010 <- nesi_individuals_with_grants_2010[,c("ING_T_P", "FACT_PER", "OCUP_REF", "SEXO", "REGION", "CISE")]
+nesi_individuals_with_grants_2010 <- nesi_individuals_with_grants_2010[,c("ING_T_P", "FACT_PER", "OCUP_REF", "SEXO", "R_P_C", "CISE")]
 nesi_individuals_with_grants_2010$YEAR <- 2010
+
+# Keep only the people that reported their wage
+nesi_individuals_with_grants_2010$ING_T_P <- as.numeric(as.character(nesi_individuals_with_grants_2010$ING_T_P))
+nesi_individuals_with_grants_2010 <- subset(nesi_individuals_with_grants_2010, nesi_individuals_with_grants_2010$ING_T_P > 0)
+
+nesi_individuals_with_grants_2010$FACT_PER <- as.numeric(as.character(nesi_individuals_with_grants_2010$FACT_PER))
+nesi_individuals_with_grants_2010$YEAR <- as.numeric(as.character(nesi_individuals_with_grants_2010$YEAR))
 
 # Trim leading/ending whitespace + Fix characters/uppercase
 nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
@@ -34,9 +41,31 @@ nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_
 nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub(" Los ", " los ", x)))
 nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub(" Y ", " y ", x)))
 
-# Keep only the people that reported their wage
-nesi_individuals_with_grants_2010$ING_T_P <- as.numeric(as.character(nesi_individuals_with_grants_2010$ING_T_P))
-nesi_individuals_with_grants_2010 <- subset(nesi_individuals_with_grants_2010, nesi_individuals_with_grants_2010$ING_T_P > 0)
+# Fix comuna
+#unique(subset(nesi_individuals_with_grants_2010$comuna_name, !(nesi_individuals_with_grants_2010$comuna_name %in% regiones_casen_2015$comuna_name)))
+#unique(subset(nesi_individuals_with_grants_2010$R_P_C, !(nesi_individuals_with_grants_2010$R_P_C %in% region_codes_datachile$comuna_name)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("Los Alamos", "Los \u00c1lamos", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("Los Angeles", "Los \u00c1ngeles", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("Quilpue", "Quilpu\u00e9", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("TALCAHUANO", "Talcahuano", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("TRAIGUEN", "Traigu\u00e9n", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("VILLARRICA", "Villarrica", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("Coihaique", "Coyhaique", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("Ais\u00e9n", "Ays\u00e9n", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("SAN MIGUEL", "San Miguel", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("LA FLORIDA", "La Florida", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("\u00d1U\u00d1OA", "\u00d1u\u00f1oa", x)))
+nesi_individuals_with_grants_2010 <- as.data.frame(lapply(nesi_individuals_with_grants_2010, function(x) gsub("PAILLACO", "Paillaco", x)))
 
-nesi_individuals_with_grants_2010$FACT_PER <- as.numeric(as.character(nesi_individuals_with_grants_2010$FACT_PER))
-nesi_individuals_with_grants_2010$YEAR <- as.numeric(as.character(nesi_individuals_with_grants_2010$YEAR))
+# Fix colnames
+setnames(nesi_individuals_with_grants_2010, colnames(nesi_individuals_with_grants_2010),
+         c("wage", "weight", "occupational_situation", "sex", "comuna_name", "icse", "year"))
+
+# Move year
+nesi_individuals_with_grants_2010 <- move_col(nesi_individuals_with_grants_2010, c("year" = 1))
+
+# Add region and provincia
+nesi_individuals_with_grants_2010 <- move_col(nesi_individuals_with_grants_2010, c("comuna_name" = ncol(nesi_individuals_with_grants_2010)))
+nesi_individuals_with_grants_2010 <- join(nesi_individuals_with_grants_2010, regiones_casen_2015, by = "comuna_name")
+nesi_individuals_with_grants_2010 <- join(nesi_individuals_with_grants_2010, region_codes_datachile[,c("comuna_name","comuna_datachile_id","region_id")], by = "comuna_name")
+nesi_individuals_with_grants_2010 <- join(nesi_individuals_with_grants_2010, provincia_codes_pacha[,c("provincia_name","provincia_pacha_id")], by = "provincia_name")

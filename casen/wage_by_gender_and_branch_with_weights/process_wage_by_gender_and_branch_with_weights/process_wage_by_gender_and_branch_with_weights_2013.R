@@ -6,6 +6,10 @@
 wage_by_gender_and_branch_with_weights_2013 <- as.data.frame(cbind(as.character(casen_2013$comu), as.character(casen_2013$yoprcor), as.character(casen_2013$sexo), as.character(casen_2013$rama1), as.character(casen_2013$expr), as.character(casen_2013$expc)))
 setnames(wage_by_gender_and_branch_with_weights_2013, colnames(wage_by_gender_and_branch_with_weights_2013), c("comuna","individual_income", "sex", "branch", "exp_region", "exp_comuna"))
 
+# Keep only the households that reported their wage
+wage_by_gender_and_branch_with_weights_2013$individual_income <- as.numeric(as.character(wage_by_gender_and_branch_with_weights_2013$individual_income))
+wage_by_gender_and_branch_with_weights_2013 <- subset(wage_by_gender_and_branch_with_weights_2013, wage_by_gender_and_branch_with_weights_2013$individual_income > 0)
+
 # Trim leading/ending whitespace
 #wage_by_gender_and_branch_with_weights_2013 <- as.data.frame(lapply(wage_by_gender_and_branch_with_weights_2013, function(x) iconv(x)))
 wage_by_gender_and_branch_with_weights_2013 <- as.data.frame(lapply(wage_by_gender_and_branch_with_weights_2013, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
@@ -47,10 +51,6 @@ wage_by_gender_and_branch_with_weights_2013 <- as.data.frame(lapply(wage_by_gend
 wage_by_gender_and_branch_with_weights_2013 <- join(wage_by_gender_and_branch_with_weights_2013, regiones_casen_2015, by = "comuna")
 wage_by_gender_and_branch_with_weights_2013 <- wage_by_gender_and_branch_with_weights_2013[,c("region","provincia","comuna","individual_income", "sex", "branch", "exp_region", "exp_comuna")]
 
-# Keep only the households that reported their wage
-wage_by_gender_and_branch_with_weights_2013$individual_income <- as.numeric(as.character(wage_by_gender_and_branch_with_weights_2013$individual_income))
-wage_by_gender_and_branch_with_weights_2013 <- subset(wage_by_gender_and_branch_with_weights_2013, wage_by_gender_and_branch_with_weights_2013$individual_income > 0)
-
 # Fix exp
 wage_by_gender_and_branch_with_weights_2013$exp_comuna <- as.numeric(as.character(wage_by_gender_and_branch_with_weights_2013$exp_comuna))
 wage_by_gender_and_branch_with_weights_2013$exp_region <- as.numeric(as.character(wage_by_gender_and_branch_with_weights_2013$exp_region))
@@ -63,20 +63,20 @@ wage_by_gender_and_branch_with_weights_2013$exp_comuna <- ifelse(is.na(wage_by_g
 
 # Fix branch
 wage_by_gender_and_branch_with_weights_2013$branch <- revalue(wage_by_gender_and_branch_with_weights_2013$branch, c("A. Agricultura, Ganadería, Caza y Silvicultura" = "Agricultura, Ganadería, Caza y Silvicultura",
-                                                                                                                    "B. Pesca" = "Pesca",
-                                                                                                                    "C. Explotaci\u00f3n de Minas y Canteras" = "Explotaci\u00f3n de Minas y Canteras",
-                                                                                                                    "D. Industrias Manufactureras" = "Industrias Manufactureras",
-                                                                                                                    "E. Suministro de Electricidad, Gas y Agua" = "Electricidad, Gas y Agua",
-                                                                                                                    "F.construcci\u00f3n" = "Construcci\u00f3n",
-                                                                                                                    "G. Comercio Al Por Mayor y Al Por Menor" = "Comercio",
-                                                                                                                    "H. Hoteles y Restaurantes" = "Hoteles y Restaurantes",
-                                                                                                                    "I. Transporte, Almacenamiento y Comunicaciones" = "Transporte, Almacenamiento y Comunicaciones",
-                                                                                                                    "J. Intermediaci\u00f3n Financiera" = "Intermediaci\u00f3n Financiera",
-                                                                                                                    "K. Actividades Inmobiliarias, Empresariales y de Alquiler" = "Actividades Inmobiliarias, Empresariales y de Alquiler",
-                                                                                                                    "L.administrasci\u00f3n P\u00fablica y Defensa" = "Administraci\u00f3n P\u00fablica y Defensa",                         
-                                                                                                                    "M. Ense\u00f1anza" = "Ense\u00f1anza",                                                
-                                                                                                                    "N. Servicios Sociales y de Salud" = "Servicios Sociales y de Salud",                          
-                                                                                                                    "O. Otras Actividades de Servicios Comunitarios, Sociales y Personales" = "Otras Actividades de Servicios",
-                                                                                                                    "P. Hogares Privados Con Servicio Doméstico" = "Servicio Doméstico",                
-                                                                                                                    "Q.organizaciones y Organos Extraterritoriales" = "Organizaciones y \u00d3rganos Extraterritoriales",              
-                                                                                                                    "X. No Bien Especificado" = "No Bien Especificado")) 
+    "B. Pesca" = "Pesca",
+    "C. Explotaci\u00f3n de Minas y Canteras" = "Explotaci\u00f3n de Minas y Canteras",
+    "D. Industrias Manufactureras" = "Industrias Manufactureras",
+    "E. Suministro de Electricidad, Gas y Agua" = "Electricidad, Gas y Agua",
+    "F.construcci\u00f3n" = "Construcci\u00f3n",
+    "G. Comercio Al Por Mayor y Al Por Menor" = "Comercio",
+    "H. Hoteles y Restaurantes" = "Hoteles y Restaurantes",
+    "I. Transporte, Almacenamiento y Comunicaciones" = "Transporte, Almacenamiento y Comunicaciones",
+    "J. Intermediaci\u00f3n Financiera" = "Intermediaci\u00f3n Financiera",
+    "K. Actividades Inmobiliarias, Empresariales y de Alquiler" = "Actividades Inmobiliarias, Empresariales y de Alquiler",
+    "L.administrasci\u00f3n P\u00fablica y Defensa" = "Administraci\u00f3n P\u00fablica y Defensa",                         
+    "M. Ense\u00f1anza" = "Ense\u00f1anza",                                                
+    "N. Servicios Sociales y de Salud" = "Servicios Sociales y de Salud",                          
+    "O. Otras Actividades de Servicios Comunitarios, Sociales y Personales" = "Otras Actividades de Servicios",
+    "P. Hogares Privados Con Servicio Doméstico" = "Servicio Doméstico",                
+    "Q.organizaciones y Organos Extraterritoriales" = "Organizaciones y \u00d3rganos Extraterritoriales",              
+    "X. No Bien Especificado" = "No Bien Especificado")) 

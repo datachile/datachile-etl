@@ -6,6 +6,10 @@
 wage_by_gender_with_weights_2003 <- as.data.frame(cbind(as.character(casen_2003$comu), as.character(casen_2003$yopraj), as.character(casen_2003$sexo), as.character(casen_2003$expr), as.character(casen_2003$expc)))
 setnames(wage_by_gender_with_weights_2003, colnames(wage_by_gender_with_weights_2003), c("comuna","individual_income", "sex", "exp_region", "exp_comuna"))
 
+# Keep only the households that reported their wage
+wage_by_gender_with_weights_2003$individual_income <- as.numeric(as.character(wage_by_gender_with_weights_2003$individual_income))
+wage_by_gender_with_weights_2003 <- subset(wage_by_gender_with_weights_2003, wage_by_gender_with_weights_2003$individual_income > 0)
+
 # Trim leading/ending whitespace
 #wage_by_gender_with_weights_2003 <- as.data.frame(lapply(wage_by_gender_with_weights_2003, function(x) iconv(x)))
 wage_by_gender_with_weights_2003 <- as.data.frame(lapply(wage_by_gender_with_weights_2003, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
@@ -51,10 +55,6 @@ wage_by_gender_with_weights_2003 <- as.data.frame(lapply(wage_by_gender_with_wei
 # Add provincia and region
 wage_by_gender_with_weights_2003 <- join(wage_by_gender_with_weights_2003, regiones_casen_2015, by = "comuna")
 wage_by_gender_with_weights_2003 <- wage_by_gender_with_weights_2003[,c("region","provincia","comuna","individual_income", "sex", "exp_region", "exp_comuna")]
-
-# Keep only the households that reported their wage
-wage_by_gender_with_weights_2003$individual_income <- as.numeric(as.character(wage_by_gender_with_weights_2003$individual_income))
-wage_by_gender_with_weights_2003 <- subset(wage_by_gender_with_weights_2003, wage_by_gender_with_weights_2003$individual_income > 0)
 
 # Fix exp
 wage_by_gender_with_weights_2003$exp_comuna <- as.numeric(as.character(wage_by_gender_with_weights_2003$exp_comuna))

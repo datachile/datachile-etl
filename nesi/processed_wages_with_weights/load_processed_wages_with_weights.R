@@ -1,0 +1,6 @@
+load("processed_wages_with_weights/nesi_individuals_with_grants_2010.RData")
+load("processed_wages_with_weights/nesi_individuals_with_grants_2011.RData")
+load("processed_wages_with_weights/nesi_individuals_with_grants_2012.RData")
+load("processed_wages_with_weights/nesi_individuals_with_grants_2013.RData")
+load("processed_wages_with_weights/nesi_individuals_with_grants_2014.RData")
+load("processed_wages_with_weights/nesi_individuals_with_grants_2015.RData")

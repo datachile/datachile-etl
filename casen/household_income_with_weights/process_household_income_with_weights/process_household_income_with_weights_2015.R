@@ -6,6 +6,10 @@
 household_income_with_weights_2015 <- as.data.frame(cbind(as.character(casen_2015$region), as.character(casen_2015$provincia), as.character(casen_2015$comuna), as.character(casen_2015$ymonecorh/casen_2015$numper), as.character(casen_2015$expr), as.character(casen_2015$expc)))
 setnames(household_income_with_weights_2015, colnames(household_income_with_weights_2015), c("region","provincia","comuna","per_capita_income", "exp_region", "exp_comuna"))
 
+# Keep only the people that reported their wage
+household_income_with_weights_2015$per_capita_income <- as.numeric(as.character(household_income_with_weights_2015$per_capita_income))
+household_income_with_weights_2015 <- subset(household_income_with_weights_2015, household_income_with_weights_2015$per_capita_income > 0)
+
 # Trim leading/ending whitespace + Fix characters/uppercase
 #household_income_with_weights_2015 <- as.data.frame(lapply(household_income_with_weights_2015, function(x) iconv(x)))
 household_income_with_weights_2015 <- as.data.frame(lapply(household_income_with_weights_2015, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
@@ -90,10 +94,6 @@ regiones_casen_2015 <- insert_row(regiones_casen_2015, c("O'Higgins","Colchagua"
 
 regiones_casen_2015 <- regiones_casen_2015[!duplicated(regiones_casen_2015[,"comuna"]),]
 regiones_casen_2015 <- regiones_casen_2015[complete.cases(regiones_casen_2015),]
-
-# Keep only the people that reported their wage
-household_income_with_weights_2015$per_capita_income <- as.numeric(as.character(household_income_with_weights_2015$per_capita_income))
-household_income_with_weights_2015 <- subset(household_income_with_weights_2015, household_income_with_weights_2015$per_capita_income > 0)
 
 # Fix exp
 household_income_with_weights_2015$exp_comuna <- as.numeric(as.character(household_income_with_weights_2015$exp_comuna))

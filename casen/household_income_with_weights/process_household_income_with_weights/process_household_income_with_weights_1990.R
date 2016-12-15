@@ -6,6 +6,10 @@
 household_income_with_weights_1990 <- as.data.frame(cbind(as.character(casen_1990$comu), as.character(casen_1990$ymonehaj/casen_1990$numper), as.character(casen_1990$expc), as.character(casen_1990$expr)))
 setnames(household_income_with_weights_1990, colnames(household_income_with_weights_1990), c("comuna","per_capita_income", "exp_region", "exp_comuna"))
 
+# Keep only the households that reported their wage
+household_income_with_weights_1990$per_capita_income <- as.numeric(as.character(household_income_with_weights_1990$per_capita_income))
+household_income_with_weights_1990 <- subset(household_income_with_weights_1990, household_income_with_weights_1990$per_capita_income > 0)
+
 # Trim leading/ending whitespace + Fix uppercase
 #household_income_with_weights_1990 <- as.data.frame(lapply(household_income_with_weights_1990, function(x) iconv(x)))
 household_income_with_weights_1990 <- as.data.frame(lapply(household_income_with_weights_1990, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
@@ -52,10 +56,6 @@ household_income_with_weights_1990 <- as.data.frame(lapply(household_income_with
 # Add provincia and region
 household_income_with_weights_1990 <- join(household_income_with_weights_1990, regiones_casen_2015, by = "comuna")
 household_income_with_weights_1990 <- household_income_with_weights_1990[,c("region","provincia","comuna","per_capita_income", "exp_region", "exp_comuna")]
-
-# Keep only the households that reported their wage
-household_income_with_weights_1990$per_capita_income <- as.numeric(as.character(household_income_with_weights_1990$per_capita_income))
-household_income_with_weights_1990 <- subset(household_income_with_weights_1990, household_income_with_weights_1990$per_capita_income > 0)
 
 # Fix exp
 household_income_with_weights_1990$exp_comuna <- as.numeric(as.character(household_income_with_weights_1990$exp_comuna))
