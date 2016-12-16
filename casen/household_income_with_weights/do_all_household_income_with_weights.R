@@ -11,7 +11,7 @@ source("household_income_with_weights/household_income_with_weights_tables/house
 
 source("household_income_with_weights/functions/join_all.R")
 
-save(regiones_casen_2015, file = "geographic_ids/regiones_casen_2015.RData")
+#save(regiones_casen_2015, file = "geographic_ids/regiones_casen_2015.RData")
 
 #region_codes_datachile <- region_codes_datachile[,-1]
 #provincia_codes_pacha <- provincia_codes_pacha[,-1]

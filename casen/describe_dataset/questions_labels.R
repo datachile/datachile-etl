@@ -21,6 +21,5 @@ casen2015 <- read.spss(sav, to.data.frame = TRUE)
 # save labels
 
 questions_labels <- as.data.frame(attributes(casen2015)$variable.labels)
-questions_labels$variable_name <- rownames(questions_labels)
 write.csv(questions_labels, file = "questions_labels_2015.csv")
 

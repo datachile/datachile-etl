@@ -11,49 +11,48 @@ household_income_with_weights_1994$per_capita_income <- as.numeric(as.character(
 household_income_with_weights_1994 <- subset(household_income_with_weights_1994, household_income_with_weights_1994$per_capita_income > 0)
 
 # Trim leading/ending whitespace + Fix uppercase
-#household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) iconv(x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", x, perl=TRUE)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function (x) gsub("^\\s+|\\s+$", "", x)))
+household_income_with_weights_1994$comuna <- gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", household_income_with_weights_1994$comuna, perl=TRUE)
+household_income_with_weights_1994$comuna <- gsub("^\\s+|\\s+$", "", household_income_with_weights_1994$comuna)
 
 # Fix characters/uppercase
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xe1", "\u00e1", x))) # a with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<e1>", "\u00e1", x))) # a with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<c1>", "\u00c1", x))) # A with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xe9", "\u00e9", x))) # e with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<e9>", "\u00e9", x))) # e with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xed", "\u00ed", x))) # i with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<ed>", "\u00ed", x))) # i with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xf3", "\u00f3", x))) # o with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<f3>", "\u00f3", x))) # o with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xfa", "\u00fa", x))) # u with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<fa>", "\u00fa", x))) # u with acute 
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xda", "\u00da", x))) # U with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<da>", "\u00da", x))) # U with acute
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xf1", "\u00f1", x))) # n with tilde
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<f1>", "\u00f1", x))) # n with tilde
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", x))) # n with tilde 
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xd1", "\u00d1", x))) # N with tilde
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<d1>", "\u00d1", x))) # N with tilde
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xfc\xbe\x8c\x96\x90\xbc", "\u00d1", x))) # N with tilde
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("\xb4", "\u0027", x))) # apostrophe
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("<b4>", "\u0027", x))) # apostrophe
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub(" De ", " de ", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub(" Del ", " del ", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub(" La ", " la ", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub(" Los ", " los ", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub(" Y ", " y ", x)))
+household_income_with_weights_1994$comuna <- gsub("\xe1", "\u00e1", household_income_with_weights_1994$comuna) # a with acute
+household_income_with_weights_1994$comuna <- gsub("<e1>", "\u00e1", household_income_with_weights_1994$comuna) # a with acute
+household_income_with_weights_1994$comuna <- gsub("<c1>", "\u00c1", household_income_with_weights_1994$comuna) # A with acute
+household_income_with_weights_1994$comuna <- gsub("\xe9", "\u00e9", household_income_with_weights_1994$comuna) # e with acute
+household_income_with_weights_1994$comuna <- gsub("<e9>", "\u00e9", household_income_with_weights_1994$comuna) # e with acute
+household_income_with_weights_1994$comuna <- gsub("\xed", "\u00ed", household_income_with_weights_1994$comuna) # i with acute
+household_income_with_weights_1994$comuna <- gsub("<ed>", "\u00ed", household_income_with_weights_1994$comuna) # i with acute
+household_income_with_weights_1994$comuna <- gsub("\xf3", "\u00f3", household_income_with_weights_1994$comuna) # o with acute
+household_income_with_weights_1994$comuna <- gsub("<f3>", "\u00f3", household_income_with_weights_1994$comuna) # o with acute
+household_income_with_weights_1994$comuna <- gsub("\xfa", "\u00fa", household_income_with_weights_1994$comuna) # u with acute
+household_income_with_weights_1994$comuna <- gsub("<fa>", "\u00fa", household_income_with_weights_1994$comuna) # u with acute 
+household_income_with_weights_1994$comuna <- gsub("\xda", "\u00da", household_income_with_weights_1994$comuna) # U with acute
+household_income_with_weights_1994$comuna <- gsub("<da>", "\u00da", household_income_with_weights_1994$comuna) # U with acute
+household_income_with_weights_1994$comuna <- gsub("\xf1", "\u00f1", household_income_with_weights_1994$comuna) # n with tilde
+household_income_with_weights_1994$comuna <- gsub("<f1>", "\u00f1", household_income_with_weights_1994$comuna) # n with tilde
+household_income_with_weights_1994$comuna <- gsub("\xfc\xbe\x8c\x96\x98\xbc", "\u00f1", household_income_with_weights_1994$comuna) # n with tilde 
+household_income_with_weights_1994$comuna <- gsub("\xd1", "\u00d1", household_income_with_weights_1994$comuna) # N with tilde
+household_income_with_weights_1994$comuna <- gsub("<d1>", "\u00d1", household_income_with_weights_1994$comuna) # N with tilde
+household_income_with_weights_1994$comuna <- gsub("\xfc\xbe\x8c\x96\x90\xbc", "\u00d1", household_income_with_weights_1994$comuna) # N with tilde
+household_income_with_weights_1994$comuna <- gsub("\xb4", "\u0027", household_income_with_weights_1994$comuna) # apostrophe
+household_income_with_weights_1994$comuna <- gsub("<b4>", "\u0027", household_income_with_weights_1994$comuna) # apostrophe
+household_income_with_weights_1994$comuna <- gsub(" De ", " de ", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub(" Del ", " del ", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub(" La ", " la ", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub(" Los ", " los ", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub(" Y ", " y ", household_income_with_weights_1994$comuna)
 
 # Fix comuna
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("CorTarapac\u00e1l", "Coronel", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("Los Angeles", "Los \u00c1ngeles", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("Los Lagoso", "Los Lagos", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("MejillTarapac\u00e1s", "Mejillones", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("Teodoro Schimdt", "Teodoro Schmidt", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("Puerto Ais\u00e9n", "Ays\u00e9n", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("ParedTarapac\u00e1s", "Paredones", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("Paihuano", "Paiguano", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("Trehuaco", "Treguaco", x)))
-household_income_with_weights_1994 <- as.data.frame(lapply(household_income_with_weights_1994, function(x) gsub("Los Alamos", "Los \u00c1lamos", x)))
+household_income_with_weights_1994$comuna <- gsub("CorTarapac\u00e1l", "Coronel", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("Los Angeles", "Los \u00c1ngeles", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("Los Lagoso", "Los Lagos", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("MejillTarapac\u00e1s", "Mejillones", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("Teodoro Schimdt", "Teodoro Schmidt", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("Puerto Ais\u00e9n", "Ays\u00e9n", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("ParedTarapac\u00e1s", "Paredones", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("Paihuano", "Paiguano", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("Trehuaco", "Treguaco", household_income_with_weights_1994$comuna)
+household_income_with_weights_1994$comuna <- gsub("Los Alamos", "Los \u00c1lamos", household_income_with_weights_1994$comuna)
 
 # Add provincia and region
 household_income_with_weights_1994 <- join(household_income_with_weights_1994, regiones_casen_2015, by = "comuna")
