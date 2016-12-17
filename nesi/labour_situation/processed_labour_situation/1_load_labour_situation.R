@@ -1,0 +1,6 @@
+load("labour_situation/processed_labour_situation/labour_situation_2010.RData")
+load("labour_situation/processed_labour_situation/labour_situation_2011.RData")
+load("labour_situation/processed_labour_situation/labour_situation_2012.RData")
+load("labour_situation/processed_labour_situation/labour_situation_2013.RData")
+load("labour_situation/processed_labour_situation/labour_situation_2014.RData")
+load("labour_situation/processed_labour_situation/labour_situation_2015.RData")

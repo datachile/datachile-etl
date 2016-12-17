@@ -1,0 +1,6 @@
+source("household_income/1_functions/2_libraries.R")
+source("household_income/1_functions/3_normalization.R")
+source("household_income/1_functions/4_margin_of_error.R")
+source("household_income/1_functions/5_insert_row.R")
+source("household_income/1_functions/6_move_col.R")
+source("household_income/1_functions/7_load_data.R")

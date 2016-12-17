@@ -1,6 +1,0 @@
-source("household_income_with_weights/functions/libraries.R")
-source("household_income_with_weights/functions/normalization.R")
-source("household_income_with_weights/functions/margin_of_error.R")
-source("household_income_with_weights/functions/insert_row.R")
-source("household_income_with_weights/functions/move_col.R")
-source("household_income_with_weights/functions/load_data.R")
