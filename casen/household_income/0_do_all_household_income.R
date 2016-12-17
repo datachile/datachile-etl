@@ -2,6 +2,7 @@ source("household_income/1_functions/1_load_functions.R")
 #source("household_income/1_functions/8_batch_load_data.R") #uncomment to recalculate from 0
 
 #source("household_income/2_process_household_income/1_process_household_income.R") #uncomment to recalculate from 0
+
 source("household_income/3_processed_household_income/1_load_processed_household_income.R") #comment when recalculating from 0
 
 source("household_income/4_household_income_tables/1_household_income_tables_country.R")

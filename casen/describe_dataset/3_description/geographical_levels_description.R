@@ -1,6 +1,6 @@
-source("describe_dataset/functions/load_functions.R")
-source("describe_dataset/functions/normalization.R")
-source("describe_dataset/clean/clean_2015.R")
+source("describe_dataset/1_functions/1_load_functions.R")
+source("describe_dataset/1_functions/6_normalization.R")
+source("describe_dataset/2_clean/1_clean_2015.R")
 
 #########################
 # count invalid replies
@@ -114,5 +114,5 @@ casen_2015_all_count <- rbind(casen_2015_c_count,casen_2015_p_count,casen_2015_r
 # join geographical units
 ##################################
 
-write.csv(casen_2015_all_pcent, file = "describe_dataset/geographical_description_percentages_2015.csv")
-write.csv(casen_2015_all_count, file = "describe_dataset/geographical_description_count_2015.csv")
+write.csv(casen_2015_all_pcent, file = "describe_dataset/4_csv_files/geographical_description_percentages_2015.csv")
+write.csv(casen_2015_all_count, file = "describe_dataset/4_csv_files/geographical_description_count_2015.csv")

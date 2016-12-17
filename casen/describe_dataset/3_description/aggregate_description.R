@@ -1,6 +1,6 @@
-source("describe_dataset/functions/load_functions.R")
-source("describe_dataset/functions/normalization.R")
-source("describe_dataset/clean/clean_2015.R")
+source("describe_dataset/1_functions/1_load_functions.R")
+source("describe_dataset/1_functions/6_normalization.R")
+source("describe_dataset/2_clean/1_clean_2015.R")
 
 #######
 
@@ -50,4 +50,4 @@ casen_2015_desc$available_1990 <- ifelse(variables_2015 %in% variables_1990, 1, 
 
 #######
 
-write.csv(casen_2015_desc, file = "describe_dataset/aggregate_description_2015.csv")
+write.csv(casen_2015_desc, file = "describe_dataset/4_csv_files/aggregate_description_2015.csv")
