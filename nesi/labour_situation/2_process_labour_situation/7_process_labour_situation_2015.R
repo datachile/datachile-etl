@@ -114,6 +114,7 @@ labour_description_2015$isco <- gsub("\xfc\xbe\x8c\x96\x90\xbc", "\u00d1", labou
 labour_description_2015$comuna_name <- gsub("Los Alamos", "Los \u00c1lamos", labour_description_2015$comuna_name)
 labour_description_2015$comuna_name <- gsub("Los Angeles", "Los \u00c1ngeles", labour_description_2015$comuna_name)
 labour_description_2015$comuna_name <- gsub("Traiguen", "Traigu\u00e9n", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("Ais\u00e9n", "Ays\u00e9n", labour_description_2015$comuna_name)
 
 # Add region and provincia
 labour_description_2015 <- move_col(labour_description_2015, c("comuna_name" = ncol(labour_description_2015)))

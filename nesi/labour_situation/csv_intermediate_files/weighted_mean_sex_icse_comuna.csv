@@ -1,27 +1,27 @@
-"","sex","icse","comuna_name","comuna_datachile_id","year","FUN"
-"1","Hombre","Asalariado sector privado","Aisén",NA,2010,354180.788346704
-"2","Hombre","Asalariado sector privado","Aisén",NA,2011,415563.691795007
-"3","Hombre","Asalariado sector privado","Algarrobo",1,2010,350342.53278528
-"4","Hombre","Asalariado sector privado","Algarrobo",1,2011,602899.924184988
-"5","Hombre","Asalariado sector privado","Alhué",2,2011,393336.37646365
-"6","Hombre","Asalariado sector privado","Alto del Carmen",4,2010,224600.807991958
-"7","Hombre","Asalariado sector privado","Alto del Carmen",4,2011,222828.224794397
-"8","Hombre","Asalariado sector privado","Alto Hospicio",5,2010,406513.207422668
-"9","Hombre","Asalariado sector privado","Alto Hospicio",5,2011,407455.897165326
-"10","Hombre","Asalariado sector privado","Ancud",6,2010,430689.89385406
-"11","Hombre","Asalariado sector privado","Ancud",6,2011,242105.172644085
-"12","Hombre","Asalariado sector privado","Andacollo",7,2010,472263.751129031
-"13","Hombre","Asalariado sector privado","Andacollo",7,2011,398369.737936583
-"14","Hombre","Asalariado sector privado","Angol",8,2010,247949.426727111
-"15","Hombre","Asalariado sector privado","Angol",8,2011,386390.408447083
-"16","Hombre","Asalariado sector privado","Antofagasta",9,2010,584590.314443628
-"17","Hombre","Asalariado sector privado","Antofagasta",9,2011,585511.201744299
-"18","Hombre","Asalariado sector privado","Antuco",10,2010,393064.321771698
-"19","Hombre","Asalariado sector privado","Antuco",10,2011,195058.521143943
-"20","Hombre","Asalariado sector privado","Arauco",11,2010,296190.607572739
-"21","Hombre","Asalariado sector privado","Arauco",11,2011,304619.237443267
-"22","Hombre","Asalariado sector privado","Arica",12,2010,336682.031866618
-"23","Hombre","Asalariado sector privado","Arica",12,2011,347607.708577717
+"","sex","icse","geography_name","geography_id","year","weighted_mean"
+"1","Hombre","Asalariado sector privado","Algarrobo",1,2010,350342.53278528
+"2","Hombre","Asalariado sector privado","Algarrobo",1,2011,602899.924184988
+"3","Hombre","Asalariado sector privado","Alhué",2,2011,393336.37646365
+"4","Hombre","Asalariado sector privado","Alto del Carmen",4,2010,224600.807991958
+"5","Hombre","Asalariado sector privado","Alto del Carmen",4,2011,222828.224794397
+"6","Hombre","Asalariado sector privado","Alto Hospicio",5,2010,406513.207422668
+"7","Hombre","Asalariado sector privado","Alto Hospicio",5,2011,407455.897165326
+"8","Hombre","Asalariado sector privado","Ancud",6,2010,430689.89385406
+"9","Hombre","Asalariado sector privado","Ancud",6,2011,242105.172644085
+"10","Hombre","Asalariado sector privado","Andacollo",7,2010,472263.751129031
+"11","Hombre","Asalariado sector privado","Andacollo",7,2011,398369.737936583
+"12","Hombre","Asalariado sector privado","Angol",8,2010,247949.426727111
+"13","Hombre","Asalariado sector privado","Angol",8,2011,386390.408447083
+"14","Hombre","Asalariado sector privado","Antofagasta",9,2010,584590.314443628
+"15","Hombre","Asalariado sector privado","Antofagasta",9,2011,585511.201744299
+"16","Hombre","Asalariado sector privado","Antuco",10,2010,393064.321771698
+"17","Hombre","Asalariado sector privado","Antuco",10,2011,195058.521143943
+"18","Hombre","Asalariado sector privado","Arauco",11,2010,296190.607572739
+"19","Hombre","Asalariado sector privado","Arauco",11,2011,304619.237443267
+"20","Hombre","Asalariado sector privado","Arica",12,2010,336682.031866618
+"21","Hombre","Asalariado sector privado","Arica",12,2011,347607.708577717
+"22","Hombre","Asalariado sector privado","Aysén",13,2010,354180.788346704
+"23","Hombre","Asalariado sector privado","Aysén",13,2011,415563.691795007
 "24","Hombre","Asalariado sector privado","Buin",14,2010,470139.478186254
 "25","Hombre","Asalariado sector privado","Buin",14,2011,443548.436435084
 "26","Hombre","Asalariado sector privado","Bulnes",15,2010,191623.712929148
@@ -571,51 +571,51 @@
 "570","Hombre","Asalariado sector privado","Yumbel",342,2010,578433.952605931
 "571","Hombre","Asalariado sector privado","Yumbel",342,2011,265857.398124646
 "572","Hombre","Asalariado sector privado","Yungay",343,2010,222000
-"573","Hombre","Asalariado Sector Privado","Aisén",NA,2012,456180.083164045
-"574","Hombre","Asalariado Sector Privado","Algarrobo",1,2012,573539.22472048
-"575","Hombre","Asalariado Sector Privado","Algarrobo",1,2013,365494.803434254
-"576","Hombre","Asalariado Sector Privado","Algarrobo",1,2014,367120.207188427
-"577","Hombre","Asalariado Sector Privado","Algarrobo",1,2015,594663.188156468
-"578","Hombre","Asalariado Sector Privado","Alhué",2,2012,566265.533901584
-"579","Hombre","Asalariado Sector Privado","Alhué",2,2013,493811.374346396
-"580","Hombre","Asalariado Sector Privado","Alhué",2,2014,743418.419556564
-"581","Hombre","Asalariado Sector Privado","Alhué",2,2015,702182.844380058
-"582","Hombre","Asalariado Sector Privado","Alto del Carmen",4,2012,201486.498289668
-"583","Hombre","Asalariado Sector Privado","Alto del Carmen",4,2013,232844.21780963
-"584","Hombre","Asalariado Sector Privado","Alto del Carmen",4,2014,291841.771414841
-"585","Hombre","Asalariado Sector Privado","Alto del Carmen",4,2015,380385.272311063
-"586","Hombre","Asalariado Sector Privado","Alto Hospicio",5,2012,396184.882788442
-"587","Hombre","Asalariado Sector Privado","Alto Hospicio",5,2013,436776.572352315
-"588","Hombre","Asalariado Sector Privado","Alto Hospicio",5,2014,480956.48394867
-"589","Hombre","Asalariado Sector Privado","Alto Hospicio",5,2015,462544.271529162
-"590","Hombre","Asalariado Sector Privado","Ancud",6,2012,166970.446954509
-"591","Hombre","Asalariado Sector Privado","Ancud",6,2013,272877.574104779
-"592","Hombre","Asalariado Sector Privado","Ancud",6,2014,426796.772168086
-"593","Hombre","Asalariado Sector Privado","Ancud",6,2015,478209.772061544
-"594","Hombre","Asalariado Sector Privado","Andacollo",7,2012,562884.599823182
-"595","Hombre","Asalariado Sector Privado","Andacollo",7,2013,460966.227000324
-"596","Hombre","Asalariado Sector Privado","Andacollo",7,2014,512048.389170123
-"597","Hombre","Asalariado Sector Privado","Andacollo",7,2015,554228.472941923
-"598","Hombre","Asalariado Sector Privado","Angol",8,2012,417936.752943348
-"599","Hombre","Asalariado Sector Privado","Angol",8,2013,376945.096035931
-"600","Hombre","Asalariado Sector Privado","Angol",8,2014,378801.671751357
-"601","Hombre","Asalariado Sector Privado","Angol",8,2015,375959.09135371
-"602","Hombre","Asalariado Sector Privado","Antofagasta",9,2012,653937.933939592
-"603","Hombre","Asalariado Sector Privado","Antofagasta",9,2013,688217.935697966
-"604","Hombre","Asalariado Sector Privado","Antofagasta",9,2014,725764.592123141
-"605","Hombre","Asalariado Sector Privado","Antofagasta",9,2015,812101.232012503
-"606","Hombre","Asalariado Sector Privado","Antuco",10,2012,362060.077743425
-"607","Hombre","Asalariado Sector Privado","Antuco",10,2013,394058.923267933
-"608","Hombre","Asalariado Sector Privado","Antuco",10,2014,261104.334805645
-"609","Hombre","Asalariado Sector Privado","Antuco",10,2015,367165.765370043
-"610","Hombre","Asalariado Sector Privado","Arauco",11,2012,308376.504014323
-"611","Hombre","Asalariado Sector Privado","Arauco",11,2013,284691.327126568
-"612","Hombre","Asalariado Sector Privado","Arauco",11,2014,311721.633358139
-"613","Hombre","Asalariado Sector Privado","Arauco",11,2015,357530.570690284
-"614","Hombre","Asalariado Sector Privado","Arica",12,2012,424712.559562016
-"615","Hombre","Asalariado Sector Privado","Arica",12,2013,390920.503771314
-"616","Hombre","Asalariado Sector Privado","Arica",12,2014,421119.300941834
-"617","Hombre","Asalariado Sector Privado","Arica",12,2015,463745.749494683
+"573","Hombre","Asalariado Sector Privado","Algarrobo",1,2012,573539.22472048
+"574","Hombre","Asalariado Sector Privado","Algarrobo",1,2013,365494.803434254
+"575","Hombre","Asalariado Sector Privado","Algarrobo",1,2014,367120.207188427
+"576","Hombre","Asalariado Sector Privado","Algarrobo",1,2015,594663.188156468
+"577","Hombre","Asalariado Sector Privado","Alhué",2,2012,566265.533901584
+"578","Hombre","Asalariado Sector Privado","Alhué",2,2013,493811.374346396
+"579","Hombre","Asalariado Sector Privado","Alhué",2,2014,743418.419556564
+"580","Hombre","Asalariado Sector Privado","Alhué",2,2015,702182.844380058
+"581","Hombre","Asalariado Sector Privado","Alto del Carmen",4,2012,201486.498289668
+"582","Hombre","Asalariado Sector Privado","Alto del Carmen",4,2013,232844.21780963
+"583","Hombre","Asalariado Sector Privado","Alto del Carmen",4,2014,291841.771414841
+"584","Hombre","Asalariado Sector Privado","Alto del Carmen",4,2015,380385.272311063
+"585","Hombre","Asalariado Sector Privado","Alto Hospicio",5,2012,396184.882788442
+"586","Hombre","Asalariado Sector Privado","Alto Hospicio",5,2013,436776.572352315
+"587","Hombre","Asalariado Sector Privado","Alto Hospicio",5,2014,480956.48394867
+"588","Hombre","Asalariado Sector Privado","Alto Hospicio",5,2015,462544.271529162
+"589","Hombre","Asalariado Sector Privado","Ancud",6,2012,166970.446954509
+"590","Hombre","Asalariado Sector Privado","Ancud",6,2013,272877.574104779
+"591","Hombre","Asalariado Sector Privado","Ancud",6,2014,426796.772168086
+"592","Hombre","Asalariado Sector Privado","Ancud",6,2015,478209.772061544
+"593","Hombre","Asalariado Sector Privado","Andacollo",7,2012,562884.599823182
+"594","Hombre","Asalariado Sector Privado","Andacollo",7,2013,460966.227000324
+"595","Hombre","Asalariado Sector Privado","Andacollo",7,2014,512048.389170123
+"596","Hombre","Asalariado Sector Privado","Andacollo",7,2015,554228.472941923
+"597","Hombre","Asalariado Sector Privado","Angol",8,2012,417936.752943348
+"598","Hombre","Asalariado Sector Privado","Angol",8,2013,376945.096035931
+"599","Hombre","Asalariado Sector Privado","Angol",8,2014,378801.671751357
+"600","Hombre","Asalariado Sector Privado","Angol",8,2015,375959.09135371
+"601","Hombre","Asalariado Sector Privado","Antofagasta",9,2012,653937.933939592
+"602","Hombre","Asalariado Sector Privado","Antofagasta",9,2013,688217.935697966
+"603","Hombre","Asalariado Sector Privado","Antofagasta",9,2014,725764.592123141
+"604","Hombre","Asalariado Sector Privado","Antofagasta",9,2015,812101.232012503
+"605","Hombre","Asalariado Sector Privado","Antuco",10,2012,362060.077743425
+"606","Hombre","Asalariado Sector Privado","Antuco",10,2013,394058.923267933
+"607","Hombre","Asalariado Sector Privado","Antuco",10,2014,261104.334805645
+"608","Hombre","Asalariado Sector Privado","Antuco",10,2015,367165.765370043
+"609","Hombre","Asalariado Sector Privado","Arauco",11,2012,308376.504014323
+"610","Hombre","Asalariado Sector Privado","Arauco",11,2013,284691.327126568
+"611","Hombre","Asalariado Sector Privado","Arauco",11,2014,311721.633358139
+"612","Hombre","Asalariado Sector Privado","Arauco",11,2015,357530.570690284
+"613","Hombre","Asalariado Sector Privado","Arica",12,2012,424712.559562016
+"614","Hombre","Asalariado Sector Privado","Arica",12,2013,390920.503771314
+"615","Hombre","Asalariado Sector Privado","Arica",12,2014,421119.300941834
+"616","Hombre","Asalariado Sector Privado","Arica",12,2015,463745.749494683
+"617","Hombre","Asalariado Sector Privado","Aysén",13,2012,456180.083164045
 "618","Hombre","Asalariado Sector Privado","Aysén",13,2013,472646.118148256
 "619","Hombre","Asalariado Sector Privado","Aysén",13,2014,628589.626408513
 "620","Hombre","Asalariado Sector Privado","Aysén",13,2015,461039.962955661
@@ -1694,26 +1694,26 @@
 "1693","Hombre","Asalariado Sector Privado","Yungay",343,2015,463681.655197394
 "1694","Hombre","Asalariado Sector Privado","Zapallar",344,2014,391538.7530794
 "1695","Hombre","Asalariado Sector Privado","Zapallar",344,2015,322084.822326856
-"1696","Hombre","Asalariado sector público","Aisén",NA,2010,863264.304802425
-"1697","Hombre","Asalariado sector público","Aisén",NA,2011,1062323.83062019
-"1698","Hombre","Asalariado sector público","Algarrobo",1,2011,432078.278999241
-"1699","Hombre","Asalariado sector público","Alhué",2,2011,100483.320697498
-"1700","Hombre","Asalariado sector público","Alto del Carmen",4,2010,602150.275912911
-"1701","Hombre","Asalariado sector público","Alto del Carmen",4,2011,398535.863476102
-"1702","Hombre","Asalariado sector público","Alto Hospicio",5,2010,433206.272169979
-"1703","Hombre","Asalariado sector público","Alto Hospicio",5,2011,503832.728622322
-"1704","Hombre","Asalariado sector público","Ancud",6,2010,347052.543027184
-"1705","Hombre","Asalariado sector público","Ancud",6,2011,319680.200978682
-"1706","Hombre","Asalariado sector público","Andacollo",7,2010,146899.462628237
-"1707","Hombre","Asalariado sector público","Andacollo",7,2011,222453.338974021
-"1708","Hombre","Asalariado sector público","Angol",8,2010,600899.664171343
-"1709","Hombre","Asalariado sector público","Angol",8,2011,421308.635480451
-"1710","Hombre","Asalariado sector público","Antofagasta",9,2010,565611.637995398
-"1711","Hombre","Asalariado sector público","Antofagasta",9,2011,900625.021224977
-"1712","Hombre","Asalariado sector público","Arauco",11,2010,605191.957929445
-"1713","Hombre","Asalariado sector público","Arauco",11,2011,447034.456719849
-"1714","Hombre","Asalariado sector público","Arica",12,2010,605821.319740643
-"1715","Hombre","Asalariado sector público","Arica",12,2011,538909.511378109
+"1696","Hombre","Asalariado sector público","Algarrobo",1,2011,432078.278999241
+"1697","Hombre","Asalariado sector público","Alhué",2,2011,100483.320697498
+"1698","Hombre","Asalariado sector público","Alto del Carmen",4,2010,602150.275912911
+"1699","Hombre","Asalariado sector público","Alto del Carmen",4,2011,398535.863476102
+"1700","Hombre","Asalariado sector público","Alto Hospicio",5,2010,433206.272169979
+"1701","Hombre","Asalariado sector público","Alto Hospicio",5,2011,503832.728622322
+"1702","Hombre","Asalariado sector público","Ancud",6,2010,347052.543027184
+"1703","Hombre","Asalariado sector público","Ancud",6,2011,319680.200978682
+"1704","Hombre","Asalariado sector público","Andacollo",7,2010,146899.462628237
+"1705","Hombre","Asalariado sector público","Andacollo",7,2011,222453.338974021
+"1706","Hombre","Asalariado sector público","Angol",8,2010,600899.664171343
+"1707","Hombre","Asalariado sector público","Angol",8,2011,421308.635480451
+"1708","Hombre","Asalariado sector público","Antofagasta",9,2010,565611.637995398
+"1709","Hombre","Asalariado sector público","Antofagasta",9,2011,900625.021224977
+"1710","Hombre","Asalariado sector público","Arauco",11,2010,605191.957929445
+"1711","Hombre","Asalariado sector público","Arauco",11,2011,447034.456719849
+"1712","Hombre","Asalariado sector público","Arica",12,2010,605821.319740643
+"1713","Hombre","Asalariado sector público","Arica",12,2011,538909.511378109
+"1714","Hombre","Asalariado sector público","Aysén",13,2010,863264.304802425
+"1715","Hombre","Asalariado sector público","Aysén",13,2011,1062323.83062019
 "1716","Hombre","Asalariado sector público","Buin",14,2010,1110871.68528015
 "1717","Hombre","Asalariado sector público","Buin",14,2011,376219.886888835
 "1718","Hombre","Asalariado sector público","Bulnes",15,2010,392500
@@ -2160,47 +2160,47 @@
 "2159","Hombre","Asalariado sector público","Yumbel",342,2010,360000
 "2160","Hombre","Asalariado sector público","Yumbel",342,2011,275000
 "2161","Hombre","Asalariado sector público","Yungay",343,2010,850000
-"2162","Hombre","Asalariado Sector Público","Aisén",NA,2012,905759.576336963
-"2163","Hombre","Asalariado Sector Público","Algarrobo",1,2012,905058.975304089
-"2164","Hombre","Asalariado Sector Público","Algarrobo",1,2013,600813.375508362
-"2165","Hombre","Asalariado Sector Público","Alhué",2,2012,85477.7921120528
-"2166","Hombre","Asalariado Sector Público","Alhué",2,2013,90122.0063262543
-"2167","Hombre","Asalariado Sector Público","Alhué",2,2014,151563.3882888
-"2168","Hombre","Asalariado Sector Público","Alhué",2,2015,160651.937703731
-"2169","Hombre","Asalariado Sector Público","Alto del Carmen",4,2012,371913.262502454
-"2170","Hombre","Asalariado Sector Público","Alto del Carmen",4,2013,605000
-"2171","Hombre","Asalariado Sector Público","Alto del Carmen",4,2014,703946.767230373
-"2172","Hombre","Asalariado Sector Público","Alto del Carmen",4,2015,417539.076382287
-"2173","Hombre","Asalariado Sector Público","Alto Hospicio",5,2012,416163.465510996
-"2174","Hombre","Asalariado Sector Público","Alto Hospicio",5,2013,579561.073910441
-"2175","Hombre","Asalariado Sector Público","Alto Hospicio",5,2014,428877.349561761
-"2176","Hombre","Asalariado Sector Público","Alto Hospicio",5,2015,745926.430907047
-"2177","Hombre","Asalariado Sector Público","Ancud",6,2012,620645.990710902
-"2178","Hombre","Asalariado Sector Público","Ancud",6,2013,448164.968518861
-"2179","Hombre","Asalariado Sector Público","Ancud",6,2014,929471.262614333
-"2180","Hombre","Asalariado Sector Público","Ancud",6,2015,859971.709886206
-"2181","Hombre","Asalariado Sector Público","Andacollo",7,2012,283941.580756014
-"2182","Hombre","Asalariado Sector Público","Andacollo",7,2013,706957.071848173
-"2183","Hombre","Asalariado Sector Público","Andacollo",7,2014,444585.93898048
-"2184","Hombre","Asalariado Sector Público","Andacollo",7,2015,250067.652895545
-"2185","Hombre","Asalariado Sector Público","Angol",8,2012,574289.763165405
-"2186","Hombre","Asalariado Sector Público","Angol",8,2013,531374.389651082
-"2187","Hombre","Asalariado Sector Público","Angol",8,2014,645332.943179853
-"2188","Hombre","Asalariado Sector Público","Angol",8,2015,662287.708070596
-"2189","Hombre","Asalariado Sector Público","Antofagasta",9,2012,890518.249256818
-"2190","Hombre","Asalariado Sector Público","Antofagasta",9,2013,732811.372728814
-"2191","Hombre","Asalariado Sector Público","Antofagasta",9,2014,700331.022531028
-"2192","Hombre","Asalariado Sector Público","Antofagasta",9,2015,825017.505736666
-"2193","Hombre","Asalariado Sector Público","Antuco",10,2014,1500000
-"2194","Hombre","Asalariado Sector Público","Antuco",10,2015,2800000
-"2195","Hombre","Asalariado Sector Público","Arauco",11,2012,348198.96880127
-"2196","Hombre","Asalariado Sector Público","Arauco",11,2013,1715000
-"2197","Hombre","Asalariado Sector Público","Arauco",11,2014,906432.042269401
-"2198","Hombre","Asalariado Sector Público","Arauco",11,2015,406610.003608156
-"2199","Hombre","Asalariado Sector Público","Arica",12,2012,903825.49558069
-"2200","Hombre","Asalariado Sector Público","Arica",12,2013,624458.872527967
-"2201","Hombre","Asalariado Sector Público","Arica",12,2014,673780.602297696
-"2202","Hombre","Asalariado Sector Público","Arica",12,2015,738127.831559655
+"2162","Hombre","Asalariado Sector Público","Algarrobo",1,2012,905058.975304089
+"2163","Hombre","Asalariado Sector Público","Algarrobo",1,2013,600813.375508362
+"2164","Hombre","Asalariado Sector Público","Alhué",2,2012,85477.7921120528
+"2165","Hombre","Asalariado Sector Público","Alhué",2,2013,90122.0063262543
+"2166","Hombre","Asalariado Sector Público","Alhué",2,2014,151563.3882888
+"2167","Hombre","Asalariado Sector Público","Alhué",2,2015,160651.937703731
+"2168","Hombre","Asalariado Sector Público","Alto del Carmen",4,2012,371913.262502454
+"2169","Hombre","Asalariado Sector Público","Alto del Carmen",4,2013,605000
+"2170","Hombre","Asalariado Sector Público","Alto del Carmen",4,2014,703946.767230373
+"2171","Hombre","Asalariado Sector Público","Alto del Carmen",4,2015,417539.076382287
+"2172","Hombre","Asalariado Sector Público","Alto Hospicio",5,2012,416163.465510996
+"2173","Hombre","Asalariado Sector Público","Alto Hospicio",5,2013,579561.073910441
+"2174","Hombre","Asalariado Sector Público","Alto Hospicio",5,2014,428877.349561761
+"2175","Hombre","Asalariado Sector Público","Alto Hospicio",5,2015,745926.430907047
+"2176","Hombre","Asalariado Sector Público","Ancud",6,2012,620645.990710902
+"2177","Hombre","Asalariado Sector Público","Ancud",6,2013,448164.968518861
+"2178","Hombre","Asalariado Sector Público","Ancud",6,2014,929471.262614333
+"2179","Hombre","Asalariado Sector Público","Ancud",6,2015,859971.709886206
+"2180","Hombre","Asalariado Sector Público","Andacollo",7,2012,283941.580756014
+"2181","Hombre","Asalariado Sector Público","Andacollo",7,2013,706957.071848173
+"2182","Hombre","Asalariado Sector Público","Andacollo",7,2014,444585.93898048
+"2183","Hombre","Asalariado Sector Público","Andacollo",7,2015,250067.652895545
+"2184","Hombre","Asalariado Sector Público","Angol",8,2012,574289.763165405
+"2185","Hombre","Asalariado Sector Público","Angol",8,2013,531374.389651082
+"2186","Hombre","Asalariado Sector Público","Angol",8,2014,645332.943179853
+"2187","Hombre","Asalariado Sector Público","Angol",8,2015,662287.708070596
+"2188","Hombre","Asalariado Sector Público","Antofagasta",9,2012,890518.249256818
+"2189","Hombre","Asalariado Sector Público","Antofagasta",9,2013,732811.372728814
+"2190","Hombre","Asalariado Sector Público","Antofagasta",9,2014,700331.022531028
+"2191","Hombre","Asalariado Sector Público","Antofagasta",9,2015,825017.505736666
+"2192","Hombre","Asalariado Sector Público","Antuco",10,2014,1500000
+"2193","Hombre","Asalariado Sector Público","Antuco",10,2015,2800000
+"2194","Hombre","Asalariado Sector Público","Arauco",11,2012,348198.96880127
+"2195","Hombre","Asalariado Sector Público","Arauco",11,2013,1715000
+"2196","Hombre","Asalariado Sector Público","Arauco",11,2014,906432.042269401
+"2197","Hombre","Asalariado Sector Público","Arauco",11,2015,406610.003608156
+"2198","Hombre","Asalariado Sector Público","Arica",12,2012,903825.49558069
+"2199","Hombre","Asalariado Sector Público","Arica",12,2013,624458.872527967
+"2200","Hombre","Asalariado Sector Público","Arica",12,2014,673780.602297696
+"2201","Hombre","Asalariado Sector Público","Arica",12,2015,738127.831559655
+"2202","Hombre","Asalariado Sector Público","Aysén",13,2012,905759.576336963
 "2203","Hombre","Asalariado Sector Público","Aysén",13,2013,1043511.7405754
 "2204","Hombre","Asalariado Sector Público","Aysén",13,2014,764988.662150061
 "2205","Hombre","Asalariado Sector Público","Aysén",13,2015,1222517.19569315
@@ -3066,29 +3066,29 @@
 "3065","Hombre","Asalariado Sector Público","Yungay",343,2015,429241.896052157
 "3066","Hombre","Asalariado Sector Público","Zapallar",344,2014,232397.19537616
 "3067","Hombre","Asalariado Sector Público","Zapallar",344,2015,324918.544005796
-"3068","Hombre","Cuenta propia","Aisén",NA,2010,359128.881365744
-"3069","Hombre","Cuenta propia","Aisén",NA,2011,285769.139083015
-"3070","Hombre","Cuenta propia","Algarrobo",1,2010,152209.869076695
-"3071","Hombre","Cuenta propia","Algarrobo",1,2011,288567.31595906
-"3072","Hombre","Cuenta propia","Alhué",2,2011,10026
-"3073","Hombre","Cuenta propia","Alto del Carmen",4,2010,205789.355961685
-"3074","Hombre","Cuenta propia","Alto del Carmen",4,2011,215804.992771362
-"3075","Hombre","Cuenta propia","Alto Hospicio",5,2010,196408.979241728
-"3076","Hombre","Cuenta propia","Alto Hospicio",5,2011,256279.728016735
-"3077","Hombre","Cuenta propia","Ancud",6,2010,110544.39598093
-"3078","Hombre","Cuenta propia","Ancud",6,2011,129494.784161064
-"3079","Hombre","Cuenta propia","Andacollo",7,2010,210352.509860627
-"3080","Hombre","Cuenta propia","Andacollo",7,2011,360275.672417285
-"3081","Hombre","Cuenta propia","Angol",8,2010,188762.10896752
-"3082","Hombre","Cuenta propia","Angol",8,2011,138715.0957757
-"3083","Hombre","Cuenta propia","Antofagasta",9,2010,345772.274682691
-"3084","Hombre","Cuenta propia","Antofagasta",9,2011,352418.531717394
-"3085","Hombre","Cuenta propia","Antuco",10,2010,99198.9086858816
-"3086","Hombre","Cuenta propia","Antuco",10,2011,129956.954222138
-"3087","Hombre","Cuenta propia","Arauco",11,2010,76984.5043083647
-"3088","Hombre","Cuenta propia","Arauco",11,2011,168908.955849336
-"3089","Hombre","Cuenta propia","Arica",12,2010,201566.403274207
-"3090","Hombre","Cuenta propia","Arica",12,2011,216249.487996965
+"3068","Hombre","Cuenta propia","Algarrobo",1,2010,152209.869076695
+"3069","Hombre","Cuenta propia","Algarrobo",1,2011,288567.31595906
+"3070","Hombre","Cuenta propia","Alhué",2,2011,10026
+"3071","Hombre","Cuenta propia","Alto del Carmen",4,2010,205789.355961685
+"3072","Hombre","Cuenta propia","Alto del Carmen",4,2011,215804.992771362
+"3073","Hombre","Cuenta propia","Alto Hospicio",5,2010,196408.979241728
+"3074","Hombre","Cuenta propia","Alto Hospicio",5,2011,256279.728016735
+"3075","Hombre","Cuenta propia","Ancud",6,2010,110544.39598093
+"3076","Hombre","Cuenta propia","Ancud",6,2011,129494.784161064
+"3077","Hombre","Cuenta propia","Andacollo",7,2010,210352.509860627
+"3078","Hombre","Cuenta propia","Andacollo",7,2011,360275.672417285
+"3079","Hombre","Cuenta propia","Angol",8,2010,188762.10896752
+"3080","Hombre","Cuenta propia","Angol",8,2011,138715.0957757
+"3081","Hombre","Cuenta propia","Antofagasta",9,2010,345772.274682691
+"3082","Hombre","Cuenta propia","Antofagasta",9,2011,352418.531717394
+"3083","Hombre","Cuenta propia","Antuco",10,2010,99198.9086858816
+"3084","Hombre","Cuenta propia","Antuco",10,2011,129956.954222138
+"3085","Hombre","Cuenta propia","Arauco",11,2010,76984.5043083647
+"3086","Hombre","Cuenta propia","Arauco",11,2011,168908.955849336
+"3087","Hombre","Cuenta propia","Arica",12,2010,201566.403274207
+"3088","Hombre","Cuenta propia","Arica",12,2011,216249.487996965
+"3089","Hombre","Cuenta propia","Aysén",13,2010,359128.881365744
+"3090","Hombre","Cuenta propia","Aysén",13,2011,285769.139083015
 "3091","Hombre","Cuenta propia","Buin",14,2010,359944.662428326
 "3092","Hombre","Cuenta propia","Buin",14,2011,534624.152981873
 "3093","Hombre","Cuenta propia","Bulnes",15,2010,127015.901005947
@@ -3624,47 +3624,47 @@
 "3623","Hombre","Cuenta propia","Yumbel",342,2010,89030.3119875575
 "3624","Hombre","Cuenta propia","Yumbel",342,2011,111292.593210766
 "3625","Hombre","Cuenta propia","Yungay",343,2010,156896.851421889
-"3626","Hombre","Cuenta Propia","Aisén",NA,2012,388476.446456371
-"3627","Hombre","Cuenta Propia","Algarrobo",1,2012,314256.588647253
-"3628","Hombre","Cuenta Propia","Algarrobo",1,2013,110149.1188432
-"3629","Hombre","Cuenta Propia","Algarrobo",1,2014,286286.400101067
-"3630","Hombre","Cuenta Propia","Alhué",2,2012,200468
-"3631","Hombre","Cuenta Propia","Alto del Carmen",4,2012,93659.9628941532
-"3632","Hombre","Cuenta Propia","Alto del Carmen",4,2013,125995.147483693
-"3633","Hombre","Cuenta Propia","Alto del Carmen",4,2014,125343.626791585
-"3634","Hombre","Cuenta Propia","Alto del Carmen",4,2015,103751.913547348
-"3635","Hombre","Cuenta Propia","Alto Hospicio",5,2012,234779.18648493
-"3636","Hombre","Cuenta Propia","Alto Hospicio",5,2013,202380.201276368
-"3637","Hombre","Cuenta Propia","Alto Hospicio",5,2014,372881.331543035
-"3638","Hombre","Cuenta Propia","Alto Hospicio",5,2015,337496.110003433
-"3639","Hombre","Cuenta Propia","Ancud",6,2012,120234.340823753
-"3640","Hombre","Cuenta Propia","Ancud",6,2013,128402.535851278
-"3641","Hombre","Cuenta Propia","Ancud",6,2014,269605.964891197
-"3642","Hombre","Cuenta Propia","Ancud",6,2015,203816.201604486
-"3643","Hombre","Cuenta Propia","Andacollo",7,2012,148324.958486915
-"3644","Hombre","Cuenta Propia","Andacollo",7,2013,175463.238490374
-"3645","Hombre","Cuenta Propia","Andacollo",7,2014,268944.653358678
-"3646","Hombre","Cuenta Propia","Andacollo",7,2015,169656.507511538
-"3647","Hombre","Cuenta Propia","Angol",8,2012,465676.396497286
-"3648","Hombre","Cuenta Propia","Angol",8,2013,218986.135756935
-"3649","Hombre","Cuenta Propia","Angol",8,2014,164808.500202748
-"3650","Hombre","Cuenta Propia","Angol",8,2015,174763.395875039
-"3651","Hombre","Cuenta Propia","Antofagasta",9,2012,405387.038232648
-"3652","Hombre","Cuenta Propia","Antofagasta",9,2013,367464.883722275
-"3653","Hombre","Cuenta Propia","Antofagasta",9,2014,478713.61264365
-"3654","Hombre","Cuenta Propia","Antofagasta",9,2015,625691.147063417
-"3655","Hombre","Cuenta Propia","Antuco",10,2012,126195.962602834
-"3656","Hombre","Cuenta Propia","Antuco",10,2013,99533.5601739342
-"3657","Hombre","Cuenta Propia","Antuco",10,2014,187830.61334633
-"3658","Hombre","Cuenta Propia","Antuco",10,2015,105028.414216129
-"3659","Hombre","Cuenta Propia","Arauco",11,2012,310823.091112744
-"3660","Hombre","Cuenta Propia","Arauco",11,2013,139101.638279393
-"3661","Hombre","Cuenta Propia","Arauco",11,2014,113112.450665335
-"3662","Hombre","Cuenta Propia","Arauco",11,2015,145039.238679416
-"3663","Hombre","Cuenta Propia","Arica",12,2012,297023.199960199
-"3664","Hombre","Cuenta Propia","Arica",12,2013,306710.349505514
-"3665","Hombre","Cuenta Propia","Arica",12,2014,294058.677232893
-"3666","Hombre","Cuenta Propia","Arica",12,2015,329082.046284786
+"3626","Hombre","Cuenta Propia","Algarrobo",1,2012,314256.588647253
+"3627","Hombre","Cuenta Propia","Algarrobo",1,2013,110149.1188432
+"3628","Hombre","Cuenta Propia","Algarrobo",1,2014,286286.400101067
+"3629","Hombre","Cuenta Propia","Alhué",2,2012,200468
+"3630","Hombre","Cuenta Propia","Alto del Carmen",4,2012,93659.9628941532
+"3631","Hombre","Cuenta Propia","Alto del Carmen",4,2013,125995.147483693
+"3632","Hombre","Cuenta Propia","Alto del Carmen",4,2014,125343.626791585
+"3633","Hombre","Cuenta Propia","Alto del Carmen",4,2015,103751.913547348
+"3634","Hombre","Cuenta Propia","Alto Hospicio",5,2012,234779.18648493
+"3635","Hombre","Cuenta Propia","Alto Hospicio",5,2013,202380.201276368
+"3636","Hombre","Cuenta Propia","Alto Hospicio",5,2014,372881.331543035
+"3637","Hombre","Cuenta Propia","Alto Hospicio",5,2015,337496.110003433
+"3638","Hombre","Cuenta Propia","Ancud",6,2012,120234.340823753
+"3639","Hombre","Cuenta Propia","Ancud",6,2013,128402.535851278
+"3640","Hombre","Cuenta Propia","Ancud",6,2014,269605.964891197
+"3641","Hombre","Cuenta Propia","Ancud",6,2015,203816.201604486
+"3642","Hombre","Cuenta Propia","Andacollo",7,2012,148324.958486915
+"3643","Hombre","Cuenta Propia","Andacollo",7,2013,175463.238490374
+"3644","Hombre","Cuenta Propia","Andacollo",7,2014,268944.653358678
+"3645","Hombre","Cuenta Propia","Andacollo",7,2015,169656.507511538
+"3646","Hombre","Cuenta Propia","Angol",8,2012,465676.396497286
+"3647","Hombre","Cuenta Propia","Angol",8,2013,218986.135756935
+"3648","Hombre","Cuenta Propia","Angol",8,2014,164808.500202748
+"3649","Hombre","Cuenta Propia","Angol",8,2015,174763.395875039
+"3650","Hombre","Cuenta Propia","Antofagasta",9,2012,405387.038232648
+"3651","Hombre","Cuenta Propia","Antofagasta",9,2013,367464.883722275
+"3652","Hombre","Cuenta Propia","Antofagasta",9,2014,478713.61264365
+"3653","Hombre","Cuenta Propia","Antofagasta",9,2015,625691.147063417
+"3654","Hombre","Cuenta Propia","Antuco",10,2012,126195.962602834
+"3655","Hombre","Cuenta Propia","Antuco",10,2013,99533.5601739342
+"3656","Hombre","Cuenta Propia","Antuco",10,2014,187830.61334633
+"3657","Hombre","Cuenta Propia","Antuco",10,2015,105028.414216129
+"3658","Hombre","Cuenta Propia","Arauco",11,2012,310823.091112744
+"3659","Hombre","Cuenta Propia","Arauco",11,2013,139101.638279393
+"3660","Hombre","Cuenta Propia","Arauco",11,2014,113112.450665335
+"3661","Hombre","Cuenta Propia","Arauco",11,2015,145039.238679416
+"3662","Hombre","Cuenta Propia","Arica",12,2012,297023.199960199
+"3663","Hombre","Cuenta Propia","Arica",12,2013,306710.349505514
+"3664","Hombre","Cuenta Propia","Arica",12,2014,294058.677232893
+"3665","Hombre","Cuenta Propia","Arica",12,2015,329082.046284786
+"3666","Hombre","Cuenta Propia","Aysén",13,2012,388476.446456371
 "3667","Hombre","Cuenta Propia","Aysén",13,2013,346856.930991804
 "3668","Hombre","Cuenta Propia","Aysén",13,2014,397114.8024502
 "3669","Hombre","Cuenta Propia","Aysén",13,2015,388455.166144011
@@ -4706,61 +4706,61 @@
 "4705","Hombre","Cuenta Propia","Yungay",343,2015,50189.7732767515
 "4706","Hombre","Cuenta Propia","Zapallar",344,2014,237658.094834178
 "4707","Hombre","Cuenta Propia","Zapallar",344,2015,328757.67008117
-"4708","Hombre","Empleador","Aisén",NA,2010,2004367.89735467
-"4709","Hombre","Empleador","Aisén",NA,2011,1192290.47068115
-"4710","Hombre","Empleador","Aisén",NA,2012,1318637.58838557
-"4711","Hombre","Empleador","Algarrobo",1,2011,559851.50075815
-"4712","Hombre","Empleador","Algarrobo",1,2012,711979.727239217
-"4713","Hombre","Empleador","Algarrobo",1,2013,475643.922277454
-"4714","Hombre","Empleador","Algarrobo",1,2014,1010422.588592
-"4715","Hombre","Empleador","Algarrobo",1,2015,3313446.21513946
-"4716","Hombre","Empleador","Alhué",2,2012,1005621.08367121
-"4717","Hombre","Empleador","Alhué",2,2013,1001355.62584727
-"4718","Hombre","Empleador","Alto del Carmen",4,2010,499658.036150464
-"4719","Hombre","Empleador","Alto del Carmen",4,2011,236008.873708356
-"4720","Hombre","Empleador","Alto del Carmen",4,2012,223580.301776641
-"4721","Hombre","Empleador","Alto del Carmen",4,2013,375902.195963248
-"4722","Hombre","Empleador","Alto del Carmen",4,2014,233229.854191679
-"4723","Hombre","Empleador","Alto del Carmen",4,2015,401306.58694922
-"4724","Hombre","Empleador","Alto Hospicio",5,2010,414988.449269579
-"4725","Hombre","Empleador","Alto Hospicio",5,2011,406460.571506916
-"4726","Hombre","Empleador","Alto Hospicio",5,2012,326338.563133157
-"4727","Hombre","Empleador","Alto Hospicio",5,2013,2588303.831504
-"4728","Hombre","Empleador","Alto Hospicio",5,2014,1274273.16501223
-"4729","Hombre","Empleador","Alto Hospicio",5,2015,1177680.84637589
-"4730","Hombre","Empleador","Ancud",6,2010,499658.036150464
-"4731","Hombre","Empleador","Ancud",6,2011,598082.166024255
-"4732","Hombre","Empleador","Ancud",6,2012,760805.047548591
-"4733","Hombre","Empleador","Ancud",6,2013,309694.900193714
-"4734","Hombre","Empleador","Ancud",6,2014,1346586.39251559
-"4735","Hombre","Empleador","Ancud",6,2015,880399.247525414
-"4736","Hombre","Empleador","Andacollo",7,2010,899384.465070834
-"4737","Hombre","Empleador","Andacollo",7,2012,1255637.88659794
-"4738","Hombre","Empleador","Andacollo",7,2014,317580.603382463
-"4739","Hombre","Empleador","Andacollo",7,2015,500135.30579109
-"4740","Hombre","Empleador","Angol",8,2010,1257025.95124713
-"4741","Hombre","Empleador","Angol",8,2011,1976490.7661335
-"4742","Hombre","Empleador","Angol",8,2012,723584.058648083
-"4743","Hombre","Empleador","Angol",8,2013,473514.491525797
-"4744","Hombre","Empleador","Angol",8,2014,518090.757002518
-"4745","Hombre","Empleador","Angol",8,2015,823822.043711464
-"4746","Hombre","Empleador","Antofagasta",9,2010,688205.153296204
-"4747","Hombre","Empleador","Antofagasta",9,2011,651307.965339694
-"4748","Hombre","Empleador","Antofagasta",9,2012,907004.989630416
-"4749","Hombre","Empleador","Antofagasta",9,2013,1210441.15998552
-"4750","Hombre","Empleador","Antofagasta",9,2014,1104057.77079997
-"4751","Hombre","Empleador","Antofagasta",9,2015,1142333.89656166
-"4752","Hombre","Empleador","Antuco",10,2012,125000
-"4753","Hombre","Empleador","Arauco",11,2010,110433.200735106
-"4754","Hombre","Empleador","Arauco",11,2012,1506765.46391753
-"4755","Hombre","Empleador","Arauco",11,2014,140971.59253843
-"4756","Hombre","Empleador","Arauco",11,2015,300081.183474654
-"4757","Hombre","Empleador","Arica",12,2010,606965.035188693
-"4758","Hombre","Empleador","Arica",12,2011,826400.638405166
-"4759","Hombre","Empleador","Arica",12,2012,831447.515705378
-"4760","Hombre","Empleador","Arica",12,2013,644836.824076456
-"4761","Hombre","Empleador","Arica",12,2014,593270.935594836
-"4762","Hombre","Empleador","Arica",12,2015,632025.697412765
+"4708","Hombre","Empleador","Algarrobo",1,2011,559851.50075815
+"4709","Hombre","Empleador","Algarrobo",1,2012,711979.727239217
+"4710","Hombre","Empleador","Algarrobo",1,2013,475643.922277454
+"4711","Hombre","Empleador","Algarrobo",1,2014,1010422.588592
+"4712","Hombre","Empleador","Algarrobo",1,2015,3313446.21513946
+"4713","Hombre","Empleador","Alhué",2,2012,1005621.08367121
+"4714","Hombre","Empleador","Alhué",2,2013,1001355.62584727
+"4715","Hombre","Empleador","Alto del Carmen",4,2010,499658.036150464
+"4716","Hombre","Empleador","Alto del Carmen",4,2011,236008.873708356
+"4717","Hombre","Empleador","Alto del Carmen",4,2012,223580.301776641
+"4718","Hombre","Empleador","Alto del Carmen",4,2013,375902.195963248
+"4719","Hombre","Empleador","Alto del Carmen",4,2014,233229.854191679
+"4720","Hombre","Empleador","Alto del Carmen",4,2015,401306.58694922
+"4721","Hombre","Empleador","Alto Hospicio",5,2010,414988.449269579
+"4722","Hombre","Empleador","Alto Hospicio",5,2011,406460.571506916
+"4723","Hombre","Empleador","Alto Hospicio",5,2012,326338.563133157
+"4724","Hombre","Empleador","Alto Hospicio",5,2013,2588303.831504
+"4725","Hombre","Empleador","Alto Hospicio",5,2014,1274273.16501223
+"4726","Hombre","Empleador","Alto Hospicio",5,2015,1177680.84637589
+"4727","Hombre","Empleador","Ancud",6,2010,499658.036150464
+"4728","Hombre","Empleador","Ancud",6,2011,598082.166024255
+"4729","Hombre","Empleador","Ancud",6,2012,760805.047548591
+"4730","Hombre","Empleador","Ancud",6,2013,309694.900193714
+"4731","Hombre","Empleador","Ancud",6,2014,1346586.39251559
+"4732","Hombre","Empleador","Ancud",6,2015,880399.247525414
+"4733","Hombre","Empleador","Andacollo",7,2010,899384.465070834
+"4734","Hombre","Empleador","Andacollo",7,2012,1255637.88659794
+"4735","Hombre","Empleador","Andacollo",7,2014,317580.603382463
+"4736","Hombre","Empleador","Andacollo",7,2015,500135.30579109
+"4737","Hombre","Empleador","Angol",8,2010,1257025.95124713
+"4738","Hombre","Empleador","Angol",8,2011,1976490.7661335
+"4739","Hombre","Empleador","Angol",8,2012,723584.058648083
+"4740","Hombre","Empleador","Angol",8,2013,473514.491525797
+"4741","Hombre","Empleador","Angol",8,2014,518090.757002518
+"4742","Hombre","Empleador","Angol",8,2015,823822.043711464
+"4743","Hombre","Empleador","Antofagasta",9,2010,688205.153296204
+"4744","Hombre","Empleador","Antofagasta",9,2011,651307.965339694
+"4745","Hombre","Empleador","Antofagasta",9,2012,907004.989630416
+"4746","Hombre","Empleador","Antofagasta",9,2013,1210441.15998552
+"4747","Hombre","Empleador","Antofagasta",9,2014,1104057.77079997
+"4748","Hombre","Empleador","Antofagasta",9,2015,1142333.89656166
+"4749","Hombre","Empleador","Antuco",10,2012,125000
+"4750","Hombre","Empleador","Arauco",11,2010,110433.200735106
+"4751","Hombre","Empleador","Arauco",11,2012,1506765.46391753
+"4752","Hombre","Empleador","Arauco",11,2014,140971.59253843
+"4753","Hombre","Empleador","Arauco",11,2015,300081.183474654
+"4754","Hombre","Empleador","Arica",12,2010,606965.035188693
+"4755","Hombre","Empleador","Arica",12,2011,826400.638405166
+"4756","Hombre","Empleador","Arica",12,2012,831447.515705378
+"4757","Hombre","Empleador","Arica",12,2013,644836.824076456
+"4758","Hombre","Empleador","Arica",12,2014,593270.935594836
+"4759","Hombre","Empleador","Arica",12,2015,632025.697412765
+"4760","Hombre","Empleador","Aysén",13,2010,2004367.89735467
+"4761","Hombre","Empleador","Aysén",13,2011,1192290.47068115
+"4762","Hombre","Empleador","Aysén",13,2012,1318637.58838557
 "4763","Hombre","Empleador","Aysén",13,2013,1353810.45127714
 "4764","Hombre","Empleador","Aysén",13,2014,900000
 "4765","Hombre","Empleador","Aysén",13,2015,1599938.70890899
@@ -6332,28 +6332,28 @@
 "6331","Hombre","Personal de Servicio Doméstico Puertas Afuera","Vicuña",334,2013,100000
 "6332","Hombre","Personal de Servicio Doméstico Puertas Afuera","Villa Alemana",337,2013,180000
 "6333","Hombre","Personal de Servicio Doméstico Puertas Afuera","Viña del Mar",339,2015,320086.595706298
-"6334","Mujer","Asalariado sector privado","Aisén",NA,2010,289701.696309213
-"6335","Mujer","Asalariado sector privado","Aisén",NA,2011,308378.665779339
-"6336","Mujer","Asalariado sector privado","Algarrobo",1,2010,220215.306322176
-"6337","Mujer","Asalariado sector privado","Algarrobo",1,2011,298435.462471569
-"6338","Mujer","Asalariado sector privado","Alhué",2,2011,184326.60348749
-"6339","Mujer","Asalariado sector privado","Alto del Carmen",4,2010,148049.954175069
-"6340","Mujer","Asalariado sector privado","Alto del Carmen",4,2011,190754.92363012
-"6341","Mujer","Asalariado sector privado","Alto Hospicio",5,2010,203319.478124042
-"6342","Mujer","Asalariado sector privado","Alto Hospicio",5,2011,237577.826825291
-"6343","Mujer","Asalariado sector privado","Ancud",6,2010,367150.905598949
-"6344","Mujer","Asalariado sector privado","Ancud",6,2011,301669.689162762
-"6345","Mujer","Asalariado sector privado","Andacollo",7,2010,295361.312459857
-"6346","Mujer","Asalariado sector privado","Andacollo",7,2011,288906.015861748
-"6347","Mujer","Asalariado sector privado","Angol",8,2010,241637.09660172
-"6348","Mujer","Asalariado sector privado","Angol",8,2011,268905.075881457
-"6349","Mujer","Asalariado sector privado","Antofagasta",9,2010,370991.207128894
-"6350","Mujer","Asalariado sector privado","Antofagasta",9,2011,353708.489508385
-"6351","Mujer","Asalariado sector privado","Antuco",10,2011,267641.769295854
-"6352","Mujer","Asalariado sector privado","Arauco",11,2010,282644.629144087
-"6353","Mujer","Asalariado sector privado","Arauco",11,2011,232749.091308347
-"6354","Mujer","Asalariado sector privado","Arica",12,2010,236106.061176671
-"6355","Mujer","Asalariado sector privado","Arica",12,2011,232136.323887106
+"6334","Mujer","Asalariado sector privado","Algarrobo",1,2010,220215.306322176
+"6335","Mujer","Asalariado sector privado","Algarrobo",1,2011,298435.462471569
+"6336","Mujer","Asalariado sector privado","Alhué",2,2011,184326.60348749
+"6337","Mujer","Asalariado sector privado","Alto del Carmen",4,2010,148049.954175069
+"6338","Mujer","Asalariado sector privado","Alto del Carmen",4,2011,190754.92363012
+"6339","Mujer","Asalariado sector privado","Alto Hospicio",5,2010,203319.478124042
+"6340","Mujer","Asalariado sector privado","Alto Hospicio",5,2011,237577.826825291
+"6341","Mujer","Asalariado sector privado","Ancud",6,2010,367150.905598949
+"6342","Mujer","Asalariado sector privado","Ancud",6,2011,301669.689162762
+"6343","Mujer","Asalariado sector privado","Andacollo",7,2010,295361.312459857
+"6344","Mujer","Asalariado sector privado","Andacollo",7,2011,288906.015861748
+"6345","Mujer","Asalariado sector privado","Angol",8,2010,241637.09660172
+"6346","Mujer","Asalariado sector privado","Angol",8,2011,268905.075881457
+"6347","Mujer","Asalariado sector privado","Antofagasta",9,2010,370991.207128894
+"6348","Mujer","Asalariado sector privado","Antofagasta",9,2011,353708.489508385
+"6349","Mujer","Asalariado sector privado","Antuco",10,2011,267641.769295854
+"6350","Mujer","Asalariado sector privado","Arauco",11,2010,282644.629144087
+"6351","Mujer","Asalariado sector privado","Arauco",11,2011,232749.091308347
+"6352","Mujer","Asalariado sector privado","Arica",12,2010,236106.061176671
+"6353","Mujer","Asalariado sector privado","Arica",12,2011,232136.323887106
+"6354","Mujer","Asalariado sector privado","Aysén",13,2010,289701.696309213
+"6355","Mujer","Asalariado sector privado","Aysén",13,2011,308378.665779339
 "6356","Mujer","Asalariado sector privado","Buin",14,2010,509654.652800088
 "6357","Mujer","Asalariado sector privado","Buin",14,2011,383729.604386511
 "6358","Mujer","Asalariado sector privado","Bulnes",15,2010,152896.587843809
@@ -6878,49 +6878,49 @@
 "6877","Mujer","Asalariado sector privado","Yerbas Buenas",341,2010,206525.321608858
 "6878","Mujer","Asalariado sector privado","Yumbel",342,2010,15000
 "6879","Mujer","Asalariado sector privado","Yumbel",342,2011,40000
-"6880","Mujer","Asalariado Sector Privado","Aisén",NA,2012,321294.509360619
-"6881","Mujer","Asalariado Sector Privado","Algarrobo",1,2012,270260.666236638
-"6882","Mujer","Asalariado Sector Privado","Algarrobo",1,2013,135183.009489382
-"6883","Mujer","Asalariado Sector Privado","Algarrobo",1,2014,189959.446655296
-"6884","Mujer","Asalariado Sector Privado","Algarrobo",1,2015,542200.289750093
-"6885","Mujer","Asalariado Sector Privado","Alhué",2,2012,349453.326575745
-"6886","Mujer","Asalariado Sector Privado","Alhué",2,2013,444601.897876188
-"6887","Mujer","Asalariado Sector Privado","Alhué",2,2014,151563.3882888
-"6888","Mujer","Asalariado Sector Privado","Alhué",2,2015,662689.243027891
-"6889","Mujer","Asalariado Sector Privado","Alto del Carmen",4,2012,212273.626400878
-"6890","Mujer","Asalariado Sector Privado","Alto del Carmen",4,2013,207892.148498505
-"6891","Mujer","Asalariado Sector Privado","Alto del Carmen",4,2014,261353.980496394
-"6892","Mujer","Asalariado Sector Privado","Alto del Carmen",4,2015,177583.149257086
-"6893","Mujer","Asalariado Sector Privado","Alto Hospicio",5,2012,295920.96581955
-"6894","Mujer","Asalariado Sector Privado","Alto Hospicio",5,2013,282175.452598962
-"6895","Mujer","Asalariado Sector Privado","Alto Hospicio",5,2014,304478.902254882
-"6896","Mujer","Asalariado Sector Privado","Alto Hospicio",5,2015,323624.287086013
-"6897","Mujer","Asalariado Sector Privado","Ancud",6,2012,277963.347303014
-"6898","Mujer","Asalariado Sector Privado","Ancud",6,2013,196230.299218598
-"6899","Mujer","Asalariado Sector Privado","Ancud",6,2014,288202.38828302
-"6900","Mujer","Asalariado Sector Privado","Ancud",6,2015,317575.792754473
-"6901","Mujer","Asalariado Sector Privado","Andacollo",7,2012,249271.760283011
-"6902","Mujer","Asalariado Sector Privado","Andacollo",7,2013,280574.825458362
-"6903","Mujer","Asalariado Sector Privado","Andacollo",7,2014,324730.978282604
-"6904","Mujer","Asalariado Sector Privado","Andacollo",7,2015,706114.236879986
-"6905","Mujer","Asalariado Sector Privado","Angol",8,2012,266474.611353375
-"6906","Mujer","Asalariado Sector Privado","Angol",8,2013,239380.0861794
-"6907","Mujer","Asalariado Sector Privado","Angol",8,2014,253215.024319886
-"6908","Mujer","Asalariado Sector Privado","Angol",8,2015,283667.066230262
-"6909","Mujer","Asalariado Sector Privado","Antofagasta",9,2012,447958.369716296
-"6910","Mujer","Asalariado Sector Privado","Antofagasta",9,2013,394967.18414753
-"6911","Mujer","Asalariado Sector Privado","Antofagasta",9,2014,422962.600924941
-"6912","Mujer","Asalariado Sector Privado","Antofagasta",9,2015,488089.615696865
-"6913","Mujer","Asalariado Sector Privado","Antuco",10,2012,301353.092783505
-"6914","Mujer","Asalariado Sector Privado","Antuco",10,2013,173657.830210543
-"6915","Mujer","Asalariado Sector Privado","Arauco",11,2012,138148.874667888
-"6916","Mujer","Asalariado Sector Privado","Arauco",11,2013,362734.026745914
-"6917","Mujer","Asalariado Sector Privado","Arauco",11,2014,272949.551869899
-"6918","Mujer","Asalariado Sector Privado","Arauco",11,2015,282491.361515768
-"6919","Mujer","Asalariado Sector Privado","Arica",12,2012,251099.64125803
-"6920","Mujer","Asalariado Sector Privado","Arica",12,2013,252729.082912006
-"6921","Mujer","Asalariado Sector Privado","Arica",12,2014,317848.760700183
-"6922","Mujer","Asalariado Sector Privado","Arica",12,2015,349685.489282512
+"6880","Mujer","Asalariado Sector Privado","Algarrobo",1,2012,270260.666236638
+"6881","Mujer","Asalariado Sector Privado","Algarrobo",1,2013,135183.009489382
+"6882","Mujer","Asalariado Sector Privado","Algarrobo",1,2014,189959.446655296
+"6883","Mujer","Asalariado Sector Privado","Algarrobo",1,2015,542200.289750093
+"6884","Mujer","Asalariado Sector Privado","Alhué",2,2012,349453.326575745
+"6885","Mujer","Asalariado Sector Privado","Alhué",2,2013,444601.897876188
+"6886","Mujer","Asalariado Sector Privado","Alhué",2,2014,151563.3882888
+"6887","Mujer","Asalariado Sector Privado","Alhué",2,2015,662689.243027891
+"6888","Mujer","Asalariado Sector Privado","Alto del Carmen",4,2012,212273.626400878
+"6889","Mujer","Asalariado Sector Privado","Alto del Carmen",4,2013,207892.148498505
+"6890","Mujer","Asalariado Sector Privado","Alto del Carmen",4,2014,261353.980496394
+"6891","Mujer","Asalariado Sector Privado","Alto del Carmen",4,2015,177583.149257086
+"6892","Mujer","Asalariado Sector Privado","Alto Hospicio",5,2012,295920.96581955
+"6893","Mujer","Asalariado Sector Privado","Alto Hospicio",5,2013,282175.452598962
+"6894","Mujer","Asalariado Sector Privado","Alto Hospicio",5,2014,304478.902254882
+"6895","Mujer","Asalariado Sector Privado","Alto Hospicio",5,2015,323624.287086013
+"6896","Mujer","Asalariado Sector Privado","Ancud",6,2012,277963.347303014
+"6897","Mujer","Asalariado Sector Privado","Ancud",6,2013,196230.299218598
+"6898","Mujer","Asalariado Sector Privado","Ancud",6,2014,288202.38828302
+"6899","Mujer","Asalariado Sector Privado","Ancud",6,2015,317575.792754473
+"6900","Mujer","Asalariado Sector Privado","Andacollo",7,2012,249271.760283011
+"6901","Mujer","Asalariado Sector Privado","Andacollo",7,2013,280574.825458362
+"6902","Mujer","Asalariado Sector Privado","Andacollo",7,2014,324730.978282604
+"6903","Mujer","Asalariado Sector Privado","Andacollo",7,2015,706114.236879986
+"6904","Mujer","Asalariado Sector Privado","Angol",8,2012,266474.611353375
+"6905","Mujer","Asalariado Sector Privado","Angol",8,2013,239380.0861794
+"6906","Mujer","Asalariado Sector Privado","Angol",8,2014,253215.024319886
+"6907","Mujer","Asalariado Sector Privado","Angol",8,2015,283667.066230262
+"6908","Mujer","Asalariado Sector Privado","Antofagasta",9,2012,447958.369716296
+"6909","Mujer","Asalariado Sector Privado","Antofagasta",9,2013,394967.18414753
+"6910","Mujer","Asalariado Sector Privado","Antofagasta",9,2014,422962.600924941
+"6911","Mujer","Asalariado Sector Privado","Antofagasta",9,2015,488089.615696865
+"6912","Mujer","Asalariado Sector Privado","Antuco",10,2012,301353.092783505
+"6913","Mujer","Asalariado Sector Privado","Antuco",10,2013,173657.830210543
+"6914","Mujer","Asalariado Sector Privado","Arauco",11,2012,138148.874667888
+"6915","Mujer","Asalariado Sector Privado","Arauco",11,2013,362734.026745914
+"6916","Mujer","Asalariado Sector Privado","Arauco",11,2014,272949.551869899
+"6917","Mujer","Asalariado Sector Privado","Arauco",11,2015,282491.361515768
+"6918","Mujer","Asalariado Sector Privado","Arica",12,2012,251099.64125803
+"6919","Mujer","Asalariado Sector Privado","Arica",12,2013,252729.082912006
+"6920","Mujer","Asalariado Sector Privado","Arica",12,2014,317848.760700183
+"6921","Mujer","Asalariado Sector Privado","Arica",12,2015,349685.489282512
+"6922","Mujer","Asalariado Sector Privado","Aysén",13,2012,321294.509360619
 "6923","Mujer","Asalariado Sector Privado","Aysén",13,2013,368379.765064552
 "6924","Mujer","Asalariado Sector Privado","Aysén",13,2014,499673.003291733
 "6925","Mujer","Asalariado Sector Privado","Aysén",13,2015,377552.686254885
@@ -7939,27 +7939,27 @@
 "7938","Mujer","Asalariado Sector Privado","Yungay",343,2015,390585.023542197
 "7939","Mujer","Asalariado Sector Privado","Zapallar",344,2014,262709.87303392
 "7940","Mujer","Asalariado Sector Privado","Zapallar",344,2015,343393.516841725
-"7941","Mujer","Asalariado sector público","Aisén",NA,2010,399416.742456748
-"7942","Mujer","Asalariado sector público","Aisén",NA,2011,526239.296296548
-"7943","Mujer","Asalariado sector público","Algarrobo",1,2011,535911.043719989
-"7944","Mujer","Asalariado sector público","Alto del Carmen",4,2010,198695.392364352
-"7945","Mujer","Asalariado sector público","Alto del Carmen",4,2011,171425.827309194
-"7946","Mujer","Asalariado sector público","Alto Hospicio",5,2010,331207.988632466
-"7947","Mujer","Asalariado sector público","Alto Hospicio",5,2011,321083.54910802
-"7948","Mujer","Asalariado sector público","Ancud",6,2010,295234.936511565
-"7949","Mujer","Asalariado sector público","Ancud",6,2011,253150.377919219
-"7950","Mujer","Asalariado sector público","Andacollo",7,2010,218850.219833904
-"7951","Mujer","Asalariado sector público","Andacollo",7,2011,236740.857384601
-"7952","Mujer","Asalariado sector público","Angol",8,2010,473732.781230108
-"7953","Mujer","Asalariado sector público","Angol",8,2011,487217.448652136
-"7954","Mujer","Asalariado sector público","Antofagasta",9,2010,470094.311229486
-"7955","Mujer","Asalariado sector público","Antofagasta",9,2011,383004.962671923
-"7956","Mujer","Asalariado sector público","Antuco",10,2010,529637.518319492
-"7957","Mujer","Asalariado sector público","Antuco",10,2011,155500
-"7958","Mujer","Asalariado sector público","Arauco",11,2010,183424.07164496
-"7959","Mujer","Asalariado sector público","Arauco",11,2011,314440.25096415
-"7960","Mujer","Asalariado sector público","Arica",12,2010,445090.139754405
-"7961","Mujer","Asalariado sector público","Arica",12,2011,380369.297033029
+"7941","Mujer","Asalariado sector público","Algarrobo",1,2011,535911.043719989
+"7942","Mujer","Asalariado sector público","Alto del Carmen",4,2010,198695.392364352
+"7943","Mujer","Asalariado sector público","Alto del Carmen",4,2011,171425.827309194
+"7944","Mujer","Asalariado sector público","Alto Hospicio",5,2010,331207.988632466
+"7945","Mujer","Asalariado sector público","Alto Hospicio",5,2011,321083.54910802
+"7946","Mujer","Asalariado sector público","Ancud",6,2010,295234.936511565
+"7947","Mujer","Asalariado sector público","Ancud",6,2011,253150.377919219
+"7948","Mujer","Asalariado sector público","Andacollo",7,2010,218850.219833904
+"7949","Mujer","Asalariado sector público","Andacollo",7,2011,236740.857384601
+"7950","Mujer","Asalariado sector público","Angol",8,2010,473732.781230108
+"7951","Mujer","Asalariado sector público","Angol",8,2011,487217.448652136
+"7952","Mujer","Asalariado sector público","Antofagasta",9,2010,470094.311229486
+"7953","Mujer","Asalariado sector público","Antofagasta",9,2011,383004.962671923
+"7954","Mujer","Asalariado sector público","Antuco",10,2010,529637.518319492
+"7955","Mujer","Asalariado sector público","Antuco",10,2011,155500
+"7956","Mujer","Asalariado sector público","Arauco",11,2010,183424.07164496
+"7957","Mujer","Asalariado sector público","Arauco",11,2011,314440.25096415
+"7958","Mujer","Asalariado sector público","Arica",12,2010,445090.139754405
+"7959","Mujer","Asalariado sector público","Arica",12,2011,380369.297033029
+"7960","Mujer","Asalariado sector público","Aysén",13,2010,399416.742456748
+"7961","Mujer","Asalariado sector público","Aysén",13,2011,526239.296296548
 "7962","Mujer","Asalariado sector público","Buin",14,2010,538285.146246125
 "7963","Mujer","Asalariado sector público","Buin",14,2011,200839.870578502
 "7964","Mujer","Asalariado sector público","Bulnes",15,2010,354091.154601371
@@ -8454,45 +8454,45 @@
 "8453","Mujer","Asalariado sector público","Yerbas Buenas",341,2011,66785.8418727085
 "8454","Mujer","Asalariado sector público","Yumbel",342,2010,368333.333333333
 "8455","Mujer","Asalariado sector público","Yumbel",342,2011,413404.5
-"8456","Mujer","Asalariado Sector Público","Aisén",NA,2012,618820.915517032
-"8457","Mujer","Asalariado Sector Público","Algarrobo",1,2012,652016.553262069
-"8458","Mujer","Asalariado Sector Público","Algarrobo",1,2013,770876.104835068
-"8459","Mujer","Asalariado Sector Público","Algarrobo",1,2014,1010422.588592
-"8460","Mujer","Asalariado Sector Público","Algarrobo",1,2015,602444.766388992
-"8461","Mujer","Asalariado Sector Público","Alhué",2,2012,420349.612974566
-"8462","Mujer","Asalariado Sector Público","Alhué",2,2013,380515.137821963
-"8463","Mujer","Asalariado Sector Público","Alto del Carmen",4,2012,145402.087858848
-"8464","Mujer","Asalariado Sector Público","Alto del Carmen",4,2013,174293.88012452
-"8465","Mujer","Asalariado Sector Público","Alto del Carmen",4,2014,183109.59150955
-"8466","Mujer","Asalariado Sector Público","Alto del Carmen",4,2015,234107.245546301
-"8467","Mujer","Asalariado Sector Público","Alto Hospicio",5,2012,336704.449732684
-"8468","Mujer","Asalariado Sector Público","Alto Hospicio",5,2013,355284.546586024
-"8469","Mujer","Asalariado Sector Público","Alto Hospicio",5,2014,264722.722777072
-"8470","Mujer","Asalariado Sector Público","Alto Hospicio",5,2015,409547.869607054
-"8471","Mujer","Asalariado Sector Público","Ancud",6,2012,289984.31176431
-"8472","Mujer","Asalariado Sector Público","Ancud",6,2013,356262.428865788
-"8473","Mujer","Asalariado Sector Público","Ancud",6,2014,667662.404832546
-"8474","Mujer","Asalariado Sector Público","Ancud",6,2015,763635.571978017
-"8475","Mujer","Asalariado Sector Público","Andacollo",7,2012,278751.610824742
-"8476","Mujer","Asalariado Sector Público","Andacollo",7,2013,450610.031631271
-"8477","Mujer","Asalariado Sector Público","Andacollo",7,2014,383960.58366496
-"8478","Mujer","Asalariado Sector Público","Andacollo",7,2015,98026.5199350536
-"8479","Mujer","Asalariado Sector Público","Angol",8,2012,483306.593773125
-"8480","Mujer","Asalariado Sector Público","Angol",8,2013,429048.955954224
-"8481","Mujer","Asalariado Sector Público","Angol",8,2014,434369.877931219
-"8482","Mujer","Asalariado Sector Público","Angol",8,2015,472674.273048731
-"8483","Mujer","Asalariado Sector Público","Antofagasta",9,2012,490332.868859497
-"8484","Mujer","Asalariado Sector Público","Antofagasta",9,2013,651424.935089066
-"8485","Mujer","Asalariado Sector Público","Antofagasta",9,2014,631771.562813076
-"8486","Mujer","Asalariado Sector Público","Antofagasta",9,2015,681437.408509308
-"8487","Mujer","Asalariado Sector Público","Arauco",11,2012,266302.708531663
-"8488","Mujer","Asalariado Sector Público","Arauco",11,2013,483811.094978853
-"8489","Mujer","Asalariado Sector Público","Arauco",11,2014,470409.126310656
-"8490","Mujer","Asalariado Sector Público","Arauco",11,2015,355807.723066441
-"8491","Mujer","Asalariado Sector Público","Arica",12,2012,512214.763683728
-"8492","Mujer","Asalariado Sector Público","Arica",12,2013,602981.542607041
-"8493","Mujer","Asalariado Sector Público","Arica",12,2014,582049.233489219
-"8494","Mujer","Asalariado Sector Público","Arica",12,2015,733189.863302573
+"8456","Mujer","Asalariado Sector Público","Algarrobo",1,2012,652016.553262069
+"8457","Mujer","Asalariado Sector Público","Algarrobo",1,2013,770876.104835068
+"8458","Mujer","Asalariado Sector Público","Algarrobo",1,2014,1010422.588592
+"8459","Mujer","Asalariado Sector Público","Algarrobo",1,2015,602444.766388992
+"8460","Mujer","Asalariado Sector Público","Alhué",2,2012,420349.612974566
+"8461","Mujer","Asalariado Sector Público","Alhué",2,2013,380515.137821963
+"8462","Mujer","Asalariado Sector Público","Alto del Carmen",4,2012,145402.087858848
+"8463","Mujer","Asalariado Sector Público","Alto del Carmen",4,2013,174293.88012452
+"8464","Mujer","Asalariado Sector Público","Alto del Carmen",4,2014,183109.59150955
+"8465","Mujer","Asalariado Sector Público","Alto del Carmen",4,2015,234107.245546301
+"8466","Mujer","Asalariado Sector Público","Alto Hospicio",5,2012,336704.449732684
+"8467","Mujer","Asalariado Sector Público","Alto Hospicio",5,2013,355284.546586024
+"8468","Mujer","Asalariado Sector Público","Alto Hospicio",5,2014,264722.722777072
+"8469","Mujer","Asalariado Sector Público","Alto Hospicio",5,2015,409547.869607054
+"8470","Mujer","Asalariado Sector Público","Ancud",6,2012,289984.31176431
+"8471","Mujer","Asalariado Sector Público","Ancud",6,2013,356262.428865788
+"8472","Mujer","Asalariado Sector Público","Ancud",6,2014,667662.404832546
+"8473","Mujer","Asalariado Sector Público","Ancud",6,2015,763635.571978017
+"8474","Mujer","Asalariado Sector Público","Andacollo",7,2012,278751.610824742
+"8475","Mujer","Asalariado Sector Público","Andacollo",7,2013,450610.031631271
+"8476","Mujer","Asalariado Sector Público","Andacollo",7,2014,383960.58366496
+"8477","Mujer","Asalariado Sector Público","Andacollo",7,2015,98026.5199350536
+"8478","Mujer","Asalariado Sector Público","Angol",8,2012,483306.593773125
+"8479","Mujer","Asalariado Sector Público","Angol",8,2013,429048.955954224
+"8480","Mujer","Asalariado Sector Público","Angol",8,2014,434369.877931219
+"8481","Mujer","Asalariado Sector Público","Angol",8,2015,472674.273048731
+"8482","Mujer","Asalariado Sector Público","Antofagasta",9,2012,490332.868859497
+"8483","Mujer","Asalariado Sector Público","Antofagasta",9,2013,651424.935089066
+"8484","Mujer","Asalariado Sector Público","Antofagasta",9,2014,631771.562813076
+"8485","Mujer","Asalariado Sector Público","Antofagasta",9,2015,681437.408509308
+"8486","Mujer","Asalariado Sector Público","Arauco",11,2012,266302.708531663
+"8487","Mujer","Asalariado Sector Público","Arauco",11,2013,483811.094978853
+"8488","Mujer","Asalariado Sector Público","Arauco",11,2014,470409.126310656
+"8489","Mujer","Asalariado Sector Público","Arauco",11,2015,355807.723066441
+"8490","Mujer","Asalariado Sector Público","Arica",12,2012,512214.763683728
+"8491","Mujer","Asalariado Sector Público","Arica",12,2013,602981.542607041
+"8492","Mujer","Asalariado Sector Público","Arica",12,2014,582049.233489219
+"8493","Mujer","Asalariado Sector Público","Arica",12,2015,733189.863302573
+"8494","Mujer","Asalariado Sector Público","Aysén",13,2012,618820.915517032
 "8495","Mujer","Asalariado Sector Público","Aysén",13,2013,618717.959972021
 "8496","Mujer","Asalariado Sector Público","Aysén",13,2014,594460.542792291
 "8497","Mujer","Asalariado Sector Público","Aysén",13,2015,884335.243064786
@@ -9452,27 +9452,27 @@
 "9451","Mujer","Asalariado Sector Público","Yungay",343,2014,569416.913650431
 "9452","Mujer","Asalariado Sector Público","Zapallar",344,2014,333439.45423536
 "9453","Mujer","Asalariado Sector Público","Zapallar",344,2015,374268.811119161
-"9454","Mujer","Cuenta propia","Aisén",NA,2010,122230.349690222
-"9455","Mujer","Cuenta propia","Aisén",NA,2011,143520.455664652
-"9456","Mujer","Cuenta propia","Algarrobo",1,2010,45662.9607230085
-"9457","Mujer","Cuenta propia","Alhué",2,2011,180869.977255496
-"9458","Mujer","Cuenta propia","Alto del Carmen",4,2010,80816.439559639
-"9459","Mujer","Cuenta propia","Alto del Carmen",4,2011,90113.2586857002
-"9460","Mujer","Cuenta propia","Alto Hospicio",5,2010,115314.407894577
-"9461","Mujer","Cuenta propia","Alto Hospicio",5,2011,162059.697431636
-"9462","Mujer","Cuenta propia","Ancud",6,2010,62115.3223612704
-"9463","Mujer","Cuenta propia","Ancud",6,2011,51420.5708988689
-"9464","Mujer","Cuenta propia","Andacollo",7,2010,89087.101193971
-"9465","Mujer","Cuenta propia","Andacollo",7,2011,183695.345635703
-"9466","Mujer","Cuenta propia","Angol",8,2010,66368.2505652447
-"9467","Mujer","Cuenta propia","Angol",8,2011,117845.840671979
-"9468","Mujer","Cuenta propia","Antofagasta",9,2010,150579.953679663
-"9469","Mujer","Cuenta propia","Antofagasta",9,2011,256474.52872316
-"9470","Mujer","Cuenta propia","Antuco",10,2010,109924.767953102
-"9471","Mujer","Cuenta propia","Arauco",11,2010,95182.74063222
-"9472","Mujer","Cuenta propia","Arauco",11,2011,47915.8175411866
-"9473","Mujer","Cuenta propia","Arica",12,2010,133379.254924781
-"9474","Mujer","Cuenta propia","Arica",12,2011,126886.699018401
+"9454","Mujer","Cuenta propia","Algarrobo",1,2010,45662.9607230085
+"9455","Mujer","Cuenta propia","Alhué",2,2011,180869.977255496
+"9456","Mujer","Cuenta propia","Alto del Carmen",4,2010,80816.439559639
+"9457","Mujer","Cuenta propia","Alto del Carmen",4,2011,90113.2586857002
+"9458","Mujer","Cuenta propia","Alto Hospicio",5,2010,115314.407894577
+"9459","Mujer","Cuenta propia","Alto Hospicio",5,2011,162059.697431636
+"9460","Mujer","Cuenta propia","Ancud",6,2010,62115.3223612704
+"9461","Mujer","Cuenta propia","Ancud",6,2011,51420.5708988689
+"9462","Mujer","Cuenta propia","Andacollo",7,2010,89087.101193971
+"9463","Mujer","Cuenta propia","Andacollo",7,2011,183695.345635703
+"9464","Mujer","Cuenta propia","Angol",8,2010,66368.2505652447
+"9465","Mujer","Cuenta propia","Angol",8,2011,117845.840671979
+"9466","Mujer","Cuenta propia","Antofagasta",9,2010,150579.953679663
+"9467","Mujer","Cuenta propia","Antofagasta",9,2011,256474.52872316
+"9468","Mujer","Cuenta propia","Antuco",10,2010,109924.767953102
+"9469","Mujer","Cuenta propia","Arauco",11,2010,95182.74063222
+"9470","Mujer","Cuenta propia","Arauco",11,2011,47915.8175411866
+"9471","Mujer","Cuenta propia","Arica",12,2010,133379.254924781
+"9472","Mujer","Cuenta propia","Arica",12,2011,126886.699018401
+"9473","Mujer","Cuenta propia","Aysén",13,2010,122230.349690222
+"9474","Mujer","Cuenta propia","Aysén",13,2011,143520.455664652
 "9475","Mujer","Cuenta propia","Buin",14,2010,389707.502105118
 "9476","Mujer","Cuenta propia","Buin",14,2011,262277.204524965
 "9477","Mujer","Cuenta propia","Bulnes",15,2010,60112.2150953056
@@ -9999,49 +9999,49 @@
 "9998","Mujer","Cuenta propia","Yerbas Buenas",341,2010,149897.410845139
 "9999","Mujer","Cuenta propia","Yumbel",342,2010,125903.06564978
 "10000","Mujer","Cuenta propia","Yumbel",342,2011,28444.8432827737
-"10001","Mujer","Cuenta Propia","Aisén",NA,2012,122400.604095062
-"10002","Mujer","Cuenta Propia","Algarrobo",1,2012,301686.325101363
-"10003","Mujer","Cuenta Propia","Algarrobo",1,2013,90122.0063262543
-"10004","Mujer","Cuenta Propia","Algarrobo",1,2014,111550.653780557
-"10005","Mujer","Cuenta Propia","Algarrobo",1,2015,562281.781963059
-"10006","Mujer","Cuenta Propia","Alhué",2,2012,110618.319203833
-"10007","Mujer","Cuenta Propia","Alhué",2,2013,70094.8938093089
-"10008","Mujer","Cuenta Propia","Alto del Carmen",4,2012,50670.7646639569
-"10009","Mujer","Cuenta Propia","Alto del Carmen",4,2013,121509.161258188
-"10010","Mujer","Cuenta Propia","Alto del Carmen",4,2014,154681.393786095
-"10011","Mujer","Cuenta Propia","Alto del Carmen",4,2015,160166.960910208
-"10012","Mujer","Cuenta Propia","Alto Hospicio",5,2012,121063.348769902
-"10013","Mujer","Cuenta Propia","Alto Hospicio",5,2013,129707.202764266
-"10014","Mujer","Cuenta Propia","Alto Hospicio",5,2014,208290.771545877
-"10015","Mujer","Cuenta Propia","Alto Hospicio",5,2015,228805.854769739
-"10016","Mujer","Cuenta Propia","Ancud",6,2012,155028.395330297
-"10017","Mujer","Cuenta Propia","Ancud",6,2013,131130.779830838
-"10018","Mujer","Cuenta Propia","Ancud",6,2014,76756.8907043748
-"10019","Mujer","Cuenta Propia","Ancud",6,2015,102472.283391112
-"10020","Mujer","Cuenta Propia","Andacollo",7,2012,311586.666340292
-"10021","Mujer","Cuenta Propia","Andacollo",7,2013,20928.8159650948
-"10022","Mujer","Cuenta Propia","Andacollo",7,2014,172463.798138141
-"10023","Mujer","Cuenta Propia","Andacollo",7,2015,210093.829494674
-"10024","Mujer","Cuenta Propia","Angol",8,2012,144308.040376381
-"10025","Mujer","Cuenta Propia","Angol",8,2013,91749.8913416571
-"10026","Mujer","Cuenta Propia","Angol",8,2014,120173.045696831
-"10027","Mujer","Cuenta Propia","Angol",8,2015,122561.54303695
-"10028","Mujer","Cuenta Propia","Antofagasta",9,2012,286886.827322269
-"10029","Mujer","Cuenta Propia","Antofagasta",9,2013,180815.919019046
-"10030","Mujer","Cuenta Propia","Antofagasta",9,2014,228111.363106302
-"10031","Mujer","Cuenta Propia","Antofagasta",9,2015,231973.339313583
-"10032","Mujer","Cuenta Propia","Antuco",10,2012,110000
-"10033","Mujer","Cuenta Propia","Antuco",10,2013,225000
-"10034","Mujer","Cuenta Propia","Antuco",10,2014,149270.80251672
-"10035","Mujer","Cuenta Propia","Antuco",10,2015,96313.5808678128
-"10036","Mujer","Cuenta Propia","Arauco",11,2012,31101.72987558
-"10037","Mujer","Cuenta Propia","Arauco",11,2013,93439.4102408401
-"10038","Mujer","Cuenta Propia","Arauco",11,2014,190022.09281223
-"10039","Mujer","Cuenta Propia","Arauco",11,2015,122449.593555222
-"10040","Mujer","Cuenta Propia","Arica",12,2012,123495.94082708
-"10041","Mujer","Cuenta Propia","Arica",12,2013,142137.516671603
-"10042","Mujer","Cuenta Propia","Arica",12,2014,178469.054810168
-"10043","Mujer","Cuenta Propia","Arica",12,2015,184262.845355794
+"10001","Mujer","Cuenta Propia","Algarrobo",1,2012,301686.325101363
+"10002","Mujer","Cuenta Propia","Algarrobo",1,2013,90122.0063262543
+"10003","Mujer","Cuenta Propia","Algarrobo",1,2014,111550.653780557
+"10004","Mujer","Cuenta Propia","Algarrobo",1,2015,562281.781963059
+"10005","Mujer","Cuenta Propia","Alhué",2,2012,110618.319203833
+"10006","Mujer","Cuenta Propia","Alhué",2,2013,70094.8938093089
+"10007","Mujer","Cuenta Propia","Alto del Carmen",4,2012,50670.7646639569
+"10008","Mujer","Cuenta Propia","Alto del Carmen",4,2013,121509.161258188
+"10009","Mujer","Cuenta Propia","Alto del Carmen",4,2014,154681.393786095
+"10010","Mujer","Cuenta Propia","Alto del Carmen",4,2015,160166.960910208
+"10011","Mujer","Cuenta Propia","Alto Hospicio",5,2012,121063.348769902
+"10012","Mujer","Cuenta Propia","Alto Hospicio",5,2013,129707.202764266
+"10013","Mujer","Cuenta Propia","Alto Hospicio",5,2014,208290.771545877
+"10014","Mujer","Cuenta Propia","Alto Hospicio",5,2015,228805.854769739
+"10015","Mujer","Cuenta Propia","Ancud",6,2012,155028.395330297
+"10016","Mujer","Cuenta Propia","Ancud",6,2013,131130.779830838
+"10017","Mujer","Cuenta Propia","Ancud",6,2014,76756.8907043748
+"10018","Mujer","Cuenta Propia","Ancud",6,2015,102472.283391112
+"10019","Mujer","Cuenta Propia","Andacollo",7,2012,311586.666340292
+"10020","Mujer","Cuenta Propia","Andacollo",7,2013,20928.8159650948
+"10021","Mujer","Cuenta Propia","Andacollo",7,2014,172463.798138141
+"10022","Mujer","Cuenta Propia","Andacollo",7,2015,210093.829494674
+"10023","Mujer","Cuenta Propia","Angol",8,2012,144308.040376381
+"10024","Mujer","Cuenta Propia","Angol",8,2013,91749.8913416571
+"10025","Mujer","Cuenta Propia","Angol",8,2014,120173.045696831
+"10026","Mujer","Cuenta Propia","Angol",8,2015,122561.54303695
+"10027","Mujer","Cuenta Propia","Antofagasta",9,2012,286886.827322269
+"10028","Mujer","Cuenta Propia","Antofagasta",9,2013,180815.919019046
+"10029","Mujer","Cuenta Propia","Antofagasta",9,2014,228111.363106302
+"10030","Mujer","Cuenta Propia","Antofagasta",9,2015,231973.339313583
+"10031","Mujer","Cuenta Propia","Antuco",10,2012,110000
+"10032","Mujer","Cuenta Propia","Antuco",10,2013,225000
+"10033","Mujer","Cuenta Propia","Antuco",10,2014,149270.80251672
+"10034","Mujer","Cuenta Propia","Antuco",10,2015,96313.5808678128
+"10035","Mujer","Cuenta Propia","Arauco",11,2012,31101.72987558
+"10036","Mujer","Cuenta Propia","Arauco",11,2013,93439.4102408401
+"10037","Mujer","Cuenta Propia","Arauco",11,2014,190022.09281223
+"10038","Mujer","Cuenta Propia","Arauco",11,2015,122449.593555222
+"10039","Mujer","Cuenta Propia","Arica",12,2012,123495.94082708
+"10040","Mujer","Cuenta Propia","Arica",12,2013,142137.516671603
+"10041","Mujer","Cuenta Propia","Arica",12,2014,178469.054810168
+"10042","Mujer","Cuenta Propia","Arica",12,2015,184262.845355794
+"10043","Mujer","Cuenta Propia","Aysén",13,2012,122400.604095062
 "10044","Mujer","Cuenta Propia","Aysén",13,2013,175552.777652733
 "10045","Mujer","Cuenta Propia","Aysén",13,2014,126338.005847555
 "10046","Mujer","Cuenta Propia","Aysén",13,2015,203457.955502519
@@ -11061,50 +11061,50 @@
 "11060","Mujer","Cuenta Propia","Yungay",343,2014,106094.37180216
 "11061","Mujer","Cuenta Propia","Zapallar",344,2014,105439.858975727
 "11062","Mujer","Cuenta Propia","Zapallar",344,2015,68602.4602238589
-"11063","Mujer","Empleador","Aisén",NA,2010,730889.078816093
-"11064","Mujer","Empleador","Aisén",NA,2011,622807.988936197
-"11065","Mujer","Empleador","Aisén",NA,2012,861514.788486394
-"11066","Mujer","Empleador","Algarrobo",1,2014,1970324.0477544
-"11067","Mujer","Empleador","Alhué",2,2012,351967.379284924
-"11068","Mujer","Empleador","Alto del Carmen",4,2011,180541
-"11069","Mujer","Empleador","Alto del Carmen",4,2012,449258.114268215
-"11070","Mujer","Empleador","Alto del Carmen",4,2014,20098.6631070664
-"11071","Mujer","Empleador","Alto del Carmen",4,2015,4013065.8694922
-"11072","Mujer","Empleador","Alto Hospicio",5,2010,333150.721495624
-"11073","Mujer","Empleador","Alto Hospicio",5,2011,327361.27483818
-"11074","Mujer","Empleador","Alto Hospicio",5,2012,407473.886470639
-"11075","Mujer","Empleador","Alto Hospicio",5,2013,556784.922625482
-"11076","Mujer","Empleador","Alto Hospicio",5,2014,517222.448471739
-"11077","Mujer","Empleador","Alto Hospicio",5,2015,200000
-"11078","Mujer","Empleador","Ancud",6,2010,498383.951886958
-"11079","Mujer","Empleador","Ancud",6,2011,644968.670539306
-"11080","Mujer","Empleador","Ancud",6,2012,803608.24742268
-"11081","Mujer","Empleador","Ancud",6,2013,143456.212911347
-"11082","Mujer","Empleador","Ancud",6,2014,618885.884700864
-"11083","Mujer","Empleador","Ancud",6,2015,873140.166416383
-"11084","Mujer","Empleador","Andacollo",7,2012,1556990.97938144
-"11085","Mujer","Empleador","Angol",8,2010,733668.297410883
-"11086","Mujer","Empleador","Angol",8,2011,464408.19784535
-"11087","Mujer","Empleador","Angol",8,2012,217208.487250438
-"11088","Mujer","Empleador","Angol",8,2013,411121.362137783
-"11089","Mujer","Empleador","Angol",8,2014,1069595.69056547
-"11090","Mujer","Empleador","Angol",8,2015,400778.038490106
-"11091","Mujer","Empleador","Antofagasta",9,2010,577863.74733171
-"11092","Mujer","Empleador","Antofagasta",9,2011,710573.343739179
-"11093","Mujer","Empleador","Antofagasta",9,2012,626800.718474436
-"11094","Mujer","Empleador","Antofagasta",9,2013,639992.497254517
-"11095","Mujer","Empleador","Antofagasta",9,2014,828517.529428113
-"11096","Mujer","Empleador","Antofagasta",9,2015,789754.79751238
-"11097","Mujer","Empleador","Antuco",10,2011,100000
-"11098","Mujer","Empleador","Arauco",11,2010,58000
-"11099","Mujer","Empleador","Arauco",11,2011,50000
-"11100","Mujer","Empleador","Arauco",11,2012,400000
-"11101","Mujer","Empleador","Arica",12,2010,328344.760307001
-"11102","Mujer","Empleador","Arica",12,2011,459975.784359347
-"11103","Mujer","Empleador","Arica",12,2012,786255.135290493
-"11104","Mujer","Empleador","Arica",12,2013,1398096.81086125
-"11105","Mujer","Empleador","Arica",12,2014,495887.120991311
-"11106","Mujer","Empleador","Arica",12,2015,582688.694144237
+"11063","Mujer","Empleador","Algarrobo",1,2014,1970324.0477544
+"11064","Mujer","Empleador","Alhué",2,2012,351967.379284924
+"11065","Mujer","Empleador","Alto del Carmen",4,2011,180541
+"11066","Mujer","Empleador","Alto del Carmen",4,2012,449258.114268215
+"11067","Mujer","Empleador","Alto del Carmen",4,2014,20098.6631070664
+"11068","Mujer","Empleador","Alto del Carmen",4,2015,4013065.8694922
+"11069","Mujer","Empleador","Alto Hospicio",5,2010,333150.721495624
+"11070","Mujer","Empleador","Alto Hospicio",5,2011,327361.27483818
+"11071","Mujer","Empleador","Alto Hospicio",5,2012,407473.886470639
+"11072","Mujer","Empleador","Alto Hospicio",5,2013,556784.922625482
+"11073","Mujer","Empleador","Alto Hospicio",5,2014,517222.448471739
+"11074","Mujer","Empleador","Alto Hospicio",5,2015,200000
+"11075","Mujer","Empleador","Ancud",6,2010,498383.951886958
+"11076","Mujer","Empleador","Ancud",6,2011,644968.670539306
+"11077","Mujer","Empleador","Ancud",6,2012,803608.24742268
+"11078","Mujer","Empleador","Ancud",6,2013,143456.212911347
+"11079","Mujer","Empleador","Ancud",6,2014,618885.884700864
+"11080","Mujer","Empleador","Ancud",6,2015,873140.166416383
+"11081","Mujer","Empleador","Andacollo",7,2012,1556990.97938144
+"11082","Mujer","Empleador","Angol",8,2010,733668.297410883
+"11083","Mujer","Empleador","Angol",8,2011,464408.19784535
+"11084","Mujer","Empleador","Angol",8,2012,217208.487250438
+"11085","Mujer","Empleador","Angol",8,2013,411121.362137783
+"11086","Mujer","Empleador","Angol",8,2014,1069595.69056547
+"11087","Mujer","Empleador","Angol",8,2015,400778.038490106
+"11088","Mujer","Empleador","Antofagasta",9,2010,577863.74733171
+"11089","Mujer","Empleador","Antofagasta",9,2011,710573.343739179
+"11090","Mujer","Empleador","Antofagasta",9,2012,626800.718474436
+"11091","Mujer","Empleador","Antofagasta",9,2013,639992.497254517
+"11092","Mujer","Empleador","Antofagasta",9,2014,828517.529428113
+"11093","Mujer","Empleador","Antofagasta",9,2015,789754.79751238
+"11094","Mujer","Empleador","Antuco",10,2011,100000
+"11095","Mujer","Empleador","Arauco",11,2010,58000
+"11096","Mujer","Empleador","Arauco",11,2011,50000
+"11097","Mujer","Empleador","Arauco",11,2012,400000
+"11098","Mujer","Empleador","Arica",12,2010,328344.760307001
+"11099","Mujer","Empleador","Arica",12,2011,459975.784359347
+"11100","Mujer","Empleador","Arica",12,2012,786255.135290493
+"11101","Mujer","Empleador","Arica",12,2013,1398096.81086125
+"11102","Mujer","Empleador","Arica",12,2014,495887.120991311
+"11103","Mujer","Empleador","Arica",12,2015,582688.694144237
+"11104","Mujer","Empleador","Aysén",13,2010,730889.078816093
+"11105","Mujer","Empleador","Aysén",13,2011,622807.988936197
+"11106","Mujer","Empleador","Aysén",13,2012,861514.788486394
 "11107","Mujer","Empleador","Aysén",13,2013,1527467.34174096
 "11108","Mujer","Empleador","Aysén",13,2014,364224.883895637
 "11109","Mujer","Empleador","Aysén",13,2015,1537481.08104055
@@ -11966,16 +11966,16 @@
 "11965","Mujer","Empleador","Yumbel",342,2010,359444.905039647
 "11966","Mujer","Empleador","Yungay",343,2015,502037.30532416
 "11967","Mujer","Empleador","Zapallar",344,2015,702852.227453824
-"11968","Mujer","Personal de servicio doméstico puertas adentro","Aisén",NA,2010,15000
-"11969","Mujer","Personal de servicio doméstico puertas adentro","Ancud",6,2010,180176.159718144
-"11970","Mujer","Personal de servicio doméstico puertas adentro","Ancud",6,2011,200966.641394996
-"11971","Mujer","Personal de servicio doméstico puertas adentro","Andacollo",7,2010,70068.506557056
-"11972","Mujer","Personal de servicio doméstico puertas adentro","Andacollo",7,2011,70338.3244882486
-"11973","Mujer","Personal de servicio doméstico puertas adentro","Angol",8,2011,176229.949836995
-"11974","Mujer","Personal de servicio doméstico puertas adentro","Antofagasta",9,2010,160000
-"11975","Mujer","Personal de servicio doméstico puertas adentro","Antofagasta",9,2011,69419.1264891639
-"11976","Mujer","Personal de servicio doméstico puertas adentro","Arica",12,2010,117395.396364591
-"11977","Mujer","Personal de servicio doméstico puertas adentro","Arica",12,2011,60289.9924184988
+"11968","Mujer","Personal de servicio doméstico puertas adentro","Ancud",6,2010,180176.159718144
+"11969","Mujer","Personal de servicio doméstico puertas adentro","Ancud",6,2011,200966.641394996
+"11970","Mujer","Personal de servicio doméstico puertas adentro","Andacollo",7,2010,70068.506557056
+"11971","Mujer","Personal de servicio doméstico puertas adentro","Andacollo",7,2011,70338.3244882486
+"11972","Mujer","Personal de servicio doméstico puertas adentro","Angol",8,2011,176229.949836995
+"11973","Mujer","Personal de servicio doméstico puertas adentro","Antofagasta",9,2010,160000
+"11974","Mujer","Personal de servicio doméstico puertas adentro","Antofagasta",9,2011,69419.1264891639
+"11975","Mujer","Personal de servicio doméstico puertas adentro","Arica",12,2010,117395.396364591
+"11976","Mujer","Personal de servicio doméstico puertas adentro","Arica",12,2011,60289.9924184988
+"11977","Mujer","Personal de servicio doméstico puertas adentro","Aysén",13,2010,15000
 "11978","Mujer","Personal de servicio doméstico puertas adentro","Buin",14,2010,210000
 "11979","Mujer","Personal de servicio doméstico puertas adentro","Buin",14,2011,330000
 "11980","Mujer","Personal de servicio doméstico puertas adentro","Calama",19,2010,249021.761239814
@@ -12352,24 +12352,24 @@
 "12351","Mujer","Personal de Servicio Doméstico Puertas Adentro","Vitacura",340,2013,373632.559257301
 "12352","Mujer","Personal de Servicio Doméstico Puertas Adentro","Vitacura",340,2014,361085.222151312
 "12353","Mujer","Personal de Servicio Doméstico Puertas Adentro","Vitacura",340,2015,478539.236455275
-"12354","Mujer","Personal de servicio doméstico puertas afuera","Aisén",NA,2010,94757.5587642568
-"12355","Mujer","Personal de servicio doméstico puertas afuera","Aisén",NA,2011,97204.1914491131
-"12356","Mujer","Personal de servicio doméstico puertas afuera","Alhué",2,2011,221063.305534496
-"12357","Mujer","Personal de servicio doméstico puertas afuera","Alto del Carmen",4,2010,170166.373067136
-"12358","Mujer","Personal de servicio doméstico puertas afuera","Alto del Carmen",4,2011,95943.7826262293
-"12359","Mujer","Personal de servicio doméstico puertas afuera","Alto Hospicio",5,2010,95048.4216554377
-"12360","Mujer","Personal de servicio doméstico puertas afuera","Alto Hospicio",5,2011,106976.216061439
-"12361","Mujer","Personal de servicio doméstico puertas afuera","Ancud",6,2010,128168.764826401
-"12362","Mujer","Personal de servicio doméstico puertas afuera","Ancud",6,2011,65948.2957836333
-"12363","Mujer","Personal de servicio doméstico puertas afuera","Andacollo",7,2011,120579.984836998
-"12364","Mujer","Personal de servicio doméstico puertas afuera","Angol",8,2010,109616.620723843
-"12365","Mujer","Personal de servicio doméstico puertas afuera","Angol",8,2011,96908.3084701636
-"12366","Mujer","Personal de servicio doméstico puertas afuera","Antofagasta",9,2010,137711.780598998
-"12367","Mujer","Personal de servicio doméstico puertas afuera","Antofagasta",9,2011,190066.892435347
-"12368","Mujer","Personal de servicio doméstico puertas afuera","Antuco",10,2011,50000
-"12369","Mujer","Personal de servicio doméstico puertas afuera","Arauco",11,2011,39872.144401617
-"12370","Mujer","Personal de servicio doméstico puertas afuera","Arica",12,2010,101530.090264187
-"12371","Mujer","Personal de servicio doméstico puertas afuera","Arica",12,2011,162703.957190727
+"12354","Mujer","Personal de servicio doméstico puertas afuera","Alhué",2,2011,221063.305534496
+"12355","Mujer","Personal de servicio doméstico puertas afuera","Alto del Carmen",4,2010,170166.373067136
+"12356","Mujer","Personal de servicio doméstico puertas afuera","Alto del Carmen",4,2011,95943.7826262293
+"12357","Mujer","Personal de servicio doméstico puertas afuera","Alto Hospicio",5,2010,95048.4216554377
+"12358","Mujer","Personal de servicio doméstico puertas afuera","Alto Hospicio",5,2011,106976.216061439
+"12359","Mujer","Personal de servicio doméstico puertas afuera","Ancud",6,2010,128168.764826401
+"12360","Mujer","Personal de servicio doméstico puertas afuera","Ancud",6,2011,65948.2957836333
+"12361","Mujer","Personal de servicio doméstico puertas afuera","Andacollo",7,2011,120579.984836998
+"12362","Mujer","Personal de servicio doméstico puertas afuera","Angol",8,2010,109616.620723843
+"12363","Mujer","Personal de servicio doméstico puertas afuera","Angol",8,2011,96908.3084701636
+"12364","Mujer","Personal de servicio doméstico puertas afuera","Antofagasta",9,2010,137711.780598998
+"12365","Mujer","Personal de servicio doméstico puertas afuera","Antofagasta",9,2011,190066.892435347
+"12366","Mujer","Personal de servicio doméstico puertas afuera","Antuco",10,2011,50000
+"12367","Mujer","Personal de servicio doméstico puertas afuera","Arauco",11,2011,39872.144401617
+"12368","Mujer","Personal de servicio doméstico puertas afuera","Arica",12,2010,101530.090264187
+"12369","Mujer","Personal de servicio doméstico puertas afuera","Arica",12,2011,162703.957190727
+"12370","Mujer","Personal de servicio doméstico puertas afuera","Aysén",13,2010,94757.5587642568
+"12371","Mujer","Personal de servicio doméstico puertas afuera","Aysén",13,2011,97204.1914491131
 "12372","Mujer","Personal de servicio doméstico puertas afuera","Buin",14,2010,235795.756344082
 "12373","Mujer","Personal de servicio doméstico puertas afuera","Buin",14,2011,170635.585565447
 "12374","Mujer","Personal de servicio doméstico puertas afuera","Bulnes",15,2010,85161.2903225807
@@ -12796,37 +12796,37 @@
 "12795","Mujer","Personal de servicio doméstico puertas afuera","Vitacura",340,2011,267000
 "12796","Mujer","Personal de servicio doméstico puertas afuera","Yerbas Buenas",341,2011,109648.397104447
 "12797","Mujer","Personal de servicio doméstico puertas afuera","Yumbel",342,2011,199000
-"12798","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aisén",NA,2012,147773.646341157
-"12799","Mujer","Personal de Servicio Doméstico Puertas Afuera","Algarrobo",1,2012,49275.4330998893
-"12800","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alhué",2,2012,251405.270917803
-"12801","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto del Carmen",4,2012,60337.2650202726
-"12802","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto del Carmen",4,2013,50067.7812923635
-"12803","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto del Carmen",4,2014,55000
-"12804","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto Hospicio",5,2012,168657.392116825
-"12805","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto Hospicio",5,2013,135131.680354826
-"12806","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto Hospicio",5,2014,163827.143263934
-"12807","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto Hospicio",5,2015,256631.94979134
-"12808","Mujer","Personal de Servicio Doméstico Puertas Afuera","Ancud",6,2014,88196.4705718781
-"12809","Mujer","Personal de Servicio Doméstico Puertas Afuera","Ancud",6,2015,120488.953277798
-"12810","Mujer","Personal de Servicio Doméstico Puertas Afuera","Andacollo",7,2012,22123.6638407666
-"12811","Mujer","Personal de Servicio Doméstico Puertas Afuera","Andacollo",7,2015,180048.710084792
-"12812","Mujer","Personal de Servicio Doméstico Puertas Afuera","Angol",8,2012,109708.284720736
-"12813","Mujer","Personal de Servicio Doméstico Puertas Afuera","Angol",8,2013,109460.337405248
-"12814","Mujer","Personal de Servicio Doméstico Puertas Afuera","Angol",8,2014,114894.490983567
-"12815","Mujer","Personal de Servicio Doméstico Puertas Afuera","Angol",8,2015,112162.502428856
-"12816","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",9,2012,183966.270193211
-"12817","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",9,2013,169099.094638708
-"12818","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",9,2014,183720.166450567
-"12819","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",9,2015,281390.598471512
-"12820","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antuco",10,2012,20000
-"12821","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antuco",10,2013,70000
-"12822","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arauco",11,2012,72980.471094238
-"12823","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arauco",11,2014,135974.49840615
-"12824","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arauco",11,2015,86553.9636355043
-"12825","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica",12,2012,110716.129912021
-"12826","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica",12,2013,134569.644253812
-"12827","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica",12,2014,141037.089917466
-"12828","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica",12,2015,154502.364888287
+"12798","Mujer","Personal de Servicio Doméstico Puertas Afuera","Algarrobo",1,2012,49275.4330998893
+"12799","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alhué",2,2012,251405.270917803
+"12800","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto del Carmen",4,2012,60337.2650202726
+"12801","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto del Carmen",4,2013,50067.7812923635
+"12802","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto del Carmen",4,2014,55000
+"12803","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto Hospicio",5,2012,168657.392116825
+"12804","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto Hospicio",5,2013,135131.680354826
+"12805","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto Hospicio",5,2014,163827.143263934
+"12806","Mujer","Personal de Servicio Doméstico Puertas Afuera","Alto Hospicio",5,2015,256631.94979134
+"12807","Mujer","Personal de Servicio Doméstico Puertas Afuera","Ancud",6,2014,88196.4705718781
+"12808","Mujer","Personal de Servicio Doméstico Puertas Afuera","Ancud",6,2015,120488.953277798
+"12809","Mujer","Personal de Servicio Doméstico Puertas Afuera","Andacollo",7,2012,22123.6638407666
+"12810","Mujer","Personal de Servicio Doméstico Puertas Afuera","Andacollo",7,2015,180048.710084792
+"12811","Mujer","Personal de Servicio Doméstico Puertas Afuera","Angol",8,2012,109708.284720736
+"12812","Mujer","Personal de Servicio Doméstico Puertas Afuera","Angol",8,2013,109460.337405248
+"12813","Mujer","Personal de Servicio Doméstico Puertas Afuera","Angol",8,2014,114894.490983567
+"12814","Mujer","Personal de Servicio Doméstico Puertas Afuera","Angol",8,2015,112162.502428856
+"12815","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",9,2012,183966.270193211
+"12816","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",9,2013,169099.094638708
+"12817","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",9,2014,183720.166450567
+"12818","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",9,2015,281390.598471512
+"12819","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antuco",10,2012,20000
+"12820","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antuco",10,2013,70000
+"12821","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arauco",11,2012,72980.471094238
+"12822","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arauco",11,2014,135974.49840615
+"12823","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arauco",11,2015,86553.9636355043
+"12824","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica",12,2012,110716.129912021
+"12825","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica",12,2013,134569.644253812
+"12826","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica",12,2014,141037.089917466
+"12827","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica",12,2015,154502.364888287
+"12828","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén",13,2012,147773.646341157
 "12829","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén",13,2013,122218.641955151
 "12830","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén",13,2014,143704.06234277
 "12831","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén",13,2015,186629.857883684

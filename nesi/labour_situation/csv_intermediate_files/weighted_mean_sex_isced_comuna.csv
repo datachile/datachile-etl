@@ -1,4 +1,4 @@
-"","sex","isced","comuna_name","comuna_datachile_id","year","FUN"
+"","sex","isced","geography_name","geography_id","year","weighted_mean"
 "1","Hombre","Doctorado","Angol",8,2013,161388.239525265
 "2","Hombre","Doctorado","Antofagasta",9,2010,1498974.10845139
 "3","Hombre","Doctorado","Antofagasta",9,2011,1893926.85907681
@@ -183,11 +183,11 @@
 "182","Hombre","Doctorado","Vitacura",340,2013,1871890.44200151
 "183","Hombre","Doctorado","Vitacura",340,2014,4515187.90644659
 "184","Hombre","Doctorado","Vitacura",340,2015,2748576.76039601
-"185","Hombre","Educación preescolar","Aisén",NA,2011,166036.663752301
-"186","Hombre","Educación preescolar","Angol",8,2011,200000
-"187","Hombre","Educación preescolar","Antofagasta",9,2011,250000
-"188","Hombre","Educación preescolar","Arica",12,2010,404395.380700723
-"189","Hombre","Educación preescolar","Arica",12,2011,398918.783169067
+"185","Hombre","Educación preescolar","Angol",8,2011,200000
+"186","Hombre","Educación preescolar","Antofagasta",9,2011,250000
+"187","Hombre","Educación preescolar","Arica",12,2010,404395.380700723
+"188","Hombre","Educación preescolar","Arica",12,2011,398918.783169067
+"189","Hombre","Educación preescolar","Aysén",13,2011,166036.663752301
 "190","Hombre","Educación preescolar","Bulnes",15,2011,120000
 "191","Hombre","Educación preescolar","Calama",19,2010,110000
 "192","Hombre","Educación preescolar","Calama",19,2011,70338.3244882486
@@ -378,29 +378,29 @@
 "377","Hombre","Educación Preescolar","Victoria",333,2014,348595.79306424
 "378","Hombre","Educación Preescolar","Victoria",333,2015,299214.233973199
 "379","Hombre","Educación Preescolar","Viña del Mar",339,2015,230764.917524548
-"380","Hombre","Educación primaria (nivel 1)","Aisén",NA,2010,208110.894598632
-"381","Hombre","Educación primaria (nivel 1)","Aisén",NA,2011,290795.700034704
-"382","Hombre","Educación primaria (nivel 1)","Algarrobo",1,2010,152209.869076695
-"383","Hombre","Educación primaria (nivel 1)","Algarrobo",1,2011,518092.0015163
-"384","Hombre","Educación primaria (nivel 1)","Alhué",2,2011,295755.907252969
-"385","Hombre","Educación primaria (nivel 1)","Alto del Carmen",4,2010,158307.561548581
-"386","Hombre","Educación primaria (nivel 1)","Alto del Carmen",4,2011,190290.78001886
-"387","Hombre","Educación primaria (nivel 1)","Alto Hospicio",5,2010,188840.188233838
-"388","Hombre","Educación primaria (nivel 1)","Alto Hospicio",5,2011,232635.942303552
-"389","Hombre","Educación primaria (nivel 1)","Ancud",6,2010,134505.8177644
-"390","Hombre","Educación primaria (nivel 1)","Ancud",6,2011,152718.377070412
-"391","Hombre","Educación primaria (nivel 1)","Andacollo",7,2010,179654.875302852
-"392","Hombre","Educación primaria (nivel 1)","Andacollo",7,2011,228708.529968974
-"393","Hombre","Educación primaria (nivel 1)","Angol",8,2010,144928.880103203
-"394","Hombre","Educación primaria (nivel 1)","Angol",8,2011,174708.227028632
-"395","Hombre","Educación primaria (nivel 1)","Antofagasta",9,2010,470745.829885074
-"396","Hombre","Educación primaria (nivel 1)","Antofagasta",9,2011,378949.638211641
-"397","Hombre","Educación primaria (nivel 1)","Antuco",10,2010,92048.3358410681
-"398","Hombre","Educación primaria (nivel 1)","Antuco",10,2011,81179.8956052963
-"399","Hombre","Educación primaria (nivel 1)","Arauco",11,2010,192086.253045236
-"400","Hombre","Educación primaria (nivel 1)","Arauco",11,2011,312816.590214133
-"401","Hombre","Educación primaria (nivel 1)","Arica",12,2010,200143.744356456
-"402","Hombre","Educación primaria (nivel 1)","Arica",12,2011,254969.910166636
+"380","Hombre","Educación primaria (nivel 1)","Algarrobo",1,2010,152209.869076695
+"381","Hombre","Educación primaria (nivel 1)","Algarrobo",1,2011,518092.0015163
+"382","Hombre","Educación primaria (nivel 1)","Alhué",2,2011,295755.907252969
+"383","Hombre","Educación primaria (nivel 1)","Alto del Carmen",4,2010,158307.561548581
+"384","Hombre","Educación primaria (nivel 1)","Alto del Carmen",4,2011,190290.78001886
+"385","Hombre","Educación primaria (nivel 1)","Alto Hospicio",5,2010,188840.188233838
+"386","Hombre","Educación primaria (nivel 1)","Alto Hospicio",5,2011,232635.942303552
+"387","Hombre","Educación primaria (nivel 1)","Ancud",6,2010,134505.8177644
+"388","Hombre","Educación primaria (nivel 1)","Ancud",6,2011,152718.377070412
+"389","Hombre","Educación primaria (nivel 1)","Andacollo",7,2010,179654.875302852
+"390","Hombre","Educación primaria (nivel 1)","Andacollo",7,2011,228708.529968974
+"391","Hombre","Educación primaria (nivel 1)","Angol",8,2010,144928.880103203
+"392","Hombre","Educación primaria (nivel 1)","Angol",8,2011,174708.227028632
+"393","Hombre","Educación primaria (nivel 1)","Antofagasta",9,2010,470745.829885074
+"394","Hombre","Educación primaria (nivel 1)","Antofagasta",9,2011,378949.638211641
+"395","Hombre","Educación primaria (nivel 1)","Antuco",10,2010,92048.3358410681
+"396","Hombre","Educación primaria (nivel 1)","Antuco",10,2011,81179.8956052963
+"397","Hombre","Educación primaria (nivel 1)","Arauco",11,2010,192086.253045236
+"398","Hombre","Educación primaria (nivel 1)","Arauco",11,2011,312816.590214133
+"399","Hombre","Educación primaria (nivel 1)","Arica",12,2010,200143.744356456
+"400","Hombre","Educación primaria (nivel 1)","Arica",12,2011,254969.910166636
+"401","Hombre","Educación primaria (nivel 1)","Aysén",13,2010,208110.894598632
+"402","Hombre","Educación primaria (nivel 1)","Aysén",13,2011,290795.700034704
 "403","Hombre","Educación primaria (nivel 1)","Buin",14,2010,177118.937330502
 "404","Hombre","Educación primaria (nivel 1)","Buin",14,2011,201242.56693004
 "405","Hombre","Educación primaria (nivel 1)","Bulnes",15,2010,137587.488764247
@@ -932,50 +932,50 @@
 "931","Hombre","Educación primaria (nivel 1)","Yumbel",342,2010,90776.6957993954
 "932","Hombre","Educación primaria (nivel 1)","Yumbel",342,2011,153166.468869742
 "933","Hombre","Educación primaria (nivel 1)","Yungay",343,2010,98728.0716338832
-"934","Hombre","Educación Primaria (nivel 1)","Aisén",NA,2012,302976.876753856
-"935","Hombre","Educación Primaria (nivel 1)","Algarrobo",1,2012,418338.370807223
-"936","Hombre","Educación Primaria (nivel 1)","Algarrobo",1,2013,110149.1188432
-"937","Hombre","Educación Primaria (nivel 1)","Algarrobo",1,2014,101042.2588592
-"938","Hombre","Educación Primaria (nivel 1)","Alhué",2,2012,328707.454386288
-"939","Hombre","Educación Primaria (nivel 1)","Alhué",2,2013,225805.693628559
-"940","Hombre","Educación Primaria (nivel 1)","Alhué",2,2014,151563.3882888
-"941","Hombre","Educación Primaria (nivel 1)","Alhué",2,2015,160651.937703731
-"942","Hombre","Educación Primaria (nivel 1)","Alto del Carmen",4,2012,162278.519783327
-"943","Hombre","Educación Primaria (nivel 1)","Alto del Carmen",4,2013,148986.647904531
-"944","Hombre","Educación Primaria (nivel 1)","Alto del Carmen",4,2014,290197.326214133
-"945","Hombre","Educación Primaria (nivel 1)","Alto del Carmen",4,2015,140050.936928232
-"946","Hombre","Educación Primaria (nivel 1)","Alto Hospicio",5,2012,271343.022640243
-"947","Hombre","Educación Primaria (nivel 1)","Alto Hospicio",5,2013,229351.721277914
-"948","Hombre","Educación Primaria (nivel 1)","Alto Hospicio",5,2014,391251.373752617
-"949","Hombre","Educación Primaria (nivel 1)","Alto Hospicio",5,2015,314566.511886013
-"950","Hombre","Educación Primaria (nivel 1)","Ancud",6,2012,69239.1927188852
-"951","Hombre","Educación Primaria (nivel 1)","Ancud",6,2013,130361.571807287
-"952","Hombre","Educación Primaria (nivel 1)","Ancud",6,2014,220750.456660004
-"953","Hombre","Educación Primaria (nivel 1)","Ancud",6,2015,222971.208524086
-"954","Hombre","Educación Primaria (nivel 1)","Andacollo",7,2012,329542.898040759
-"955","Hombre","Educación Primaria (nivel 1)","Andacollo",7,2013,181495.967175298
-"956","Hombre","Educación Primaria (nivel 1)","Andacollo",7,2014,277979.57059282
-"957","Hombre","Educación Primaria (nivel 1)","Andacollo",7,2015,190763.010218649
-"958","Hombre","Educación Primaria (nivel 1)","Angol",8,2012,171482.522745361
-"959","Hombre","Educación Primaria (nivel 1)","Angol",8,2013,235754.151198479
-"960","Hombre","Educación Primaria (nivel 1)","Angol",8,2014,266529.64121104
-"961","Hombre","Educación Primaria (nivel 1)","Angol",8,2015,223663.423530069
-"962","Hombre","Educación Primaria (nivel 1)","Antofagasta",9,2012,385034.364793098
-"963","Hombre","Educación Primaria (nivel 1)","Antofagasta",9,2013,297179.913839019
-"964","Hombre","Educación Primaria (nivel 1)","Antofagasta",9,2014,341757.408805159
-"965","Hombre","Educación Primaria (nivel 1)","Antofagasta",9,2015,366682.132815294
-"966","Hombre","Educación Primaria (nivel 1)","Antuco",10,2012,78260.3108731983
-"967","Hombre","Educación Primaria (nivel 1)","Antuco",10,2013,161219.562407798
-"968","Hombre","Educación Primaria (nivel 1)","Antuco",10,2014,190651.906372842
-"969","Hombre","Educación Primaria (nivel 1)","Antuco",10,2015,106922.944186517
-"970","Hombre","Educación Primaria (nivel 1)","Arauco",11,2012,163968.486825859
-"971","Hombre","Educación Primaria (nivel 1)","Arauco",11,2013,192622.024495274
-"972","Hombre","Educación Primaria (nivel 1)","Arauco",11,2014,249231.546766112
-"973","Hombre","Educación Primaria (nivel 1)","Arauco",11,2015,309544.685884039
-"974","Hombre","Educación Primaria (nivel 1)","Arica",12,2012,236684.444115377
-"975","Hombre","Educación Primaria (nivel 1)","Arica",12,2013,238063.664917353
-"976","Hombre","Educación Primaria (nivel 1)","Arica",12,2014,250221.205719528
-"977","Hombre","Educación Primaria (nivel 1)","Arica",12,2015,291970.182047723
+"934","Hombre","Educación Primaria (nivel 1)","Algarrobo",1,2012,418338.370807223
+"935","Hombre","Educación Primaria (nivel 1)","Algarrobo",1,2013,110149.1188432
+"936","Hombre","Educación Primaria (nivel 1)","Algarrobo",1,2014,101042.2588592
+"937","Hombre","Educación Primaria (nivel 1)","Alhué",2,2012,328707.454386288
+"938","Hombre","Educación Primaria (nivel 1)","Alhué",2,2013,225805.693628559
+"939","Hombre","Educación Primaria (nivel 1)","Alhué",2,2014,151563.3882888
+"940","Hombre","Educación Primaria (nivel 1)","Alhué",2,2015,160651.937703731
+"941","Hombre","Educación Primaria (nivel 1)","Alto del Carmen",4,2012,162278.519783327
+"942","Hombre","Educación Primaria (nivel 1)","Alto del Carmen",4,2013,148986.647904531
+"943","Hombre","Educación Primaria (nivel 1)","Alto del Carmen",4,2014,290197.326214133
+"944","Hombre","Educación Primaria (nivel 1)","Alto del Carmen",4,2015,140050.936928232
+"945","Hombre","Educación Primaria (nivel 1)","Alto Hospicio",5,2012,271343.022640243
+"946","Hombre","Educación Primaria (nivel 1)","Alto Hospicio",5,2013,229351.721277914
+"947","Hombre","Educación Primaria (nivel 1)","Alto Hospicio",5,2014,391251.373752617
+"948","Hombre","Educación Primaria (nivel 1)","Alto Hospicio",5,2015,314566.511886013
+"949","Hombre","Educación Primaria (nivel 1)","Ancud",6,2012,69239.1927188852
+"950","Hombre","Educación Primaria (nivel 1)","Ancud",6,2013,130361.571807287
+"951","Hombre","Educación Primaria (nivel 1)","Ancud",6,2014,220750.456660004
+"952","Hombre","Educación Primaria (nivel 1)","Ancud",6,2015,222971.208524086
+"953","Hombre","Educación Primaria (nivel 1)","Andacollo",7,2012,329542.898040759
+"954","Hombre","Educación Primaria (nivel 1)","Andacollo",7,2013,181495.967175298
+"955","Hombre","Educación Primaria (nivel 1)","Andacollo",7,2014,277979.57059282
+"956","Hombre","Educación Primaria (nivel 1)","Andacollo",7,2015,190763.010218649
+"957","Hombre","Educación Primaria (nivel 1)","Angol",8,2012,171482.522745361
+"958","Hombre","Educación Primaria (nivel 1)","Angol",8,2013,235754.151198479
+"959","Hombre","Educación Primaria (nivel 1)","Angol",8,2014,266529.64121104
+"960","Hombre","Educación Primaria (nivel 1)","Angol",8,2015,223663.423530069
+"961","Hombre","Educación Primaria (nivel 1)","Antofagasta",9,2012,385034.364793098
+"962","Hombre","Educación Primaria (nivel 1)","Antofagasta",9,2013,297179.913839019
+"963","Hombre","Educación Primaria (nivel 1)","Antofagasta",9,2014,341757.408805159
+"964","Hombre","Educación Primaria (nivel 1)","Antofagasta",9,2015,366682.132815294
+"965","Hombre","Educación Primaria (nivel 1)","Antuco",10,2012,78260.3108731983
+"966","Hombre","Educación Primaria (nivel 1)","Antuco",10,2013,161219.562407798
+"967","Hombre","Educación Primaria (nivel 1)","Antuco",10,2014,190651.906372842
+"968","Hombre","Educación Primaria (nivel 1)","Antuco",10,2015,106922.944186517
+"969","Hombre","Educación Primaria (nivel 1)","Arauco",11,2012,163968.486825859
+"970","Hombre","Educación Primaria (nivel 1)","Arauco",11,2013,192622.024495274
+"971","Hombre","Educación Primaria (nivel 1)","Arauco",11,2014,249231.546766112
+"972","Hombre","Educación Primaria (nivel 1)","Arauco",11,2015,309544.685884039
+"973","Hombre","Educación Primaria (nivel 1)","Arica",12,2012,236684.444115377
+"974","Hombre","Educación Primaria (nivel 1)","Arica",12,2013,238063.664917353
+"975","Hombre","Educación Primaria (nivel 1)","Arica",12,2014,250221.205719528
+"976","Hombre","Educación Primaria (nivel 1)","Arica",12,2015,291970.182047723
+"977","Hombre","Educación Primaria (nivel 1)","Aysén",13,2012,302976.876753856
 "978","Hombre","Educación Primaria (nivel 1)","Aysén",13,2013,336731.62326928
 "979","Hombre","Educación Primaria (nivel 1)","Aysén",13,2014,262604.224351722
 "980","Hombre","Educación Primaria (nivel 1)","Aysén",13,2015,234372.2161218
@@ -1997,27 +1997,27 @@
 "1996","Hombre","Educación Primaria (nivel 1)","Yungay",343,2015,50189.7732767515
 "1997","Hombre","Educación Primaria (nivel 1)","Zapallar",344,2014,245246.151008403
 "1998","Hombre","Educación Primaria (nivel 1)","Zapallar",344,2015,241981.981166245
-"1999","Hombre","Educación primaria (nivel 2)","Aisén",NA,2010,417787.24534922
-"2000","Hombre","Educación primaria (nivel 2)","Aisén",NA,2011,355173.384200106
-"2001","Hombre","Educación primaria (nivel 2)","Alhué",2,2011,326570.792266868
-"2002","Hombre","Educación primaria (nivel 2)","Alto del Carmen",4,2010,172195.674741154
-"2003","Hombre","Educación primaria (nivel 2)","Alto del Carmen",4,2011,223896.506617457
-"2004","Hombre","Educación primaria (nivel 2)","Alto Hospicio",5,2010,226936.127189866
-"2005","Hombre","Educación primaria (nivel 2)","Alto Hospicio",5,2011,314346.730369078
-"2006","Hombre","Educación primaria (nivel 2)","Ancud",6,2010,127020.582282023
-"2007","Hombre","Educación primaria (nivel 2)","Ancud",6,2011,136435.105802114
-"2008","Hombre","Educación primaria (nivel 2)","Andacollo",7,2010,210899.805774678
-"2009","Hombre","Educación primaria (nivel 2)","Andacollo",7,2011,258206.782961107
-"2010","Hombre","Educación primaria (nivel 2)","Angol",8,2010,297130.769344478
-"2011","Hombre","Educación primaria (nivel 2)","Angol",8,2011,257785.865080306
-"2012","Hombre","Educación primaria (nivel 2)","Antofagasta",9,2010,329051.601998848
-"2013","Hombre","Educación primaria (nivel 2)","Antofagasta",9,2011,369098.659356235
-"2014","Hombre","Educación primaria (nivel 2)","Antuco",10,2010,99931.6072300928
-"2015","Hombre","Educación primaria (nivel 2)","Antuco",10,2011,212780.141164019
-"2016","Hombre","Educación primaria (nivel 2)","Arauco",11,2010,245626.193674011
-"2017","Hombre","Educación primaria (nivel 2)","Arauco",11,2011,238708.365467542
-"2018","Hombre","Educación primaria (nivel 2)","Arica",12,2010,221578.55975375
-"2019","Hombre","Educación primaria (nivel 2)","Arica",12,2011,221426.434657674
+"1999","Hombre","Educación primaria (nivel 2)","Alhué",2,2011,326570.792266868
+"2000","Hombre","Educación primaria (nivel 2)","Alto del Carmen",4,2010,172195.674741154
+"2001","Hombre","Educación primaria (nivel 2)","Alto del Carmen",4,2011,223896.506617457
+"2002","Hombre","Educación primaria (nivel 2)","Alto Hospicio",5,2010,226936.127189866
+"2003","Hombre","Educación primaria (nivel 2)","Alto Hospicio",5,2011,314346.730369078
+"2004","Hombre","Educación primaria (nivel 2)","Ancud",6,2010,127020.582282023
+"2005","Hombre","Educación primaria (nivel 2)","Ancud",6,2011,136435.105802114
+"2006","Hombre","Educación primaria (nivel 2)","Andacollo",7,2010,210899.805774678
+"2007","Hombre","Educación primaria (nivel 2)","Andacollo",7,2011,258206.782961107
+"2008","Hombre","Educación primaria (nivel 2)","Angol",8,2010,297130.769344478
+"2009","Hombre","Educación primaria (nivel 2)","Angol",8,2011,257785.865080306
+"2010","Hombre","Educación primaria (nivel 2)","Antofagasta",9,2010,329051.601998848
+"2011","Hombre","Educación primaria (nivel 2)","Antofagasta",9,2011,369098.659356235
+"2012","Hombre","Educación primaria (nivel 2)","Antuco",10,2010,99931.6072300928
+"2013","Hombre","Educación primaria (nivel 2)","Antuco",10,2011,212780.141164019
+"2014","Hombre","Educación primaria (nivel 2)","Arauco",11,2010,245626.193674011
+"2015","Hombre","Educación primaria (nivel 2)","Arauco",11,2011,238708.365467542
+"2016","Hombre","Educación primaria (nivel 2)","Arica",12,2010,221578.55975375
+"2017","Hombre","Educación primaria (nivel 2)","Arica",12,2011,221426.434657674
+"2018","Hombre","Educación primaria (nivel 2)","Aysén",13,2010,417787.24534922
+"2019","Hombre","Educación primaria (nivel 2)","Aysén",13,2011,355173.384200106
 "2020","Hombre","Educación primaria (nivel 2)","Buin",14,2010,252262.72006539
 "2021","Hombre","Educación primaria (nivel 2)","Buin",14,2011,216252.521489416
 "2022","Hombre","Educación primaria (nivel 2)","Bulnes",15,2010,195419.690783816
@@ -2549,44 +2549,44 @@
 "2548","Hombre","Educación primaria (nivel 2)","Yumbel",342,2010,145609.182394105
 "2549","Hombre","Educación primaria (nivel 2)","Yumbel",342,2011,133583.845893848
 "2550","Hombre","Educación primaria (nivel 2)","Yungay",343,2010,305142.303547075
-"2551","Hombre","Educación Primaria (nivel 2)","Aisén",NA,2012,391848.716866477
-"2552","Hombre","Educación Primaria (nivel 2)","Alhué",2,2012,428394.581643935
-"2553","Hombre","Educación Primaria (nivel 2)","Alhué",2,2013,630854.04428378
-"2554","Hombre","Educación Primaria (nivel 2)","Alto del Carmen",4,2012,152939.354644429
-"2555","Hombre","Educación Primaria (nivel 2)","Alto del Carmen",4,2013,261034.267896851
-"2556","Hombre","Educación Primaria (nivel 2)","Alto del Carmen",4,2014,250420.284701943
-"2557","Hombre","Educación Primaria (nivel 2)","Alto del Carmen",4,2015,300719.949449328
-"2558","Hombre","Educación Primaria (nivel 2)","Alto Hospicio",5,2012,290925.417160238
-"2559","Hombre","Educación Primaria (nivel 2)","Alto Hospicio",5,2013,334548.177802569
-"2560","Hombre","Educación Primaria (nivel 2)","Alto Hospicio",5,2014,463203.473136084
-"2561","Hombre","Educación Primaria (nivel 2)","Alto Hospicio",5,2015,361022.372187775
-"2562","Hombre","Educación Primaria (nivel 2)","Ancud",6,2012,173750.397496042
-"2563","Hombre","Educación Primaria (nivel 2)","Ancud",6,2013,132337.795369025
-"2564","Hombre","Educación Primaria (nivel 2)","Ancud",6,2014,404081.087186677
-"2565","Hombre","Educación Primaria (nivel 2)","Ancud",6,2015,304538.322831155
-"2566","Hombre","Educación Primaria (nivel 2)","Andacollo",7,2012,292883.068853793
-"2567","Hombre","Educación Primaria (nivel 2)","Andacollo",7,2014,191980.29183248
-"2568","Hombre","Educación Primaria (nivel 2)","Andacollo",7,2015,161612.74482182
-"2569","Hombre","Educación Primaria (nivel 2)","Angol",8,2012,216895.935828629
-"2570","Hombre","Educación Primaria (nivel 2)","Angol",8,2013,287417.117074575
-"2571","Hombre","Educación Primaria (nivel 2)","Angol",8,2014,299753.156594379
-"2572","Hombre","Educación Primaria (nivel 2)","Angol",8,2015,236769.839120118
-"2573","Hombre","Educación Primaria (nivel 2)","Antofagasta",9,2012,393880.287155106
-"2574","Hombre","Educación Primaria (nivel 2)","Antofagasta",9,2013,507810.34260666
-"2575","Hombre","Educación Primaria (nivel 2)","Antofagasta",9,2014,491707.766396645
-"2576","Hombre","Educación Primaria (nivel 2)","Antofagasta",9,2015,272502.721660921
-"2577","Hombre","Educación Primaria (nivel 2)","Antuco",10,2012,233816.135761148
-"2578","Hombre","Educación Primaria (nivel 2)","Antuco",10,2013,321189.232107907
-"2579","Hombre","Educación Primaria (nivel 2)","Antuco",10,2014,274603.653529783
-"2580","Hombre","Educación Primaria (nivel 2)","Antuco",10,2015,640173.191412595
-"2581","Hombre","Educación Primaria (nivel 2)","Arauco",11,2012,256501.26897084
-"2582","Hombre","Educación Primaria (nivel 2)","Arauco",11,2013,230646.807826607
-"2583","Hombre","Educación Primaria (nivel 2)","Arauco",11,2014,239529.655597727
-"2584","Hombre","Educación Primaria (nivel 2)","Arauco",11,2015,340092.007937941
-"2585","Hombre","Educación Primaria (nivel 2)","Arica",12,2012,307468.081238356
-"2586","Hombre","Educación Primaria (nivel 2)","Arica",12,2013,318878.662771333
-"2587","Hombre","Educación Primaria (nivel 2)","Arica",12,2014,302614.015032572
-"2588","Hombre","Educación Primaria (nivel 2)","Arica",12,2015,330409.544745742
+"2551","Hombre","Educación Primaria (nivel 2)","Alhué",2,2012,428394.581643935
+"2552","Hombre","Educación Primaria (nivel 2)","Alhué",2,2013,630854.04428378
+"2553","Hombre","Educación Primaria (nivel 2)","Alto del Carmen",4,2012,152939.354644429
+"2554","Hombre","Educación Primaria (nivel 2)","Alto del Carmen",4,2013,261034.267896851
+"2555","Hombre","Educación Primaria (nivel 2)","Alto del Carmen",4,2014,250420.284701943
+"2556","Hombre","Educación Primaria (nivel 2)","Alto del Carmen",4,2015,300719.949449328
+"2557","Hombre","Educación Primaria (nivel 2)","Alto Hospicio",5,2012,290925.417160238
+"2558","Hombre","Educación Primaria (nivel 2)","Alto Hospicio",5,2013,334548.177802569
+"2559","Hombre","Educación Primaria (nivel 2)","Alto Hospicio",5,2014,463203.473136084
+"2560","Hombre","Educación Primaria (nivel 2)","Alto Hospicio",5,2015,361022.372187775
+"2561","Hombre","Educación Primaria (nivel 2)","Ancud",6,2012,173750.397496042
+"2562","Hombre","Educación Primaria (nivel 2)","Ancud",6,2013,132337.795369025
+"2563","Hombre","Educación Primaria (nivel 2)","Ancud",6,2014,404081.087186677
+"2564","Hombre","Educación Primaria (nivel 2)","Ancud",6,2015,304538.322831155
+"2565","Hombre","Educación Primaria (nivel 2)","Andacollo",7,2012,292883.068853793
+"2566","Hombre","Educación Primaria (nivel 2)","Andacollo",7,2014,191980.29183248
+"2567","Hombre","Educación Primaria (nivel 2)","Andacollo",7,2015,161612.74482182
+"2568","Hombre","Educación Primaria (nivel 2)","Angol",8,2012,216895.935828629
+"2569","Hombre","Educación Primaria (nivel 2)","Angol",8,2013,287417.117074575
+"2570","Hombre","Educación Primaria (nivel 2)","Angol",8,2014,299753.156594379
+"2571","Hombre","Educación Primaria (nivel 2)","Angol",8,2015,236769.839120118
+"2572","Hombre","Educación Primaria (nivel 2)","Antofagasta",9,2012,393880.287155106
+"2573","Hombre","Educación Primaria (nivel 2)","Antofagasta",9,2013,507810.34260666
+"2574","Hombre","Educación Primaria (nivel 2)","Antofagasta",9,2014,491707.766396645
+"2575","Hombre","Educación Primaria (nivel 2)","Antofagasta",9,2015,272502.721660921
+"2576","Hombre","Educación Primaria (nivel 2)","Antuco",10,2012,233816.135761148
+"2577","Hombre","Educación Primaria (nivel 2)","Antuco",10,2013,321189.232107907
+"2578","Hombre","Educación Primaria (nivel 2)","Antuco",10,2014,274603.653529783
+"2579","Hombre","Educación Primaria (nivel 2)","Antuco",10,2015,640173.191412595
+"2580","Hombre","Educación Primaria (nivel 2)","Arauco",11,2012,256501.26897084
+"2581","Hombre","Educación Primaria (nivel 2)","Arauco",11,2013,230646.807826607
+"2582","Hombre","Educación Primaria (nivel 2)","Arauco",11,2014,239529.655597727
+"2583","Hombre","Educación Primaria (nivel 2)","Arauco",11,2015,340092.007937941
+"2584","Hombre","Educación Primaria (nivel 2)","Arica",12,2012,307468.081238356
+"2585","Hombre","Educación Primaria (nivel 2)","Arica",12,2013,318878.662771333
+"2586","Hombre","Educación Primaria (nivel 2)","Arica",12,2014,302614.015032572
+"2587","Hombre","Educación Primaria (nivel 2)","Arica",12,2015,330409.544745742
+"2588","Hombre","Educación Primaria (nivel 2)","Aysén",13,2012,391848.716866477
 "2589","Hombre","Educación Primaria (nivel 2)","Aysén",13,2013,382907.993269822
 "2590","Hombre","Educación Primaria (nivel 2)","Aysén",13,2014,353317.187763319
 "2591","Hombre","Educación Primaria (nivel 2)","Aysén",13,2015,391502.865151359
@@ -3622,28 +3622,28 @@
 "3621","Hombre","Educación Primaria (nivel 2)","Yungay",343,2013,27537.2797107999
 "3622","Hombre","Educación Primaria (nivel 2)","Yungay",343,2014,217240.85654728
 "3623","Hombre","Educación Primaria (nivel 2)","Zapallar",344,2015,240977.906555597
-"3624","Hombre","Educación secundaria","Aisén",NA,2010,649812.477207416
-"3625","Hombre","Educación secundaria","Aisén",NA,2011,460412.291209796
-"3626","Hombre","Educación secundaria","Algarrobo",1,2011,398694.06671721
-"3627","Hombre","Educación secundaria","Alhué",2,2011,371783.820166793
-"3628","Hombre","Educación secundaria","Alto del Carmen",4,2010,317038.700588805
-"3629","Hombre","Educación secundaria","Alto del Carmen",4,2011,257629.058996461
-"3630","Hombre","Educación secundaria","Alto Hospicio",5,2010,409178.945061539
-"3631","Hombre","Educación secundaria","Alto Hospicio",5,2011,367376.680121643
-"3632","Hombre","Educación secundaria","Ancud",6,2010,413831.20114674
-"3633","Hombre","Educación secundaria","Ancud",6,2011,237561.31447663
-"3634","Hombre","Educación secundaria","Andacollo",7,2010,489063.463987779
-"3635","Hombre","Educación secundaria","Andacollo",7,2011,457373.655757151
-"3636","Hombre","Educación secundaria","Angol",8,2010,271844.733439936
-"3637","Hombre","Educación secundaria","Angol",8,2011,409712.817230374
-"3638","Hombre","Educación secundaria","Antofagasta",9,2010,432880.873895118
-"3639","Hombre","Educación secundaria","Antofagasta",9,2011,466868.269880756
-"3640","Hombre","Educación secundaria","Antuco",10,2010,339767.464582315
-"3641","Hombre","Educación secundaria","Antuco",10,2011,252000
-"3642","Hombre","Educación secundaria","Arauco",11,2010,368814.427180955
-"3643","Hombre","Educación secundaria","Arauco",11,2011,285459.235742116
-"3644","Hombre","Educación secundaria","Arica",12,2010,304967.420978917
-"3645","Hombre","Educación secundaria","Arica",12,2011,305538.393786003
+"3624","Hombre","Educación secundaria","Algarrobo",1,2011,398694.06671721
+"3625","Hombre","Educación secundaria","Alhué",2,2011,371783.820166793
+"3626","Hombre","Educación secundaria","Alto del Carmen",4,2010,317038.700588805
+"3627","Hombre","Educación secundaria","Alto del Carmen",4,2011,257629.058996461
+"3628","Hombre","Educación secundaria","Alto Hospicio",5,2010,409178.945061539
+"3629","Hombre","Educación secundaria","Alto Hospicio",5,2011,367376.680121643
+"3630","Hombre","Educación secundaria","Ancud",6,2010,413831.20114674
+"3631","Hombre","Educación secundaria","Ancud",6,2011,237561.31447663
+"3632","Hombre","Educación secundaria","Andacollo",7,2010,489063.463987779
+"3633","Hombre","Educación secundaria","Andacollo",7,2011,457373.655757151
+"3634","Hombre","Educación secundaria","Angol",8,2010,271844.733439936
+"3635","Hombre","Educación secundaria","Angol",8,2011,409712.817230374
+"3636","Hombre","Educación secundaria","Antofagasta",9,2010,432880.873895118
+"3637","Hombre","Educación secundaria","Antofagasta",9,2011,466868.269880756
+"3638","Hombre","Educación secundaria","Antuco",10,2010,339767.464582315
+"3639","Hombre","Educación secundaria","Antuco",10,2011,252000
+"3640","Hombre","Educación secundaria","Arauco",11,2010,368814.427180955
+"3641","Hombre","Educación secundaria","Arauco",11,2011,285459.235742116
+"3642","Hombre","Educación secundaria","Arica",12,2010,304967.420978917
+"3643","Hombre","Educación secundaria","Arica",12,2011,305538.393786003
+"3644","Hombre","Educación secundaria","Aysén",13,2010,649812.477207416
+"3645","Hombre","Educación secundaria","Aysén",13,2011,460412.291209796
 "3646","Hombre","Educación secundaria","Buin",14,2010,258279.786197614
 "3647","Hombre","Educación secundaria","Buin",14,2011,362605.926321281
 "3648","Hombre","Educación secundaria","Bulnes",15,2010,272171.900830376
@@ -4195,51 +4195,51 @@
 "4194","Hombre","Educación secundaria","Yumbel",342,2010,180000
 "4195","Hombre","Educación secundaria","Yumbel",342,2011,225142.157062342
 "4196","Hombre","Educación secundaria","Yungay",343,2010,200000
-"4197","Hombre","Educación Secundaria","Aisén",NA,2012,488624.187327599
-"4198","Hombre","Educación Secundaria","Algarrobo",1,2012,540305.84224106
-"4199","Hombre","Educación Secundaria","Algarrobo",1,2013,445603.253502035
-"4200","Hombre","Educación Secundaria","Algarrobo",1,2014,579308.950792747
-"4201","Hombre","Educación Secundaria","Algarrobo",1,2015,1837456.53748643
-"4202","Hombre","Educación Secundaria","Alhué",2,2012,741813.152721463
-"4203","Hombre","Educación Secundaria","Alhué",2,2013,590799.819249889
-"4204","Hombre","Educación Secundaria","Alhué",2,2014,743418.419556564
-"4205","Hombre","Educación Secundaria","Alhué",2,2015,702182.844380058
-"4206","Hombre","Educación Secundaria","Alto del Carmen",4,2012,203969.492260579
-"4207","Hombre","Educación Secundaria","Alto del Carmen",4,2013,219394.014457051
-"4208","Hombre","Educación Secundaria","Alto del Carmen",4,2014,231577.685462553
-"4209","Hombre","Educación Secundaria","Alto del Carmen",4,2015,295961.666028882
-"4210","Hombre","Educación Secundaria","Alto Hospicio",5,2012,364894.657414699
-"4211","Hombre","Educación Secundaria","Alto Hospicio",5,2013,545216.822721173
-"4212","Hombre","Educación Secundaria","Alto Hospicio",5,2014,450066.112696393
-"4213","Hombre","Educación Secundaria","Alto Hospicio",5,2015,505044.756046436
-"4214","Hombre","Educación Secundaria","Ancud",6,2012,209359.571022764
-"4215","Hombre","Educación Secundaria","Ancud",6,2013,244100.204954226
-"4216","Hombre","Educación Secundaria","Ancud",6,2014,338902.82871107
-"4217","Hombre","Educación Secundaria","Ancud",6,2015,571709.907886484
-"4218","Hombre","Educación Secundaria","Andacollo",7,2012,853617.390957391
-"4219","Hombre","Educación Secundaria","Andacollo",7,2013,495563.512755057
-"4220","Hombre","Educación Secundaria","Andacollo",7,2014,562460.073209624
-"4221","Hombre","Educación Secundaria","Andacollo",7,2015,604229.229496805
-"4222","Hombre","Educación Secundaria","Angol",8,2012,420610.653686991
-"4223","Hombre","Educación Secundaria","Angol",8,2013,345826.686247207
-"4224","Hombre","Educación Secundaria","Angol",8,2014,374466.560142532
-"4225","Hombre","Educación Secundaria","Angol",8,2015,407366.21513024
-"4226","Hombre","Educación Secundaria","Antofagasta",9,2012,548212.195608501
-"4227","Hombre","Educación Secundaria","Antofagasta",9,2013,536821.011680288
-"4228","Hombre","Educación Secundaria","Antofagasta",9,2014,522941.541722138
-"4229","Hombre","Educación Secundaria","Antofagasta",9,2015,625379.931619758
-"4230","Hombre","Educación Secundaria","Antuco",10,2012,484953.509588381
-"4231","Hombre","Educación Secundaria","Antuco",10,2013,414407.974407417
-"4232","Hombre","Educación Secundaria","Antuco",10,2014,514086.773307453
-"4233","Hombre","Educación Secundaria","Antuco",10,2015,671282.403568604
-"4234","Hombre","Educación Secundaria","Arauco",11,2012,300506.440085358
-"4235","Hombre","Educación Secundaria","Arauco",11,2013,312907.468549454
-"4236","Hombre","Educación Secundaria","Arauco",11,2014,317991.172604506
-"4237","Hombre","Educación Secundaria","Arauco",11,2015,426743.42495287
-"4238","Hombre","Educación Secundaria","Arica",12,2012,363236.438819252
-"4239","Hombre","Educación Secundaria","Arica",12,2013,376067.694710877
-"4240","Hombre","Educación Secundaria","Arica",12,2014,360189.26371525
-"4241","Hombre","Educación Secundaria","Arica",12,2015,438270.488981273
+"4197","Hombre","Educación Secundaria","Algarrobo",1,2012,540305.84224106
+"4198","Hombre","Educación Secundaria","Algarrobo",1,2013,445603.253502035
+"4199","Hombre","Educación Secundaria","Algarrobo",1,2014,579308.950792747
+"4200","Hombre","Educación Secundaria","Algarrobo",1,2015,1837456.53748643
+"4201","Hombre","Educación Secundaria","Alhué",2,2012,741813.152721463
+"4202","Hombre","Educación Secundaria","Alhué",2,2013,590799.819249889
+"4203","Hombre","Educación Secundaria","Alhué",2,2014,743418.419556564
+"4204","Hombre","Educación Secundaria","Alhué",2,2015,702182.844380058
+"4205","Hombre","Educación Secundaria","Alto del Carmen",4,2012,203969.492260579
+"4206","Hombre","Educación Secundaria","Alto del Carmen",4,2013,219394.014457051
+"4207","Hombre","Educación Secundaria","Alto del Carmen",4,2014,231577.685462553
+"4208","Hombre","Educación Secundaria","Alto del Carmen",4,2015,295961.666028882
+"4209","Hombre","Educación Secundaria","Alto Hospicio",5,2012,364894.657414699
+"4210","Hombre","Educación Secundaria","Alto Hospicio",5,2013,545216.822721173
+"4211","Hombre","Educación Secundaria","Alto Hospicio",5,2014,450066.112696393
+"4212","Hombre","Educación Secundaria","Alto Hospicio",5,2015,505044.756046436
+"4213","Hombre","Educación Secundaria","Ancud",6,2012,209359.571022764
+"4214","Hombre","Educación Secundaria","Ancud",6,2013,244100.204954226
+"4215","Hombre","Educación Secundaria","Ancud",6,2014,338902.82871107
+"4216","Hombre","Educación Secundaria","Ancud",6,2015,571709.907886484
+"4217","Hombre","Educación Secundaria","Andacollo",7,2012,853617.390957391
+"4218","Hombre","Educación Secundaria","Andacollo",7,2013,495563.512755057
+"4219","Hombre","Educación Secundaria","Andacollo",7,2014,562460.073209624
+"4220","Hombre","Educación Secundaria","Andacollo",7,2015,604229.229496805
+"4221","Hombre","Educación Secundaria","Angol",8,2012,420610.653686991
+"4222","Hombre","Educación Secundaria","Angol",8,2013,345826.686247207
+"4223","Hombre","Educación Secundaria","Angol",8,2014,374466.560142532
+"4224","Hombre","Educación Secundaria","Angol",8,2015,407366.21513024
+"4225","Hombre","Educación Secundaria","Antofagasta",9,2012,548212.195608501
+"4226","Hombre","Educación Secundaria","Antofagasta",9,2013,536821.011680288
+"4227","Hombre","Educación Secundaria","Antofagasta",9,2014,522941.541722138
+"4228","Hombre","Educación Secundaria","Antofagasta",9,2015,625379.931619758
+"4229","Hombre","Educación Secundaria","Antuco",10,2012,484953.509588381
+"4230","Hombre","Educación Secundaria","Antuco",10,2013,414407.974407417
+"4231","Hombre","Educación Secundaria","Antuco",10,2014,514086.773307453
+"4232","Hombre","Educación Secundaria","Antuco",10,2015,671282.403568604
+"4233","Hombre","Educación Secundaria","Arauco",11,2012,300506.440085358
+"4234","Hombre","Educación Secundaria","Arauco",11,2013,312907.468549454
+"4235","Hombre","Educación Secundaria","Arauco",11,2014,317991.172604506
+"4236","Hombre","Educación Secundaria","Arauco",11,2015,426743.42495287
+"4237","Hombre","Educación Secundaria","Arica",12,2012,363236.438819252
+"4238","Hombre","Educación Secundaria","Arica",12,2013,376067.694710877
+"4239","Hombre","Educación Secundaria","Arica",12,2014,360189.26371525
+"4240","Hombre","Educación Secundaria","Arica",12,2015,438270.488981273
+"4241","Hombre","Educación Secundaria","Aysén",13,2012,488624.187327599
 "4242","Hombre","Educación Secundaria","Aysén",13,2013,543559.152149457
 "4243","Hombre","Educación Secundaria","Aysén",13,2014,497942.383905344
 "4244","Hombre","Educación Secundaria","Aysén",13,2015,567373.022045342
@@ -5312,49 +5312,49 @@
 "5311","Hombre","Educación Secundaria","Yungay",343,2015,400123.732343356
 "5312","Hombre","Educación Secundaria","Zapallar",344,2014,293966.114333566
 "5313","Hombre","Educación Secundaria","Zapallar",344,2015,341479.872598022
-"5314","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aisén",NA,2010,1100850.5508111
-"5315","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aisén",NA,2011,730955.927905156
-"5316","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aisén",NA,2012,623238.368213858
-"5317","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2010,436268.786823488
-"5318","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2015,1550000
-"5319","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2010,309407.568698862
-"5320","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2011,520000
-"5321","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2012,506364.162753396
-"5322","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2013,508581.368785312
-"5323","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2014,478830.686040898
-"5324","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2015,445438.18946283
-"5325","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2010,450000
-"5326","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2012,795848.680871361
-"5327","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2013,239317.335360089
-"5328","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2014,946433.76479985
-"5329","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2015,286198.638926281
-"5330","Hombre","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2013,751016.71938545
-"5331","Hombre","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2014,282918.32480576
-"5332","Hombre","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2015,281140.89098153
-"5333","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2010,392225.438188413
-"5334","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2011,569236.338181497
-"5335","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2012,509219.173988452
-"5336","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2013,498439.070810864
-"5337","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2014,661682.835928504
-"5338","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2015,649732.253608625
-"5339","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2010,529727.310157405
-"5340","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2011,640484.387478052
-"5341","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2012,621601.30083679
-"5342","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2013,647445.646298239
-"5343","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2014,748771.500703248
-"5344","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2015,896914.074756881
-"5345","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antuco",10,2014,350000
-"5346","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2010,340912.56140283
-"5347","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2011,403953.811713377
-"5348","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2012,667423.837534323
-"5349","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2013,313275.854214123
-"5350","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2014,436514.806378132
-"5351","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2010,455653.5022727
-"5352","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2011,468703.060886939
-"5353","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2012,445858.937934099
-"5354","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2013,496764.955755494
-"5355","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2014,511241.516842942
-"5356","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2015,476077.115086905
+"5314","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2010,436268.786823488
+"5315","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2015,1550000
+"5316","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2010,309407.568698862
+"5317","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2011,520000
+"5318","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2012,506364.162753396
+"5319","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2013,508581.368785312
+"5320","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2014,478830.686040898
+"5321","Hombre","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2015,445438.18946283
+"5322","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2010,450000
+"5323","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2012,795848.680871361
+"5324","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2013,239317.335360089
+"5325","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2014,946433.76479985
+"5326","Hombre","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2015,286198.638926281
+"5327","Hombre","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2013,751016.71938545
+"5328","Hombre","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2014,282918.32480576
+"5329","Hombre","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2015,281140.89098153
+"5330","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2010,392225.438188413
+"5331","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2011,569236.338181497
+"5332","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2012,509219.173988452
+"5333","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2013,498439.070810864
+"5334","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2014,661682.835928504
+"5335","Hombre","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2015,649732.253608625
+"5336","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2010,529727.310157405
+"5337","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2011,640484.387478052
+"5338","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2012,621601.30083679
+"5339","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2013,647445.646298239
+"5340","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2014,748771.500703248
+"5341","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2015,896914.074756881
+"5342","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antuco",10,2014,350000
+"5343","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2010,340912.56140283
+"5344","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2011,403953.811713377
+"5345","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2012,667423.837534323
+"5346","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2013,313275.854214123
+"5347","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2014,436514.806378132
+"5348","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2010,455653.5022727
+"5349","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2011,468703.060886939
+"5350","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2012,445858.937934099
+"5351","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2013,496764.955755494
+"5352","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2014,511241.516842942
+"5353","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2015,476077.115086905
+"5354","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2010,1100850.5508111
+"5355","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2011,730955.927905156
+"5356","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2012,623238.368213858
 "5357","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2013,742257.439961018
 "5358","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2014,715606.965109083
 "5359","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2015,684976.89176529
@@ -6552,26 +6552,26 @@
 "6551","Hombre","Educación Técnica (Educación Superior no Universitaria)","Vitacura",340,2015,1006487.06787277
 "6552","Hombre","Educación Técnica (Educación Superior no Universitaria)","Yumbel",342,2015,481750
 "6553","Hombre","Educación Técnica (Educación Superior no Universitaria)","Yungay",343,2015,747031.51032235
-"6554","Hombre","Educación universitaria","Aisén",NA,2010,775957.613749404
-"6555","Hombre","Educación universitaria","Aisén",NA,2011,1297816.56479253
-"6556","Hombre","Educación universitaria","Algarrobo",1,2010,350342.53278528
-"6557","Hombre","Educación universitaria","Alto del Carmen",4,2010,767152.997759342
-"6558","Hombre","Educación universitaria","Alto del Carmen",4,2011,517237.893290371
-"6559","Hombre","Educación universitaria","Alto Hospicio",5,2010,356657.592753322
-"6560","Hombre","Educación universitaria","Alto Hospicio",5,2011,730285.57705311
-"6561","Hombre","Educación universitaria","Ancud",6,2010,312038.308781104
-"6562","Hombre","Educación universitaria","Ancud",6,2011,548200.973236283
-"6563","Hombre","Educación universitaria","Andacollo",7,2011,811101.364670204
-"6564","Hombre","Educación universitaria","Angol",8,2010,787683.298628407
-"6565","Hombre","Educación universitaria","Angol",8,2011,1159703.28433892
-"6566","Hombre","Educación universitaria","Antofagasta",9,2010,888748.664101341
-"6567","Hombre","Educación universitaria","Antofagasta",9,2011,893257.506248429
-"6568","Hombre","Educación universitaria","Antuco",10,2010,279808.50024426
-"6569","Hombre","Educación universitaria","Antuco",10,2011,150000
-"6570","Hombre","Educación universitaria","Arauco",11,2010,526245.114802148
-"6571","Hombre","Educación universitaria","Arauco",11,2011,299041.083012127
-"6572","Hombre","Educación universitaria","Arica",12,2010,644219.294911004
-"6573","Hombre","Educación universitaria","Arica",12,2011,636410.851610905
+"6554","Hombre","Educación universitaria","Algarrobo",1,2010,350342.53278528
+"6555","Hombre","Educación universitaria","Alto del Carmen",4,2010,767152.997759342
+"6556","Hombre","Educación universitaria","Alto del Carmen",4,2011,517237.893290371
+"6557","Hombre","Educación universitaria","Alto Hospicio",5,2010,356657.592753322
+"6558","Hombre","Educación universitaria","Alto Hospicio",5,2011,730285.57705311
+"6559","Hombre","Educación universitaria","Ancud",6,2010,312038.308781104
+"6560","Hombre","Educación universitaria","Ancud",6,2011,548200.973236283
+"6561","Hombre","Educación universitaria","Andacollo",7,2011,811101.364670204
+"6562","Hombre","Educación universitaria","Angol",8,2010,787683.298628407
+"6563","Hombre","Educación universitaria","Angol",8,2011,1159703.28433892
+"6564","Hombre","Educación universitaria","Antofagasta",9,2010,888748.664101341
+"6565","Hombre","Educación universitaria","Antofagasta",9,2011,893257.506248429
+"6566","Hombre","Educación universitaria","Antuco",10,2010,279808.50024426
+"6567","Hombre","Educación universitaria","Antuco",10,2011,150000
+"6568","Hombre","Educación universitaria","Arauco",11,2010,526245.114802148
+"6569","Hombre","Educación universitaria","Arauco",11,2011,299041.083012127
+"6570","Hombre","Educación universitaria","Arica",12,2010,644219.294911004
+"6571","Hombre","Educación universitaria","Arica",12,2011,636410.851610905
+"6572","Hombre","Educación universitaria","Aysén",13,2010,775957.613749404
+"6573","Hombre","Educación universitaria","Aysén",13,2011,1297816.56479253
 "6574","Hombre","Educación universitaria","Buin",14,2010,1435457.04960465
 "6575","Hombre","Educación universitaria","Buin",14,2011,1713458.29581082
 "6576","Hombre","Educación universitaria","Cabildo",16,2010,617428.886312707
@@ -7016,45 +7016,45 @@
 "7015","Hombre","Educación universitaria","Yumbel",342,2010,692271.259820309
 "7016","Hombre","Educación universitaria","Yumbel",342,2011,275000
 "7017","Hombre","Educación universitaria","Yungay",343,2010,700000
-"7018","Hombre","Educación Universitaria","Aisén",NA,2012,1544228.88502621
-"7019","Hombre","Educación Universitaria","Algarrobo",1,2012,553091.596019165
-"7020","Hombre","Educación Universitaria","Algarrobo",1,2013,500677.812923635
-"7021","Hombre","Educación Universitaria","Algarrobo",1,2014,404169.0354368
-"7022","Hombre","Educación Universitaria","Algarrobo",1,2015,711261.352318005
-"7023","Hombre","Educación Universitaria","Alhué",2,2012,794440.656100256
-"7024","Hombre","Educación Universitaria","Alhué",2,2013,916240.397650252
-"7025","Hombre","Educación Universitaria","Alto del Carmen",4,2012,373839.637854772
-"7026","Hombre","Educación Universitaria","Alto del Carmen",4,2013,528013.147616956
-"7027","Hombre","Educación Universitaria","Alto del Carmen",4,2014,564146.61323402
-"7028","Hombre","Educación Universitaria","Alto del Carmen",4,2015,573912.66928267
-"7029","Hombre","Educación Universitaria","Alto Hospicio",5,2012,425281.991751064
-"7030","Hombre","Educación Universitaria","Alto Hospicio",5,2013,589918.0753534
-"7031","Hombre","Educación Universitaria","Alto Hospicio",5,2014,594254.227743239
-"7032","Hombre","Educación Universitaria","Alto Hospicio",5,2015,636869.578060273
-"7033","Hombre","Educación Universitaria","Ancud",6,2012,823414.408153976
-"7034","Hombre","Educación Universitaria","Ancud",6,2013,354542.197235431
-"7035","Hombre","Educación Universitaria","Ancud",6,2014,552633.006113136
-"7036","Hombre","Educación Universitaria","Ancud",6,2015,1037623.30342504
-"7037","Hombre","Educación Universitaria","Andacollo",7,2012,783150.267302813
-"7038","Hombre","Educación Universitaria","Andacollo",7,2014,303126.7765776
-"7039","Hombre","Educación Universitaria","Andacollo",7,2015,332026.951795013
-"7040","Hombre","Educación Universitaria","Angol",8,2012,1070354.79115742
-"7041","Hombre","Educación Universitaria","Angol",8,2013,738095.042364511
-"7042","Hombre","Educación Universitaria","Angol",8,2014,663911.297452469
-"7043","Hombre","Educación Universitaria","Angol",8,2015,777361.408835984
-"7044","Hombre","Educación Universitaria","Antofagasta",9,2012,1013460.63995061
-"7045","Hombre","Educación Universitaria","Antofagasta",9,2013,1083671.92894814
-"7046","Hombre","Educación Universitaria","Antofagasta",9,2014,1045906.65159334
-"7047","Hombre","Educación Universitaria","Antofagasta",9,2015,1049168.81993416
-"7048","Hombre","Educación Universitaria","Antuco",10,2012,300000
-"7049","Hombre","Educación Universitaria","Antuco",10,2013,400000
-"7050","Hombre","Educación Universitaria","Arauco",11,2012,1054735.82474227
-"7051","Hombre","Educación Universitaria","Arauco",11,2013,1715000
-"7052","Hombre","Educación Universitaria","Arauco",11,2014,1900000
-"7053","Hombre","Educación Universitaria","Arica",12,2012,749732.62037394
-"7054","Hombre","Educación Universitaria","Arica",12,2013,544939.641440772
-"7055","Hombre","Educación Universitaria","Arica",12,2014,746288.712458888
-"7056","Hombre","Educación Universitaria","Arica",12,2015,690802.680063662
+"7018","Hombre","Educación Universitaria","Algarrobo",1,2012,553091.596019165
+"7019","Hombre","Educación Universitaria","Algarrobo",1,2013,500677.812923635
+"7020","Hombre","Educación Universitaria","Algarrobo",1,2014,404169.0354368
+"7021","Hombre","Educación Universitaria","Algarrobo",1,2015,711261.352318005
+"7022","Hombre","Educación Universitaria","Alhué",2,2012,794440.656100256
+"7023","Hombre","Educación Universitaria","Alhué",2,2013,916240.397650252
+"7024","Hombre","Educación Universitaria","Alto del Carmen",4,2012,373839.637854772
+"7025","Hombre","Educación Universitaria","Alto del Carmen",4,2013,528013.147616956
+"7026","Hombre","Educación Universitaria","Alto del Carmen",4,2014,564146.61323402
+"7027","Hombre","Educación Universitaria","Alto del Carmen",4,2015,573912.66928267
+"7028","Hombre","Educación Universitaria","Alto Hospicio",5,2012,425281.991751064
+"7029","Hombre","Educación Universitaria","Alto Hospicio",5,2013,589918.0753534
+"7030","Hombre","Educación Universitaria","Alto Hospicio",5,2014,594254.227743239
+"7031","Hombre","Educación Universitaria","Alto Hospicio",5,2015,636869.578060273
+"7032","Hombre","Educación Universitaria","Ancud",6,2012,823414.408153976
+"7033","Hombre","Educación Universitaria","Ancud",6,2013,354542.197235431
+"7034","Hombre","Educación Universitaria","Ancud",6,2014,552633.006113136
+"7035","Hombre","Educación Universitaria","Ancud",6,2015,1037623.30342504
+"7036","Hombre","Educación Universitaria","Andacollo",7,2012,783150.267302813
+"7037","Hombre","Educación Universitaria","Andacollo",7,2014,303126.7765776
+"7038","Hombre","Educación Universitaria","Andacollo",7,2015,332026.951795013
+"7039","Hombre","Educación Universitaria","Angol",8,2012,1070354.79115742
+"7040","Hombre","Educación Universitaria","Angol",8,2013,738095.042364511
+"7041","Hombre","Educación Universitaria","Angol",8,2014,663911.297452469
+"7042","Hombre","Educación Universitaria","Angol",8,2015,777361.408835984
+"7043","Hombre","Educación Universitaria","Antofagasta",9,2012,1013460.63995061
+"7044","Hombre","Educación Universitaria","Antofagasta",9,2013,1083671.92894814
+"7045","Hombre","Educación Universitaria","Antofagasta",9,2014,1045906.65159334
+"7046","Hombre","Educación Universitaria","Antofagasta",9,2015,1049168.81993416
+"7047","Hombre","Educación Universitaria","Antuco",10,2012,300000
+"7048","Hombre","Educación Universitaria","Antuco",10,2013,400000
+"7049","Hombre","Educación Universitaria","Arauco",11,2012,1054735.82474227
+"7050","Hombre","Educación Universitaria","Arauco",11,2013,1715000
+"7051","Hombre","Educación Universitaria","Arauco",11,2014,1900000
+"7052","Hombre","Educación Universitaria","Arica",12,2012,749732.62037394
+"7053","Hombre","Educación Universitaria","Arica",12,2013,544939.641440772
+"7054","Hombre","Educación Universitaria","Arica",12,2014,746288.712458888
+"7055","Hombre","Educación Universitaria","Arica",12,2015,690802.680063662
+"7056","Hombre","Educación Universitaria","Aysén",13,2012,1544228.88502621
 "7057","Hombre","Educación Universitaria","Aysén",13,2013,1204090.43714158
 "7058","Hombre","Educación Universitaria","Aysén",13,2014,1282287.61606597
 "7059","Hombre","Educación Universitaria","Aysén",13,2015,1753010.6393736
@@ -8100,39 +8100,39 @@
 "8099","Hombre","Nivel ignorado","Vitacura",340,2010,1125113.35296926
 "8100","Hombre","Nivel ignorado","Vitacura",340,2011,1099806.6497446
 "8101","Hombre","Nivel ignorado","Vitacura",340,2012,251127.577319588
-"8102","Hombre","Nunca estudió","Aisén",NA,2010,163700.33422939
-"8103","Hombre","Nunca estudió","Aisén",NA,2011,278547.770341848
-"8104","Hombre","Nunca estudió","Alhué",2,2011,251208.301743745
-"8105","Hombre","Nunca estudió","Alto del Carmen",4,2010,29979.4821690278
-"8106","Hombre","Nunca estudió","Alto del Carmen",4,2011,107803.83924549
-"8107","Hombre","Nunca estudió","Alto del Carmen",4,2013,154601.484647744
-"8108","Hombre","Nunca estudió","Alto del Carmen",4,2014,5024.6657767666
-"8109","Hombre","Nunca estudió","Alto del Carmen",4,2015,157344.658163882
-"8110","Hombre","Nunca estudió","Alto Hospicio",5,2010,141000
-"8111","Hombre","Nunca estudió","Alto Hospicio",5,2011,77520
-"8112","Hombre","Nunca estudió","Alto Hospicio",5,2014,207960.997562348
-"8113","Hombre","Nunca estudió","Alto Hospicio",5,2015,321855.041959152
-"8114","Hombre","Nunca estudió","Ancud",6,2015,70285.2227453824
-"8115","Hombre","Nunca estudió","Andacollo",7,2011,41851.3030705079
-"8116","Hombre","Nunca estudió","Andacollo",7,2014,40416.90354368
-"8117","Hombre","Nunca estudió","Angol",8,2010,74333.6497093716
-"8118","Hombre","Nunca estudió","Angol",8,2011,37171.643319622
-"8119","Hombre","Nunca estudió","Angol",8,2013,45089.5460237801
-"8120","Hombre","Nunca estudió","Angol",8,2014,84182.6826127342
-"8121","Hombre","Nunca estudió","Angol",8,2015,85288.2391797038
-"8122","Hombre","Nunca estudió","Antofagasta",9,2011,29904.1083012127
-"8123","Hombre","Nunca estudió","Antofagasta",9,2013,693192.019950125
-"8124","Hombre","Nunca estudió","Antofagasta",9,2014,250000
-"8125","Hombre","Nunca estudió","Antuco",10,2011,40000
-"8126","Hombre","Nunca estudió","Antuco",10,2014,229956.872304519
-"8127","Hombre","Nunca estudió","Arauco",11,2010,55748.5509212714
-"8128","Hombre","Nunca estudió","Arauco",11,2011,70000
-"8129","Hombre","Nunca estudió","Arauco",11,2015,35009.4714053763
-"8130","Hombre","Nunca estudió","Arica",12,2010,105396.572190117
-"8131","Hombre","Nunca estudió","Arica",12,2011,90679.647234801
-"8132","Hombre","Nunca estudió","Arica",12,2013,296502.281930512
-"8133","Hombre","Nunca estudió","Arica",12,2014,114995.354816336
-"8134","Hombre","Nunca estudió","Arica",12,2015,230659.37964632
+"8102","Hombre","Nunca estudió","Alhué",2,2011,251208.301743745
+"8103","Hombre","Nunca estudió","Alto del Carmen",4,2010,29979.4821690278
+"8104","Hombre","Nunca estudió","Alto del Carmen",4,2011,107803.83924549
+"8105","Hombre","Nunca estudió","Alto del Carmen",4,2013,154601.484647744
+"8106","Hombre","Nunca estudió","Alto del Carmen",4,2014,5024.6657767666
+"8107","Hombre","Nunca estudió","Alto del Carmen",4,2015,157344.658163882
+"8108","Hombre","Nunca estudió","Alto Hospicio",5,2010,141000
+"8109","Hombre","Nunca estudió","Alto Hospicio",5,2011,77520
+"8110","Hombre","Nunca estudió","Alto Hospicio",5,2014,207960.997562348
+"8111","Hombre","Nunca estudió","Alto Hospicio",5,2015,321855.041959152
+"8112","Hombre","Nunca estudió","Ancud",6,2015,70285.2227453824
+"8113","Hombre","Nunca estudió","Andacollo",7,2011,41851.3030705079
+"8114","Hombre","Nunca estudió","Andacollo",7,2014,40416.90354368
+"8115","Hombre","Nunca estudió","Angol",8,2010,74333.6497093716
+"8116","Hombre","Nunca estudió","Angol",8,2011,37171.643319622
+"8117","Hombre","Nunca estudió","Angol",8,2013,45089.5460237801
+"8118","Hombre","Nunca estudió","Angol",8,2014,84182.6826127342
+"8119","Hombre","Nunca estudió","Angol",8,2015,85288.2391797038
+"8120","Hombre","Nunca estudió","Antofagasta",9,2011,29904.1083012127
+"8121","Hombre","Nunca estudió","Antofagasta",9,2013,693192.019950125
+"8122","Hombre","Nunca estudió","Antofagasta",9,2014,250000
+"8123","Hombre","Nunca estudió","Antuco",10,2011,40000
+"8124","Hombre","Nunca estudió","Antuco",10,2014,229956.872304519
+"8125","Hombre","Nunca estudió","Arauco",11,2010,55748.5509212714
+"8126","Hombre","Nunca estudió","Arauco",11,2011,70000
+"8127","Hombre","Nunca estudió","Arauco",11,2015,35009.4714053763
+"8128","Hombre","Nunca estudió","Arica",12,2010,105396.572190117
+"8129","Hombre","Nunca estudió","Arica",12,2011,90679.647234801
+"8130","Hombre","Nunca estudió","Arica",12,2013,296502.281930512
+"8131","Hombre","Nunca estudió","Arica",12,2014,114995.354816336
+"8132","Hombre","Nunca estudió","Arica",12,2015,230659.37964632
+"8133","Hombre","Nunca estudió","Aysén",13,2010,163700.33422939
+"8134","Hombre","Nunca estudió","Aysén",13,2011,278547.770341848
 "8135","Hombre","Nunca estudió","Aysén",13,2013,316993.906772891
 "8136","Hombre","Nunca estudió","Aysén",13,2014,208275.729211177
 "8137","Hombre","Nunca estudió","Aysén",13,2015,92832.8528514097
@@ -8757,13 +8757,13 @@
 "8756","Hombre","Nunca estudió","Yerbas Buenas",341,2014,150696.311471769
 "8757","Hombre","Nunca estudió","Yerbas Buenas",341,2015,58688.8551756907
 "8758","Hombre","Nunca estudió","Yumbel",342,2011,55045
-"8759","Hombre","Nunca Estudió","Aisén",NA,2012,338994.460037
-"8760","Hombre","Nunca Estudió","Alto del Carmen",4,2012,190000
-"8761","Hombre","Nunca Estudió","Andacollo",7,2012,74740.0969406561
-"8762","Hombre","Nunca Estudió","Angol",8,2012,167600.449864817
-"8763","Hombre","Nunca Estudió","Antofagasta",9,2012,217606.736311639
-"8764","Hombre","Nunca Estudió","Arauco",11,2012,90505.8975304089
-"8765","Hombre","Nunca Estudió","Arica",12,2012,2350097.08626097
+"8759","Hombre","Nunca Estudió","Alto del Carmen",4,2012,190000
+"8760","Hombre","Nunca Estudió","Andacollo",7,2012,74740.0969406561
+"8761","Hombre","Nunca Estudió","Angol",8,2012,167600.449864817
+"8762","Hombre","Nunca Estudió","Antofagasta",9,2012,217606.736311639
+"8763","Hombre","Nunca Estudió","Arauco",11,2012,90505.8975304089
+"8764","Hombre","Nunca Estudió","Arica",12,2012,2350097.08626097
+"8765","Hombre","Nunca Estudió","Aysén",13,2012,338994.460037
 "8766","Hombre","Nunca Estudió","Bulnes",15,2012,20000
 "8767","Hombre","Nunca Estudió","Calama",19,2012,253136.597938144
 "8768","Hombre","Nunca Estudió","Calbuco",20,2012,120674.530040545
@@ -9141,11 +9141,11 @@
 "9140","Hombre","Postítulo y Maestría","Vitacura",340,2014,2631301.81545285
 "9141","Hombre","Postítulo y Maestría","Vitacura",340,2015,2486475.65302492
 "9142","Hombre","Postítulo y Maestría","Yumbel",342,2015,1110000
-"9143","Hombre","Postitulos y maestria","Aisén",NA,2010,376367.978077901
-"9144","Hombre","Postitulos y maestria","Antofagasta",9,2010,1064795.32682069
-"9145","Hombre","Postitulos y maestria","Antofagasta",9,2011,996803.610040425
-"9146","Hombre","Postitulos y maestria","Arica",12,2010,1098736.37297997
-"9147","Hombre","Postitulos y maestria","Arica",12,2011,1484752.76916877
+"9143","Hombre","Postitulos y maestria","Antofagasta",9,2010,1064795.32682069
+"9144","Hombre","Postitulos y maestria","Antofagasta",9,2011,996803.610040425
+"9145","Hombre","Postitulos y maestria","Arica",12,2010,1098736.37297997
+"9146","Hombre","Postitulos y maestria","Arica",12,2011,1484752.76916877
+"9147","Hombre","Postitulos y maestria","Aysén",13,2010,376367.978077901
 "9148","Hombre","Postitulos y maestria","Buin",14,2010,935200
 "9149","Hombre","Postitulos y maestria","Buin",14,2011,2000000
 "9150","Hombre","Postitulos y maestria","Calama",19,2010,1550884.91437142
@@ -9440,10 +9440,10 @@
 "9439","Mujer","Doctorado","Vitacura",340,2013,1769186.35751937
 "9440","Mujer","Doctorado","Vitacura",340,2014,1826175.51755516
 "9441","Mujer","Doctorado","Vitacura",340,2015,2880632.05131304
-"9442","Mujer","Educación preescolar","Aisén",NA,2010,179876.893014167
-"9443","Mujer","Educación preescolar","Aisén",NA,2011,99680.3610040425
-"9444","Mujer","Educación preescolar","Angol",8,2010,150000
-"9445","Mujer","Educación preescolar","Angol",8,2011,25000
+"9442","Mujer","Educación preescolar","Angol",8,2010,150000
+"9443","Mujer","Educación preescolar","Angol",8,2011,25000
+"9444","Mujer","Educación preescolar","Aysén",13,2010,179876.893014167
+"9445","Mujer","Educación preescolar","Aysén",13,2011,99680.3610040425
 "9446","Mujer","Educación preescolar","Calama",19,2011,79744.288803234
 "9447","Mujer","Educación preescolar","Colina",59,2011,39872.144401617
 "9448","Mujer","Educación preescolar","Concepción",64,2011,60000
@@ -9502,27 +9502,27 @@
 "9501","Mujer","Educación Preescolar","Victoria",333,2015,170046.003968971
 "9502","Mujer","Educación Preescolar","Viña del Mar",339,2012,1000000
 "9503","Mujer","Educación Preescolar","Viña del Mar",339,2013,105142.340713963
-"9504","Mujer","Educación primaria (nivel 1)","Aisén",NA,2010,217804.010284186
-"9505","Mujer","Educación primaria (nivel 1)","Aisén",NA,2011,171553.860554318
-"9506","Mujer","Educación primaria (nivel 1)","Alhué",2,2011,80386.6565579984
-"9507","Mujer","Educación primaria (nivel 1)","Alto del Carmen",4,2010,88278.5564379905
-"9508","Mujer","Educación primaria (nivel 1)","Alto del Carmen",4,2011,104939.050709922
-"9509","Mujer","Educación primaria (nivel 1)","Alto Hospicio",5,2010,88958.1514331949
-"9510","Mujer","Educación primaria (nivel 1)","Alto Hospicio",5,2011,145940.000134858
-"9511","Mujer","Educación primaria (nivel 1)","Ancud",6,2010,113225.67808351
-"9512","Mujer","Educación primaria (nivel 1)","Ancud",6,2011,48531.670530111
-"9513","Mujer","Educación primaria (nivel 1)","Andacollo",7,2010,99096.887844979
-"9514","Mujer","Educación primaria (nivel 1)","Andacollo",7,2011,175182.707956404
-"9515","Mujer","Educación primaria (nivel 1)","Angol",8,2010,118379.923904967
-"9516","Mujer","Educación primaria (nivel 1)","Angol",8,2011,134335.004544435
-"9517","Mujer","Educación primaria (nivel 1)","Antofagasta",9,2010,123870.486826774
-"9518","Mujer","Educación primaria (nivel 1)","Antofagasta",9,2011,134750.935307382
-"9519","Mujer","Educación primaria (nivel 1)","Antuco",10,2010,134907.669760625
-"9520","Mujer","Educación primaria (nivel 1)","Antuco",10,2011,50000
-"9521","Mujer","Educación primaria (nivel 1)","Arauco",11,2010,93793.0277088014
-"9522","Mujer","Educación primaria (nivel 1)","Arauco",11,2011,68633.5140489819
-"9523","Mujer","Educación primaria (nivel 1)","Arica",12,2010,120165.687706751
-"9524","Mujer","Educación primaria (nivel 1)","Arica",12,2011,136668.571573619
+"9504","Mujer","Educación primaria (nivel 1)","Alhué",2,2011,80386.6565579984
+"9505","Mujer","Educación primaria (nivel 1)","Alto del Carmen",4,2010,88278.5564379905
+"9506","Mujer","Educación primaria (nivel 1)","Alto del Carmen",4,2011,104939.050709922
+"9507","Mujer","Educación primaria (nivel 1)","Alto Hospicio",5,2010,88958.1514331949
+"9508","Mujer","Educación primaria (nivel 1)","Alto Hospicio",5,2011,145940.000134858
+"9509","Mujer","Educación primaria (nivel 1)","Ancud",6,2010,113225.67808351
+"9510","Mujer","Educación primaria (nivel 1)","Ancud",6,2011,48531.670530111
+"9511","Mujer","Educación primaria (nivel 1)","Andacollo",7,2010,99096.887844979
+"9512","Mujer","Educación primaria (nivel 1)","Andacollo",7,2011,175182.707956404
+"9513","Mujer","Educación primaria (nivel 1)","Angol",8,2010,118379.923904967
+"9514","Mujer","Educación primaria (nivel 1)","Angol",8,2011,134335.004544435
+"9515","Mujer","Educación primaria (nivel 1)","Antofagasta",9,2010,123870.486826774
+"9516","Mujer","Educación primaria (nivel 1)","Antofagasta",9,2011,134750.935307382
+"9517","Mujer","Educación primaria (nivel 1)","Antuco",10,2010,134907.669760625
+"9518","Mujer","Educación primaria (nivel 1)","Antuco",10,2011,50000
+"9519","Mujer","Educación primaria (nivel 1)","Arauco",11,2010,93793.0277088014
+"9520","Mujer","Educación primaria (nivel 1)","Arauco",11,2011,68633.5140489819
+"9521","Mujer","Educación primaria (nivel 1)","Arica",12,2010,120165.687706751
+"9522","Mujer","Educación primaria (nivel 1)","Arica",12,2011,136668.571573619
+"9523","Mujer","Educación primaria (nivel 1)","Aysén",13,2010,217804.010284186
+"9524","Mujer","Educación primaria (nivel 1)","Aysén",13,2011,171553.860554318
 "9525","Mujer","Educación primaria (nivel 1)","Buin",14,2010,105202.147798583
 "9526","Mujer","Educación primaria (nivel 1)","Buin",14,2011,126155.703230457
 "9527","Mujer","Educación primaria (nivel 1)","Bulnes",15,2010,80369.9016636391
@@ -10020,44 +10020,44 @@
 "10019","Mujer","Educación primaria (nivel 1)","Yerbas Buenas",341,2010,129911.089399121
 "10020","Mujer","Educación primaria (nivel 1)","Yumbel",342,2010,61574.1508399413
 "10021","Mujer","Educación primaria (nivel 1)","Yumbel",342,2011,112000
-"10022","Mujer","Educación Primaria (nivel 1)","Aisén",NA,2012,100331.817483649
-"10023","Mujer","Educación Primaria (nivel 1)","Alhué",2,2012,181011.795060818
-"10024","Mujer","Educación Primaria (nivel 1)","Alhué",2,2013,192260.280162676
-"10025","Mujer","Educación Primaria (nivel 1)","Alto del Carmen",4,2012,77490.0984725234
-"10026","Mujer","Educación Primaria (nivel 1)","Alto del Carmen",4,2013,76450.614310041
-"10027","Mujer","Educación Primaria (nivel 1)","Alto del Carmen",4,2014,72882.9405436108
-"10028","Mujer","Educación Primaria (nivel 1)","Alto del Carmen",4,2015,875654.47540751
-"10029","Mujer","Educación Primaria (nivel 1)","Alto Hospicio",5,2012,93009.937018005
-"10030","Mujer","Educación Primaria (nivel 1)","Alto Hospicio",5,2013,136271.626156484
-"10031","Mujer","Educación Primaria (nivel 1)","Alto Hospicio",5,2014,144006.744100688
-"10032","Mujer","Educación Primaria (nivel 1)","Alto Hospicio",5,2015,372798.754124653
-"10033","Mujer","Educación Primaria (nivel 1)","Ancud",6,2012,128806.825462733
-"10034","Mujer","Educación Primaria (nivel 1)","Ancud",6,2013,131003.187657673
-"10035","Mujer","Educación Primaria (nivel 1)","Ancud",6,2014,104410.380023352
-"10036","Mujer","Educación Primaria (nivel 1)","Ancud",6,2015,93206.3398403576
-"10037","Mujer","Educación Primaria (nivel 1)","Andacollo",7,2012,740642.627207974
-"10038","Mujer","Educación Primaria (nivel 1)","Andacollo",7,2013,14971.7370077324
-"10039","Mujer","Educación Primaria (nivel 1)","Andacollo",7,2015,45183.3574791744
-"10040","Mujer","Educación Primaria (nivel 1)","Angol",8,2012,106932.838320386
-"10041","Mujer","Educación Primaria (nivel 1)","Angol",8,2013,109525.288956492
-"10042","Mujer","Educación Primaria (nivel 1)","Angol",8,2014,119761.482286035
-"10043","Mujer","Educación Primaria (nivel 1)","Angol",8,2015,110773.936498599
-"10044","Mujer","Educación Primaria (nivel 1)","Antofagasta",9,2012,201439.949996666
-"10045","Mujer","Educación Primaria (nivel 1)","Antofagasta",9,2013,88270.7384523302
-"10046","Mujer","Educación Primaria (nivel 1)","Antofagasta",9,2014,191644.29018148
-"10047","Mujer","Educación Primaria (nivel 1)","Antofagasta",9,2015,236222.373515872
-"10048","Mujer","Educación Primaria (nivel 1)","Antuco",10,2012,20000
-"10049","Mujer","Educación Primaria (nivel 1)","Antuco",10,2013,50000
-"10050","Mujer","Educación Primaria (nivel 1)","Antuco",10,2014,64987.8117382337
-"10051","Mujer","Educación Primaria (nivel 1)","Antuco",10,2015,96313.5808678128
-"10052","Mujer","Educación Primaria (nivel 1)","Arauco",11,2012,18069.9208424174
-"10053","Mujer","Educación Primaria (nivel 1)","Arauco",11,2013,28670.0353467295
-"10054","Mujer","Educación Primaria (nivel 1)","Arauco",11,2014,149265.783576922
-"10055","Mujer","Educación Primaria (nivel 1)","Arauco",11,2015,101844.00390342
-"10056","Mujer","Educación Primaria (nivel 1)","Arica",12,2012,134580.802954251
-"10057","Mujer","Educación Primaria (nivel 1)","Arica",12,2013,145273.962357625
-"10058","Mujer","Educación Primaria (nivel 1)","Arica",12,2014,139574.864496783
-"10059","Mujer","Educación Primaria (nivel 1)","Arica",12,2015,157689.599069536
+"10022","Mujer","Educación Primaria (nivel 1)","Alhué",2,2012,181011.795060818
+"10023","Mujer","Educación Primaria (nivel 1)","Alhué",2,2013,192260.280162676
+"10024","Mujer","Educación Primaria (nivel 1)","Alto del Carmen",4,2012,77490.0984725234
+"10025","Mujer","Educación Primaria (nivel 1)","Alto del Carmen",4,2013,76450.614310041
+"10026","Mujer","Educación Primaria (nivel 1)","Alto del Carmen",4,2014,72882.9405436108
+"10027","Mujer","Educación Primaria (nivel 1)","Alto del Carmen",4,2015,875654.47540751
+"10028","Mujer","Educación Primaria (nivel 1)","Alto Hospicio",5,2012,93009.937018005
+"10029","Mujer","Educación Primaria (nivel 1)","Alto Hospicio",5,2013,136271.626156484
+"10030","Mujer","Educación Primaria (nivel 1)","Alto Hospicio",5,2014,144006.744100688
+"10031","Mujer","Educación Primaria (nivel 1)","Alto Hospicio",5,2015,372798.754124653
+"10032","Mujer","Educación Primaria (nivel 1)","Ancud",6,2012,128806.825462733
+"10033","Mujer","Educación Primaria (nivel 1)","Ancud",6,2013,131003.187657673
+"10034","Mujer","Educación Primaria (nivel 1)","Ancud",6,2014,104410.380023352
+"10035","Mujer","Educación Primaria (nivel 1)","Ancud",6,2015,93206.3398403576
+"10036","Mujer","Educación Primaria (nivel 1)","Andacollo",7,2012,740642.627207974
+"10037","Mujer","Educación Primaria (nivel 1)","Andacollo",7,2013,14971.7370077324
+"10038","Mujer","Educación Primaria (nivel 1)","Andacollo",7,2015,45183.3574791744
+"10039","Mujer","Educación Primaria (nivel 1)","Angol",8,2012,106932.838320386
+"10040","Mujer","Educación Primaria (nivel 1)","Angol",8,2013,109525.288956492
+"10041","Mujer","Educación Primaria (nivel 1)","Angol",8,2014,119761.482286035
+"10042","Mujer","Educación Primaria (nivel 1)","Angol",8,2015,110773.936498599
+"10043","Mujer","Educación Primaria (nivel 1)","Antofagasta",9,2012,201439.949996666
+"10044","Mujer","Educación Primaria (nivel 1)","Antofagasta",9,2013,88270.7384523302
+"10045","Mujer","Educación Primaria (nivel 1)","Antofagasta",9,2014,191644.29018148
+"10046","Mujer","Educación Primaria (nivel 1)","Antofagasta",9,2015,236222.373515872
+"10047","Mujer","Educación Primaria (nivel 1)","Antuco",10,2012,20000
+"10048","Mujer","Educación Primaria (nivel 1)","Antuco",10,2013,50000
+"10049","Mujer","Educación Primaria (nivel 1)","Antuco",10,2014,64987.8117382337
+"10050","Mujer","Educación Primaria (nivel 1)","Antuco",10,2015,96313.5808678128
+"10051","Mujer","Educación Primaria (nivel 1)","Arauco",11,2012,18069.9208424174
+"10052","Mujer","Educación Primaria (nivel 1)","Arauco",11,2013,28670.0353467295
+"10053","Mujer","Educación Primaria (nivel 1)","Arauco",11,2014,149265.783576922
+"10054","Mujer","Educación Primaria (nivel 1)","Arauco",11,2015,101844.00390342
+"10055","Mujer","Educación Primaria (nivel 1)","Arica",12,2012,134580.802954251
+"10056","Mujer","Educación Primaria (nivel 1)","Arica",12,2013,145273.962357625
+"10057","Mujer","Educación Primaria (nivel 1)","Arica",12,2014,139574.864496783
+"10058","Mujer","Educación Primaria (nivel 1)","Arica",12,2015,157689.599069536
+"10059","Mujer","Educación Primaria (nivel 1)","Aysén",13,2012,100331.817483649
 "10060","Mujer","Educación Primaria (nivel 1)","Aysén",13,2013,188194.324112729
 "10061","Mujer","Educación Primaria (nivel 1)","Aysén",13,2014,161863.88611338
 "10062","Mujer","Educación Primaria (nivel 1)","Aysén",13,2015,213313.023387131
@@ -10997,24 +10997,24 @@
 "10996","Mujer","Educación Primaria (nivel 1)","Yungay",343,2015,15061.1191597248
 "10997","Mujer","Educación Primaria (nivel 1)","Zapallar",344,2014,45188.5109895972
 "10998","Mujer","Educación Primaria (nivel 1)","Zapallar",344,2015,5020.3730532416
-"10999","Mujer","Educación primaria (nivel 2)","Aisén",NA,2010,190390.177436363
-"11000","Mujer","Educación primaria (nivel 2)","Aisén",NA,2011,203315.010425901
-"11001","Mujer","Educación primaria (nivel 2)","Algarrobo",1,2010,162031.191122454
-"11002","Mujer","Educación primaria (nivel 2)","Alhué",2,2011,168544.023249937
-"11003","Mujer","Educación primaria (nivel 2)","Alto del Carmen",4,2010,171864.751496677
-"11004","Mujer","Educación primaria (nivel 2)","Alto del Carmen",4,2011,74428.3355841042
-"11005","Mujer","Educación primaria (nivel 2)","Alto Hospicio",5,2010,116405.949952168
-"11006","Mujer","Educación primaria (nivel 2)","Alto Hospicio",5,2011,153258.929757791
-"11007","Mujer","Educación primaria (nivel 2)","Ancud",6,2010,97588.5483703956
-"11008","Mujer","Educación primaria (nivel 2)","Ancud",6,2011,132010.523731482
-"11009","Mujer","Educación primaria (nivel 2)","Angol",8,2010,101023.117366167
-"11010","Mujer","Educación primaria (nivel 2)","Angol",8,2011,145821.099269254
-"11011","Mujer","Educación primaria (nivel 2)","Antofagasta",9,2010,115767.32311549
-"11012","Mujer","Educación primaria (nivel 2)","Antofagasta",9,2011,172585.274696882
-"11013","Mujer","Educación primaria (nivel 2)","Arauco",11,2010,191703.977036396
-"11014","Mujer","Educación primaria (nivel 2)","Arauco",11,2011,116937.699145399
-"11015","Mujer","Educación primaria (nivel 2)","Arica",12,2010,173917.013192202
-"11016","Mujer","Educación primaria (nivel 2)","Arica",12,2011,145316.047567142
+"10999","Mujer","Educación primaria (nivel 2)","Algarrobo",1,2010,162031.191122454
+"11000","Mujer","Educación primaria (nivel 2)","Alhué",2,2011,168544.023249937
+"11001","Mujer","Educación primaria (nivel 2)","Alto del Carmen",4,2010,171864.751496677
+"11002","Mujer","Educación primaria (nivel 2)","Alto del Carmen",4,2011,74428.3355841042
+"11003","Mujer","Educación primaria (nivel 2)","Alto Hospicio",5,2010,116405.949952168
+"11004","Mujer","Educación primaria (nivel 2)","Alto Hospicio",5,2011,153258.929757791
+"11005","Mujer","Educación primaria (nivel 2)","Ancud",6,2010,97588.5483703956
+"11006","Mujer","Educación primaria (nivel 2)","Ancud",6,2011,132010.523731482
+"11007","Mujer","Educación primaria (nivel 2)","Angol",8,2010,101023.117366167
+"11008","Mujer","Educación primaria (nivel 2)","Angol",8,2011,145821.099269254
+"11009","Mujer","Educación primaria (nivel 2)","Antofagasta",9,2010,115767.32311549
+"11010","Mujer","Educación primaria (nivel 2)","Antofagasta",9,2011,172585.274696882
+"11011","Mujer","Educación primaria (nivel 2)","Arauco",11,2010,191703.977036396
+"11012","Mujer","Educación primaria (nivel 2)","Arauco",11,2011,116937.699145399
+"11013","Mujer","Educación primaria (nivel 2)","Arica",12,2010,173917.013192202
+"11014","Mujer","Educación primaria (nivel 2)","Arica",12,2011,145316.047567142
+"11015","Mujer","Educación primaria (nivel 2)","Aysén",13,2010,190390.177436363
+"11016","Mujer","Educación primaria (nivel 2)","Aysén",13,2011,203315.010425901
 "11017","Mujer","Educación primaria (nivel 2)","Buin",14,2010,156303.777637727
 "11018","Mujer","Educación primaria (nivel 2)","Buin",14,2011,160317.757357031
 "11019","Mujer","Educación primaria (nivel 2)","Bulnes",15,2010,130637.131810269
@@ -11490,42 +11490,42 @@
 "11489","Mujer","Educación primaria (nivel 2)","Vitacura",340,2010,241892.666753684
 "11490","Mujer","Educación primaria (nivel 2)","Vitacura",340,2011,268654.466387128
 "11491","Mujer","Educación primaria (nivel 2)","Yerbas Buenas",341,2010,119917.928676111
-"11492","Mujer","Educación Primaria (nivel 2)","Aisén",NA,2012,202654.7818891
-"11493","Mujer","Educación Primaria (nivel 2)","Algarrobo",1,2012,49275.4330998893
-"11494","Mujer","Educación Primaria (nivel 2)","Algarrobo",1,2013,90122.0063262543
-"11495","Mujer","Educación Primaria (nivel 2)","Alhué",2,2012,271517.692591227
-"11496","Mujer","Educación Primaria (nivel 2)","Alto del Carmen",4,2012,85244.9971829649
-"11497","Mujer","Educación Primaria (nivel 2)","Alto del Carmen",4,2013,74521.9509427775
-"11498","Mujer","Educación Primaria (nivel 2)","Alto del Carmen",4,2014,101807.897944426
-"11499","Mujer","Educación Primaria (nivel 2)","Alto del Carmen",4,2015,360000
-"11500","Mujer","Educación Primaria (nivel 2)","Alto Hospicio",5,2012,103912.803511474
-"11501","Mujer","Educación Primaria (nivel 2)","Alto Hospicio",5,2013,237992.619953474
-"11502","Mujer","Educación Primaria (nivel 2)","Alto Hospicio",5,2014,267639.836134251
-"11503","Mujer","Educación Primaria (nivel 2)","Alto Hospicio",5,2015,267584.610705797
-"11504","Mujer","Educación Primaria (nivel 2)","Ancud",6,2012,104642.984534492
-"11505","Mujer","Educación Primaria (nivel 2)","Ancud",6,2013,202727.306802061
-"11506","Mujer","Educación Primaria (nivel 2)","Ancud",6,2014,286389.39486174
-"11507","Mujer","Educación Primaria (nivel 2)","Ancud",6,2015,161577.100506436
-"11508","Mujer","Educación Primaria (nivel 2)","Andacollo",7,2013,97632.1735201086
-"11509","Mujer","Educación Primaria (nivel 2)","Andacollo",7,2014,20208.45177184
-"11510","Mujer","Educación Primaria (nivel 2)","Angol",8,2012,96963.7857772745
-"11511","Mujer","Educación Primaria (nivel 2)","Angol",8,2013,201175.141916089
-"11512","Mujer","Educación Primaria (nivel 2)","Angol",8,2014,161578.078916049
-"11513","Mujer","Educación Primaria (nivel 2)","Angol",8,2015,175755.154867868
-"11514","Mujer","Educación Primaria (nivel 2)","Antofagasta",9,2012,194509.464762989
-"11515","Mujer","Educación Primaria (nivel 2)","Antofagasta",9,2013,274148.141880827
-"11516","Mujer","Educación Primaria (nivel 2)","Antofagasta",9,2014,239566.390683164
-"11517","Mujer","Educación Primaria (nivel 2)","Antofagasta",9,2015,517067.812327554
-"11518","Mujer","Educación Primaria (nivel 2)","Antuco",10,2013,310000
-"11519","Mujer","Educación Primaria (nivel 2)","Antuco",10,2014,277074.798478727
-"11520","Mujer","Educación Primaria (nivel 2)","Arauco",11,2012,45248.8540642402
-"11521","Mujer","Educación Primaria (nivel 2)","Arauco",11,2013,60081.3375508362
-"11522","Mujer","Educación Primaria (nivel 2)","Arauco",11,2014,186419.494796472
-"11523","Mujer","Educación Primaria (nivel 2)","Arauco",11,2015,292695.773636935
-"11524","Mujer","Educación Primaria (nivel 2)","Arica",12,2012,133828.208668521
-"11525","Mujer","Educación Primaria (nivel 2)","Arica",12,2013,181003.174129594
-"11526","Mujer","Educación Primaria (nivel 2)","Arica",12,2014,161155.756599666
-"11527","Mujer","Educación Primaria (nivel 2)","Arica",12,2015,198161.710301337
+"11492","Mujer","Educación Primaria (nivel 2)","Algarrobo",1,2012,49275.4330998893
+"11493","Mujer","Educación Primaria (nivel 2)","Algarrobo",1,2013,90122.0063262543
+"11494","Mujer","Educación Primaria (nivel 2)","Alhué",2,2012,271517.692591227
+"11495","Mujer","Educación Primaria (nivel 2)","Alto del Carmen",4,2012,85244.9971829649
+"11496","Mujer","Educación Primaria (nivel 2)","Alto del Carmen",4,2013,74521.9509427775
+"11497","Mujer","Educación Primaria (nivel 2)","Alto del Carmen",4,2014,101807.897944426
+"11498","Mujer","Educación Primaria (nivel 2)","Alto del Carmen",4,2015,360000
+"11499","Mujer","Educación Primaria (nivel 2)","Alto Hospicio",5,2012,103912.803511474
+"11500","Mujer","Educación Primaria (nivel 2)","Alto Hospicio",5,2013,237992.619953474
+"11501","Mujer","Educación Primaria (nivel 2)","Alto Hospicio",5,2014,267639.836134251
+"11502","Mujer","Educación Primaria (nivel 2)","Alto Hospicio",5,2015,267584.610705797
+"11503","Mujer","Educación Primaria (nivel 2)","Ancud",6,2012,104642.984534492
+"11504","Mujer","Educación Primaria (nivel 2)","Ancud",6,2013,202727.306802061
+"11505","Mujer","Educación Primaria (nivel 2)","Ancud",6,2014,286389.39486174
+"11506","Mujer","Educación Primaria (nivel 2)","Ancud",6,2015,161577.100506436
+"11507","Mujer","Educación Primaria (nivel 2)","Andacollo",7,2013,97632.1735201086
+"11508","Mujer","Educación Primaria (nivel 2)","Andacollo",7,2014,20208.45177184
+"11509","Mujer","Educación Primaria (nivel 2)","Angol",8,2012,96963.7857772745
+"11510","Mujer","Educación Primaria (nivel 2)","Angol",8,2013,201175.141916089
+"11511","Mujer","Educación Primaria (nivel 2)","Angol",8,2014,161578.078916049
+"11512","Mujer","Educación Primaria (nivel 2)","Angol",8,2015,175755.154867868
+"11513","Mujer","Educación Primaria (nivel 2)","Antofagasta",9,2012,194509.464762989
+"11514","Mujer","Educación Primaria (nivel 2)","Antofagasta",9,2013,274148.141880827
+"11515","Mujer","Educación Primaria (nivel 2)","Antofagasta",9,2014,239566.390683164
+"11516","Mujer","Educación Primaria (nivel 2)","Antofagasta",9,2015,517067.812327554
+"11517","Mujer","Educación Primaria (nivel 2)","Antuco",10,2013,310000
+"11518","Mujer","Educación Primaria (nivel 2)","Antuco",10,2014,277074.798478727
+"11519","Mujer","Educación Primaria (nivel 2)","Arauco",11,2012,45248.8540642402
+"11520","Mujer","Educación Primaria (nivel 2)","Arauco",11,2013,60081.3375508362
+"11521","Mujer","Educación Primaria (nivel 2)","Arauco",11,2014,186419.494796472
+"11522","Mujer","Educación Primaria (nivel 2)","Arauco",11,2015,292695.773636935
+"11523","Mujer","Educación Primaria (nivel 2)","Arica",12,2012,133828.208668521
+"11524","Mujer","Educación Primaria (nivel 2)","Arica",12,2013,181003.174129594
+"11525","Mujer","Educación Primaria (nivel 2)","Arica",12,2014,161155.756599666
+"11526","Mujer","Educación Primaria (nivel 2)","Arica",12,2015,198161.710301337
+"11527","Mujer","Educación Primaria (nivel 2)","Aysén",13,2012,202654.7818891
 "11528","Mujer","Educación Primaria (nivel 2)","Aysén",13,2013,235442.164558725
 "11529","Mujer","Educación Primaria (nivel 2)","Aysén",13,2014,221242.103317993
 "11530","Mujer","Educación Primaria (nivel 2)","Aysén",13,2015,259277.405339356
@@ -12460,28 +12460,28 @@
 "12459","Mujer","Educación Primaria (nivel 2)","Yerbas Buenas",341,2013,129652.488581191
 "12460","Mujer","Educación Primaria (nivel 2)","Yerbas Buenas",341,2014,272448.903056441
 "12461","Mujer","Educación Primaria (nivel 2)","Yerbas Buenas",341,2015,241065.217391305
-"12462","Mujer","Educación secundaria","Aisén",NA,2010,284058.909152625
-"12463","Mujer","Educación secundaria","Aisén",NA,2011,278019.298757734
-"12464","Mujer","Educación secundaria","Algarrobo",1,2011,336284.179934293
-"12465","Mujer","Educación secundaria","Alhué",2,2011,245849.191306545
-"12466","Mujer","Educación secundaria","Alto del Carmen",4,2010,134166.265869709
-"12467","Mujer","Educación secundaria","Alto del Carmen",4,2011,185860.479529234
-"12468","Mujer","Educación secundaria","Alto Hospicio",5,2010,174176.637973937
-"12469","Mujer","Educación secundaria","Alto Hospicio",5,2011,214428.677191063
-"12470","Mujer","Educación secundaria","Ancud",6,2010,153875.579628775
-"12471","Mujer","Educación secundaria","Ancud",6,2011,233986.70408765
-"12472","Mujer","Educación secundaria","Andacollo",7,2010,174199.288367523
-"12473","Mujer","Educación secundaria","Andacollo",7,2011,215728.713327783
-"12474","Mujer","Educación secundaria","Angol",8,2010,207063.2228163
-"12475","Mujer","Educación secundaria","Angol",8,2011,175231.893987365
-"12476","Mujer","Educación secundaria","Antofagasta",9,2010,210082.657349347
-"12477","Mujer","Educación secundaria","Antofagasta",9,2011,300749.688664723
-"12478","Mujer","Educación secundaria","Antuco",10,2010,59958.9643380557
-"12479","Mujer","Educación secundaria","Antuco",10,2011,182143.373691271
-"12480","Mujer","Educación secundaria","Arauco",11,2010,146438.071237304
-"12481","Mujer","Educación secundaria","Arauco",11,2011,112520.365342996
-"12482","Mujer","Educación secundaria","Arica",12,2010,196876.346457939
-"12483","Mujer","Educación secundaria","Arica",12,2011,188651.402953911
+"12462","Mujer","Educación secundaria","Algarrobo",1,2011,336284.179934293
+"12463","Mujer","Educación secundaria","Alhué",2,2011,245849.191306545
+"12464","Mujer","Educación secundaria","Alto del Carmen",4,2010,134166.265869709
+"12465","Mujer","Educación secundaria","Alto del Carmen",4,2011,185860.479529234
+"12466","Mujer","Educación secundaria","Alto Hospicio",5,2010,174176.637973937
+"12467","Mujer","Educación secundaria","Alto Hospicio",5,2011,214428.677191063
+"12468","Mujer","Educación secundaria","Ancud",6,2010,153875.579628775
+"12469","Mujer","Educación secundaria","Ancud",6,2011,233986.70408765
+"12470","Mujer","Educación secundaria","Andacollo",7,2010,174199.288367523
+"12471","Mujer","Educación secundaria","Andacollo",7,2011,215728.713327783
+"12472","Mujer","Educación secundaria","Angol",8,2010,207063.2228163
+"12473","Mujer","Educación secundaria","Angol",8,2011,175231.893987365
+"12474","Mujer","Educación secundaria","Antofagasta",9,2010,210082.657349347
+"12475","Mujer","Educación secundaria","Antofagasta",9,2011,300749.688664723
+"12476","Mujer","Educación secundaria","Antuco",10,2010,59958.9643380557
+"12477","Mujer","Educación secundaria","Antuco",10,2011,182143.373691271
+"12478","Mujer","Educación secundaria","Arauco",11,2010,146438.071237304
+"12479","Mujer","Educación secundaria","Arauco",11,2011,112520.365342996
+"12480","Mujer","Educación secundaria","Arica",12,2010,196876.346457939
+"12481","Mujer","Educación secundaria","Arica",12,2011,188651.402953911
+"12482","Mujer","Educación secundaria","Aysén",13,2010,284058.909152625
+"12483","Mujer","Educación secundaria","Aysén",13,2011,278019.298757734
 "12484","Mujer","Educación secundaria","Buin",14,2010,275756.872406175
 "12485","Mujer","Educación secundaria","Buin",14,2011,192349.838782926
 "12486","Mujer","Educación secundaria","Bulnes",15,2010,123370.582760918
@@ -13019,49 +13019,49 @@
 "13018","Mujer","Educación secundaria","Yerbas Buenas",341,2011,88217.1194885777
 "13019","Mujer","Educación secundaria","Yumbel",342,2010,152135.459847467
 "13020","Mujer","Educación secundaria","Yumbel",342,2011,33333.3333333333
-"13021","Mujer","Educación Secundaria","Aisén",NA,2012,294845.523392868
-"13022","Mujer","Educación Secundaria","Algarrobo",1,2012,270260.666236638
-"13023","Mujer","Educación Secundaria","Algarrobo",1,2013,180244.012652509
-"13024","Mujer","Educación Secundaria","Algarrobo",1,2014,1040937.35076748
-"13025","Mujer","Educación Secundaria","Algarrobo",1,2015,595750.935651337
-"13026","Mujer","Educación Secundaria","Alhué",2,2012,389678.169922594
-"13027","Mujer","Educación Secundaria","Alhué",2,2013,574778.129236333
-"13028","Mujer","Educación Secundaria","Alhué",2,2014,101042.2588592
-"13029","Mujer","Educación Secundaria","Alto del Carmen",4,2012,187560.485493829
-"13030","Mujer","Educación Secundaria","Alto del Carmen",4,2013,236370.953809573
-"13031","Mujer","Educación Secundaria","Alto del Carmen",4,2014,290292.971886502
-"13032","Mujer","Educación Secundaria","Alto del Carmen",4,2015,275078.729037909
-"13033","Mujer","Educación Secundaria","Alto Hospicio",5,2012,231509.70122042
-"13034","Mujer","Educación Secundaria","Alto Hospicio",5,2013,233484.192708607
-"13035","Mujer","Educación Secundaria","Alto Hospicio",5,2014,263678.644389875
-"13036","Mujer","Educación Secundaria","Alto Hospicio",5,2015,223487.900084817
-"13037","Mujer","Educación Secundaria","Ancud",6,2012,227553.884047342
-"13038","Mujer","Educación Secundaria","Ancud",6,2013,214639.949886554
-"13039","Mujer","Educación Secundaria","Ancud",6,2014,217727.123509759
-"13040","Mujer","Educación Secundaria","Ancud",6,2015,223576.164743647
-"13041","Mujer","Educación Secundaria","Andacollo",7,2012,263854.99562798
-"13042","Mujer","Educación Secundaria","Andacollo",7,2013,168275.433468499
-"13043","Mujer","Educación Secundaria","Andacollo",7,2014,276386.832545526
-"13044","Mujer","Educación Secundaria","Andacollo",7,2015,221816.664133379
-"13045","Mujer","Educación Secundaria","Angol",8,2012,213202.211297848
-"13046","Mujer","Educación Secundaria","Angol",8,2013,188143.073369572
-"13047","Mujer","Educación Secundaria","Angol",8,2014,253163.458633461
-"13048","Mujer","Educación Secundaria","Angol",8,2015,215000.127178027
-"13049","Mujer","Educación Secundaria","Antofagasta",9,2012,294476.679058777
-"13050","Mujer","Educación Secundaria","Antofagasta",9,2013,307567.508975832
-"13051","Mujer","Educación Secundaria","Antofagasta",9,2014,317398.882024431
-"13052","Mujer","Educación Secundaria","Antofagasta",9,2015,318368.59890124
-"13053","Mujer","Educación Secundaria","Antuco",10,2012,220106.072285274
-"13054","Mujer","Educación Secundaria","Antuco",10,2013,169355.484494651
-"13055","Mujer","Educación Secundaria","Antuco",10,2014,9998.12488280518
-"13056","Mujer","Educación Secundaria","Arauco",11,2012,135463.151350021
-"13057","Mujer","Educación Secundaria","Arauco",11,2013,176363.185173254
-"13058","Mujer","Educación Secundaria","Arauco",11,2014,217029.286857572
-"13059","Mujer","Educación Secundaria","Arauco",11,2015,157078.659134799
-"13060","Mujer","Educación Secundaria","Arica",12,2012,185046.118282917
-"13061","Mujer","Educación Secundaria","Arica",12,2013,199248.994462595
-"13062","Mujer","Educación Secundaria","Arica",12,2014,242465.389646275
-"13063","Mujer","Educación Secundaria","Arica",12,2015,250560.323064586
+"13021","Mujer","Educación Secundaria","Algarrobo",1,2012,270260.666236638
+"13022","Mujer","Educación Secundaria","Algarrobo",1,2013,180244.012652509
+"13023","Mujer","Educación Secundaria","Algarrobo",1,2014,1040937.35076748
+"13024","Mujer","Educación Secundaria","Algarrobo",1,2015,595750.935651337
+"13025","Mujer","Educación Secundaria","Alhué",2,2012,389678.169922594
+"13026","Mujer","Educación Secundaria","Alhué",2,2013,574778.129236333
+"13027","Mujer","Educación Secundaria","Alhué",2,2014,101042.2588592
+"13028","Mujer","Educación Secundaria","Alto del Carmen",4,2012,187560.485493829
+"13029","Mujer","Educación Secundaria","Alto del Carmen",4,2013,236370.953809573
+"13030","Mujer","Educación Secundaria","Alto del Carmen",4,2014,290292.971886502
+"13031","Mujer","Educación Secundaria","Alto del Carmen",4,2015,275078.729037909
+"13032","Mujer","Educación Secundaria","Alto Hospicio",5,2012,231509.70122042
+"13033","Mujer","Educación Secundaria","Alto Hospicio",5,2013,233484.192708607
+"13034","Mujer","Educación Secundaria","Alto Hospicio",5,2014,263678.644389875
+"13035","Mujer","Educación Secundaria","Alto Hospicio",5,2015,223487.900084817
+"13036","Mujer","Educación Secundaria","Ancud",6,2012,227553.884047342
+"13037","Mujer","Educación Secundaria","Ancud",6,2013,214639.949886554
+"13038","Mujer","Educación Secundaria","Ancud",6,2014,217727.123509759
+"13039","Mujer","Educación Secundaria","Ancud",6,2015,223576.164743647
+"13040","Mujer","Educación Secundaria","Andacollo",7,2012,263854.99562798
+"13041","Mujer","Educación Secundaria","Andacollo",7,2013,168275.433468499
+"13042","Mujer","Educación Secundaria","Andacollo",7,2014,276386.832545526
+"13043","Mujer","Educación Secundaria","Andacollo",7,2015,221816.664133379
+"13044","Mujer","Educación Secundaria","Angol",8,2012,213202.211297848
+"13045","Mujer","Educación Secundaria","Angol",8,2013,188143.073369572
+"13046","Mujer","Educación Secundaria","Angol",8,2014,253163.458633461
+"13047","Mujer","Educación Secundaria","Angol",8,2015,215000.127178027
+"13048","Mujer","Educación Secundaria","Antofagasta",9,2012,294476.679058777
+"13049","Mujer","Educación Secundaria","Antofagasta",9,2013,307567.508975832
+"13050","Mujer","Educación Secundaria","Antofagasta",9,2014,317398.882024431
+"13051","Mujer","Educación Secundaria","Antofagasta",9,2015,318368.59890124
+"13052","Mujer","Educación Secundaria","Antuco",10,2012,220106.072285274
+"13053","Mujer","Educación Secundaria","Antuco",10,2013,169355.484494651
+"13054","Mujer","Educación Secundaria","Antuco",10,2014,9998.12488280518
+"13055","Mujer","Educación Secundaria","Arauco",11,2012,135463.151350021
+"13056","Mujer","Educación Secundaria","Arauco",11,2013,176363.185173254
+"13057","Mujer","Educación Secundaria","Arauco",11,2014,217029.286857572
+"13058","Mujer","Educación Secundaria","Arauco",11,2015,157078.659134799
+"13059","Mujer","Educación Secundaria","Arica",12,2012,185046.118282917
+"13060","Mujer","Educación Secundaria","Arica",12,2013,199248.994462595
+"13061","Mujer","Educación Secundaria","Arica",12,2014,242465.389646275
+"13062","Mujer","Educación Secundaria","Arica",12,2015,250560.323064586
+"13063","Mujer","Educación Secundaria","Aysén",13,2012,294845.523392868
 "13064","Mujer","Educación Secundaria","Aysén",13,2013,306071.849860852
 "13065","Mujer","Educación Secundaria","Aysén",13,2014,250668.291236926
 "13066","Mujer","Educación Secundaria","Aysén",13,2015,284377.814888376
@@ -14099,57 +14099,57 @@
 "14098","Mujer","Educación Secundaria","Yungay",343,2015,421711.336472295
 "14099","Mujer","Educación Secundaria","Zapallar",344,2014,222147.522195477
 "14100","Mujer","Educación Secundaria","Zapallar",344,2015,282972.389597275
-"14101","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aisén",NA,2010,430414.81033362
-"14102","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aisén",NA,2011,412570.482701976
-"14103","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aisén",NA,2012,475712.590053918
-"14104","Mujer","Educación Técnica (Educación Superior no Universitaria)","Algarrobo",1,2011,291401.630022744
-"14105","Mujer","Educación Técnica (Educación Superior no Universitaria)","Algarrobo",1,2012,634883.284049021
-"14106","Mujer","Educación Técnica (Educación Superior no Universitaria)","Algarrobo",1,2015,421711.336472294
-"14107","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alhué",2,2012,420349.612974566
-"14108","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alhué",2,2013,380515.137821963
-"14109","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2010,149205.575401447
-"14110","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2011,40193.3282789992
-"14111","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2012,50281.0541835605
-"14112","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2014,368804.24483608
-"14113","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2010,206286.14344724
-"14114","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2011,243969.49812416
-"14115","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2012,283220.598382133
-"14116","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2013,343212.741205692
-"14117","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2014,479034.525510013
-"14118","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2015,325608.468162938
-"14119","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2010,200195.73302016
-"14120","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2011,219067.212277462
-"14121","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2012,161021.837971462
-"14122","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2013,94946.232441729
-"14123","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2014,798233.84498768
-"14124","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2015,1004074.61064832
-"14125","Mujer","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2010,339767.464582316
-"14126","Mujer","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2011,299041.083012127
-"14127","Mujer","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2012,334357.062529516
-"14128","Mujer","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2014,383960.58366496
-"14129","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2010,212724.123862213
-"14130","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2011,192407.685045976
-"14131","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2012,260559.01618984
-"14132","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2013,371234.152081904
-"14133","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2014,386741.505837642
-"14134","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2015,419976.981943528
-"14135","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2010,384293.917965283
-"14136","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2011,417892.369901528
-"14137","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2012,453727.262083161
-"14138","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2013,425628.239090174
-"14139","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2014,458870.414202714
-"14140","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2015,368926.89627681
-"14141","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2010,326208.753607584
-"14142","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2011,329422.588592594
-"14143","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2012,347388.316151203
-"14144","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2013,431333.333333333
-"14145","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2014,369500
-"14146","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2010,237650.847733258
-"14147","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2011,279051.252435811
-"14148","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2012,273114.011002518
-"14149","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2013,356797.098566812
-"14150","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2014,364603.747705591
-"14151","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2015,391695.150867284
+"14101","Mujer","Educación Técnica (Educación Superior no Universitaria)","Algarrobo",1,2011,291401.630022744
+"14102","Mujer","Educación Técnica (Educación Superior no Universitaria)","Algarrobo",1,2012,634883.284049021
+"14103","Mujer","Educación Técnica (Educación Superior no Universitaria)","Algarrobo",1,2015,421711.336472294
+"14104","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alhué",2,2012,420349.612974566
+"14105","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alhué",2,2013,380515.137821963
+"14106","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2010,149205.575401447
+"14107","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2011,40193.3282789992
+"14108","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2012,50281.0541835605
+"14109","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto del Carmen",4,2014,368804.24483608
+"14110","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2010,206286.14344724
+"14111","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2011,243969.49812416
+"14112","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2012,283220.598382133
+"14113","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2013,343212.741205692
+"14114","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2014,479034.525510013
+"14115","Mujer","Educación Técnica (Educación Superior no Universitaria)","Alto Hospicio",5,2015,325608.468162938
+"14116","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2010,200195.73302016
+"14117","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2011,219067.212277462
+"14118","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2012,161021.837971462
+"14119","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2013,94946.232441729
+"14120","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2014,798233.84498768
+"14121","Mujer","Educación Técnica (Educación Superior no Universitaria)","Ancud",6,2015,1004074.61064832
+"14122","Mujer","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2010,339767.464582316
+"14123","Mujer","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2011,299041.083012127
+"14124","Mujer","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2012,334357.062529516
+"14125","Mujer","Educación Técnica (Educación Superior no Universitaria)","Andacollo",7,2014,383960.58366496
+"14126","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2010,212724.123862213
+"14127","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2011,192407.685045976
+"14128","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2012,260559.01618984
+"14129","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2013,371234.152081904
+"14130","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2014,386741.505837642
+"14131","Mujer","Educación Técnica (Educación Superior no Universitaria)","Angol",8,2015,419976.981943528
+"14132","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2010,384293.917965283
+"14133","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2011,417892.369901528
+"14134","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2012,453727.262083161
+"14135","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2013,425628.239090174
+"14136","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2014,458870.414202714
+"14137","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",9,2015,368926.89627681
+"14138","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2010,326208.753607584
+"14139","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2011,329422.588592594
+"14140","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2012,347388.316151203
+"14141","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2013,431333.333333333
+"14142","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arauco",11,2014,369500
+"14143","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2010,237650.847733258
+"14144","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2011,279051.252435811
+"14145","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2012,273114.011002518
+"14146","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2013,356797.098566812
+"14147","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2014,364603.747705591
+"14148","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica",12,2015,391695.150867284
+"14149","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2010,430414.81033362
+"14150","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2011,412570.482701976
+"14151","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2012,475712.590053918
 "14152","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2013,526058.652695648
 "14153","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2014,674349.991216249
 "14154","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",13,2015,480795.374441395
@@ -15403,24 +15403,24 @@
 "15402","Mujer","Educación Técnica (Educación Superior no Universitaria)","Yumbel",342,2015,315000
 "15403","Mujer","Educación Técnica (Educación Superior no Universitaria)","Zapallar",344,2014,343543.68012128
 "15404","Mujer","Educación Técnica (Educación Superior no Universitaria)","Zapallar",344,2015,221900.488953278
-"15405","Mujer","Educación universitaria","Aisén",NA,2010,539055.216229901
-"15406","Mujer","Educación universitaria","Aisén",NA,2011,668791.144791736
-"15407","Mujer","Educación universitaria","Algarrobo",1,2011,904349.886277482
-"15408","Mujer","Educación universitaria","Alto del Carmen",4,2010,482170.004885198
-"15409","Mujer","Educación universitaria","Alto del Carmen",4,2011,301449.962092494
-"15410","Mujer","Educación universitaria","Alto Hospicio",5,2010,270267.325433968
-"15411","Mujer","Educación universitaria","Alto Hospicio",5,2011,362604.944405814
-"15412","Mujer","Educación universitaria","Ancud",6,2010,969915.302142289
-"15413","Mujer","Educación universitaria","Ancud",6,2011,662322.865638922
-"15414","Mujer","Educación universitaria","Angol",8,2010,623413.072268347
-"15415","Mujer","Educación universitaria","Angol",8,2011,603964.173305036
-"15416","Mujer","Educación universitaria","Antofagasta",9,2010,551511.747152587
-"15417","Mujer","Educación universitaria","Antofagasta",9,2011,435276.926492259
-"15418","Mujer","Educación universitaria","Antuco",10,2010,529637.518319492
-"15419","Mujer","Educación universitaria","Arauco",11,2010,363251.392281387
-"15420","Mujer","Educación universitaria","Arauco",11,2011,299041.083012127
-"15421","Mujer","Educación universitaria","Arica",12,2010,428056.067397371
-"15422","Mujer","Educación universitaria","Arica",12,2011,433107.770286282
+"15405","Mujer","Educación universitaria","Algarrobo",1,2011,904349.886277482
+"15406","Mujer","Educación universitaria","Alto del Carmen",4,2010,482170.004885198
+"15407","Mujer","Educación universitaria","Alto del Carmen",4,2011,301449.962092494
+"15408","Mujer","Educación universitaria","Alto Hospicio",5,2010,270267.325433968
+"15409","Mujer","Educación universitaria","Alto Hospicio",5,2011,362604.944405814
+"15410","Mujer","Educación universitaria","Ancud",6,2010,969915.302142289
+"15411","Mujer","Educación universitaria","Ancud",6,2011,662322.865638922
+"15412","Mujer","Educación universitaria","Angol",8,2010,623413.072268347
+"15413","Mujer","Educación universitaria","Angol",8,2011,603964.173305036
+"15414","Mujer","Educación universitaria","Antofagasta",9,2010,551511.747152587
+"15415","Mujer","Educación universitaria","Antofagasta",9,2011,435276.926492259
+"15416","Mujer","Educación universitaria","Antuco",10,2010,529637.518319492
+"15417","Mujer","Educación universitaria","Arauco",11,2010,363251.392281387
+"15418","Mujer","Educación universitaria","Arauco",11,2011,299041.083012127
+"15419","Mujer","Educación universitaria","Arica",12,2010,428056.067397371
+"15420","Mujer","Educación universitaria","Arica",12,2011,433107.770286282
+"15421","Mujer","Educación universitaria","Aysén",13,2010,539055.216229901
+"15422","Mujer","Educación universitaria","Aysén",13,2011,668791.144791736
 "15423","Mujer","Educación universitaria","Buin",14,2010,1297688.67977942
 "15424","Mujer","Educación universitaria","Buin",14,2011,1079185.16580041
 "15425","Mujer","Educación universitaria","Bulnes",15,2010,800782.93208064
@@ -15863,43 +15863,43 @@
 "15862","Mujer","Educación universitaria","Yerbas Buenas",341,2010,338268.490473864
 "15863","Mujer","Educación universitaria","Yumbel",342,2010,393750
 "15864","Mujer","Educación universitaria","Yumbel",342,2011,467872.666666667
-"15865","Mujer","Educación Universitaria","Aisén",NA,2012,1033336.19136716
-"15866","Mujer","Educación Universitaria","Algarrobo",1,2012,335952.863527459
-"15867","Mujer","Educación Universitaria","Algarrobo",1,2013,543958.071998796
-"15868","Mujer","Educación Universitaria","Algarrobo",1,2014,600191.017623648
-"15869","Mujer","Educación Universitaria","Algarrobo",1,2015,602444.766388992
-"15870","Mujer","Educación Universitaria","Alhué",2,2014,202084.5177184
-"15871","Mujer","Educación Universitaria","Alhué",2,2015,662689.243027891
-"15872","Mujer","Educación Universitaria","Alto del Carmen",4,2012,849749.815702171
-"15873","Mujer","Educación Universitaria","Alto del Carmen",4,2013,346469.046543155
-"15874","Mujer","Educación Universitaria","Alto del Carmen",4,2014,100493.315535332
-"15875","Mujer","Educación Universitaria","Alto del Carmen",4,2015,84108.8822457683
-"15876","Mujer","Educación Universitaria","Alto Hospicio",5,2012,396089.26014469
-"15877","Mujer","Educación Universitaria","Alto Hospicio",5,2013,320104.808761318
-"15878","Mujer","Educación Universitaria","Alto Hospicio",5,2014,304405.563694538
-"15879","Mujer","Educación Universitaria","Alto Hospicio",5,2015,621143.882034903
-"15880","Mujer","Educación Universitaria","Ancud",6,2012,433687.127384197
-"15881","Mujer","Educación Universitaria","Ancud",6,2013,324824.014605134
-"15882","Mujer","Educación Universitaria","Ancud",6,2014,559989.528076274
-"15883","Mujer","Educación Universitaria","Ancud",6,2015,1063798.87604976
-"15884","Mujer","Educación Universitaria","Andacollo",7,2013,242828.739267963
-"15885","Mujer","Educación Universitaria","Andacollo",7,2015,626149.70878091
-"15886","Mujer","Educación Universitaria","Angol",8,2012,515046.459614544
-"15887","Mujer","Educación Universitaria","Angol",8,2013,531495.222583591
-"15888","Mujer","Educación Universitaria","Angol",8,2014,492116.162157904
-"15889","Mujer","Educación Universitaria","Angol",8,2015,564336.110469077
-"15890","Mujer","Educación Universitaria","Antofagasta",9,2012,764338.107598208
-"15891","Mujer","Educación Universitaria","Antofagasta",9,2013,690232.712681737
-"15892","Mujer","Educación Universitaria","Antofagasta",9,2014,606860.048082104
-"15893","Mujer","Educación Universitaria","Antofagasta",9,2015,724053.674044616
-"15894","Mujer","Educación Universitaria","Arauco",11,2012,401804.12371134
-"15895","Mujer","Educación Universitaria","Arauco",11,2013,658334.937306392
-"15896","Mujer","Educación Universitaria","Arauco",11,2014,1000000
-"15897","Mujer","Educación Universitaria","Arauco",11,2015,600000
-"15898","Mujer","Educación Universitaria","Arica",12,2012,621212.857481218
-"15899","Mujer","Educación Universitaria","Arica",12,2013,737598.832485969
-"15900","Mujer","Educación Universitaria","Arica",12,2014,573535.16450032
-"15901","Mujer","Educación Universitaria","Arica",12,2015,658288.29733745
+"15865","Mujer","Educación Universitaria","Algarrobo",1,2012,335952.863527459
+"15866","Mujer","Educación Universitaria","Algarrobo",1,2013,543958.071998796
+"15867","Mujer","Educación Universitaria","Algarrobo",1,2014,600191.017623648
+"15868","Mujer","Educación Universitaria","Algarrobo",1,2015,602444.766388992
+"15869","Mujer","Educación Universitaria","Alhué",2,2014,202084.5177184
+"15870","Mujer","Educación Universitaria","Alhué",2,2015,662689.243027891
+"15871","Mujer","Educación Universitaria","Alto del Carmen",4,2012,849749.815702171
+"15872","Mujer","Educación Universitaria","Alto del Carmen",4,2013,346469.046543155
+"15873","Mujer","Educación Universitaria","Alto del Carmen",4,2014,100493.315535332
+"15874","Mujer","Educación Universitaria","Alto del Carmen",4,2015,84108.8822457683
+"15875","Mujer","Educación Universitaria","Alto Hospicio",5,2012,396089.26014469
+"15876","Mujer","Educación Universitaria","Alto Hospicio",5,2013,320104.808761318
+"15877","Mujer","Educación Universitaria","Alto Hospicio",5,2014,304405.563694538
+"15878","Mujer","Educación Universitaria","Alto Hospicio",5,2015,621143.882034903
+"15879","Mujer","Educación Universitaria","Ancud",6,2012,433687.127384197
+"15880","Mujer","Educación Universitaria","Ancud",6,2013,324824.014605134
+"15881","Mujer","Educación Universitaria","Ancud",6,2014,559989.528076274
+"15882","Mujer","Educación Universitaria","Ancud",6,2015,1063798.87604976
+"15883","Mujer","Educación Universitaria","Andacollo",7,2013,242828.739267963
+"15884","Mujer","Educación Universitaria","Andacollo",7,2015,626149.70878091
+"15885","Mujer","Educación Universitaria","Angol",8,2012,515046.459614544
+"15886","Mujer","Educación Universitaria","Angol",8,2013,531495.222583591
+"15887","Mujer","Educación Universitaria","Angol",8,2014,492116.162157904
+"15888","Mujer","Educación Universitaria","Angol",8,2015,564336.110469077
+"15889","Mujer","Educación Universitaria","Antofagasta",9,2012,764338.107598208
+"15890","Mujer","Educación Universitaria","Antofagasta",9,2013,690232.712681737
+"15891","Mujer","Educación Universitaria","Antofagasta",9,2014,606860.048082104
+"15892","Mujer","Educación Universitaria","Antofagasta",9,2015,724053.674044616
+"15893","Mujer","Educación Universitaria","Arauco",11,2012,401804.12371134
+"15894","Mujer","Educación Universitaria","Arauco",11,2013,658334.937306392
+"15895","Mujer","Educación Universitaria","Arauco",11,2014,1000000
+"15896","Mujer","Educación Universitaria","Arauco",11,2015,600000
+"15897","Mujer","Educación Universitaria","Arica",12,2012,621212.857481218
+"15898","Mujer","Educación Universitaria","Arica",12,2013,737598.832485969
+"15899","Mujer","Educación Universitaria","Arica",12,2014,573535.16450032
+"15900","Mujer","Educación Universitaria","Arica",12,2015,658288.29733745
+"15901","Mujer","Educación Universitaria","Aysén",13,2012,1033336.19136716
 "15902","Mujer","Educación Universitaria","Aysén",13,2013,833911.538705649
 "15903","Mujer","Educación Universitaria","Aysén",13,2014,767715.353961109
 "15904","Mujer","Educación Universitaria","Aysén",13,2015,1161404.99700816
@@ -17462,18 +17462,18 @@
 "17461","Mujer","Nunca Estudió","Victoria",333,2012,80360.824742268
 "17462","Mujer","Nunca Estudió","Vicuña",334,2012,81455.307777368
 "17463","Mujer","Nunca Estudió","Villa Alemana",337,2012,130583.840676396
-"17464","Mujer","Postítulo y Maestría","Aisén",NA,2012,899528.059343898
-"17465","Mujer","Postítulo y Maestría","Ancud",6,2014,1100350.19897669
-"17466","Mujer","Postítulo y Maestría","Ancud",6,2015,925756.791017751
-"17467","Mujer","Postítulo y Maestría","Angol",8,2012,189248.311953705
-"17468","Mujer","Postítulo y Maestría","Angol",8,2014,500000
-"17469","Mujer","Postítulo y Maestría","Angol",8,2015,941905.987199748
-"17470","Mujer","Postítulo y Maestría","Antofagasta",9,2012,1004510.30927835
-"17471","Mujer","Postítulo y Maestría","Antofagasta",9,2014,1035376.81548135
-"17472","Mujer","Postítulo y Maestría","Antofagasta",9,2015,763307.769863693
-"17473","Mujer","Postítulo y Maestría","Arica",12,2012,900725.511313376
-"17474","Mujer","Postítulo y Maestría","Arica",12,2014,1145379.56160909
-"17475","Mujer","Postítulo y Maestría","Arica",12,2015,1233736.37048533
+"17464","Mujer","Postítulo y Maestría","Ancud",6,2014,1100350.19897669
+"17465","Mujer","Postítulo y Maestría","Ancud",6,2015,925756.791017751
+"17466","Mujer","Postítulo y Maestría","Angol",8,2012,189248.311953705
+"17467","Mujer","Postítulo y Maestría","Angol",8,2014,500000
+"17468","Mujer","Postítulo y Maestría","Angol",8,2015,941905.987199748
+"17469","Mujer","Postítulo y Maestría","Antofagasta",9,2012,1004510.30927835
+"17470","Mujer","Postítulo y Maestría","Antofagasta",9,2014,1035376.81548135
+"17471","Mujer","Postítulo y Maestría","Antofagasta",9,2015,763307.769863693
+"17472","Mujer","Postítulo y Maestría","Arica",12,2012,900725.511313376
+"17473","Mujer","Postítulo y Maestría","Arica",12,2014,1145379.56160909
+"17474","Mujer","Postítulo y Maestría","Arica",12,2015,1233736.37048533
+"17475","Mujer","Postítulo y Maestría","Aysén",13,2012,899528.059343898
 "17476","Mujer","Postítulo y Maestría","Aysén",13,2014,817815.202090079
 "17477","Mujer","Postítulo y Maestría","Aysén",13,2015,600000
 "17478","Mujer","Postítulo y Maestría","Buin",14,2014,450000
@@ -17698,13 +17698,13 @@
 "17697","Mujer","Postítulo y Maestría","Vitacura",340,2015,1196579.60951796
 "17698","Mujer","Postítulo y Maestría","Yumbel",342,2014,700000
 "17699","Mujer","Postítulo y Maestría","Yungay",343,2014,648317.445518285
-"17700","Mujer","Postitulos y maestria","Aisén",NA,2010,200195.73302016
-"17701","Mujer","Postitulos y maestria","Angol",8,2011,522513.26762699
-"17702","Mujer","Postitulos y maestria","Antofagasta",9,2010,2055480.20873216
-"17703","Mujer","Postitulos y maestria","Antofagasta",9,2011,1646294.26091316
-"17704","Mujer","Postitulos y maestria","Arauco",11,2011,598082.166024255
-"17705","Mujer","Postitulos y maestria","Arica",12,2010,758518.937475923
-"17706","Mujer","Postitulos y maestria","Arica",12,2011,573977.512681697
+"17700","Mujer","Postitulos y maestria","Angol",8,2011,522513.26762699
+"17701","Mujer","Postitulos y maestria","Antofagasta",9,2010,2055480.20873216
+"17702","Mujer","Postitulos y maestria","Antofagasta",9,2011,1646294.26091316
+"17703","Mujer","Postitulos y maestria","Arauco",11,2011,598082.166024255
+"17704","Mujer","Postitulos y maestria","Arica",12,2010,758518.937475923
+"17705","Mujer","Postitulos y maestria","Arica",12,2011,573977.512681697
+"17706","Mujer","Postitulos y maestria","Aysén",13,2010,200195.73302016
 "17707","Mujer","Postitulos y maestria","Cabrero",18,2010,399726.428920371
 "17708","Mujer","Postitulos y maestria","Calera de Tango",23,2010,1000978.6651008
 "17709","Mujer","Postitulos y maestria","Cañete",28,2010,1353315.03618933

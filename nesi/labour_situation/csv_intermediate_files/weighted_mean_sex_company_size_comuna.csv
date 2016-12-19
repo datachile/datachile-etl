@@ -1,69 +1,69 @@
-"","sex","company_size","comuna_name","comuna_datachile_id","year","FUN"
-"1","Hombre","Menos de 5","Aisén",NA,2010,491004.754620047
-"2","Hombre","Menos de 5","Aisén",NA,2011,354651.760078939
-"3","Hombre","Menos de 5","Aisén",NA,2012,564318.278315258
-"4","Hombre","Menos de 5","Algarrobo",1,2010,152209.869076695
-"5","Hombre","Menos de 5","Algarrobo",1,2011,378995.377558757
-"6","Hombre","Menos de 5","Algarrobo",1,2012,446830.968177908
-"7","Hombre","Menos de 5","Algarrobo",1,2013,327943.967464981
-"8","Hombre","Menos de 5","Algarrobo",1,2014,341017.6236498
-"9","Hombre","Menos de 5","Alhué",2,2011,10026
-"10","Hombre","Menos de 5","Alhué",2,2012,200468
-"11","Hombre","Menos de 5","Alhué",2,2013,472639.855399911
-"12","Hombre","Menos de 5","Alto del Carmen",4,2010,170216.857350332
-"13","Hombre","Menos de 5","Alto del Carmen",4,2011,188495.083941891
-"14","Hombre","Menos de 5","Alto del Carmen",4,2012,151124.076145024
-"15","Hombre","Menos de 5","Alto del Carmen",4,2013,165611.406464508
-"16","Hombre","Menos de 5","Alto del Carmen",4,2014,156891.937815296
-"17","Hombre","Menos de 5","Alto del Carmen",4,2015,171954.592976411
-"18","Hombre","Menos de 5","Alto Hospicio",5,2010,210453.847641828
-"19","Hombre","Menos de 5","Alto Hospicio",5,2011,266687.183392619
-"20","Hombre","Menos de 5","Alto Hospicio",5,2012,240135.295530424
-"21","Hombre","Menos de 5","Alto Hospicio",5,2013,547122.643112995
-"22","Hombre","Menos de 5","Alto Hospicio",5,2014,391583.138686364
-"23","Hombre","Menos de 5","Alto Hospicio",5,2015,436721.941997706
-"24","Hombre","Menos de 5","Ancud",6,2010,132815.201331111
-"25","Hombre","Menos de 5","Ancud",6,2011,141092.9498286
-"26","Hombre","Menos de 5","Ancud",6,2012,168344.319895111
-"27","Hombre","Menos de 5","Ancud",6,2013,143989.604232315
-"28","Hombre","Menos de 5","Ancud",6,2014,303920.433958415
-"29","Hombre","Menos de 5","Ancud",6,2015,259632.494969076
-"30","Hombre","Menos de 5","Andacollo",7,2010,641242.017979387
-"31","Hombre","Menos de 5","Andacollo",7,2011,357624.603349811
-"32","Hombre","Menos de 5","Andacollo",7,2012,288688.139782245
-"33","Hombre","Menos de 5","Andacollo",7,2013,181192.258708201
-"34","Hombre","Menos de 5","Andacollo",7,2014,278751.599724627
-"35","Hombre","Menos de 5","Andacollo",7,2015,209036.237293762
-"36","Hombre","Menos de 5","Angol",8,2010,200076.724837806
-"37","Hombre","Menos de 5","Angol",8,2011,222558.534125671
-"38","Hombre","Menos de 5","Angol",8,2012,223629.573420017
-"39","Hombre","Menos de 5","Angol",8,2013,242719.180734854
-"40","Hombre","Menos de 5","Angol",8,2014,223881.863882253
-"41","Hombre","Menos de 5","Angol",8,2015,202571.300139605
-"42","Hombre","Menos de 5","Antofagasta",9,2010,366875.906602547
-"43","Hombre","Menos de 5","Antofagasta",9,2011,381787.951541931
-"44","Hombre","Menos de 5","Antofagasta",9,2012,421754.309763204
-"45","Hombre","Menos de 5","Antofagasta",9,2013,420096.079618731
-"46","Hombre","Menos de 5","Antofagasta",9,2014,519250.037225098
-"47","Hombre","Menos de 5","Antofagasta",9,2015,695945.019427598
-"48","Hombre","Menos de 5","Antuco",10,2010,99198.9086858816
-"49","Hombre","Menos de 5","Antuco",10,2011,131954.533916356
-"50","Hombre","Menos de 5","Antuco",10,2012,128582.828429129
-"51","Hombre","Menos de 5","Antuco",10,2013,121881.353777044
-"52","Hombre","Menos de 5","Antuco",10,2014,192145.292644075
-"53","Hombre","Menos de 5","Antuco",10,2015,118902.179012675
-"54","Hombre","Menos de 5","Arauco",11,2010,78586.6284972844
-"55","Hombre","Menos de 5","Arauco",11,2011,150250.668672269
-"56","Hombre","Menos de 5","Arauco",11,2012,367520.541772191
-"57","Hombre","Menos de 5","Arauco",11,2013,151743.131357373
-"58","Hombre","Menos de 5","Arauco",11,2014,164733.357523898
-"59","Hombre","Menos de 5","Arauco",11,2015,269946.320298492
-"60","Hombre","Menos de 5","Arica",12,2010,239452.511023388
-"61","Hombre","Menos de 5","Arica",12,2011,226376.523159404
-"62","Hombre","Menos de 5","Arica",12,2012,282853.308541543
-"63","Hombre","Menos de 5","Arica",12,2013,314964.615946177
-"64","Hombre","Menos de 5","Arica",12,2014,315316.676239217
-"65","Hombre","Menos de 5","Arica",12,2015,347747.341653659
+"","sex","company_size","geography_name","geography_id","year","weighted_mean"
+"1","Hombre","Menos de 5","Algarrobo",1,2010,152209.869076695
+"2","Hombre","Menos de 5","Algarrobo",1,2011,378995.377558757
+"3","Hombre","Menos de 5","Algarrobo",1,2012,446830.968177908
+"4","Hombre","Menos de 5","Algarrobo",1,2013,327943.967464981
+"5","Hombre","Menos de 5","Algarrobo",1,2014,341017.6236498
+"6","Hombre","Menos de 5","Alhué",2,2011,10026
+"7","Hombre","Menos de 5","Alhué",2,2012,200468
+"8","Hombre","Menos de 5","Alhué",2,2013,472639.855399911
+"9","Hombre","Menos de 5","Alto del Carmen",4,2010,170216.857350332
+"10","Hombre","Menos de 5","Alto del Carmen",4,2011,188495.083941891
+"11","Hombre","Menos de 5","Alto del Carmen",4,2012,151124.076145024
+"12","Hombre","Menos de 5","Alto del Carmen",4,2013,165611.406464508
+"13","Hombre","Menos de 5","Alto del Carmen",4,2014,156891.937815296
+"14","Hombre","Menos de 5","Alto del Carmen",4,2015,171954.592976411
+"15","Hombre","Menos de 5","Alto Hospicio",5,2010,210453.847641828
+"16","Hombre","Menos de 5","Alto Hospicio",5,2011,266687.183392619
+"17","Hombre","Menos de 5","Alto Hospicio",5,2012,240135.295530424
+"18","Hombre","Menos de 5","Alto Hospicio",5,2013,547122.643112995
+"19","Hombre","Menos de 5","Alto Hospicio",5,2014,391583.138686364
+"20","Hombre","Menos de 5","Alto Hospicio",5,2015,436721.941997706
+"21","Hombre","Menos de 5","Ancud",6,2010,132815.201331111
+"22","Hombre","Menos de 5","Ancud",6,2011,141092.9498286
+"23","Hombre","Menos de 5","Ancud",6,2012,168344.319895111
+"24","Hombre","Menos de 5","Ancud",6,2013,143989.604232315
+"25","Hombre","Menos de 5","Ancud",6,2014,303920.433958415
+"26","Hombre","Menos de 5","Ancud",6,2015,259632.494969076
+"27","Hombre","Menos de 5","Andacollo",7,2010,641242.017979387
+"28","Hombre","Menos de 5","Andacollo",7,2011,357624.603349811
+"29","Hombre","Menos de 5","Andacollo",7,2012,288688.139782245
+"30","Hombre","Menos de 5","Andacollo",7,2013,181192.258708201
+"31","Hombre","Menos de 5","Andacollo",7,2014,278751.599724627
+"32","Hombre","Menos de 5","Andacollo",7,2015,209036.237293762
+"33","Hombre","Menos de 5","Angol",8,2010,200076.724837806
+"34","Hombre","Menos de 5","Angol",8,2011,222558.534125671
+"35","Hombre","Menos de 5","Angol",8,2012,223629.573420017
+"36","Hombre","Menos de 5","Angol",8,2013,242719.180734854
+"37","Hombre","Menos de 5","Angol",8,2014,223881.863882253
+"38","Hombre","Menos de 5","Angol",8,2015,202571.300139605
+"39","Hombre","Menos de 5","Antofagasta",9,2010,366875.906602547
+"40","Hombre","Menos de 5","Antofagasta",9,2011,381787.951541931
+"41","Hombre","Menos de 5","Antofagasta",9,2012,421754.309763204
+"42","Hombre","Menos de 5","Antofagasta",9,2013,420096.079618731
+"43","Hombre","Menos de 5","Antofagasta",9,2014,519250.037225098
+"44","Hombre","Menos de 5","Antofagasta",9,2015,695945.019427598
+"45","Hombre","Menos de 5","Antuco",10,2010,99198.9086858816
+"46","Hombre","Menos de 5","Antuco",10,2011,131954.533916356
+"47","Hombre","Menos de 5","Antuco",10,2012,128582.828429129
+"48","Hombre","Menos de 5","Antuco",10,2013,121881.353777044
+"49","Hombre","Menos de 5","Antuco",10,2014,192145.292644075
+"50","Hombre","Menos de 5","Antuco",10,2015,118902.179012675
+"51","Hombre","Menos de 5","Arauco",11,2010,78586.6284972844
+"52","Hombre","Menos de 5","Arauco",11,2011,150250.668672269
+"53","Hombre","Menos de 5","Arauco",11,2012,367520.541772191
+"54","Hombre","Menos de 5","Arauco",11,2013,151743.131357373
+"55","Hombre","Menos de 5","Arauco",11,2014,164733.357523898
+"56","Hombre","Menos de 5","Arauco",11,2015,269946.320298492
+"57","Hombre","Menos de 5","Arica",12,2010,239452.511023388
+"58","Hombre","Menos de 5","Arica",12,2011,226376.523159404
+"59","Hombre","Menos de 5","Arica",12,2012,282853.308541543
+"60","Hombre","Menos de 5","Arica",12,2013,314964.615946177
+"61","Hombre","Menos de 5","Arica",12,2014,315316.676239217
+"62","Hombre","Menos de 5","Arica",12,2015,347747.341653659
+"63","Hombre","Menos de 5","Aysén",13,2010,491004.754620047
+"64","Hombre","Menos de 5","Aysén",13,2011,354651.760078939
+"65","Hombre","Menos de 5","Aysén",13,2012,564318.278315258
 "66","Hombre","Menos de 5","Aysén",13,2013,370347.065625963
 "67","Hombre","Menos de 5","Aysén",13,2014,381344.437752977
 "68","Hombre","Menos de 5","Aysén",13,2015,370499.767177685
@@ -1692,52 +1692,52 @@
 "1691","Hombre","Menos de 5","Yungay",343,2015,87849.5498038958
 "1692","Hombre","Menos de 5","Zapallar",344,2014,237658.094834178
 "1693","Hombre","Menos de 5","Zapallar",344,2015,272073.513523233
-"1694","Hombre","De 5 a 10 personas","Aisén",NA,2010,1360696.27359978
-"1695","Hombre","De 5 a 10 personas","Aisén",NA,2011,734216.874059815
-"1696","Hombre","De 5 a 10 personas","Aisén",NA,2012,354837.629991476
-"1697","Hombre","De 5 a 10 personas","Alhué",2,2015,160651.937703731
-"1698","Hombre","De 5 a 10 personas","Alto del Carmen",4,2010,264972.108412314
-"1699","Hombre","De 5 a 10 personas","Alto del Carmen",4,2011,140676.648976497
-"1700","Hombre","De 5 a 10 personas","Alto Hospicio",5,2010,213366.798769791
-"1701","Hombre","De 5 a 10 personas","Alto Hospicio",5,2011,228038.062153975
-"1702","Hombre","De 5 a 10 personas","Alto Hospicio",5,2012,308641.723432423
-"1703","Hombre","De 5 a 10 personas","Alto Hospicio",5,2013,516883.30949141
-"1704","Hombre","De 5 a 10 personas","Alto Hospicio",5,2014,283226.358175977
-"1705","Hombre","De 5 a 10 personas","Alto Hospicio",5,2015,340806.331203431
-"1706","Hombre","De 5 a 10 personas","Ancud",6,2011,598082.166024255
-"1707","Hombre","De 5 a 10 personas","Ancud",6,2012,507770.258158745
-"1708","Hombre","De 5 a 10 personas","Ancud",6,2014,868963.42618912
-"1709","Hombre","De 5 a 10 personas","Ancud",6,2015,520369.216990311
-"1710","Hombre","De 5 a 10 personas","Andacollo",7,2010,299794.821690278
-"1711","Hombre","De 5 a 10 personas","Andacollo",7,2011,381836.618650492
-"1712","Hombre","De 5 a 10 personas","Andacollo",7,2012,3013530.92783505
-"1713","Hombre","De 5 a 10 personas","Andacollo",7,2014,299513.229653581
-"1714","Hombre","De 5 a 10 personas","Angol",8,2010,675390.956159589
-"1715","Hombre","De 5 a 10 personas","Angol",8,2011,910283.720579028
-"1716","Hombre","De 5 a 10 personas","Angol",8,2012,645592.983690024
-"1717","Hombre","De 5 a 10 personas","Angol",8,2013,363816.396760427
-"1718","Hombre","De 5 a 10 personas","Angol",8,2014,399792.042856501
-"1719","Hombre","De 5 a 10 personas","Angol",8,2015,464801.538862597
-"1720","Hombre","De 5 a 10 personas","Antofagasta",9,2010,547251.182009672
-"1721","Hombre","De 5 a 10 personas","Antofagasta",9,2011,365288.106477192
-"1722","Hombre","De 5 a 10 personas","Antofagasta",9,2012,689442.309513668
-"1723","Hombre","De 5 a 10 personas","Antofagasta",9,2013,785736.763427372
-"1724","Hombre","De 5 a 10 personas","Antofagasta",9,2014,561023.763299976
-"1725","Hombre","De 5 a 10 personas","Antofagasta",9,2015,635983.165401858
-"1726","Hombre","De 5 a 10 personas","Antuco",10,2011,150000
-"1727","Hombre","De 5 a 10 personas","Antuco",10,2012,80000
-"1728","Hombre","De 5 a 10 personas","Antuco",10,2014,300000
-"1729","Hombre","De 5 a 10 personas","Arauco",11,2010,498915.137617932
-"1730","Hombre","De 5 a 10 personas","Arauco",11,2011,219673.041154208
-"1731","Hombre","De 5 a 10 personas","Arauco",11,2012,183269.98429018
-"1732","Hombre","De 5 a 10 personas","Arauco",11,2013,210284.681427926
-"1733","Hombre","De 5 a 10 personas","Arauco",11,2014,287566.269253736
-"1734","Hombre","De 5 a 10 personas","Arica",12,2010,261475.360168079
-"1735","Hombre","De 5 a 10 personas","Arica",12,2011,491865.571671745
-"1736","Hombre","De 5 a 10 personas","Arica",12,2012,490458.328829816
-"1737","Hombre","De 5 a 10 personas","Arica",12,2013,260641.940575368
-"1738","Hombre","De 5 a 10 personas","Arica",12,2014,291917.163731629
-"1739","Hombre","De 5 a 10 personas","Arica",12,2015,378898.38204842
+"1694","Hombre","De 5 a 10 personas","Alhué",2,2015,160651.937703731
+"1695","Hombre","De 5 a 10 personas","Alto del Carmen",4,2010,264972.108412314
+"1696","Hombre","De 5 a 10 personas","Alto del Carmen",4,2011,140676.648976497
+"1697","Hombre","De 5 a 10 personas","Alto Hospicio",5,2010,213366.798769791
+"1698","Hombre","De 5 a 10 personas","Alto Hospicio",5,2011,228038.062153975
+"1699","Hombre","De 5 a 10 personas","Alto Hospicio",5,2012,308641.723432423
+"1700","Hombre","De 5 a 10 personas","Alto Hospicio",5,2013,516883.30949141
+"1701","Hombre","De 5 a 10 personas","Alto Hospicio",5,2014,283226.358175977
+"1702","Hombre","De 5 a 10 personas","Alto Hospicio",5,2015,340806.331203431
+"1703","Hombre","De 5 a 10 personas","Ancud",6,2011,598082.166024255
+"1704","Hombre","De 5 a 10 personas","Ancud",6,2012,507770.258158745
+"1705","Hombre","De 5 a 10 personas","Ancud",6,2014,868963.42618912
+"1706","Hombre","De 5 a 10 personas","Ancud",6,2015,520369.216990311
+"1707","Hombre","De 5 a 10 personas","Andacollo",7,2010,299794.821690278
+"1708","Hombre","De 5 a 10 personas","Andacollo",7,2011,381836.618650492
+"1709","Hombre","De 5 a 10 personas","Andacollo",7,2012,3013530.92783505
+"1710","Hombre","De 5 a 10 personas","Andacollo",7,2014,299513.229653581
+"1711","Hombre","De 5 a 10 personas","Angol",8,2010,675390.956159589
+"1712","Hombre","De 5 a 10 personas","Angol",8,2011,910283.720579028
+"1713","Hombre","De 5 a 10 personas","Angol",8,2012,645592.983690024
+"1714","Hombre","De 5 a 10 personas","Angol",8,2013,363816.396760427
+"1715","Hombre","De 5 a 10 personas","Angol",8,2014,399792.042856501
+"1716","Hombre","De 5 a 10 personas","Angol",8,2015,464801.538862597
+"1717","Hombre","De 5 a 10 personas","Antofagasta",9,2010,547251.182009672
+"1718","Hombre","De 5 a 10 personas","Antofagasta",9,2011,365288.106477192
+"1719","Hombre","De 5 a 10 personas","Antofagasta",9,2012,689442.309513668
+"1720","Hombre","De 5 a 10 personas","Antofagasta",9,2013,785736.763427372
+"1721","Hombre","De 5 a 10 personas","Antofagasta",9,2014,561023.763299976
+"1722","Hombre","De 5 a 10 personas","Antofagasta",9,2015,635983.165401858
+"1723","Hombre","De 5 a 10 personas","Antuco",10,2011,150000
+"1724","Hombre","De 5 a 10 personas","Antuco",10,2012,80000
+"1725","Hombre","De 5 a 10 personas","Antuco",10,2014,300000
+"1726","Hombre","De 5 a 10 personas","Arauco",11,2010,498915.137617932
+"1727","Hombre","De 5 a 10 personas","Arauco",11,2011,219673.041154208
+"1728","Hombre","De 5 a 10 personas","Arauco",11,2012,183269.98429018
+"1729","Hombre","De 5 a 10 personas","Arauco",11,2013,210284.681427926
+"1730","Hombre","De 5 a 10 personas","Arauco",11,2014,287566.269253736
+"1731","Hombre","De 5 a 10 personas","Arica",12,2010,261475.360168079
+"1732","Hombre","De 5 a 10 personas","Arica",12,2011,491865.571671745
+"1733","Hombre","De 5 a 10 personas","Arica",12,2012,490458.328829816
+"1734","Hombre","De 5 a 10 personas","Arica",12,2013,260641.940575368
+"1735","Hombre","De 5 a 10 personas","Arica",12,2014,291917.163731629
+"1736","Hombre","De 5 a 10 personas","Arica",12,2015,378898.38204842
+"1737","Hombre","De 5 a 10 personas","Aysén",13,2010,1360696.27359978
+"1738","Hombre","De 5 a 10 personas","Aysén",13,2011,734216.874059815
+"1739","Hombre","De 5 a 10 personas","Aysén",13,2012,354837.629991476
 "1740","Hombre","De 5 a 10 personas","Aysén",13,2013,466745.6366788
 "1741","Hombre","De 5 a 10 personas","Aysén",13,2014,420029.099647571
 "1742","Hombre","De 5 a 10 personas","Aysén",13,2015,1319553.75983134
@@ -3101,68 +3101,68 @@
 "3100","Hombre","De 5 a 10 personas","Yungay",343,2015,783178.19630569
 "3101","Hombre","De 5 a 10 personas","Zapallar",344,2014,303126.7765776
 "3102","Hombre","De 5 a 10 personas","Zapallar",344,2015,391589.098152845
-"3103","Hombre","Entre 11 y 49","Aisén",NA,2010,294152.169540387
-"3104","Hombre","Entre 11 y 49","Aisén",NA,2011,439564.52868956
-"3105","Hombre","Entre 11 y 49","Aisén",NA,2012,600401.083097555
-"3106","Hombre","Entre 11 y 49","Algarrobo",1,2010,350342.53278528
-"3107","Hombre","Entre 11 y 49","Algarrobo",1,2012,497782.436417249
-"3108","Hombre","Entre 11 y 49","Algarrobo",1,2014,1515633.882888
-"3109","Hombre","Entre 11 y 49","Algarrobo",1,2015,1782232.43390077
-"3110","Hombre","Entre 11 y 49","Alhué",2,2012,499794.281957242
-"3111","Hombre","Entre 11 y 49","Alhué",2,2013,1001355.62584727
-"3112","Hombre","Entre 11 y 49","Alhué",2,2014,151563.3882888
-"3113","Hombre","Entre 11 y 49","Alto del Carmen",4,2010,182372.178669567
-"3114","Hombre","Entre 11 y 49","Alto del Carmen",4,2011,256344.741107575
-"3115","Hombre","Entre 11 y 49","Alto del Carmen",4,2012,205171.580607983
-"3116","Hombre","Entre 11 y 49","Alto del Carmen",4,2013,223978.635409776
-"3117","Hombre","Entre 11 y 49","Alto del Carmen",4,2014,340539.516360498
-"3118","Hombre","Entre 11 y 49","Alto del Carmen",4,2015,528063.723299669
-"3119","Hombre","Entre 11 y 49","Alto Hospicio",5,2010,329332.977315212
-"3120","Hombre","Entre 11 y 49","Alto Hospicio",5,2011,306047.186923832
-"3121","Hombre","Entre 11 y 49","Alto Hospicio",5,2012,305488.278024687
-"3122","Hombre","Entre 11 y 49","Alto Hospicio",5,2013,396102.501383156
-"3123","Hombre","Entre 11 y 49","Alto Hospicio",5,2014,583421.295015543
-"3124","Hombre","Entre 11 y 49","Alto Hospicio",5,2015,358904.354551768
-"3125","Hombre","Entre 11 y 49","Ancud",6,2010,808981.202760989
-"3126","Hombre","Entre 11 y 49","Ancud",6,2011,242180.029564814
-"3127","Hombre","Entre 11 y 49","Ancud",6,2012,183432.512329701
-"3128","Hombre","Entre 11 y 49","Ancud",6,2013,334269.932538532
-"3129","Hombre","Entre 11 y 49","Ancud",6,2014,617451.750966732
-"3130","Hombre","Entre 11 y 49","Ancud",6,2015,387433.439750761
-"3131","Hombre","Entre 11 y 49","Andacollo",7,2010,199863.214460186
-"3132","Hombre","Entre 11 y 49","Andacollo",7,2011,199360.722008085
-"3133","Hombre","Entre 11 y 49","Andacollo",7,2012,291307.989690722
-"3134","Hombre","Entre 11 y 49","Andacollo",7,2013,413432.835820895
-"3135","Hombre","Entre 11 y 49","Andacollo",7,2014,394494.316039329
-"3136","Hombre","Entre 11 y 49","Andacollo",7,2015,504961.000727569
-"3137","Hombre","Entre 11 y 49","Angol",8,2010,336836.140517949
-"3138","Hombre","Entre 11 y 49","Angol",8,2011,481195.250375166
-"3139","Hombre","Entre 11 y 49","Angol",8,2012,807880.146612264
-"3140","Hombre","Entre 11 y 49","Angol",8,2013,327588.094938653
-"3141","Hombre","Entre 11 y 49","Angol",8,2014,443092.416684675
-"3142","Hombre","Entre 11 y 49","Angol",8,2015,519084.975284352
-"3143","Hombre","Entre 11 y 49","Antofagasta",9,2010,343060.682884196
-"3144","Hombre","Entre 11 y 49","Antofagasta",9,2011,423714.111559914
-"3145","Hombre","Entre 11 y 49","Antofagasta",9,2012,550409.113951855
-"3146","Hombre","Entre 11 y 49","Antofagasta",9,2013,609907.350887857
-"3147","Hombre","Entre 11 y 49","Antofagasta",9,2014,515985.862607799
-"3148","Hombre","Entre 11 y 49","Antofagasta",9,2015,718830.733193307
-"3149","Hombre","Entre 11 y 49","Antuco",10,2010,459685.393258427
-"3150","Hombre","Entre 11 y 49","Antuco",10,2013,400000
-"3151","Hombre","Entre 11 y 49","Antuco",10,2014,1500000
-"3152","Hombre","Entre 11 y 49","Antuco",10,2015,245000
-"3153","Hombre","Entre 11 y 49","Arauco",11,2010,282383.75106812
-"3154","Hombre","Entre 11 y 49","Arauco",11,2011,289391.036154402
-"3155","Hombre","Entre 11 y 49","Arauco",11,2012,292220.930325751
-"3156","Hombre","Entre 11 y 49","Arauco",11,2013,305431.965994884
-"3157","Hombre","Entre 11 y 49","Arauco",11,2014,338936.433527096
-"3158","Hombre","Entre 11 y 49","Arauco",11,2015,261694.995009047
-"3159","Hombre","Entre 11 y 49","Arica",12,2010,381048.6814889
-"3160","Hombre","Entre 11 y 49","Arica",12,2011,333572.296734956
-"3161","Hombre","Entre 11 y 49","Arica",12,2012,425139.776303442
-"3162","Hombre","Entre 11 y 49","Arica",12,2013,342057.704479368
-"3163","Hombre","Entre 11 y 49","Arica",12,2014,390789.304293632
-"3164","Hombre","Entre 11 y 49","Arica",12,2015,446635.104660961
+"3103","Hombre","Entre 11 y 49","Algarrobo",1,2010,350342.53278528
+"3104","Hombre","Entre 11 y 49","Algarrobo",1,2012,497782.436417249
+"3105","Hombre","Entre 11 y 49","Algarrobo",1,2014,1515633.882888
+"3106","Hombre","Entre 11 y 49","Algarrobo",1,2015,1782232.43390077
+"3107","Hombre","Entre 11 y 49","Alhué",2,2012,499794.281957242
+"3108","Hombre","Entre 11 y 49","Alhué",2,2013,1001355.62584727
+"3109","Hombre","Entre 11 y 49","Alhué",2,2014,151563.3882888
+"3110","Hombre","Entre 11 y 49","Alto del Carmen",4,2010,182372.178669567
+"3111","Hombre","Entre 11 y 49","Alto del Carmen",4,2011,256344.741107575
+"3112","Hombre","Entre 11 y 49","Alto del Carmen",4,2012,205171.580607983
+"3113","Hombre","Entre 11 y 49","Alto del Carmen",4,2013,223978.635409776
+"3114","Hombre","Entre 11 y 49","Alto del Carmen",4,2014,340539.516360498
+"3115","Hombre","Entre 11 y 49","Alto del Carmen",4,2015,528063.723299669
+"3116","Hombre","Entre 11 y 49","Alto Hospicio",5,2010,329332.977315212
+"3117","Hombre","Entre 11 y 49","Alto Hospicio",5,2011,306047.186923832
+"3118","Hombre","Entre 11 y 49","Alto Hospicio",5,2012,305488.278024687
+"3119","Hombre","Entre 11 y 49","Alto Hospicio",5,2013,396102.501383156
+"3120","Hombre","Entre 11 y 49","Alto Hospicio",5,2014,583421.295015543
+"3121","Hombre","Entre 11 y 49","Alto Hospicio",5,2015,358904.354551768
+"3122","Hombre","Entre 11 y 49","Ancud",6,2010,808981.202760989
+"3123","Hombre","Entre 11 y 49","Ancud",6,2011,242180.029564814
+"3124","Hombre","Entre 11 y 49","Ancud",6,2012,183432.512329701
+"3125","Hombre","Entre 11 y 49","Ancud",6,2013,334269.932538532
+"3126","Hombre","Entre 11 y 49","Ancud",6,2014,617451.750966732
+"3127","Hombre","Entre 11 y 49","Ancud",6,2015,387433.439750761
+"3128","Hombre","Entre 11 y 49","Andacollo",7,2010,199863.214460186
+"3129","Hombre","Entre 11 y 49","Andacollo",7,2011,199360.722008085
+"3130","Hombre","Entre 11 y 49","Andacollo",7,2012,291307.989690722
+"3131","Hombre","Entre 11 y 49","Andacollo",7,2013,413432.835820895
+"3132","Hombre","Entre 11 y 49","Andacollo",7,2014,394494.316039329
+"3133","Hombre","Entre 11 y 49","Andacollo",7,2015,504961.000727569
+"3134","Hombre","Entre 11 y 49","Angol",8,2010,336836.140517949
+"3135","Hombre","Entre 11 y 49","Angol",8,2011,481195.250375166
+"3136","Hombre","Entre 11 y 49","Angol",8,2012,807880.146612264
+"3137","Hombre","Entre 11 y 49","Angol",8,2013,327588.094938653
+"3138","Hombre","Entre 11 y 49","Angol",8,2014,443092.416684675
+"3139","Hombre","Entre 11 y 49","Angol",8,2015,519084.975284352
+"3140","Hombre","Entre 11 y 49","Antofagasta",9,2010,343060.682884196
+"3141","Hombre","Entre 11 y 49","Antofagasta",9,2011,423714.111559914
+"3142","Hombre","Entre 11 y 49","Antofagasta",9,2012,550409.113951855
+"3143","Hombre","Entre 11 y 49","Antofagasta",9,2013,609907.350887857
+"3144","Hombre","Entre 11 y 49","Antofagasta",9,2014,515985.862607799
+"3145","Hombre","Entre 11 y 49","Antofagasta",9,2015,718830.733193307
+"3146","Hombre","Entre 11 y 49","Antuco",10,2010,459685.393258427
+"3147","Hombre","Entre 11 y 49","Antuco",10,2013,400000
+"3148","Hombre","Entre 11 y 49","Antuco",10,2014,1500000
+"3149","Hombre","Entre 11 y 49","Antuco",10,2015,245000
+"3150","Hombre","Entre 11 y 49","Arauco",11,2010,282383.75106812
+"3151","Hombre","Entre 11 y 49","Arauco",11,2011,289391.036154402
+"3152","Hombre","Entre 11 y 49","Arauco",11,2012,292220.930325751
+"3153","Hombre","Entre 11 y 49","Arauco",11,2013,305431.965994884
+"3154","Hombre","Entre 11 y 49","Arauco",11,2014,338936.433527096
+"3155","Hombre","Entre 11 y 49","Arauco",11,2015,261694.995009047
+"3156","Hombre","Entre 11 y 49","Arica",12,2010,381048.6814889
+"3157","Hombre","Entre 11 y 49","Arica",12,2011,333572.296734956
+"3158","Hombre","Entre 11 y 49","Arica",12,2012,425139.776303442
+"3159","Hombre","Entre 11 y 49","Arica",12,2013,342057.704479368
+"3160","Hombre","Entre 11 y 49","Arica",12,2014,390789.304293632
+"3161","Hombre","Entre 11 y 49","Arica",12,2015,446635.104660961
+"3162","Hombre","Entre 11 y 49","Aysén",13,2010,294152.169540387
+"3163","Hombre","Entre 11 y 49","Aysén",13,2011,439564.52868956
+"3164","Hombre","Entre 11 y 49","Aysén",13,2012,600401.083097555
 "3165","Hombre","Entre 11 y 49","Aysén",13,2013,674173.829447053
 "3166","Hombre","Entre 11 y 49","Aysén",13,2014,756566.475780748
 "3167","Hombre","Entre 11 y 49","Aysén",13,2015,575563.001354914
@@ -4664,70 +4664,70 @@
 "4663","Hombre","Entre 11 y 49","Yungay",343,2014,404169.0354368
 "4664","Hombre","Entre 11 y 49","Zapallar",344,2014,224819.02596172
 "4665","Hombre","Entre 11 y 49","Zapallar",344,2015,261394.090305446
-"4666","Hombre","Entre 50 y 199","Aisén",NA,2010,345283.211211061
-"4667","Hombre","Entre 50 y 199","Aisén",NA,2011,523734.693220951
-"4668","Hombre","Entre 50 y 199","Aisén",NA,2012,634435.896096456
-"4669","Hombre","Entre 50 y 199","Algarrobo",1,2011,602899.924184988
-"4670","Hombre","Entre 50 y 199","Algarrobo",1,2012,725052.801326943
-"4671","Hombre","Entre 50 y 199","Algarrobo",1,2013,480650.70040669
-"4672","Hombre","Entre 50 y 199","Algarrobo",1,2014,367120.207188427
-"4673","Hombre","Entre 50 y 199","Algarrobo",1,2015,1171504.05197393
-"4674","Hombre","Entre 50 y 199","Alhué",2,2011,175845.811220621
-"4675","Hombre","Entre 50 y 199","Alhué",2,2013,120162.675101672
-"4676","Hombre","Entre 50 y 199","Alhué",2,2014,718915.671783208
-"4677","Hombre","Entre 50 y 199","Alhué",2,2015,414180.776892432
-"4678","Hombre","Entre 50 y 199","Alto del Carmen",4,2010,218335.373171152
-"4679","Hombre","Entre 50 y 199","Alto del Carmen",4,2011,430000
-"4680","Hombre","Entre 50 y 199","Alto del Carmen",4,2012,312977.061227527
-"4681","Hombre","Entre 50 y 199","Alto del Carmen",4,2013,605000
-"4682","Hombre","Entre 50 y 199","Alto del Carmen",4,2014,510836.23994669
-"4683","Hombre","Entre 50 y 199","Alto del Carmen",4,2015,339627.129544328
-"4684","Hombre","Entre 50 y 199","Alto Hospicio",5,2010,319409.548531546
-"4685","Hombre","Entre 50 y 199","Alto Hospicio",5,2011,324735.156830957
-"4686","Hombre","Entre 50 y 199","Alto Hospicio",5,2012,343209.828387404
-"4687","Hombre","Entre 50 y 199","Alto Hospicio",5,2013,408318.924037222
-"4688","Hombre","Entre 50 y 199","Alto Hospicio",5,2014,357368.232374889
-"4689","Hombre","Entre 50 y 199","Alto Hospicio",5,2015,490438.936564397
-"4690","Hombre","Entre 50 y 199","Ancud",6,2010,303427.220864124
-"4691","Hombre","Entre 50 y 199","Ancud",6,2011,249200.902510106
-"4692","Hombre","Entre 50 y 199","Ancud",6,2012,253410.580855333
-"4693","Hombre","Entre 50 y 199","Ancud",6,2014,279562.109493894
-"4694","Hombre","Entre 50 y 199","Ancud",6,2015,1013693.95248533
-"4695","Hombre","Entre 50 y 199","Andacollo",7,2010,260391.316423908
-"4696","Hombre","Entre 50 y 199","Andacollo",7,2012,403813.144329897
-"4697","Hombre","Entre 50 y 199","Andacollo",7,2013,410870.34960931
-"4698","Hombre","Entre 50 y 199","Andacollo",7,2014,399924.995312207
-"4699","Hombre","Entre 50 y 199","Andacollo",7,2015,462984.957659956
-"4700","Hombre","Entre 50 y 199","Angol",8,2010,302901.346060119
-"4701","Hombre","Entre 50 y 199","Angol",8,2011,452976.088993652
-"4702","Hombre","Entre 50 y 199","Angol",8,2012,367471.745202782
-"4703","Hombre","Entre 50 y 199","Angol",8,2013,338884.140740626
-"4704","Hombre","Entre 50 y 199","Angol",8,2014,362371.503177859
-"4705","Hombre","Entre 50 y 199","Angol",8,2015,350264.415731489
-"4706","Hombre","Entre 50 y 199","Antofagasta",9,2010,662684.960934096
-"4707","Hombre","Entre 50 y 199","Antofagasta",9,2011,608202.730787491
-"4708","Hombre","Entre 50 y 199","Antofagasta",9,2012,520125.486573213
-"4709","Hombre","Entre 50 y 199","Antofagasta",9,2013,773015.999570014
-"4710","Hombre","Entre 50 y 199","Antofagasta",9,2014,656995.482859583
-"4711","Hombre","Entre 50 y 199","Antofagasta",9,2015,791981.132021795
-"4712","Hombre","Entre 50 y 199","Antuco",10,2010,279808.50024426
-"4713","Hombre","Entre 50 y 199","Antuco",10,2011,426631.945097302
-"4714","Hombre","Entre 50 y 199","Antuco",10,2012,380000
-"4715","Hombre","Entre 50 y 199","Antuco",10,2013,448832.050528797
-"4716","Hombre","Entre 50 y 199","Antuco",10,2014,279947.496718545
-"4717","Hombre","Entre 50 y 199","Antuco",10,2015,300000
-"4718","Hombre","Entre 50 y 199","Arauco",11,2010,258132.689631729
-"4719","Hombre","Entre 50 y 199","Arauco",11,2011,261683.722565902
-"4720","Hombre","Entre 50 y 199","Arauco",11,2012,369921.820723216
-"4721","Hombre","Entre 50 y 199","Arauco",11,2013,283923.754720374
-"4722","Hombre","Entre 50 y 199","Arauco",11,2014,274823.48308107
-"4723","Hombre","Entre 50 y 199","Arauco",11,2015,354345.864152987
-"4724","Hombre","Entre 50 y 199","Arica",12,2010,367246.685757147
-"4725","Hombre","Entre 50 y 199","Arica",12,2011,285312.128486021
-"4726","Hombre","Entre 50 y 199","Arica",12,2012,469036.005523088
-"4727","Hombre","Entre 50 y 199","Arica",12,2013,426541.542478519
-"4728","Hombre","Entre 50 y 199","Arica",12,2014,475185.876379284
-"4729","Hombre","Entre 50 y 199","Arica",12,2015,513567.803836091
+"4666","Hombre","Entre 50 y 199","Algarrobo",1,2011,602899.924184988
+"4667","Hombre","Entre 50 y 199","Algarrobo",1,2012,725052.801326943
+"4668","Hombre","Entre 50 y 199","Algarrobo",1,2013,480650.70040669
+"4669","Hombre","Entre 50 y 199","Algarrobo",1,2014,367120.207188427
+"4670","Hombre","Entre 50 y 199","Algarrobo",1,2015,1171504.05197393
+"4671","Hombre","Entre 50 y 199","Alhué",2,2011,175845.811220621
+"4672","Hombre","Entre 50 y 199","Alhué",2,2013,120162.675101672
+"4673","Hombre","Entre 50 y 199","Alhué",2,2014,718915.671783208
+"4674","Hombre","Entre 50 y 199","Alhué",2,2015,414180.776892432
+"4675","Hombre","Entre 50 y 199","Alto del Carmen",4,2010,218335.373171152
+"4676","Hombre","Entre 50 y 199","Alto del Carmen",4,2011,430000
+"4677","Hombre","Entre 50 y 199","Alto del Carmen",4,2012,312977.061227527
+"4678","Hombre","Entre 50 y 199","Alto del Carmen",4,2013,605000
+"4679","Hombre","Entre 50 y 199","Alto del Carmen",4,2014,510836.23994669
+"4680","Hombre","Entre 50 y 199","Alto del Carmen",4,2015,339627.129544328
+"4681","Hombre","Entre 50 y 199","Alto Hospicio",5,2010,319409.548531546
+"4682","Hombre","Entre 50 y 199","Alto Hospicio",5,2011,324735.156830957
+"4683","Hombre","Entre 50 y 199","Alto Hospicio",5,2012,343209.828387404
+"4684","Hombre","Entre 50 y 199","Alto Hospicio",5,2013,408318.924037222
+"4685","Hombre","Entre 50 y 199","Alto Hospicio",5,2014,357368.232374889
+"4686","Hombre","Entre 50 y 199","Alto Hospicio",5,2015,490438.936564397
+"4687","Hombre","Entre 50 y 199","Ancud",6,2010,303427.220864124
+"4688","Hombre","Entre 50 y 199","Ancud",6,2011,249200.902510106
+"4689","Hombre","Entre 50 y 199","Ancud",6,2012,253410.580855333
+"4690","Hombre","Entre 50 y 199","Ancud",6,2014,279562.109493894
+"4691","Hombre","Entre 50 y 199","Ancud",6,2015,1013693.95248533
+"4692","Hombre","Entre 50 y 199","Andacollo",7,2010,260391.316423908
+"4693","Hombre","Entre 50 y 199","Andacollo",7,2012,403813.144329897
+"4694","Hombre","Entre 50 y 199","Andacollo",7,2013,410870.34960931
+"4695","Hombre","Entre 50 y 199","Andacollo",7,2014,399924.995312207
+"4696","Hombre","Entre 50 y 199","Andacollo",7,2015,462984.957659956
+"4697","Hombre","Entre 50 y 199","Angol",8,2010,302901.346060119
+"4698","Hombre","Entre 50 y 199","Angol",8,2011,452976.088993652
+"4699","Hombre","Entre 50 y 199","Angol",8,2012,367471.745202782
+"4700","Hombre","Entre 50 y 199","Angol",8,2013,338884.140740626
+"4701","Hombre","Entre 50 y 199","Angol",8,2014,362371.503177859
+"4702","Hombre","Entre 50 y 199","Angol",8,2015,350264.415731489
+"4703","Hombre","Entre 50 y 199","Antofagasta",9,2010,662684.960934096
+"4704","Hombre","Entre 50 y 199","Antofagasta",9,2011,608202.730787491
+"4705","Hombre","Entre 50 y 199","Antofagasta",9,2012,520125.486573213
+"4706","Hombre","Entre 50 y 199","Antofagasta",9,2013,773015.999570014
+"4707","Hombre","Entre 50 y 199","Antofagasta",9,2014,656995.482859583
+"4708","Hombre","Entre 50 y 199","Antofagasta",9,2015,791981.132021795
+"4709","Hombre","Entre 50 y 199","Antuco",10,2010,279808.50024426
+"4710","Hombre","Entre 50 y 199","Antuco",10,2011,426631.945097302
+"4711","Hombre","Entre 50 y 199","Antuco",10,2012,380000
+"4712","Hombre","Entre 50 y 199","Antuco",10,2013,448832.050528797
+"4713","Hombre","Entre 50 y 199","Antuco",10,2014,279947.496718545
+"4714","Hombre","Entre 50 y 199","Antuco",10,2015,300000
+"4715","Hombre","Entre 50 y 199","Arauco",11,2010,258132.689631729
+"4716","Hombre","Entre 50 y 199","Arauco",11,2011,261683.722565902
+"4717","Hombre","Entre 50 y 199","Arauco",11,2012,369921.820723216
+"4718","Hombre","Entre 50 y 199","Arauco",11,2013,283923.754720374
+"4719","Hombre","Entre 50 y 199","Arauco",11,2014,274823.48308107
+"4720","Hombre","Entre 50 y 199","Arauco",11,2015,354345.864152987
+"4721","Hombre","Entre 50 y 199","Arica",12,2010,367246.685757147
+"4722","Hombre","Entre 50 y 199","Arica",12,2011,285312.128486021
+"4723","Hombre","Entre 50 y 199","Arica",12,2012,469036.005523088
+"4724","Hombre","Entre 50 y 199","Arica",12,2013,426541.542478519
+"4725","Hombre","Entre 50 y 199","Arica",12,2014,475185.876379284
+"4726","Hombre","Entre 50 y 199","Arica",12,2015,513567.803836091
+"4727","Hombre","Entre 50 y 199","Aysén",13,2010,345283.211211061
+"4728","Hombre","Entre 50 y 199","Aysén",13,2011,523734.693220951
+"4729","Hombre","Entre 50 y 199","Aysén",13,2012,634435.896096456
 "4730","Hombre","Entre 50 y 199","Aysén",13,2013,469980.400323075
 "4731","Hombre","Entre 50 y 199","Aysén",13,2014,433107.543575035
 "4732","Hombre","Entre 50 y 199","Aysén",13,2015,659370.125947555
@@ -6136,72 +6136,72 @@
 "6135","Hombre","Entre 50 y 199","Yungay",343,2013,188354.993221871
 "6136","Hombre","Entre 50 y 199","Yungay",343,2014,591097.21432632
 "6137","Hombre","Entre 50 y 199","Zapallar",344,2015,510069.902209346
-"6138","Hombre","200 y más personas","Aisén",NA,2010,611369.550636539
-"6139","Hombre","200 y más personas","Aisén",NA,2011,649780.144519879
-"6140","Hombre","200 y más personas","Aisén",NA,2012,654637.94473289
-"6141","Hombre","200 y más personas","Algarrobo",1,2011,432078.278999241
-"6142","Hombre","200 y más personas","Algarrobo",1,2012,905058.975304089
-"6143","Hombre","200 y más personas","Algarrobo",1,2013,600813.375508362
-"6144","Hombre","200 y más personas","Algarrobo",1,2015,361466.859833395
-"6145","Hombre","200 y más personas","Alhué",2,2011,411102.385803639
-"6146","Hombre","200 y más personas","Alhué",2,2012,607826.115001842
-"6147","Hombre","200 y más personas","Alhué",2,2013,566767.284229555
-"6148","Hombre","200 y más personas","Alhué",2,2014,767921.16732992
-"6149","Hombre","200 y más personas","Alhué",2,2015,846183.878123871
-"6150","Hombre","200 y más personas","Alto del Carmen",4,2010,366623.278176167
-"6151","Hombre","200 y más personas","Alto del Carmen",4,2011,252856.951179323
-"6152","Hombre","200 y más personas","Alto del Carmen",4,2012,220075.042484897
-"6153","Hombre","200 y más personas","Alto del Carmen",4,2013,276481.87348553
-"6154","Hombre","200 y más personas","Alto del Carmen",4,2014,325448.214658249
-"6155","Hombre","200 y más personas","Alto del Carmen",4,2015,396486.560110033
-"6156","Hombre","200 y más personas","Alto Hospicio",5,2010,569934.771015709
-"6157","Hombre","200 y más personas","Alto Hospicio",5,2011,543132.920407707
-"6158","Hombre","200 y más personas","Alto Hospicio",5,2012,473178.483634626
-"6159","Hombre","200 y más personas","Alto Hospicio",5,2013,506474.779172172
-"6160","Hombre","200 y más personas","Alto Hospicio",5,2014,497685.038412558
-"6161","Hombre","200 y más personas","Alto Hospicio",5,2015,623257.505918406
-"6162","Hombre","200 y más personas","Ancud",6,2010,342400.925331391
-"6163","Hombre","200 y más personas","Ancud",6,2011,330659.241760105
-"6164","Hombre","200 y más personas","Ancud",6,2012,426562.256109767
-"6165","Hombre","200 y más personas","Ancud",6,2013,351633.147249417
-"6166","Hombre","200 y más personas","Ancud",6,2014,595670.627073745
-"6167","Hombre","200 y más personas","Ancud",6,2015,710805.324479105
-"6168","Hombre","200 y más personas","Andacollo",7,2010,464231.491557128
-"6169","Hombre","200 y más personas","Andacollo",7,2011,361522.913858601
-"6170","Hombre","200 y más personas","Andacollo",7,2012,591987.764475388
-"6171","Hombre","200 y más personas","Andacollo",7,2013,527660.213153589
-"6172","Hombre","200 y más personas","Andacollo",7,2014,652651.16112652
-"6173","Hombre","200 y más personas","Andacollo",7,2015,1100297.6727404
-"6174","Hombre","200 y más personas","Angol",8,2010,381982.14110376
-"6175","Hombre","200 y más personas","Angol",8,2011,575622.190231963
-"6176","Hombre","200 y más personas","Angol",8,2012,589957.244263696
-"6177","Hombre","200 y más personas","Angol",8,2013,523911.696414014
-"6178","Hombre","200 y más personas","Angol",8,2014,521540.34855177
-"6179","Hombre","200 y más personas","Angol",8,2015,528206.14044519
-"6180","Hombre","200 y más personas","Antofagasta",9,2010,692531.24534416
-"6181","Hombre","200 y más personas","Antofagasta",9,2011,716348.087710973
-"6182","Hombre","200 y más personas","Antofagasta",9,2012,764046.908678707
-"6183","Hombre","200 y más personas","Antofagasta",9,2013,751244.870685233
-"6184","Hombre","200 y más personas","Antofagasta",9,2014,836630.018922294
-"6185","Hombre","200 y más personas","Antofagasta",9,2015,897271.290898996
-"6186","Hombre","200 y más personas","Antuco",10,2010,439699.071812408
-"6187","Hombre","200 y más personas","Antuco",10,2011,200000
-"6188","Hombre","200 y más personas","Antuco",10,2012,492712.306701031
-"6189","Hombre","200 y más personas","Antuco",10,2013,510470.0616233
-"6190","Hombre","200 y más personas","Antuco",10,2014,350994.881342825
-"6191","Hombre","200 y más personas","Antuco",10,2015,1142037.51042627
-"6192","Hombre","200 y más personas","Arauco",11,2010,408292.764135626
-"6193","Hombre","200 y más personas","Arauco",11,2011,455402.601511477
-"6194","Hombre","200 y más personas","Arauco",11,2012,381044.114938362
-"6195","Hombre","200 y más personas","Arauco",11,2013,466168.865248923
-"6196","Hombre","200 y más personas","Arauco",11,2014,485918.499583389
-"6197","Hombre","200 y más personas","Arauco",11,2015,399617.359102393
-"6198","Hombre","200 y más personas","Arica",12,2010,504663.869526828
-"6199","Hombre","200 y más personas","Arica",12,2011,487279.347877655
-"6200","Hombre","200 y más personas","Arica",12,2012,648671.773926158
-"6201","Hombre","200 y más personas","Arica",12,2013,564429.254617555
-"6202","Hombre","200 y más personas","Arica",12,2014,599615.745395482
-"6203","Hombre","200 y más personas","Arica",12,2015,661673.179691044
+"6138","Hombre","200 y más personas","Algarrobo",1,2011,432078.278999241
+"6139","Hombre","200 y más personas","Algarrobo",1,2012,905058.975304089
+"6140","Hombre","200 y más personas","Algarrobo",1,2013,600813.375508362
+"6141","Hombre","200 y más personas","Algarrobo",1,2015,361466.859833395
+"6142","Hombre","200 y más personas","Alhué",2,2011,411102.385803639
+"6143","Hombre","200 y más personas","Alhué",2,2012,607826.115001842
+"6144","Hombre","200 y más personas","Alhué",2,2013,566767.284229555
+"6145","Hombre","200 y más personas","Alhué",2,2014,767921.16732992
+"6146","Hombre","200 y más personas","Alhué",2,2015,846183.878123871
+"6147","Hombre","200 y más personas","Alto del Carmen",4,2010,366623.278176167
+"6148","Hombre","200 y más personas","Alto del Carmen",4,2011,252856.951179323
+"6149","Hombre","200 y más personas","Alto del Carmen",4,2012,220075.042484897
+"6150","Hombre","200 y más personas","Alto del Carmen",4,2013,276481.87348553
+"6151","Hombre","200 y más personas","Alto del Carmen",4,2014,325448.214658249
+"6152","Hombre","200 y más personas","Alto del Carmen",4,2015,396486.560110033
+"6153","Hombre","200 y más personas","Alto Hospicio",5,2010,569934.771015709
+"6154","Hombre","200 y más personas","Alto Hospicio",5,2011,543132.920407707
+"6155","Hombre","200 y más personas","Alto Hospicio",5,2012,473178.483634626
+"6156","Hombre","200 y más personas","Alto Hospicio",5,2013,506474.779172172
+"6157","Hombre","200 y más personas","Alto Hospicio",5,2014,497685.038412558
+"6158","Hombre","200 y más personas","Alto Hospicio",5,2015,623257.505918406
+"6159","Hombre","200 y más personas","Ancud",6,2010,342400.925331391
+"6160","Hombre","200 y más personas","Ancud",6,2011,330659.241760105
+"6161","Hombre","200 y más personas","Ancud",6,2012,426562.256109767
+"6162","Hombre","200 y más personas","Ancud",6,2013,351633.147249417
+"6163","Hombre","200 y más personas","Ancud",6,2014,595670.627073745
+"6164","Hombre","200 y más personas","Ancud",6,2015,710805.324479105
+"6165","Hombre","200 y más personas","Andacollo",7,2010,464231.491557128
+"6166","Hombre","200 y más personas","Andacollo",7,2011,361522.913858601
+"6167","Hombre","200 y más personas","Andacollo",7,2012,591987.764475388
+"6168","Hombre","200 y más personas","Andacollo",7,2013,527660.213153589
+"6169","Hombre","200 y más personas","Andacollo",7,2014,652651.16112652
+"6170","Hombre","200 y más personas","Andacollo",7,2015,1100297.6727404
+"6171","Hombre","200 y más personas","Angol",8,2010,381982.14110376
+"6172","Hombre","200 y más personas","Angol",8,2011,575622.190231963
+"6173","Hombre","200 y más personas","Angol",8,2012,589957.244263696
+"6174","Hombre","200 y más personas","Angol",8,2013,523911.696414014
+"6175","Hombre","200 y más personas","Angol",8,2014,521540.34855177
+"6176","Hombre","200 y más personas","Angol",8,2015,528206.14044519
+"6177","Hombre","200 y más personas","Antofagasta",9,2010,692531.24534416
+"6178","Hombre","200 y más personas","Antofagasta",9,2011,716348.087710973
+"6179","Hombre","200 y más personas","Antofagasta",9,2012,764046.908678707
+"6180","Hombre","200 y más personas","Antofagasta",9,2013,751244.870685233
+"6181","Hombre","200 y más personas","Antofagasta",9,2014,836630.018922294
+"6182","Hombre","200 y más personas","Antofagasta",9,2015,897271.290898996
+"6183","Hombre","200 y más personas","Antuco",10,2010,439699.071812408
+"6184","Hombre","200 y más personas","Antuco",10,2011,200000
+"6185","Hombre","200 y más personas","Antuco",10,2012,492712.306701031
+"6186","Hombre","200 y más personas","Antuco",10,2013,510470.0616233
+"6187","Hombre","200 y más personas","Antuco",10,2014,350994.881342825
+"6188","Hombre","200 y más personas","Antuco",10,2015,1142037.51042627
+"6189","Hombre","200 y más personas","Arauco",11,2010,408292.764135626
+"6190","Hombre","200 y más personas","Arauco",11,2011,455402.601511477
+"6191","Hombre","200 y más personas","Arauco",11,2012,381044.114938362
+"6192","Hombre","200 y más personas","Arauco",11,2013,466168.865248923
+"6193","Hombre","200 y más personas","Arauco",11,2014,485918.499583389
+"6194","Hombre","200 y más personas","Arauco",11,2015,399617.359102393
+"6195","Hombre","200 y más personas","Arica",12,2010,504663.869526828
+"6196","Hombre","200 y más personas","Arica",12,2011,487279.347877655
+"6197","Hombre","200 y más personas","Arica",12,2012,648671.773926158
+"6198","Hombre","200 y más personas","Arica",12,2013,564429.254617555
+"6199","Hombre","200 y más personas","Arica",12,2014,599615.745395482
+"6200","Hombre","200 y más personas","Arica",12,2015,661673.179691044
+"6201","Hombre","200 y más personas","Aysén",13,2010,611369.550636539
+"6202","Hombre","200 y más personas","Aysén",13,2011,649780.144519879
+"6203","Hombre","200 y más personas","Aysén",13,2012,654637.94473289
 "6204","Hombre","200 y más personas","Aysén",13,2013,752152.782744243
 "6205","Hombre","200 y más personas","Aysén",13,2014,728180.244453758
 "6206","Hombre","200 y más personas","Aysén",13,2015,779897.839442931
@@ -8026,72 +8026,72 @@
 "8025","Hombre",NA,"Vitacura",340,2011,314297.356582112
 "8026","Hombre",NA,"Vitacura",340,2012,125563.788659794
 "8027","Hombre",NA,"Vitacura",340,2015,754204.041132964
-"8028","Mujer","Menos de 5","Aisén",NA,2010,286925.477081833
-"8029","Mujer","Menos de 5","Aisén",NA,2011,174541.516686203
-"8030","Mujer","Menos de 5","Aisén",NA,2012,269282.892245892
-"8031","Mujer","Menos de 5","Algarrobo",1,2010,45662.9607230085
-"8032","Mujer","Menos de 5","Algarrobo",1,2011,351691.622441243
-"8033","Mujer","Menos de 5","Algarrobo",1,2012,326826.852193144
-"8034","Mujer","Menos de 5","Algarrobo",1,2013,120162.675101673
-"8035","Mujer","Menos de 5","Algarrobo",1,2014,111550.653780557
-"8036","Mujer","Menos de 5","Algarrobo",1,2015,421711.336472294
-"8037","Mujer","Menos de 5","Alhué",2,2011,115220.874399798
-"8038","Mujer","Menos de 5","Alhué",2,2012,231292.849244379
-"8039","Mujer","Menos de 5","Alhué",2,2013,70094.8938093089
-"8040","Mujer","Menos de 5","Alto del Carmen",4,2010,75871.7425125769
-"8041","Mujer","Menos de 5","Alto del Carmen",4,2011,103459.943796605
-"8042","Mujer","Menos de 5","Alto del Carmen",4,2012,159620.623792333
-"8043","Mujer","Menos de 5","Alto del Carmen",4,2013,121509.161258188
-"8044","Mujer","Menos de 5","Alto del Carmen",4,2014,140211.866757571
-"8045","Mujer","Menos de 5","Alto del Carmen",4,2015,505229.621867185
-"8046","Mujer","Menos de 5","Alto Hospicio",5,2010,127593.985272923
-"8047","Mujer","Menos de 5","Alto Hospicio",5,2011,183077.993347275
-"8048","Mujer","Menos de 5","Alto Hospicio",5,2012,165148.826128074
-"8049","Mujer","Menos de 5","Alto Hospicio",5,2013,158718.395557573
-"8050","Mujer","Menos de 5","Alto Hospicio",5,2014,231208.352394483
-"8051","Mujer","Menos de 5","Alto Hospicio",5,2015,223683.318676406
-"8052","Mujer","Menos de 5","Ancud",6,2010,123437.562701148
-"8053","Mujer","Menos de 5","Ancud",6,2011,88427.9457834208
-"8054","Mujer","Menos de 5","Ancud",6,2012,156873.478010022
-"8055","Mujer","Menos de 5","Ancud",6,2013,148007.267197475
-"8056","Mujer","Menos de 5","Ancud",6,2014,267361.41807331
-"8057","Mujer","Menos de 5","Ancud",6,2015,227862.418812245
-"8058","Mujer","Menos de 5","Andacollo",7,2010,172525.034731332
-"8059","Mujer","Menos de 5","Andacollo",7,2011,218613.964756142
-"8060","Mujer","Menos de 5","Andacollo",7,2012,519721.760515687
-"8061","Mujer","Menos de 5","Andacollo",7,2013,20339.6812214093
-"8062","Mujer","Menos de 5","Andacollo",7,2014,207896.346752174
-"8063","Mujer","Menos de 5","Andacollo",7,2015,210093.829494674
-"8064","Mujer","Menos de 5","Angol",8,2010,176236.763357257
-"8065","Mujer","Menos de 5","Angol",8,2011,131870.450186815
-"8066","Mujer","Menos de 5","Angol",8,2012,143642.245797794
-"8067","Mujer","Menos de 5","Angol",8,2013,136272.902203654
-"8068","Mujer","Menos de 5","Angol",8,2014,189757.672948487
-"8069","Mujer","Menos de 5","Angol",8,2015,140446.50378687
-"8070","Mujer","Menos de 5","Antofagasta",9,2010,182169.495208536
-"8071","Mujer","Menos de 5","Antofagasta",9,2011,286000.642015564
-"8072","Mujer","Menos de 5","Antofagasta",9,2012,278926.504874483
-"8073","Mujer","Menos de 5","Antofagasta",9,2013,255274.071927247
-"8074","Mujer","Menos de 5","Antofagasta",9,2014,244345.637802705
-"8075","Mujer","Menos de 5","Antofagasta",9,2015,254061.396050439
-"8076","Mujer","Menos de 5","Antuco",10,2010,109924.767953102
-"8077","Mujer","Menos de 5","Antuco",10,2011,100000
-"8078","Mujer","Menos de 5","Antuco",10,2012,110000
-"8079","Mujer","Menos de 5","Antuco",10,2013,166666.666666667
-"8080","Mujer","Menos de 5","Antuco",10,2014,149270.80251672
-"8081","Mujer","Menos de 5","Antuco",10,2015,96313.5808678128
-"8082","Mujer","Menos de 5","Arauco",11,2010,101655.731980614
-"8083","Mujer","Menos de 5","Arauco",11,2011,54147.1881477468
-"8084","Mujer","Menos de 5","Arauco",11,2012,54066.4705512014
-"8085","Mujer","Menos de 5","Arauco",11,2013,93439.4102408401
-"8086","Mujer","Menos de 5","Arauco",11,2014,191425.947237101
-"8087","Mujer","Menos de 5","Arauco",11,2015,122449.593555222
-"8088","Mujer","Menos de 5","Arica",12,2010,162285.133410613
-"8089","Mujer","Menos de 5","Arica",12,2011,153605.416227767
-"8090","Mujer","Menos de 5","Arica",12,2012,157460.068625298
-"8091","Mujer","Menos de 5","Arica",12,2013,170168.585285151
-"8092","Mujer","Menos de 5","Arica",12,2014,201824.817895711
-"8093","Mujer","Menos de 5","Arica",12,2015,212823.775446942
+"8028","Mujer","Menos de 5","Algarrobo",1,2010,45662.9607230085
+"8029","Mujer","Menos de 5","Algarrobo",1,2011,351691.622441243
+"8030","Mujer","Menos de 5","Algarrobo",1,2012,326826.852193144
+"8031","Mujer","Menos de 5","Algarrobo",1,2013,120162.675101673
+"8032","Mujer","Menos de 5","Algarrobo",1,2014,111550.653780557
+"8033","Mujer","Menos de 5","Algarrobo",1,2015,421711.336472294
+"8034","Mujer","Menos de 5","Alhué",2,2011,115220.874399798
+"8035","Mujer","Menos de 5","Alhué",2,2012,231292.849244379
+"8036","Mujer","Menos de 5","Alhué",2,2013,70094.8938093089
+"8037","Mujer","Menos de 5","Alto del Carmen",4,2010,75871.7425125769
+"8038","Mujer","Menos de 5","Alto del Carmen",4,2011,103459.943796605
+"8039","Mujer","Menos de 5","Alto del Carmen",4,2012,159620.623792333
+"8040","Mujer","Menos de 5","Alto del Carmen",4,2013,121509.161258188
+"8041","Mujer","Menos de 5","Alto del Carmen",4,2014,140211.866757571
+"8042","Mujer","Menos de 5","Alto del Carmen",4,2015,505229.621867185
+"8043","Mujer","Menos de 5","Alto Hospicio",5,2010,127593.985272923
+"8044","Mujer","Menos de 5","Alto Hospicio",5,2011,183077.993347275
+"8045","Mujer","Menos de 5","Alto Hospicio",5,2012,165148.826128074
+"8046","Mujer","Menos de 5","Alto Hospicio",5,2013,158718.395557573
+"8047","Mujer","Menos de 5","Alto Hospicio",5,2014,231208.352394483
+"8048","Mujer","Menos de 5","Alto Hospicio",5,2015,223683.318676406
+"8049","Mujer","Menos de 5","Ancud",6,2010,123437.562701148
+"8050","Mujer","Menos de 5","Ancud",6,2011,88427.9457834208
+"8051","Mujer","Menos de 5","Ancud",6,2012,156873.478010022
+"8052","Mujer","Menos de 5","Ancud",6,2013,148007.267197475
+"8053","Mujer","Menos de 5","Ancud",6,2014,267361.41807331
+"8054","Mujer","Menos de 5","Ancud",6,2015,227862.418812245
+"8055","Mujer","Menos de 5","Andacollo",7,2010,172525.034731332
+"8056","Mujer","Menos de 5","Andacollo",7,2011,218613.964756142
+"8057","Mujer","Menos de 5","Andacollo",7,2012,519721.760515687
+"8058","Mujer","Menos de 5","Andacollo",7,2013,20339.6812214093
+"8059","Mujer","Menos de 5","Andacollo",7,2014,207896.346752174
+"8060","Mujer","Menos de 5","Andacollo",7,2015,210093.829494674
+"8061","Mujer","Menos de 5","Angol",8,2010,176236.763357257
+"8062","Mujer","Menos de 5","Angol",8,2011,131870.450186815
+"8063","Mujer","Menos de 5","Angol",8,2012,143642.245797794
+"8064","Mujer","Menos de 5","Angol",8,2013,136272.902203654
+"8065","Mujer","Menos de 5","Angol",8,2014,189757.672948487
+"8066","Mujer","Menos de 5","Angol",8,2015,140446.50378687
+"8067","Mujer","Menos de 5","Antofagasta",9,2010,182169.495208536
+"8068","Mujer","Menos de 5","Antofagasta",9,2011,286000.642015564
+"8069","Mujer","Menos de 5","Antofagasta",9,2012,278926.504874483
+"8070","Mujer","Menos de 5","Antofagasta",9,2013,255274.071927247
+"8071","Mujer","Menos de 5","Antofagasta",9,2014,244345.637802705
+"8072","Mujer","Menos de 5","Antofagasta",9,2015,254061.396050439
+"8073","Mujer","Menos de 5","Antuco",10,2010,109924.767953102
+"8074","Mujer","Menos de 5","Antuco",10,2011,100000
+"8075","Mujer","Menos de 5","Antuco",10,2012,110000
+"8076","Mujer","Menos de 5","Antuco",10,2013,166666.666666667
+"8077","Mujer","Menos de 5","Antuco",10,2014,149270.80251672
+"8078","Mujer","Menos de 5","Antuco",10,2015,96313.5808678128
+"8079","Mujer","Menos de 5","Arauco",11,2010,101655.731980614
+"8080","Mujer","Menos de 5","Arauco",11,2011,54147.1881477468
+"8081","Mujer","Menos de 5","Arauco",11,2012,54066.4705512014
+"8082","Mujer","Menos de 5","Arauco",11,2013,93439.4102408401
+"8083","Mujer","Menos de 5","Arauco",11,2014,191425.947237101
+"8084","Mujer","Menos de 5","Arauco",11,2015,122449.593555222
+"8085","Mujer","Menos de 5","Arica",12,2010,162285.133410613
+"8086","Mujer","Menos de 5","Arica",12,2011,153605.416227767
+"8087","Mujer","Menos de 5","Arica",12,2012,157460.068625298
+"8088","Mujer","Menos de 5","Arica",12,2013,170168.585285151
+"8089","Mujer","Menos de 5","Arica",12,2014,201824.817895711
+"8090","Mujer","Menos de 5","Arica",12,2015,212823.775446942
+"8091","Mujer","Menos de 5","Aysén",13,2010,286925.477081833
+"8092","Mujer","Menos de 5","Aysén",13,2011,174541.516686203
+"8093","Mujer","Menos de 5","Aysén",13,2012,269282.892245892
 "8094","Mujer","Menos de 5","Aysén",13,2013,304628.762040229
 "8095","Mujer","Menos de 5","Aysén",13,2014,151268.072057788
 "8096","Mujer","Menos de 5","Aysén",13,2015,296710.484115638
@@ -9679,47 +9679,47 @@
 "9678","Mujer","Menos de 5","Yungay",343,2015,502037.30532416
 "9679","Mujer","Menos de 5","Zapallar",344,2014,105439.858975727
 "9680","Mujer","Menos de 5","Zapallar",344,2015,227164.90203135
-"9681","Mujer","De 5 a 10 personas","Aisén",NA,2010,277713.989543724
-"9682","Mujer","De 5 a 10 personas","Aisén",NA,2011,407464.872021093
-"9683","Mujer","De 5 a 10 personas","Aisén",NA,2012,206210.180943262
-"9684","Mujer","De 5 a 10 personas","Algarrobo",1,2010,210205.519671168
-"9685","Mujer","De 5 a 10 personas","Algarrobo",1,2014,1970324.0477544
-"9686","Mujer","De 5 a 10 personas","Alto del Carmen",4,2010,269263.260912115
-"9687","Mujer","De 5 a 10 personas","Alto Hospicio",5,2010,345632.667414107
-"9688","Mujer","De 5 a 10 personas","Alto Hospicio",5,2011,200235.087561626
-"9689","Mujer","De 5 a 10 personas","Alto Hospicio",5,2012,231414.722037265
-"9690","Mujer","De 5 a 10 personas","Alto Hospicio",5,2013,262390.756569981
-"9691","Mujer","De 5 a 10 personas","Alto Hospicio",5,2014,221298.852348139
-"9692","Mujer","De 5 a 10 personas","Alto Hospicio",5,2015,280641.981266158
-"9693","Mujer","De 5 a 10 personas","Ancud",6,2010,105232.843640897
-"9694","Mujer","De 5 a 10 personas","Ancud",6,2011,179541
-"9695","Mujer","De 5 a 10 personas","Ancud",6,2012,803608.24742268
-"9696","Mujer","De 5 a 10 personas","Ancud",6,2014,179966.247890493
-"9697","Mujer","De 5 a 10 personas","Ancud",6,2015,351426.113726912
-"9698","Mujer","De 5 a 10 personas","Andacollo",7,2013,35047.4469046544
-"9699","Mujer","De 5 a 10 personas","Andacollo",7,2015,98026.5199350536
-"9700","Mujer","De 5 a 10 personas","Angol",8,2010,215570.168460153
-"9701","Mujer","De 5 a 10 personas","Angol",8,2011,298343.38666833
-"9702","Mujer","De 5 a 10 personas","Angol",8,2012,270985.3758003
-"9703","Mujer","De 5 a 10 personas","Angol",8,2013,221477.910141839
-"9704","Mujer","De 5 a 10 personas","Angol",8,2014,232700.087440425
-"9705","Mujer","De 5 a 10 personas","Angol",8,2015,310947.458373571
-"9706","Mujer","De 5 a 10 personas","Antofagasta",9,2010,291019.965763347
-"9707","Mujer","De 5 a 10 personas","Antofagasta",9,2011,441234.633197488
-"9708","Mujer","De 5 a 10 personas","Antofagasta",9,2012,421497.155287651
-"9709","Mujer","De 5 a 10 personas","Antofagasta",9,2013,388002.884008865
-"9710","Mujer","De 5 a 10 personas","Antofagasta",9,2014,333002.910610839
-"9711","Mujer","De 5 a 10 personas","Antofagasta",9,2015,513014.762234335
-"9712","Mujer","De 5 a 10 personas","Arauco",11,2010,109362.799804592
-"9713","Mujer","De 5 a 10 personas","Arauco",11,2011,132000
-"9714","Mujer","De 5 a 10 personas","Arauco",11,2012,198981.202408074
-"9715","Mujer","De 5 a 10 personas","Arauco",11,2014,156000
-"9716","Mujer","De 5 a 10 personas","Arica",12,2010,225184.235085381
-"9717","Mujer","De 5 a 10 personas","Arica",12,2011,269825.265727645
-"9718","Mujer","De 5 a 10 personas","Arica",12,2012,233823.674821928
-"9719","Mujer","De 5 a 10 personas","Arica",12,2013,797536.434514884
-"9720","Mujer","De 5 a 10 personas","Arica",12,2014,230340.769646789
-"9721","Mujer","De 5 a 10 personas","Arica",12,2015,360091.679227601
+"9681","Mujer","De 5 a 10 personas","Algarrobo",1,2010,210205.519671168
+"9682","Mujer","De 5 a 10 personas","Algarrobo",1,2014,1970324.0477544
+"9683","Mujer","De 5 a 10 personas","Alto del Carmen",4,2010,269263.260912115
+"9684","Mujer","De 5 a 10 personas","Alto Hospicio",5,2010,345632.667414107
+"9685","Mujer","De 5 a 10 personas","Alto Hospicio",5,2011,200235.087561626
+"9686","Mujer","De 5 a 10 personas","Alto Hospicio",5,2012,231414.722037265
+"9687","Mujer","De 5 a 10 personas","Alto Hospicio",5,2013,262390.756569981
+"9688","Mujer","De 5 a 10 personas","Alto Hospicio",5,2014,221298.852348139
+"9689","Mujer","De 5 a 10 personas","Alto Hospicio",5,2015,280641.981266158
+"9690","Mujer","De 5 a 10 personas","Ancud",6,2010,105232.843640897
+"9691","Mujer","De 5 a 10 personas","Ancud",6,2011,179541
+"9692","Mujer","De 5 a 10 personas","Ancud",6,2012,803608.24742268
+"9693","Mujer","De 5 a 10 personas","Ancud",6,2014,179966.247890493
+"9694","Mujer","De 5 a 10 personas","Ancud",6,2015,351426.113726912
+"9695","Mujer","De 5 a 10 personas","Andacollo",7,2013,35047.4469046544
+"9696","Mujer","De 5 a 10 personas","Andacollo",7,2015,98026.5199350536
+"9697","Mujer","De 5 a 10 personas","Angol",8,2010,215570.168460153
+"9698","Mujer","De 5 a 10 personas","Angol",8,2011,298343.38666833
+"9699","Mujer","De 5 a 10 personas","Angol",8,2012,270985.3758003
+"9700","Mujer","De 5 a 10 personas","Angol",8,2013,221477.910141839
+"9701","Mujer","De 5 a 10 personas","Angol",8,2014,232700.087440425
+"9702","Mujer","De 5 a 10 personas","Angol",8,2015,310947.458373571
+"9703","Mujer","De 5 a 10 personas","Antofagasta",9,2010,291019.965763347
+"9704","Mujer","De 5 a 10 personas","Antofagasta",9,2011,441234.633197488
+"9705","Mujer","De 5 a 10 personas","Antofagasta",9,2012,421497.155287651
+"9706","Mujer","De 5 a 10 personas","Antofagasta",9,2013,388002.884008865
+"9707","Mujer","De 5 a 10 personas","Antofagasta",9,2014,333002.910610839
+"9708","Mujer","De 5 a 10 personas","Antofagasta",9,2015,513014.762234335
+"9709","Mujer","De 5 a 10 personas","Arauco",11,2010,109362.799804592
+"9710","Mujer","De 5 a 10 personas","Arauco",11,2011,132000
+"9711","Mujer","De 5 a 10 personas","Arauco",11,2012,198981.202408074
+"9712","Mujer","De 5 a 10 personas","Arauco",11,2014,156000
+"9713","Mujer","De 5 a 10 personas","Arica",12,2010,225184.235085381
+"9714","Mujer","De 5 a 10 personas","Arica",12,2011,269825.265727645
+"9715","Mujer","De 5 a 10 personas","Arica",12,2012,233823.674821928
+"9716","Mujer","De 5 a 10 personas","Arica",12,2013,797536.434514884
+"9717","Mujer","De 5 a 10 personas","Arica",12,2014,230340.769646789
+"9718","Mujer","De 5 a 10 personas","Arica",12,2015,360091.679227601
+"9719","Mujer","De 5 a 10 personas","Aysén",13,2010,277713.989543724
+"9720","Mujer","De 5 a 10 personas","Aysén",13,2011,407464.872021093
+"9721","Mujer","De 5 a 10 personas","Aysén",13,2012,206210.180943262
 "9722","Mujer","De 5 a 10 personas","Aysén",13,2013,404237.537253332
 "9723","Mujer","De 5 a 10 personas","Aysén",13,2014,367782.549231959
 "9724","Mujer","De 5 a 10 personas","Aysén",13,2015,515907.200339541
@@ -10750,58 +10750,58 @@
 "10749","Mujer","De 5 a 10 personas","Yungay",343,2013,317980.478987801
 "10750","Mujer","De 5 a 10 personas","Yungay",343,2014,181876.06594656
 "10751","Mujer","De 5 a 10 personas","Zapallar",344,2015,343393.516841725
-"10752","Mujer","Entre 11 y 49","Aisén",NA,2010,456942.742143994
-"10753","Mujer","Entre 11 y 49","Aisén",NA,2011,411176.80639403
-"10754","Mujer","Entre 11 y 49","Aisén",NA,2012,561989.469383389
-"10755","Mujer","Entre 11 y 49","Algarrobo",1,2010,230225.092973184
-"10756","Mujer","Entre 11 y 49","Algarrobo",1,2012,241349.06008109
-"10757","Mujer","Entre 11 y 49","Algarrobo",1,2013,90122.0063262543
-"10758","Mujer","Entre 11 y 49","Algarrobo",1,2014,189959.446655296
-"10759","Mujer","Entre 11 y 49","Algarrobo",1,2015,602444.766388992
-"10760","Mujer","Entre 11 y 49","Alhué",2,2011,103698.786959818
-"10761","Mujer","Entre 11 y 49","Alhué",2,2012,271517.692591227
-"10762","Mujer","Entre 11 y 49","Alhué",2,2014,101042.2588592
-"10763","Mujer","Entre 11 y 49","Alto del Carmen",4,2010,182266.94535125
-"10764","Mujer","Entre 11 y 49","Alto del Carmen",4,2011,163209.877628967
-"10765","Mujer","Entre 11 y 49","Alto del Carmen",4,2012,193000
-"10766","Mujer","Entre 11 y 49","Alto del Carmen",4,2013,70000
-"10767","Mujer","Entre 11 y 49","Alto Hospicio",5,2010,287053.803188279
-"10768","Mujer","Entre 11 y 49","Alto Hospicio",5,2011,206484.410479535
-"10769","Mujer","Entre 11 y 49","Alto Hospicio",5,2012,293274.414944124
-"10770","Mujer","Entre 11 y 49","Alto Hospicio",5,2013,303140.026503041
-"10771","Mujer","Entre 11 y 49","Alto Hospicio",5,2014,364871.952976039
-"10772","Mujer","Entre 11 y 49","Alto Hospicio",5,2015,375077.094680116
-"10773","Mujer","Entre 11 y 49","Ancud",6,2010,811852.892808921
-"10774","Mujer","Entre 11 y 49","Ancud",6,2011,735383.103652843
-"10775","Mujer","Entre 11 y 49","Ancud",6,2012,527367.912371134
-"10776","Mujer","Entre 11 y 49","Ancud",6,2013,206999.381876046
-"10777","Mujer","Entre 11 y 49","Ancud",6,2014,388970.287211801
-"10778","Mujer","Entre 11 y 49","Ancud",6,2015,266877.255678571
-"10779","Mujer","Entre 11 y 49","Andacollo",7,2010,399726.428920371
-"10780","Mujer","Entre 11 y 49","Andacollo",7,2013,221161.66157166
-"10781","Mujer","Entre 11 y 49","Angol",8,2010,282834.474060658
-"10782","Mujer","Entre 11 y 49","Angol",8,2011,269261.477991144
-"10783","Mujer","Entre 11 y 49","Angol",8,2012,287993.936691574
-"10784","Mujer","Entre 11 y 49","Angol",8,2013,249282.426220799
-"10785","Mujer","Entre 11 y 49","Angol",8,2014,334140.797068436
-"10786","Mujer","Entre 11 y 49","Angol",8,2015,277010.698627402
-"10787","Mujer","Entre 11 y 49","Antofagasta",9,2010,355791.502832545
-"10788","Mujer","Entre 11 y 49","Antofagasta",9,2011,326585.462858257
-"10789","Mujer","Entre 11 y 49","Antofagasta",9,2012,341997.582960929
-"10790","Mujer","Entre 11 y 49","Antofagasta",9,2013,410320.67401644
-"10791","Mujer","Entre 11 y 49","Antofagasta",9,2014,534159.007459639
-"10792","Mujer","Entre 11 y 49","Antofagasta",9,2015,707779.460198777
-"10793","Mujer","Entre 11 y 49","Antuco",10,2012,301353.092783505
-"10794","Mujer","Entre 11 y 49","Arauco",11,2010,283430.945089662
-"10795","Mujer","Entre 11 y 49","Arauco",11,2011,364997.844378763
-"10796","Mujer","Entre 11 y 49","Arauco",11,2013,700000
-"10797","Mujer","Entre 11 y 49","Arauco",11,2015,312500
-"10798","Mujer","Entre 11 y 49","Arica",12,2010,282977.288228467
-"10799","Mujer","Entre 11 y 49","Arica",12,2011,295061.000231838
-"10800","Mujer","Entre 11 y 49","Arica",12,2012,244051.15426274
-"10801","Mujer","Entre 11 y 49","Arica",12,2013,271515.704452795
-"10802","Mujer","Entre 11 y 49","Arica",12,2014,250324.554068131
-"10803","Mujer","Entre 11 y 49","Arica",12,2015,274332.942310105
+"10752","Mujer","Entre 11 y 49","Algarrobo",1,2010,230225.092973184
+"10753","Mujer","Entre 11 y 49","Algarrobo",1,2012,241349.06008109
+"10754","Mujer","Entre 11 y 49","Algarrobo",1,2013,90122.0063262543
+"10755","Mujer","Entre 11 y 49","Algarrobo",1,2014,189959.446655296
+"10756","Mujer","Entre 11 y 49","Algarrobo",1,2015,602444.766388992
+"10757","Mujer","Entre 11 y 49","Alhué",2,2011,103698.786959818
+"10758","Mujer","Entre 11 y 49","Alhué",2,2012,271517.692591227
+"10759","Mujer","Entre 11 y 49","Alhué",2,2014,101042.2588592
+"10760","Mujer","Entre 11 y 49","Alto del Carmen",4,2010,182266.94535125
+"10761","Mujer","Entre 11 y 49","Alto del Carmen",4,2011,163209.877628967
+"10762","Mujer","Entre 11 y 49","Alto del Carmen",4,2012,193000
+"10763","Mujer","Entre 11 y 49","Alto del Carmen",4,2013,70000
+"10764","Mujer","Entre 11 y 49","Alto Hospicio",5,2010,287053.803188279
+"10765","Mujer","Entre 11 y 49","Alto Hospicio",5,2011,206484.410479535
+"10766","Mujer","Entre 11 y 49","Alto Hospicio",5,2012,293274.414944124
+"10767","Mujer","Entre 11 y 49","Alto Hospicio",5,2013,303140.026503041
+"10768","Mujer","Entre 11 y 49","Alto Hospicio",5,2014,364871.952976039
+"10769","Mujer","Entre 11 y 49","Alto Hospicio",5,2015,375077.094680116
+"10770","Mujer","Entre 11 y 49","Ancud",6,2010,811852.892808921
+"10771","Mujer","Entre 11 y 49","Ancud",6,2011,735383.103652843
+"10772","Mujer","Entre 11 y 49","Ancud",6,2012,527367.912371134
+"10773","Mujer","Entre 11 y 49","Ancud",6,2013,206999.381876046
+"10774","Mujer","Entre 11 y 49","Ancud",6,2014,388970.287211801
+"10775","Mujer","Entre 11 y 49","Ancud",6,2015,266877.255678571
+"10776","Mujer","Entre 11 y 49","Andacollo",7,2010,399726.428920371
+"10777","Mujer","Entre 11 y 49","Andacollo",7,2013,221161.66157166
+"10778","Mujer","Entre 11 y 49","Angol",8,2010,282834.474060658
+"10779","Mujer","Entre 11 y 49","Angol",8,2011,269261.477991144
+"10780","Mujer","Entre 11 y 49","Angol",8,2012,287993.936691574
+"10781","Mujer","Entre 11 y 49","Angol",8,2013,249282.426220799
+"10782","Mujer","Entre 11 y 49","Angol",8,2014,334140.797068436
+"10783","Mujer","Entre 11 y 49","Angol",8,2015,277010.698627402
+"10784","Mujer","Entre 11 y 49","Antofagasta",9,2010,355791.502832545
+"10785","Mujer","Entre 11 y 49","Antofagasta",9,2011,326585.462858257
+"10786","Mujer","Entre 11 y 49","Antofagasta",9,2012,341997.582960929
+"10787","Mujer","Entre 11 y 49","Antofagasta",9,2013,410320.67401644
+"10788","Mujer","Entre 11 y 49","Antofagasta",9,2014,534159.007459639
+"10789","Mujer","Entre 11 y 49","Antofagasta",9,2015,707779.460198777
+"10790","Mujer","Entre 11 y 49","Antuco",10,2012,301353.092783505
+"10791","Mujer","Entre 11 y 49","Arauco",11,2010,283430.945089662
+"10792","Mujer","Entre 11 y 49","Arauco",11,2011,364997.844378763
+"10793","Mujer","Entre 11 y 49","Arauco",11,2013,700000
+"10794","Mujer","Entre 11 y 49","Arauco",11,2015,312500
+"10795","Mujer","Entre 11 y 49","Arica",12,2010,282977.288228467
+"10796","Mujer","Entre 11 y 49","Arica",12,2011,295061.000231838
+"10797","Mujer","Entre 11 y 49","Arica",12,2012,244051.15426274
+"10798","Mujer","Entre 11 y 49","Arica",12,2013,271515.704452795
+"10799","Mujer","Entre 11 y 49","Arica",12,2014,250324.554068131
+"10800","Mujer","Entre 11 y 49","Arica",12,2015,274332.942310105
+"10801","Mujer","Entre 11 y 49","Aysén",13,2010,456942.742143994
+"10802","Mujer","Entre 11 y 49","Aysén",13,2011,411176.80639403
+"10803","Mujer","Entre 11 y 49","Aysén",13,2012,561989.469383389
 "10804","Mujer","Entre 11 y 49","Aysén",13,2013,296693.646487774
 "10805","Mujer","Entre 11 y 49","Aysén",13,2014,767019.861736521
 "10806","Mujer","Entre 11 y 49","Aysén",13,2015,501464.407271646
@@ -12081,58 +12081,58 @@
 "12080","Mujer","Entre 11 y 49","Yungay",343,2013,180244.012652509
 "12081","Mujer","Entre 11 y 49","Yungay",343,2015,341385.367620429
 "12082","Mujer","Entre 11 y 49","Zapallar",344,2014,333439.45423536
-"12083","Mujer","Entre 50 y 199","Aisén",NA,2010,334479.460122994
-"12084","Mujer","Entre 50 y 199","Aisén",NA,2011,465993.527324376
-"12085","Mujer","Entre 50 y 199","Aisén",NA,2012,422172.283846388
-"12086","Mujer","Entre 50 y 199","Algarrobo",1,2011,574764.594389689
-"12087","Mujer","Entre 50 y 199","Algarrobo",1,2015,602444.766388992
-"12088","Mujer","Entre 50 y 199","Alhué",2,2012,420349.612974566
-"12089","Mujer","Entre 50 y 199","Alhué",2,2014,202084.5177184
-"12090","Mujer","Entre 50 y 199","Alto del Carmen",4,2011,212689.695476371
-"12091","Mujer","Entre 50 y 199","Alto del Carmen",4,2012,151594.22159764
-"12092","Mujer","Entre 50 y 199","Alto del Carmen",4,2013,193709.370506789
-"12093","Mujer","Entre 50 y 199","Alto del Carmen",4,2014,191347.391317342
-"12094","Mujer","Entre 50 y 199","Alto del Carmen",4,2015,234536.850342111
-"12095","Mujer","Entre 50 y 199","Alto Hospicio",5,2010,216634.290070956
-"12096","Mujer","Entre 50 y 199","Alto Hospicio",5,2011,411001.738255089
-"12097","Mujer","Entre 50 y 199","Alto Hospicio",5,2012,264566.879987251
-"12098","Mujer","Entre 50 y 199","Alto Hospicio",5,2013,273392.989517548
-"12099","Mujer","Entre 50 y 199","Alto Hospicio",5,2014,331821.081675908
-"12100","Mujer","Entre 50 y 199","Alto Hospicio",5,2015,513867.271144231
-"12101","Mujer","Entre 50 y 199","Ancud",6,2010,165438.541938091
-"12102","Mujer","Entre 50 y 199","Ancud",6,2011,177431.042587196
-"12103","Mujer","Entre 50 y 199","Ancud",6,2013,249055.92519331
-"12104","Mujer","Entre 50 y 199","Ancud",6,2014,226473.790301085
-"12105","Mujer","Entre 50 y 199","Ancud",6,2015,240064.946779723
-"12106","Mujer","Entre 50 y 199","Andacollo",7,2010,241235.858289293
-"12107","Mujer","Entre 50 y 199","Andacollo",7,2012,260961.582932569
-"12108","Mujer","Entre 50 y 199","Andacollo",7,2013,500677.812923635
-"12109","Mujer","Entre 50 y 199","Andacollo",7,2015,694511.09630283
-"12110","Mujer","Entre 50 y 199","Angol",8,2010,251651.231464361
-"12111","Mujer","Entre 50 y 199","Angol",8,2011,561789.596402022
-"12112","Mujer","Entre 50 y 199","Angol",8,2012,397707.857454562
-"12113","Mujer","Entre 50 y 199","Angol",8,2013,246057.310367905
-"12114","Mujer","Entre 50 y 199","Angol",8,2014,293376.199507092
-"12115","Mujer","Entre 50 y 199","Angol",8,2015,395955.614415869
-"12116","Mujer","Entre 50 y 199","Antofagasta",9,2010,407186.208668963
-"12117","Mujer","Entre 50 y 199","Antofagasta",9,2011,334328.681829176
-"12118","Mujer","Entre 50 y 199","Antofagasta",9,2012,540157.20400703
-"12119","Mujer","Entre 50 y 199","Antofagasta",9,2013,459692.963910308
-"12120","Mujer","Entre 50 y 199","Antofagasta",9,2014,552615.107534675
-"12121","Mujer","Entre 50 y 199","Antofagasta",9,2015,581384.059335639
-"12122","Mujer","Entre 50 y 199","Antuco",10,2011,218291.926031255
-"12123","Mujer","Entre 50 y 199","Arauco",11,2010,478211.510542565
-"12124","Mujer","Entre 50 y 199","Arauco",11,2011,598082.166024255
-"12125","Mujer","Entre 50 y 199","Arauco",11,2012,155000
-"12126","Mujer","Entre 50 y 199","Arauco",11,2013,210000
-"12127","Mujer","Entre 50 y 199","Arauco",11,2014,379928.745546597
-"12128","Mujer","Entre 50 y 199","Arauco",11,2015,225060.88760599
-"12129","Mujer","Entre 50 y 199","Arica",12,2010,279908.184729676
-"12130","Mujer","Entre 50 y 199","Arica",12,2011,307519.98880734
-"12131","Mujer","Entre 50 y 199","Arica",12,2012,597782.921067561
-"12132","Mujer","Entre 50 y 199","Arica",12,2013,287802.962087031
-"12133","Mujer","Entre 50 y 199","Arica",12,2014,416236.048831695
-"12134","Mujer","Entre 50 y 199","Arica",12,2015,399876.718099616
+"12083","Mujer","Entre 50 y 199","Algarrobo",1,2011,574764.594389689
+"12084","Mujer","Entre 50 y 199","Algarrobo",1,2015,602444.766388992
+"12085","Mujer","Entre 50 y 199","Alhué",2,2012,420349.612974566
+"12086","Mujer","Entre 50 y 199","Alhué",2,2014,202084.5177184
+"12087","Mujer","Entre 50 y 199","Alto del Carmen",4,2011,212689.695476371
+"12088","Mujer","Entre 50 y 199","Alto del Carmen",4,2012,151594.22159764
+"12089","Mujer","Entre 50 y 199","Alto del Carmen",4,2013,193709.370506789
+"12090","Mujer","Entre 50 y 199","Alto del Carmen",4,2014,191347.391317342
+"12091","Mujer","Entre 50 y 199","Alto del Carmen",4,2015,234536.850342111
+"12092","Mujer","Entre 50 y 199","Alto Hospicio",5,2010,216634.290070956
+"12093","Mujer","Entre 50 y 199","Alto Hospicio",5,2011,411001.738255089
+"12094","Mujer","Entre 50 y 199","Alto Hospicio",5,2012,264566.879987251
+"12095","Mujer","Entre 50 y 199","Alto Hospicio",5,2013,273392.989517548
+"12096","Mujer","Entre 50 y 199","Alto Hospicio",5,2014,331821.081675908
+"12097","Mujer","Entre 50 y 199","Alto Hospicio",5,2015,513867.271144231
+"12098","Mujer","Entre 50 y 199","Ancud",6,2010,165438.541938091
+"12099","Mujer","Entre 50 y 199","Ancud",6,2011,177431.042587196
+"12100","Mujer","Entre 50 y 199","Ancud",6,2013,249055.92519331
+"12101","Mujer","Entre 50 y 199","Ancud",6,2014,226473.790301085
+"12102","Mujer","Entre 50 y 199","Ancud",6,2015,240064.946779723
+"12103","Mujer","Entre 50 y 199","Andacollo",7,2010,241235.858289293
+"12104","Mujer","Entre 50 y 199","Andacollo",7,2012,260961.582932569
+"12105","Mujer","Entre 50 y 199","Andacollo",7,2013,500677.812923635
+"12106","Mujer","Entre 50 y 199","Andacollo",7,2015,694511.09630283
+"12107","Mujer","Entre 50 y 199","Angol",8,2010,251651.231464361
+"12108","Mujer","Entre 50 y 199","Angol",8,2011,561789.596402022
+"12109","Mujer","Entre 50 y 199","Angol",8,2012,397707.857454562
+"12110","Mujer","Entre 50 y 199","Angol",8,2013,246057.310367905
+"12111","Mujer","Entre 50 y 199","Angol",8,2014,293376.199507092
+"12112","Mujer","Entre 50 y 199","Angol",8,2015,395955.614415869
+"12113","Mujer","Entre 50 y 199","Antofagasta",9,2010,407186.208668963
+"12114","Mujer","Entre 50 y 199","Antofagasta",9,2011,334328.681829176
+"12115","Mujer","Entre 50 y 199","Antofagasta",9,2012,540157.20400703
+"12116","Mujer","Entre 50 y 199","Antofagasta",9,2013,459692.963910308
+"12117","Mujer","Entre 50 y 199","Antofagasta",9,2014,552615.107534675
+"12118","Mujer","Entre 50 y 199","Antofagasta",9,2015,581384.059335639
+"12119","Mujer","Entre 50 y 199","Antuco",10,2011,218291.926031255
+"12120","Mujer","Entre 50 y 199","Arauco",11,2010,478211.510542565
+"12121","Mujer","Entre 50 y 199","Arauco",11,2011,598082.166024255
+"12122","Mujer","Entre 50 y 199","Arauco",11,2012,155000
+"12123","Mujer","Entre 50 y 199","Arauco",11,2013,210000
+"12124","Mujer","Entre 50 y 199","Arauco",11,2014,379928.745546597
+"12125","Mujer","Entre 50 y 199","Arauco",11,2015,225060.88760599
+"12126","Mujer","Entre 50 y 199","Arica",12,2010,279908.184729676
+"12127","Mujer","Entre 50 y 199","Arica",12,2011,307519.98880734
+"12128","Mujer","Entre 50 y 199","Arica",12,2012,597782.921067561
+"12129","Mujer","Entre 50 y 199","Arica",12,2013,287802.962087031
+"12130","Mujer","Entre 50 y 199","Arica",12,2014,416236.048831695
+"12131","Mujer","Entre 50 y 199","Arica",12,2015,399876.718099616
+"12132","Mujer","Entre 50 y 199","Aysén",13,2010,334479.460122994
+"12133","Mujer","Entre 50 y 199","Aysén",13,2011,465993.527324376
+"12134","Mujer","Entre 50 y 199","Aysén",13,2012,422172.283846388
 "12135","Mujer","Entre 50 y 199","Aysén",13,2013,517700.7748186
 "12136","Mujer","Entre 50 y 199","Aysén",13,2014,764582.455217915
 "12137","Mujer","Entre 50 y 199","Aysén",13,2015,388556.806979747
@@ -13361,68 +13361,68 @@
 "13360","Mujer","Entre 50 y 199","Yerbas Buenas",341,2012,214965.206185567
 "13361","Mujer","Entre 50 y 199","Yerbas Buenas",341,2014,262950.684417776
 "13362","Mujer","Entre 50 y 199","Yerbas Buenas",341,2015,241065.217391305
-"13363","Mujer","200 y más personas","Aisén",NA,2010,314475.859966381
-"13364","Mujer","200 y más personas","Aisén",NA,2011,369000.242454701
-"13365","Mujer","200 y más personas","Aisén",NA,2012,457169.130336608
-"13366","Mujer","200 y más personas","Algarrobo",1,2011,351691.622441243
-"13367","Mujer","200 y más personas","Algarrobo",1,2012,447939.833026169
-"13368","Mujer","200 y más personas","Algarrobo",1,2013,770876.104835068
-"13369","Mujer","200 y más personas","Algarrobo",1,2014,1010422.588592
-"13370","Mujer","200 y más personas","Algarrobo",1,2015,582363.274176026
-"13371","Mujer","200 y más personas","Alhué",2,2011,326570.792266869
-"13372","Mujer","200 y más personas","Alhué",2,2012,427388.960560264
-"13373","Mujer","200 y más personas","Alhué",2,2013,423239.64452478
-"13374","Mujer","200 y más personas","Alhué",2,2015,662689.243027891
-"13375","Mujer","200 y más personas","Alto del Carmen",4,2010,195566.049673895
-"13376","Mujer","200 y más personas","Alto del Carmen",4,2011,196767.876182961
-"13377","Mujer","200 y más personas","Alto del Carmen",4,2012,217490.651253956
-"13378","Mujer","200 y más personas","Alto del Carmen",4,2013,207892.148498505
-"13379","Mujer","200 y más personas","Alto del Carmen",4,2014,274642.223760569
-"13380","Mujer","200 y más personas","Alto del Carmen",4,2015,209692.340692699
-"13381","Mujer","200 y más personas","Alto Hospicio",5,2010,217888.179117427
-"13382","Mujer","200 y más personas","Alto Hospicio",5,2011,254059.093393535
-"13383","Mujer","200 y más personas","Alto Hospicio",5,2012,441969.486994748
-"13384","Mujer","200 y más personas","Alto Hospicio",5,2013,345779.649068843
-"13385","Mujer","200 y más personas","Alto Hospicio",5,2014,294121.05566809
-"13386","Mujer","200 y más personas","Alto Hospicio",5,2015,331572.761172256
-"13387","Mujer","200 y más personas","Ancud",6,2010,268777.369569327
-"13388","Mujer","200 y más personas","Ancud",6,2011,244657.318590286
-"13389","Mujer","200 y más personas","Ancud",6,2012,276947.189189752
-"13390","Mujer","200 y más personas","Ancud",6,2013,243504.851971183
-"13391","Mujer","200 y más personas","Ancud",6,2014,338145.922681312
-"13392","Mujer","200 y más personas","Ancud",6,2015,667104.773842131
-"13393","Mujer","200 y más personas","Andacollo",7,2010,218850.219833904
-"13394","Mujer","200 y más personas","Andacollo",7,2011,235706.797587929
-"13395","Mujer","200 y más personas","Andacollo",7,2012,362023.590121636
-"13396","Mujer","200 y más personas","Andacollo",7,2013,408886.880554302
-"13397","Mujer","200 y más personas","Andacollo",7,2014,439533.82603752
-"13398","Mujer","200 y más personas","Andacollo",7,2015,803259.688518656
-"13399","Mujer","200 y más personas","Angol",8,2010,411407.297164712
-"13400","Mujer","200 y más personas","Angol",8,2011,326764.876154961
-"13401","Mujer","200 y más personas","Angol",8,2012,426690.264630829
-"13402","Mujer","200 y más personas","Angol",8,2013,433890.190123327
-"13403","Mujer","200 y más personas","Angol",8,2014,333184.89182201
-"13404","Mujer","200 y más personas","Angol",8,2015,407612.176346247
-"13405","Mujer","200 y más personas","Antofagasta",9,2010,443873.628019759
-"13406","Mujer","200 y más personas","Antofagasta",9,2011,386693.906521024
-"13407","Mujer","200 y más personas","Antofagasta",9,2012,486263.621625088
-"13408","Mujer","200 y más personas","Antofagasta",9,2013,496633.939847813
-"13409","Mujer","200 y más personas","Antofagasta",9,2014,510084.442786241
-"13410","Mujer","200 y más personas","Antofagasta",9,2015,581458.41941984
-"13411","Mujer","200 y más personas","Antuco",10,2010,529637.518319492
-"13412","Mujer","200 y más personas","Antuco",10,2013,278942.636216508
-"13413","Mujer","200 y más personas","Arauco",11,2010,192177.049627785
-"13414","Mujer","200 y más personas","Arauco",11,2011,300293.102319441
-"13415","Mujer","200 y más personas","Arauco",11,2012,266302.708531663
-"13416","Mujer","200 y más personas","Arauco",11,2013,426803.296634453
-"13417","Mujer","200 y más personas","Arauco",11,2014,379758.696361486
-"13418","Mujer","200 y más personas","Arauco",11,2015,355807.723066441
-"13419","Mujer","200 y más personas","Arica",12,2010,365058.486203384
-"13420","Mujer","200 y más personas","Arica",12,2011,305362.163736434
-"13421","Mujer","200 y más personas","Arica",12,2012,407914.564889071
-"13422","Mujer","200 y más personas","Arica",12,2013,458687.622629041
-"13423","Mujer","200 y más personas","Arica",12,2014,483325.781608285
-"13424","Mujer","200 y más personas","Arica",12,2015,595397.027516542
+"13363","Mujer","200 y más personas","Algarrobo",1,2011,351691.622441243
+"13364","Mujer","200 y más personas","Algarrobo",1,2012,447939.833026169
+"13365","Mujer","200 y más personas","Algarrobo",1,2013,770876.104835068
+"13366","Mujer","200 y más personas","Algarrobo",1,2014,1010422.588592
+"13367","Mujer","200 y más personas","Algarrobo",1,2015,582363.274176026
+"13368","Mujer","200 y más personas","Alhué",2,2011,326570.792266869
+"13369","Mujer","200 y más personas","Alhué",2,2012,427388.960560264
+"13370","Mujer","200 y más personas","Alhué",2,2013,423239.64452478
+"13371","Mujer","200 y más personas","Alhué",2,2015,662689.243027891
+"13372","Mujer","200 y más personas","Alto del Carmen",4,2010,195566.049673895
+"13373","Mujer","200 y más personas","Alto del Carmen",4,2011,196767.876182961
+"13374","Mujer","200 y más personas","Alto del Carmen",4,2012,217490.651253956
+"13375","Mujer","200 y más personas","Alto del Carmen",4,2013,207892.148498505
+"13376","Mujer","200 y más personas","Alto del Carmen",4,2014,274642.223760569
+"13377","Mujer","200 y más personas","Alto del Carmen",4,2015,209692.340692699
+"13378","Mujer","200 y más personas","Alto Hospicio",5,2010,217888.179117427
+"13379","Mujer","200 y más personas","Alto Hospicio",5,2011,254059.093393535
+"13380","Mujer","200 y más personas","Alto Hospicio",5,2012,441969.486994748
+"13381","Mujer","200 y más personas","Alto Hospicio",5,2013,345779.649068843
+"13382","Mujer","200 y más personas","Alto Hospicio",5,2014,294121.05566809
+"13383","Mujer","200 y más personas","Alto Hospicio",5,2015,331572.761172256
+"13384","Mujer","200 y más personas","Ancud",6,2010,268777.369569327
+"13385","Mujer","200 y más personas","Ancud",6,2011,244657.318590286
+"13386","Mujer","200 y más personas","Ancud",6,2012,276947.189189752
+"13387","Mujer","200 y más personas","Ancud",6,2013,243504.851971183
+"13388","Mujer","200 y más personas","Ancud",6,2014,338145.922681312
+"13389","Mujer","200 y más personas","Ancud",6,2015,667104.773842131
+"13390","Mujer","200 y más personas","Andacollo",7,2010,218850.219833904
+"13391","Mujer","200 y más personas","Andacollo",7,2011,235706.797587929
+"13392","Mujer","200 y más personas","Andacollo",7,2012,362023.590121636
+"13393","Mujer","200 y más personas","Andacollo",7,2013,408886.880554302
+"13394","Mujer","200 y más personas","Andacollo",7,2014,439533.82603752
+"13395","Mujer","200 y más personas","Andacollo",7,2015,803259.688518656
+"13396","Mujer","200 y más personas","Angol",8,2010,411407.297164712
+"13397","Mujer","200 y más personas","Angol",8,2011,326764.876154961
+"13398","Mujer","200 y más personas","Angol",8,2012,426690.264630829
+"13399","Mujer","200 y más personas","Angol",8,2013,433890.190123327
+"13400","Mujer","200 y más personas","Angol",8,2014,333184.89182201
+"13401","Mujer","200 y más personas","Angol",8,2015,407612.176346247
+"13402","Mujer","200 y más personas","Antofagasta",9,2010,443873.628019759
+"13403","Mujer","200 y más personas","Antofagasta",9,2011,386693.906521024
+"13404","Mujer","200 y más personas","Antofagasta",9,2012,486263.621625088
+"13405","Mujer","200 y más personas","Antofagasta",9,2013,496633.939847813
+"13406","Mujer","200 y más personas","Antofagasta",9,2014,510084.442786241
+"13407","Mujer","200 y más personas","Antofagasta",9,2015,581458.41941984
+"13408","Mujer","200 y más personas","Antuco",10,2010,529637.518319492
+"13409","Mujer","200 y más personas","Antuco",10,2013,278942.636216508
+"13410","Mujer","200 y más personas","Arauco",11,2010,192177.049627785
+"13411","Mujer","200 y más personas","Arauco",11,2011,300293.102319441
+"13412","Mujer","200 y más personas","Arauco",11,2012,266302.708531663
+"13413","Mujer","200 y más personas","Arauco",11,2013,426803.296634453
+"13414","Mujer","200 y más personas","Arauco",11,2014,379758.696361486
+"13415","Mujer","200 y más personas","Arauco",11,2015,355807.723066441
+"13416","Mujer","200 y más personas","Arica",12,2010,365058.486203384
+"13417","Mujer","200 y más personas","Arica",12,2011,305362.163736434
+"13418","Mujer","200 y más personas","Arica",12,2012,407914.564889071
+"13419","Mujer","200 y más personas","Arica",12,2013,458687.622629041
+"13420","Mujer","200 y más personas","Arica",12,2014,483325.781608285
+"13421","Mujer","200 y más personas","Arica",12,2015,595397.027516542
+"13422","Mujer","200 y más personas","Aysén",13,2010,314475.859966381
+"13423","Mujer","200 y más personas","Aysén",13,2011,369000.242454701
+"13424","Mujer","200 y más personas","Aysén",13,2012,457169.130336608
 "13425","Mujer","200 y más personas","Aysén",13,2013,497620.165249261
 "13426","Mujer","200 y más personas","Aysén",13,2014,520870.947613037
 "13427","Mujer","200 y más personas","Aysén",13,2015,665274.642334283
@@ -14919,56 +14919,56 @@
 "14918","Mujer","200 y más personas","Yungay",343,2015,439784.679463964
 "14919","Mujer","200 y más personas","Zapallar",344,2014,262709.87303392
 "14920","Mujer","200 y más personas","Zapallar",344,2015,374268.811119161
-"14921","Mujer",NA,"Aisén",NA,2010,88452.6319690182
-"14922","Mujer",NA,"Aisén",NA,2011,97204.1914491131
-"14923","Mujer",NA,"Aisén",NA,2012,147773.646341157
-"14924","Mujer",NA,"Algarrobo",1,2012,49275.4330998893
-"14925","Mujer",NA,"Alhué",2,2011,221063.305534496
-"14926","Mujer",NA,"Alhué",2,2012,251405.270917803
-"14927","Mujer",NA,"Alto del Carmen",4,2010,170166.373067136
-"14928","Mujer",NA,"Alto del Carmen",4,2011,95943.7826262293
-"14929","Mujer",NA,"Alto del Carmen",4,2012,60337.2650202726
-"14930","Mujer",NA,"Alto del Carmen",4,2013,50067.7812923635
-"14931","Mujer",NA,"Alto del Carmen",4,2014,55000
-"14932","Mujer",NA,"Alto Hospicio",5,2010,95048.4216554377
-"14933","Mujer",NA,"Alto Hospicio",5,2011,106976.216061439
-"14934","Mujer",NA,"Alto Hospicio",5,2012,169652.651153914
-"14935","Mujer",NA,"Alto Hospicio",5,2013,135131.680354826
-"14936","Mujer",NA,"Alto Hospicio",5,2014,163827.143263934
-"14937","Mujer",NA,"Alto Hospicio",5,2015,231925.168456983
-"14938","Mujer",NA,"Ancud",6,2010,140454.808752015
-"14939","Mujer",NA,"Ancud",6,2011,90361.1110091023
-"14940","Mujer",NA,"Ancud",6,2014,88196.4705718781
-"14941","Mujer",NA,"Ancud",6,2015,151663.623233134
-"14942","Mujer",NA,"Andacollo",7,2010,70068.506557056
-"14943","Mujer",NA,"Andacollo",7,2011,95459.1546626233
-"14944","Mujer",NA,"Andacollo",7,2012,61342.8861039438
-"14945","Mujer",NA,"Andacollo",7,2015,180048.710084792
-"14946","Mujer",NA,"Angol",8,2010,109616.620723843
-"14947","Mujer",NA,"Angol",8,2011,101667.049562835
-"14948","Mujer",NA,"Angol",8,2012,119343.814283014
-"14949","Mujer",NA,"Angol",8,2013,117388.680095117
-"14950","Mujer",NA,"Angol",8,2014,116735.622804916
-"14951","Mujer",NA,"Angol",8,2015,113575.828929664
-"14952","Mujer",NA,"Antofagasta",9,2010,142599.592298798
-"14953","Mujer",NA,"Antofagasta",9,2011,174103.889018428
-"14954","Mujer",NA,"Antofagasta",9,2012,183966.270193211
-"14955","Mujer",NA,"Antofagasta",9,2013,181542.324410297
-"14956","Mujer",NA,"Antofagasta",9,2014,183720.166450567
-"14957","Mujer",NA,"Antofagasta",9,2015,281390.598471512
-"14958","Mujer",NA,"Antuco",10,2011,50000
-"14959","Mujer",NA,"Antuco",10,2012,20000
-"14960","Mujer",NA,"Antuco",10,2013,70000
-"14961","Mujer",NA,"Arauco",11,2011,39872.144401617
-"14962","Mujer",NA,"Arauco",11,2012,72980.471094238
-"14963","Mujer",NA,"Arauco",11,2014,135974.49840615
-"14964","Mujer",NA,"Arauco",11,2015,86553.9636355043
-"14965","Mujer",NA,"Arica",12,2010,102325.814584683
-"14966","Mujer",NA,"Arica",12,2011,161438.032024024
-"14967","Mujer",NA,"Arica",12,2012,111249.337871858
-"14968","Mujer",NA,"Arica",12,2013,130851.671497925
-"14969","Mujer",NA,"Arica",12,2014,139307.02091756
-"14970","Mujer",NA,"Arica",12,2015,160368.54277847
+"14921","Mujer",NA,"Algarrobo",1,2012,49275.4330998893
+"14922","Mujer",NA,"Alhué",2,2011,221063.305534496
+"14923","Mujer",NA,"Alhué",2,2012,251405.270917803
+"14924","Mujer",NA,"Alto del Carmen",4,2010,170166.373067136
+"14925","Mujer",NA,"Alto del Carmen",4,2011,95943.7826262293
+"14926","Mujer",NA,"Alto del Carmen",4,2012,60337.2650202726
+"14927","Mujer",NA,"Alto del Carmen",4,2013,50067.7812923635
+"14928","Mujer",NA,"Alto del Carmen",4,2014,55000
+"14929","Mujer",NA,"Alto Hospicio",5,2010,95048.4216554377
+"14930","Mujer",NA,"Alto Hospicio",5,2011,106976.216061439
+"14931","Mujer",NA,"Alto Hospicio",5,2012,169652.651153914
+"14932","Mujer",NA,"Alto Hospicio",5,2013,135131.680354826
+"14933","Mujer",NA,"Alto Hospicio",5,2014,163827.143263934
+"14934","Mujer",NA,"Alto Hospicio",5,2015,231925.168456983
+"14935","Mujer",NA,"Ancud",6,2010,140454.808752015
+"14936","Mujer",NA,"Ancud",6,2011,90361.1110091023
+"14937","Mujer",NA,"Ancud",6,2014,88196.4705718781
+"14938","Mujer",NA,"Ancud",6,2015,151663.623233134
+"14939","Mujer",NA,"Andacollo",7,2010,70068.506557056
+"14940","Mujer",NA,"Andacollo",7,2011,95459.1546626233
+"14941","Mujer",NA,"Andacollo",7,2012,61342.8861039438
+"14942","Mujer",NA,"Andacollo",7,2015,180048.710084792
+"14943","Mujer",NA,"Angol",8,2010,109616.620723843
+"14944","Mujer",NA,"Angol",8,2011,101667.049562835
+"14945","Mujer",NA,"Angol",8,2012,119343.814283014
+"14946","Mujer",NA,"Angol",8,2013,117388.680095117
+"14947","Mujer",NA,"Angol",8,2014,116735.622804916
+"14948","Mujer",NA,"Angol",8,2015,113575.828929664
+"14949","Mujer",NA,"Antofagasta",9,2010,142599.592298798
+"14950","Mujer",NA,"Antofagasta",9,2011,174103.889018428
+"14951","Mujer",NA,"Antofagasta",9,2012,183966.270193211
+"14952","Mujer",NA,"Antofagasta",9,2013,181542.324410297
+"14953","Mujer",NA,"Antofagasta",9,2014,183720.166450567
+"14954","Mujer",NA,"Antofagasta",9,2015,281390.598471512
+"14955","Mujer",NA,"Antuco",10,2011,50000
+"14956","Mujer",NA,"Antuco",10,2012,20000
+"14957","Mujer",NA,"Antuco",10,2013,70000
+"14958","Mujer",NA,"Arauco",11,2011,39872.144401617
+"14959","Mujer",NA,"Arauco",11,2012,72980.471094238
+"14960","Mujer",NA,"Arauco",11,2014,135974.49840615
+"14961","Mujer",NA,"Arauco",11,2015,86553.9636355043
+"14962","Mujer",NA,"Arica",12,2010,102325.814584683
+"14963","Mujer",NA,"Arica",12,2011,161438.032024024
+"14964","Mujer",NA,"Arica",12,2012,111249.337871858
+"14965","Mujer",NA,"Arica",12,2013,130851.671497925
+"14966","Mujer",NA,"Arica",12,2014,139307.02091756
+"14967","Mujer",NA,"Arica",12,2015,160368.54277847
+"14968","Mujer",NA,"Aysén",13,2010,88452.6319690182
+"14969","Mujer",NA,"Aysén",13,2011,97204.1914491131
+"14970","Mujer",NA,"Aysén",13,2012,147773.646341157
 "14971","Mujer",NA,"Aysén",13,2013,122218.641955151
 "14972","Mujer",NA,"Aysén",13,2014,143704.06234277
 "14973","Mujer",NA,"Aysén",13,2015,186629.857883684
