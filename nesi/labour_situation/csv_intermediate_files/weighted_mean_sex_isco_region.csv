@@ -1,0 +1,1829 @@
+"","sex","isco","geography_name","geography_id","year","weighted_mean"
+"1","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2010,323522.620230825
+"2","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2011,201288.0605229
+"3","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2012,307819.972130378
+"4","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2013,226414.832016803
+"5","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2014,334253.511402676
+"6","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2015,412645.956667903
+"7","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2010,135293.017897463
+"8","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2011,158154.775857083
+"9","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2012,173198.723194728
+"10","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2013,142785.924929849
+"11","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2014,181147.182248519
+"12","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2015,196554.479771739
+"13","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2010,241351.565793079
+"14","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2011,264648.106757716
+"15","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2012,293250.585549967
+"16","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2013,350641.839459038
+"17","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2014,317959.420268837
+"18","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2015,440983.105814483
+"19","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2010,229955.351005017
+"20","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2011,209088.996588192
+"21","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2012,217961.115634445
+"22","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2013,241481.429904959
+"23","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2014,251918.620769183
+"24","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2015,283110.164218899
+"25","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2010,266494.199899792
+"26","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2011,304473.031044999
+"27","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2012,341085.359215779
+"28","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2013,281068.658187781
+"29","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2014,501920.933902848
+"30","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2015,352424.37595767
+"31","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2010,268972.879882603
+"32","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2011,194990.970406056
+"33","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2012,297698.633798144
+"34","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2013,201176.036127015
+"35","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2014,215002.458330268
+"36","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2015,287543.603851113
+"37","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2010,177227.489904461
+"38","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2011,255917.874871171
+"39","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2012,184854.69759487
+"40","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2013,252610.079151633
+"41","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2014,281211.552898182
+"42","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2015,279409.503039953
+"43","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2010,211134.657093044
+"44","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2011,303872.385191723
+"45","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2012,233599.607876994
+"46","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2013,293327.928428772
+"47","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2014,374150.239105699
+"48","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2015,315085.983494464
+"49","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2010,165543.814845011
+"50","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2011,192698.386139446
+"51","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2012,272661.265334607
+"52","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2013,214800.284919187
+"53","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2014,203912.531750637
+"54","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2015,266702.460978121
+"55","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2010,928900.199148666
+"56","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2011,219135.528181567
+"57","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2012,439643.434789345
+"58","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2013,369002.713461738
+"59","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2014,506896.255313438
+"60","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2015,576418.356456435
+"61","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2010,189419.329047959
+"62","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2011,218463.376325689
+"63","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2012,209836.274108195
+"64","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2013,265290.568680244
+"65","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2014,266647.729645186
+"66","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2015,257929.117746528
+"67","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2010,245103.356868597
+"68","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2011,254262.918813892
+"69","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2012,236234.353936535
+"70","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2013,277848.833715968
+"71","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2014,318445.592754311
+"72","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2015,388288.731366735
+"73","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2010,318747.255736442
+"74","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2011,295624.059315826
+"75","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2012,252451.051190605
+"76","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2013,325240.392334397
+"77","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2014,372137.289990328
+"78","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2015,410863.801918654
+"79","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2010,166351.460231006
+"80","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2011,193626.444007353
+"81","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2012,255693.394944676
+"82","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2013,271241.984297562
+"83","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2014,327717.482265937
+"84","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2015,239797.082398204
+"85","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2010,212848.420977414
+"86","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2011,207793.390605381
+"87","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2012,221694.785501121
+"88","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2013,254267.056135312
+"89","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2014,299616.748639501
+"90","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2015,380391.903798616
+"91","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros",NA,NA,2010,115255.818661217
+"92","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros",NA,NA,2011,139366.997284094
+"93","Hombre","Agricultores y trabajadores calificados agropecuarios y pesqueros",NA,NA,2012,79736.7280975825
+"94","Hombre","Empleados de oficina","Antofagasta",2,2010,518653.255865481
+"95","Hombre","Empleados de oficina","Antofagasta",2,2011,620166.131877979
+"96","Hombre","Empleados de oficina","Antofagasta",2,2012,589798.754298784
+"97","Hombre","Empleados de oficina","Antofagasta",2,2013,613952.217888587
+"98","Hombre","Empleados de oficina","Antofagasta",2,2014,580139.672694223
+"99","Hombre","Empleados de oficina","Antofagasta",2,2015,575584.557389644
+"100","Hombre","Empleados de oficina","Araucanía",9,2010,286254.60859897
+"101","Hombre","Empleados de oficina","Araucanía",9,2011,375495.123168611
+"102","Hombre","Empleados de oficina","Araucanía",9,2012,388379.546444975
+"103","Hombre","Empleados de oficina","Araucanía",9,2013,349875.705721522
+"104","Hombre","Empleados de oficina","Araucanía",9,2014,369020.048662887
+"105","Hombre","Empleados de oficina","Araucanía",9,2015,381297.566051115
+"106","Hombre","Empleados de oficina","Arica y Parinacota",15,2010,385058.521255431
+"107","Hombre","Empleados de oficina","Arica y Parinacota",15,2011,337069.698446416
+"108","Hombre","Empleados de oficina","Arica y Parinacota",15,2012,316321.4441382
+"109","Hombre","Empleados de oficina","Arica y Parinacota",15,2013,482927.757745571
+"110","Hombre","Empleados de oficina","Arica y Parinacota",15,2014,444838.151948346
+"111","Hombre","Empleados de oficina","Arica y Parinacota",15,2015,504188.643116247
+"112","Hombre","Empleados de oficina","Atacama",3,2010,348887.572717149
+"113","Hombre","Empleados de oficina","Atacama",3,2011,433682.248808559
+"114","Hombre","Empleados de oficina","Atacama",3,2012,506845.174106293
+"115","Hombre","Empleados de oficina","Atacama",3,2013,491047.981261957
+"116","Hombre","Empleados de oficina","Atacama",3,2014,445777.748877834
+"117","Hombre","Empleados de oficina","Atacama",3,2015,646544.748667953
+"118","Hombre","Empleados de oficina","Aysén",11,2010,473700.267208337
+"119","Hombre","Empleados de oficina","Aysén",11,2011,415323.997619291
+"120","Hombre","Empleados de oficina","Aysén",11,2012,497320.249042413
+"121","Hombre","Empleados de oficina","Aysén",11,2013,478834.108699891
+"122","Hombre","Empleados de oficina","Aysén",11,2014,567174.11801635
+"123","Hombre","Empleados de oficina","Aysén",11,2015,624964.765213271
+"124","Hombre","Empleados de oficina","Bíobío",8,2010,360423.731295882
+"125","Hombre","Empleados de oficina","Bíobío",8,2011,320902.19730996
+"126","Hombre","Empleados de oficina","Bíobío",8,2012,373464.626542968
+"127","Hombre","Empleados de oficina","Bíobío",8,2013,335437.397756679
+"128","Hombre","Empleados de oficina","Bíobío",8,2014,374063.690056191
+"129","Hombre","Empleados de oficina","Bíobío",8,2015,443433.01495217
+"130","Hombre","Empleados de oficina","Coquimbo",4,2010,317473.745315979
+"131","Hombre","Empleados de oficina","Coquimbo",4,2011,332107.165427189
+"132","Hombre","Empleados de oficina","Coquimbo",4,2012,470307.768959837
+"133","Hombre","Empleados de oficina","Coquimbo",4,2013,398719.038389292
+"134","Hombre","Empleados de oficina","Coquimbo",4,2014,434380.846433304
+"135","Hombre","Empleados de oficina","Coquimbo",4,2015,426018.104330925
+"136","Hombre","Empleados de oficina","Los Lagos",10,2010,413287.615111763
+"137","Hombre","Empleados de oficina","Los Lagos",10,2011,340702.905417747
+"138","Hombre","Empleados de oficina","Los Lagos",10,2012,395598.08825579
+"139","Hombre","Empleados de oficina","Los Lagos",10,2013,489146.412901373
+"140","Hombre","Empleados de oficina","Los Lagos",10,2014,518955.425962209
+"141","Hombre","Empleados de oficina","Los Lagos",10,2015,480652.50367441
+"142","Hombre","Empleados de oficina","Los Ríos",14,2010,288937.117885539
+"143","Hombre","Empleados de oficina","Los Ríos",14,2011,432984.960109842
+"144","Hombre","Empleados de oficina","Los Ríos",14,2012,410792.49946436
+"145","Hombre","Empleados de oficina","Los Ríos",14,2013,343654.176307782
+"146","Hombre","Empleados de oficina","Los Ríos",14,2014,482323.855992153
+"147","Hombre","Empleados de oficina","Los Ríos",14,2015,452266.587597641
+"148","Hombre","Empleados de oficina","Magallanes",12,2010,455297.899783222
+"149","Hombre","Empleados de oficina","Magallanes",12,2011,935960.565124357
+"150","Hombre","Empleados de oficina","Magallanes",12,2012,837753.0666387
+"151","Hombre","Empleados de oficina","Magallanes",12,2013,631475.207870588
+"152","Hombre","Empleados de oficina","Magallanes",12,2014,664231.248574139
+"153","Hombre","Empleados de oficina","Magallanes",12,2015,622357.077634812
+"154","Hombre","Empleados de oficina","Maule",7,2010,294088.661563952
+"155","Hombre","Empleados de oficina","Maule",7,2011,286735.52483198
+"156","Hombre","Empleados de oficina","Maule",7,2012,315560.544839404
+"157","Hombre","Empleados de oficina","Maule",7,2013,321630.133820176
+"158","Hombre","Empleados de oficina","Maule",7,2014,357164.29047251
+"159","Hombre","Empleados de oficina","Maule",7,2015,481750.542389416
+"160","Hombre","Empleados de oficina","Metropolitana",13,2010,346446.730381294
+"161","Hombre","Empleados de oficina","Metropolitana",13,2011,422057.89770138
+"162","Hombre","Empleados de oficina","Metropolitana",13,2012,397292.497812226
+"163","Hombre","Empleados de oficina","Metropolitana",13,2013,462290.458170453
+"164","Hombre","Empleados de oficina","Metropolitana",13,2014,478849.28080235
+"165","Hombre","Empleados de oficina","Metropolitana",13,2015,460615.473882366
+"166","Hombre","Empleados de oficina","O'Higgins",6,2010,439180.589184228
+"167","Hombre","Empleados de oficina","O'Higgins",6,2011,362214.757896659
+"168","Hombre","Empleados de oficina","O'Higgins",6,2012,473847.608401608
+"169","Hombre","Empleados de oficina","O'Higgins",6,2013,542940.466199075
+"170","Hombre","Empleados de oficina","O'Higgins",6,2014,471789.939803338
+"171","Hombre","Empleados de oficina","O'Higgins",6,2015,459122.492368157
+"172","Hombre","Empleados de oficina","Tarapacá",1,2010,352165.590963876
+"173","Hombre","Empleados de oficina","Tarapacá",1,2011,364987.658914707
+"174","Hombre","Empleados de oficina","Tarapacá",1,2012,422155.525342599
+"175","Hombre","Empleados de oficina","Tarapacá",1,2013,568586.929665034
+"176","Hombre","Empleados de oficina","Tarapacá",1,2014,455145.922946748
+"177","Hombre","Empleados de oficina","Tarapacá",1,2015,485233.416982268
+"178","Hombre","Empleados de oficina","Valparaíso",5,2010,352235.103313945
+"179","Hombre","Empleados de oficina","Valparaíso",5,2011,364659.541723265
+"180","Hombre","Empleados de oficina","Valparaíso",5,2012,413242.416975741
+"181","Hombre","Empleados de oficina","Valparaíso",5,2013,447003.778854526
+"182","Hombre","Empleados de oficina","Valparaíso",5,2014,506334.701076988
+"183","Hombre","Empleados de oficina","Valparaíso",5,2015,483522.874205383
+"184","Hombre","Empleados de oficina",NA,NA,2010,285000
+"185","Hombre","Empleados de oficina",NA,NA,2012,560472.489647496
+"186","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Antofagasta",2,2011,2352291.91201803
+"187","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Araucanía",9,2011,964225.49931208
+"188","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Arica y Parinacota",15,2011,1163417.43845964
+"189","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Atacama",3,2011,3237543.23584607
+"190","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Aysén",11,2011,1280269.34860574
+"191","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Bíobío",8,2011,1072282.40357235
+"192","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Coquimbo",4,2011,770148.567847721
+"193","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Los Lagos",10,2011,1112554.1662125
+"194","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Los Ríos",14,2011,890211.211088445
+"195","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Magallanes",12,2011,2430245.63132893
+"196","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Maule",7,2011,1492860.66503062
+"197","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Metropolitana",13,2011,1901663.72782116
+"198","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","O'Higgins",6,2011,2115865.64118777
+"199","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Tarapacá",1,2011,1304500.21196548
+"200","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Valparaíso",5,2011,1891350.3268011
+"201","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Antofagasta",2,2012,1416455.31126333
+"202","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Antofagasta",2,2013,1954383.63834459
+"203","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Antofagasta",2,2014,1356456.49619984
+"204","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Antofagasta",2,2015,1531852.93266634
+"205","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Araucanía",9,2012,1307202.34823666
+"206","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Araucanía",9,2013,1151942.80778317
+"207","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Araucanía",9,2014,1046429.65871641
+"208","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Araucanía",9,2015,1458022.92288548
+"209","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Arica y Parinacota",15,2012,1709486.63573636
+"210","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Arica y Parinacota",15,2013,706886.988724711
+"211","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Arica y Parinacota",15,2014,761635.878100582
+"212","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Arica y Parinacota",15,2015,1077193.29597992
+"213","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Atacama",3,2012,1271967.12735146
+"214","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Atacama",3,2013,1284943.2359866
+"215","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Atacama",3,2014,1469026.51202907
+"216","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Atacama",3,2015,1767219.37306655
+"217","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Aysén",11,2012,1047349.24974353
+"218","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Aysén",11,2013,1049324.15768165
+"219","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Aysén",11,2014,1029550.47098285
+"220","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Aysén",11,2015,1929131.51774805
+"221","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Bíobío",8,2012,1338039.66329638
+"222","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Bíobío",8,2013,1908722.64164539
+"223","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Bíobío",8,2014,1211119.06831676
+"224","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Bíobío",8,2015,1629940.34045838
+"225","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Coquimbo",4,2012,1197174.43660123
+"226","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Coquimbo",4,2013,1081912.42001919
+"227","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Coquimbo",4,2014,1846465.88441039
+"228","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Coquimbo",4,2015,1664435.29832189
+"229","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Lagos",10,2012,1832522.710829
+"230","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Lagos",10,2013,1563200.27916172
+"231","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Lagos",10,2014,2644269.04592438
+"232","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Lagos",10,2015,2917529.06875529
+"233","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Ríos",14,2012,1441972.02160326
+"234","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Ríos",14,2013,839982.025779696
+"235","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Ríos",14,2014,1165807.60066306
+"236","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Ríos",14,2015,1570129.96396499
+"237","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Magallanes",12,2012,1812825.07022613
+"238","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Magallanes",12,2013,2041095.20304015
+"239","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Magallanes",12,2014,1566275.83796753
+"240","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Magallanes",12,2015,2931069.0972859
+"241","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Maule",7,2012,882073.274491432
+"242","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Maule",7,2013,1302097.8219355
+"243","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Maule",7,2014,951841.548928384
+"244","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Maule",7,2015,1649330.17564009
+"245","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Metropolitana",13,2012,1938860.02736081
+"246","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Metropolitana",13,2013,2028365.12220504
+"247","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Metropolitana",13,2014,2035199.28124498
+"248","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Metropolitana",13,2015,2300794.96866535
+"249","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","O'Higgins",6,2012,799949.069428666
+"250","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","O'Higgins",6,2013,1413851.84437838
+"251","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","O'Higgins",6,2014,938794.740521845
+"252","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","O'Higgins",6,2015,1172685.01919911
+"253","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Tarapacá",1,2012,1063127.68057566
+"254","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Tarapacá",1,2013,2117442.03640014
+"255","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Tarapacá",1,2014,1682660.64408391
+"256","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Tarapacá",1,2015,2853563.30595975
+"257","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Valparaíso",5,2012,1694283.50612469
+"258","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Valparaíso",5,2013,1476209.41082353
+"259","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Valparaíso",5,2014,1346820.23863765
+"260","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Valparaíso",5,2015,1466771.05929475
+"261","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr",NA,NA,2012,716675
+"262","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Antofagasta",2,2010,1397511.02483977
+"263","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Araucanía",9,2010,1845537.79936258
+"264","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Arica y Parinacota",15,2010,554023.566977395
+"265","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Atacama",3,2010,911794.627672176
+"266","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Aysén",11,2010,2018564.91261415
+"267","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Bíobío",8,2010,1106704.34797449
+"268","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Coquimbo",4,2010,998576.891466427
+"269","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Los Lagos",10,2010,994602.024511733
+"270","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Los Ríos",14,2010,927671.397983876
+"271","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Magallanes",12,2010,1164811.29061196
+"272","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Maule",7,2010,1030926.33438212
+"273","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Metropolitana",13,2010,1593514.34199193
+"274","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","O'Higgins",6,2010,823366.923318799
+"275","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Tarapacá",1,2010,1552556.37961512
+"276","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Valparaíso",5,2010,1568195.50995749
+"277","Hombre","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres",NA,NA,2010,249829.018075232
+"278","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2010,436691.680068522
+"279","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2011,535904.835799701
+"280","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2012,559869.026327216
+"281","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2013,604154.347810148
+"282","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2014,657264.327314339
+"283","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2015,615480.920989739
+"284","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2010,182739.369467897
+"285","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2011,251357.663394462
+"286","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2012,278287.848951493
+"287","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2013,271577.884678875
+"288","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2014,365284.000661561
+"289","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2015,344675.82786192
+"290","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2010,311384.396155305
+"291","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2011,295339.950972594
+"292","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2012,344154.678626704
+"293","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2013,332821.479301025
+"294","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2014,318351.217345361
+"295","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2015,397257.706935619
+"296","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2010,352348.886376244
+"297","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2011,457902.99716472
+"298","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2012,415948.14776356
+"299","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2013,465343.691647239
+"300","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2014,456059.278205187
+"301","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2015,515757.370458576
+"302","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2010,298331.943562044
+"303","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2011,341479.880915894
+"304","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2012,383143.377022537
+"305","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2013,405940.265850194
+"306","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2014,379865.349415309
+"307","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2015,447448.095995241
+"308","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2010,263289.288021322
+"309","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2011,299663.706985814
+"310","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2012,290038.657737854
+"311","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2013,331837.190129402
+"312","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2014,344622.298169223
+"313","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2015,352631.540720803
+"314","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2010,347860.49990146
+"315","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2011,320346.987856997
+"316","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2012,374323.013117155
+"317","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2013,397921.417139998
+"318","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2014,400588.230645442
+"319","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2015,410688.226722155
+"320","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2010,229410.294514423
+"321","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2011,263008.759440736
+"322","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2012,272924.517029026
+"323","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2013,321242.204414331
+"324","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2014,338285.584728609
+"325","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2015,365899.221625715
+"326","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2010,231487.726149423
+"327","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2011,217272.795667288
+"328","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2012,283165.890495477
+"329","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2013,318449.916356104
+"330","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2014,290973.75668253
+"331","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2015,311776.018222058
+"332","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2010,416667.659122255
+"333","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2011,463046.611023118
+"334","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2012,384230.624633705
+"335","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2013,515417.771160897
+"336","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2014,358681.865411371
+"337","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2015,413691.335840438
+"338","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2010,250151.618678363
+"339","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2011,260785.131348956
+"340","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2012,274278.347617248
+"341","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2013,351576.406293937
+"342","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2014,346467.55260697
+"343","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2015,403380.350234369
+"344","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2010,303623.05997002
+"345","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2011,303719.611703371
+"346","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2012,352715.856542412
+"347","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2013,375414.315278129
+"348","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2014,387877.511061527
+"349","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2015,424382.010623757
+"350","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2010,311844.471293712
+"351","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2011,313796.806911799
+"352","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2012,326745.885341762
+"353","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2013,382404.319415545
+"354","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2014,378673.808357355
+"355","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2015,417958.929821024
+"356","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2010,371533.234696543
+"357","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2011,383144.749188202
+"358","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2012,412200.594456645
+"359","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2013,447231.814012667
+"360","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2014,524417.461233825
+"361","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2015,513027.45536385
+"362","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2010,270745.544263979
+"363","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2011,301999.785956456
+"364","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2012,325625.952481967
+"365","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2013,379251.06183408
+"366","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2014,397185.69106854
+"367","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2015,384819.36869109
+"368","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",NA,NA,2010,211972.279366311
+"369","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",NA,NA,2011,321174.446144685
+"370","Hombre","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",NA,NA,2012,238314.483182294
+"371","Hombre","Operadores de instalaciones y maquinas y montadores","Antofagasta",2,2010,572901.978414768
+"372","Hombre","Operadores de instalaciones y maquinas y montadores","Antofagasta",2,2011,618013.537866437
+"373","Hombre","Operadores de instalaciones y maquinas y montadores","Araucanía",9,2010,327899.230720614
+"374","Hombre","Operadores de instalaciones y maquinas y montadores","Araucanía",9,2011,317828.204224341
+"375","Hombre","Operadores de instalaciones y maquinas y montadores","Arica y Parinacota",15,2010,330625.18525752
+"376","Hombre","Operadores de instalaciones y maquinas y montadores","Arica y Parinacota",15,2011,310137.442056972
+"377","Hombre","Operadores de instalaciones y maquinas y montadores","Atacama",3,2010,437223.353721055
+"378","Hombre","Operadores de instalaciones y maquinas y montadores","Atacama",3,2011,522177.083137489
+"379","Hombre","Operadores de instalaciones y maquinas y montadores","Aysén",11,2010,441280.467130292
+"380","Hombre","Operadores de instalaciones y maquinas y montadores","Aysén",11,2011,353124.452176244
+"381","Hombre","Operadores de instalaciones y maquinas y montadores","Bíobío",8,2010,308590.377470941
+"382","Hombre","Operadores de instalaciones y maquinas y montadores","Bíobío",8,2011,361893.922078856
+"383","Hombre","Operadores de instalaciones y maquinas y montadores","Coquimbo",4,2010,381180.772688847
+"384","Hombre","Operadores de instalaciones y maquinas y montadores","Coquimbo",4,2011,439058.296179781
+"385","Hombre","Operadores de instalaciones y maquinas y montadores","Los Lagos",10,2010,312136.572834937
+"386","Hombre","Operadores de instalaciones y maquinas y montadores","Los Lagos",10,2011,373996.28332306
+"387","Hombre","Operadores de instalaciones y maquinas y montadores","Los Ríos",14,2010,273960.417459734
+"388","Hombre","Operadores de instalaciones y maquinas y montadores","Los Ríos",14,2011,301176.437850964
+"389","Hombre","Operadores de instalaciones y maquinas y montadores","Magallanes",12,2010,401773.342686528
+"390","Hombre","Operadores de instalaciones y maquinas y montadores","Magallanes",12,2011,327406.542680732
+"391","Hombre","Operadores de instalaciones y maquinas y montadores","Maule",7,2010,265851.787374681
+"392","Hombre","Operadores de instalaciones y maquinas y montadores","Maule",7,2011,274578.814453393
+"393","Hombre","Operadores de instalaciones y maquinas y montadores","Metropolitana",13,2010,311921.731040279
+"394","Hombre","Operadores de instalaciones y maquinas y montadores","Metropolitana",13,2011,338381.847445887
+"395","Hombre","Operadores de instalaciones y maquinas y montadores","O'Higgins",6,2010,343880.253677582
+"396","Hombre","Operadores de instalaciones y maquinas y montadores","O'Higgins",6,2011,369711.926632538
+"397","Hombre","Operadores de instalaciones y maquinas y montadores","Tarapacá",1,2010,412138.094521279
+"398","Hombre","Operadores de instalaciones y maquinas y montadores","Tarapacá",1,2011,431974.992582697
+"399","Hombre","Operadores de instalaciones y maquinas y montadores","Valparaíso",5,2010,326672.193738943
+"400","Hombre","Operadores de instalaciones y maquinas y montadores","Valparaíso",5,2011,380395.470543611
+"401","Hombre","Operadores de instalaciones y maquinas y montadores",NA,NA,2010,323617.93405748
+"402","Hombre","Operadores de instalaciones y maquinas y montadores",NA,NA,2011,427780.990042029
+"403","Hombre","Operadores de instalaciones y máquinas y montadores","Antofagasta",2,2012,650468.970553055
+"404","Hombre","Operadores de instalaciones y máquinas y montadores","Antofagasta",2,2013,740668.082991196
+"405","Hombre","Operadores de instalaciones y máquinas y montadores","Antofagasta",2,2014,748782.14045346
+"406","Hombre","Operadores de instalaciones y máquinas y montadores","Antofagasta",2,2015,780808.143524411
+"407","Hombre","Operadores de instalaciones y máquinas y montadores","Araucanía",9,2012,332735.924080289
+"408","Hombre","Operadores de instalaciones y máquinas y montadores","Araucanía",9,2013,364347.742286459
+"409","Hombre","Operadores de instalaciones y máquinas y montadores","Araucanía",9,2014,365628.257230197
+"410","Hombre","Operadores de instalaciones y máquinas y montadores","Araucanía",9,2015,426504.828072593
+"411","Hombre","Operadores de instalaciones y máquinas y montadores","Arica y Parinacota",15,2012,438673.717048007
+"412","Hombre","Operadores de instalaciones y máquinas y montadores","Arica y Parinacota",15,2013,430005.826647252
+"413","Hombre","Operadores de instalaciones y máquinas y montadores","Arica y Parinacota",15,2014,464754.826361431
+"414","Hombre","Operadores de instalaciones y máquinas y montadores","Arica y Parinacota",15,2015,491794.130998477
+"415","Hombre","Operadores de instalaciones y máquinas y montadores","Atacama",3,2012,490947.829172345
+"416","Hombre","Operadores de instalaciones y máquinas y montadores","Atacama",3,2013,556138.895149867
+"417","Hombre","Operadores de instalaciones y máquinas y montadores","Atacama",3,2014,590450.80870154
+"418","Hombre","Operadores de instalaciones y máquinas y montadores","Atacama",3,2015,676895.111969934
+"419","Hombre","Operadores de instalaciones y máquinas y montadores","Aysén",11,2012,403591.769871556
+"420","Hombre","Operadores de instalaciones y máquinas y montadores","Aysén",11,2013,400781.210554852
+"421","Hombre","Operadores de instalaciones y máquinas y montadores","Aysén",11,2014,436914.811498763
+"422","Hombre","Operadores de instalaciones y máquinas y montadores","Aysén",11,2015,513449.810809462
+"423","Hombre","Operadores de instalaciones y máquinas y montadores","Bíobío",8,2012,336876.290865827
+"424","Hombre","Operadores de instalaciones y máquinas y montadores","Bíobío",8,2013,374733.96897606
+"425","Hombre","Operadores de instalaciones y máquinas y montadores","Bíobío",8,2014,378427.308438846
+"426","Hombre","Operadores de instalaciones y máquinas y montadores","Bíobío",8,2015,429077.470071474
+"427","Hombre","Operadores de instalaciones y máquinas y montadores","Coquimbo",4,2012,489728.263882466
+"428","Hombre","Operadores de instalaciones y máquinas y montadores","Coquimbo",4,2013,512752.468145839
+"429","Hombre","Operadores de instalaciones y máquinas y montadores","Coquimbo",4,2014,477155.932886016
+"430","Hombre","Operadores de instalaciones y máquinas y montadores","Coquimbo",4,2015,505748.319529124
+"431","Hombre","Operadores de instalaciones y máquinas y montadores","Los Lagos",10,2012,523914.098796146
+"432","Hombre","Operadores de instalaciones y máquinas y montadores","Los Lagos",10,2013,354084.174123541
+"433","Hombre","Operadores de instalaciones y máquinas y montadores","Los Lagos",10,2014,436400.131016932
+"434","Hombre","Operadores de instalaciones y máquinas y montadores","Los Lagos",10,2015,420527.253793513
+"435","Hombre","Operadores de instalaciones y máquinas y montadores","Los Ríos",14,2012,313958.746973237
+"436","Hombre","Operadores de instalaciones y máquinas y montadores","Los Ríos",14,2013,348813.906523769
+"437","Hombre","Operadores de instalaciones y máquinas y montadores","Los Ríos",14,2014,367111.516889358
+"438","Hombre","Operadores de instalaciones y máquinas y montadores","Los Ríos",14,2015,384270.798376389
+"439","Hombre","Operadores de instalaciones y máquinas y montadores","Magallanes",12,2012,447312.067757624
+"440","Hombre","Operadores de instalaciones y máquinas y montadores","Magallanes",12,2013,450545.012334882
+"441","Hombre","Operadores de instalaciones y máquinas y montadores","Magallanes",12,2014,477819.288843371
+"442","Hombre","Operadores de instalaciones y máquinas y montadores","Magallanes",12,2015,555944.226792866
+"443","Hombre","Operadores de instalaciones y máquinas y montadores","Maule",7,2012,310129.427790256
+"444","Hombre","Operadores de instalaciones y máquinas y montadores","Maule",7,2013,348075.811719977
+"445","Hombre","Operadores de instalaciones y máquinas y montadores","Maule",7,2014,411187.078021335
+"446","Hombre","Operadores de instalaciones y máquinas y montadores","Maule",7,2015,411456.796287898
+"447","Hombre","Operadores de instalaciones y máquinas y montadores","Metropolitana",13,2012,381066.643922429
+"448","Hombre","Operadores de instalaciones y máquinas y montadores","Metropolitana",13,2013,437176.339444171
+"449","Hombre","Operadores de instalaciones y máquinas y montadores","Metropolitana",13,2014,433020.315551395
+"450","Hombre","Operadores de instalaciones y máquinas y montadores","Metropolitana",13,2015,440606.601885105
+"451","Hombre","Operadores de instalaciones y máquinas y montadores","O'Higgins",6,2012,382583.024175777
+"452","Hombre","Operadores de instalaciones y máquinas y montadores","O'Higgins",6,2013,402454.078852033
+"453","Hombre","Operadores de instalaciones y máquinas y montadores","O'Higgins",6,2014,394006.449282424
+"454","Hombre","Operadores de instalaciones y máquinas y montadores","O'Higgins",6,2015,456737.806236283
+"455","Hombre","Operadores de instalaciones y máquinas y montadores","Tarapacá",1,2012,448098.461000363
+"456","Hombre","Operadores de instalaciones y máquinas y montadores","Tarapacá",1,2013,536603.756650405
+"457","Hombre","Operadores de instalaciones y máquinas y montadores","Tarapacá",1,2014,573001.501125701
+"458","Hombre","Operadores de instalaciones y máquinas y montadores","Tarapacá",1,2015,581522.625675578
+"459","Hombre","Operadores de instalaciones y máquinas y montadores","Valparaíso",5,2012,403176.271870561
+"460","Hombre","Operadores de instalaciones y máquinas y montadores","Valparaíso",5,2013,442151.811917144
+"461","Hombre","Operadores de instalaciones y máquinas y montadores","Valparaíso",5,2014,437916.291103395
+"462","Hombre","Operadores de instalaciones y máquinas y montadores","Valparaíso",5,2015,462056.082815201
+"463","Hombre","Operadores de instalaciones y máquinas y montadores",NA,NA,2012,402352.316575296
+"464","Hombre","Otros no identificados","Antofagasta",2,2012,824483.440744581
+"465","Hombre","Otros no identificados","Antofagasta",2,2013,1000603.23264243
+"466","Hombre","Otros no identificados","Antofagasta",2,2014,828474.658571007
+"467","Hombre","Otros no identificados","Antofagasta",2,2015,1122073.67322305
+"468","Hombre","Otros no identificados","Araucanía",9,2012,750880.064516752
+"469","Hombre","Otros no identificados","Araucanía",9,2013,783303.065142371
+"470","Hombre","Otros no identificados","Araucanía",9,2014,962766.259881504
+"471","Hombre","Otros no identificados","Araucanía",9,2015,875272.734317861
+"472","Hombre","Otros no identificados","Arica y Parinacota",15,2012,1018648.45090746
+"473","Hombre","Otros no identificados","Arica y Parinacota",15,2013,647767.365147386
+"474","Hombre","Otros no identificados","Arica y Parinacota",15,2014,593071.299414269
+"475","Hombre","Otros no identificados","Arica y Parinacota",15,2015,748529.126415067
+"476","Hombre","Otros no identificados","Atacama",3,2012,948326.677434861
+"477","Hombre","Otros no identificados","Atacama",3,2013,870218.123730576
+"478","Hombre","Otros no identificados","Atacama",3,2014,699375.29845664
+"479","Hombre","Otros no identificados","Atacama",3,2015,720384.16148887
+"480","Hombre","Otros no identificados","Aysén",11,2012,933644.880207913
+"481","Hombre","Otros no identificados","Aysén",11,2013,1223167.71532571
+"482","Hombre","Otros no identificados","Aysén",11,2014,1115199.94160797
+"483","Hombre","Otros no identificados","Aysén",11,2015,1118421.85745853
+"484","Hombre","Otros no identificados","Bíobío",8,2012,662600.521687941
+"485","Hombre","Otros no identificados","Bíobío",8,2013,661559.627727323
+"486","Hombre","Otros no identificados","Bíobío",8,2014,741896.142358498
+"487","Hombre","Otros no identificados","Bíobío",8,2015,778116.850119284
+"488","Hombre","Otros no identificados","Coquimbo",4,2012,764634.807937588
+"489","Hombre","Otros no identificados","Coquimbo",4,2013,644352.630214474
+"490","Hombre","Otros no identificados","Coquimbo",4,2014,826836.966100753
+"491","Hombre","Otros no identificados","Coquimbo",4,2015,997241.079501293
+"492","Hombre","Otros no identificados","Los Lagos",10,2012,785463.646949578
+"493","Hombre","Otros no identificados","Los Lagos",10,2013,721113.145754248
+"494","Hombre","Otros no identificados","Los Lagos",10,2014,696640.498558858
+"495","Hombre","Otros no identificados","Los Lagos",10,2015,820287.140910647
+"496","Hombre","Otros no identificados","Los Ríos",14,2012,758767.404702312
+"497","Hombre","Otros no identificados","Los Ríos",14,2013,687712.552235065
+"498","Hombre","Otros no identificados","Los Ríos",14,2014,773247.75288744
+"499","Hombre","Otros no identificados","Los Ríos",14,2015,766608.12289347
+"500","Hombre","Otros no identificados","Magallanes",12,2012,873974.454486219
+"501","Hombre","Otros no identificados","Magallanes",12,2013,1216118.10540431
+"502","Hombre","Otros no identificados","Magallanes",12,2014,1274490.01702589
+"503","Hombre","Otros no identificados","Magallanes",12,2015,1153345.49781268
+"504","Hombre","Otros no identificados","Maule",7,2012,444994.733245815
+"505","Hombre","Otros no identificados","Maule",7,2013,639014.150742435
+"506","Hombre","Otros no identificados","Maule",7,2014,568679.507385185
+"507","Hombre","Otros no identificados","Maule",7,2015,709695.719044929
+"508","Hombre","Otros no identificados","Metropolitana",13,2012,568536.43285221
+"509","Hombre","Otros no identificados","Metropolitana",13,2013,686093.728330253
+"510","Hombre","Otros no identificados","Metropolitana",13,2014,793636.996667773
+"511","Hombre","Otros no identificados","Metropolitana",13,2015,887023.218279046
+"512","Hombre","Otros no identificados","O'Higgins",6,2012,586817.821533788
+"513","Hombre","Otros no identificados","O'Higgins",6,2013,670326.991522066
+"514","Hombre","Otros no identificados","O'Higgins",6,2014,620276.221157574
+"515","Hombre","Otros no identificados","O'Higgins",6,2015,769142.920868881
+"516","Hombre","Otros no identificados","Tarapacá",1,2012,775942.098585858
+"517","Hombre","Otros no identificados","Tarapacá",1,2013,916432.172919536
+"518","Hombre","Otros no identificados","Tarapacá",1,2014,982777.976164241
+"519","Hombre","Otros no identificados","Tarapacá",1,2015,984471.654747917
+"520","Hombre","Otros no identificados","Valparaíso",5,2012,1042290.6625324
+"521","Hombre","Otros no identificados","Valparaíso",5,2013,903687.073641542
+"522","Hombre","Otros no identificados","Valparaíso",5,2014,1076001.51881911
+"523","Hombre","Otros no identificados","Valparaíso",5,2015,980209.624526434
+"524","Hombre","Otros No identificados","Antofagasta",2,2010,436894.173371615
+"525","Hombre","Otros No identificados","Antofagasta",2,2011,622510.897304136
+"526","Hombre","Otros No identificados","Araucanía",9,2010,838932.660956455
+"527","Hombre","Otros No identificados","Araucanía",9,2011,695974.65943405
+"528","Hombre","Otros No identificados","Arica y Parinacota",15,2010,632492.105811797
+"529","Hombre","Otros No identificados","Arica y Parinacota",15,2011,691962.124306974
+"530","Hombre","Otros No identificados","Atacama",3,2010,750335.272578462
+"531","Hombre","Otros No identificados","Atacama",3,2011,611838.99095514
+"532","Hombre","Otros No identificados","Aysén",11,2010,977976.007012596
+"533","Hombre","Otros No identificados","Aysén",11,2011,1309399.29382262
+"534","Hombre","Otros No identificados","Bíobío",8,2010,514646.928960724
+"535","Hombre","Otros No identificados","Bíobío",8,2011,616724.829323808
+"536","Hombre","Otros No identificados","Coquimbo",4,2010,672707.942005908
+"537","Hombre","Otros No identificados","Coquimbo",4,2011,580746.277620684
+"538","Hombre","Otros No identificados","Los Lagos",10,2010,1289512.49070347
+"539","Hombre","Otros No identificados","Los Lagos",10,2011,622870.008812488
+"540","Hombre","Otros No identificados","Los Ríos",14,2010,585812.829758629
+"541","Hombre","Otros No identificados","Los Ríos",14,2011,771357.575926366
+"542","Hombre","Otros No identificados","Magallanes",12,2010,928724.706546823
+"543","Hombre","Otros No identificados","Magallanes",12,2011,1208760.19970187
+"544","Hombre","Otros No identificados","Maule",7,2010,497767.14630507
+"545","Hombre","Otros No identificados","Maule",7,2011,531986.641563034
+"546","Hombre","Otros No identificados","Metropolitana",13,2010,514988.146911022
+"547","Hombre","Otros No identificados","Metropolitana",13,2011,621011.626954432
+"548","Hombre","Otros No identificados","O'Higgins",6,2010,625217.921804819
+"549","Hombre","Otros No identificados","O'Higgins",6,2011,616991.883452446
+"550","Hombre","Otros No identificados","Tarapacá",1,2010,550730.974225785
+"551","Hombre","Otros No identificados","Tarapacá",1,2011,594652.188888751
+"552","Hombre","Otros No identificados","Valparaíso",5,2010,667211.230748358
+"553","Hombre","Otros No identificados","Valparaíso",5,2011,724849.660685826
+"554","Hombre","Otros No identificados",NA,NA,2010,580567.625758464
+"555","Hombre","Profesionales científicos e intelectuales","Antofagasta",2,2010,1105824.76253453
+"556","Hombre","Profesionales científicos e intelectuales","Antofagasta",2,2011,1155774.79210992
+"557","Hombre","Profesionales científicos e intelectuales","Antofagasta",2,2012,1307396.47457165
+"558","Hombre","Profesionales científicos e intelectuales","Antofagasta",2,2013,1551735.8641109
+"559","Hombre","Profesionales científicos e intelectuales","Antofagasta",2,2014,1654244.50553051
+"560","Hombre","Profesionales científicos e intelectuales","Antofagasta",2,2015,1535932.05725553
+"561","Hombre","Profesionales científicos e intelectuales","Araucanía",9,2010,704742.559853158
+"562","Hombre","Profesionales científicos e intelectuales","Araucanía",9,2011,808728.568307897
+"563","Hombre","Profesionales científicos e intelectuales","Araucanía",9,2012,716779.357413096
+"564","Hombre","Profesionales científicos e intelectuales","Araucanía",9,2013,972777.600205269
+"565","Hombre","Profesionales científicos e intelectuales","Araucanía",9,2014,1030391.25162809
+"566","Hombre","Profesionales científicos e intelectuales","Araucanía",9,2015,938826.891003964
+"567","Hombre","Profesionales científicos e intelectuales","Arica y Parinacota",15,2010,1000576.97559417
+"568","Hombre","Profesionales científicos e intelectuales","Arica y Parinacota",15,2011,888403.357718015
+"569","Hombre","Profesionales científicos e intelectuales","Arica y Parinacota",15,2012,1048964.60882794
+"570","Hombre","Profesionales científicos e intelectuales","Arica y Parinacota",15,2013,863783.994661174
+"571","Hombre","Profesionales científicos e intelectuales","Arica y Parinacota",15,2014,1026594.11086202
+"572","Hombre","Profesionales científicos e intelectuales","Arica y Parinacota",15,2015,878518.287236608
+"573","Hombre","Profesionales científicos e intelectuales","Atacama",3,2010,1153940.77135392
+"574","Hombre","Profesionales científicos e intelectuales","Atacama",3,2011,1429546.65483321
+"575","Hombre","Profesionales científicos e intelectuales","Atacama",3,2012,990419.606433211
+"576","Hombre","Profesionales científicos e intelectuales","Atacama",3,2013,1438962.98078642
+"577","Hombre","Profesionales científicos e intelectuales","Atacama",3,2014,1143354.32600108
+"578","Hombre","Profesionales científicos e intelectuales","Atacama",3,2015,1190516.33098185
+"579","Hombre","Profesionales científicos e intelectuales","Aysén",11,2010,1133920.14316229
+"580","Hombre","Profesionales científicos e intelectuales","Aysén",11,2011,1084051.45465816
+"581","Hombre","Profesionales científicos e intelectuales","Aysén",11,2012,1183017.80515455
+"582","Hombre","Profesionales científicos e intelectuales","Aysén",11,2013,1255755.68753282
+"583","Hombre","Profesionales científicos e intelectuales","Aysén",11,2014,1328517.6502882
+"584","Hombre","Profesionales científicos e intelectuales","Aysén",11,2015,1658566.79369881
+"585","Hombre","Profesionales científicos e intelectuales","Bíobío",8,2010,778669.400196645
+"586","Hombre","Profesionales científicos e intelectuales","Bíobío",8,2011,978502.184926363
+"587","Hombre","Profesionales científicos e intelectuales","Bíobío",8,2012,896303.815546221
+"588","Hombre","Profesionales científicos e intelectuales","Bíobío",8,2013,911062.623520073
+"589","Hombre","Profesionales científicos e intelectuales","Bíobío",8,2014,1128000.84958587
+"590","Hombre","Profesionales científicos e intelectuales","Bíobío",8,2015,1265205.02079358
+"591","Hombre","Profesionales científicos e intelectuales","Coquimbo",4,2010,1062886.62069328
+"592","Hombre","Profesionales científicos e intelectuales","Coquimbo",4,2011,880399.081092542
+"593","Hombre","Profesionales científicos e intelectuales","Coquimbo",4,2012,1039275.91192636
+"594","Hombre","Profesionales científicos e intelectuales","Coquimbo",4,2013,1294711.32693413
+"595","Hombre","Profesionales científicos e intelectuales","Coquimbo",4,2014,1216382.66203254
+"596","Hombre","Profesionales científicos e intelectuales","Coquimbo",4,2015,1387716.07267795
+"597","Hombre","Profesionales científicos e intelectuales","Los Lagos",10,2010,752810.958925306
+"598","Hombre","Profesionales científicos e intelectuales","Los Lagos",10,2011,792602.667189392
+"599","Hombre","Profesionales científicos e intelectuales","Los Lagos",10,2012,1056619.15452696
+"600","Hombre","Profesionales científicos e intelectuales","Los Lagos",10,2013,1043611.59276655
+"601","Hombre","Profesionales científicos e intelectuales","Los Lagos",10,2014,1063175.53855238
+"602","Hombre","Profesionales científicos e intelectuales","Los Lagos",10,2015,1386783.50778326
+"603","Hombre","Profesionales científicos e intelectuales","Los Ríos",14,2010,760512.639181066
+"604","Hombre","Profesionales científicos e intelectuales","Los Ríos",14,2011,873426.281972752
+"605","Hombre","Profesionales científicos e intelectuales","Los Ríos",14,2012,1037614.27677084
+"606","Hombre","Profesionales científicos e intelectuales","Los Ríos",14,2013,1015303.50914318
+"607","Hombre","Profesionales científicos e intelectuales","Los Ríos",14,2014,865908.467515302
+"608","Hombre","Profesionales científicos e intelectuales","Los Ríos",14,2015,993278.538652944
+"609","Hombre","Profesionales científicos e intelectuales","Magallanes",12,2010,2203833.41852178
+"610","Hombre","Profesionales científicos e intelectuales","Magallanes",12,2011,1318195.90213704
+"611","Hombre","Profesionales científicos e intelectuales","Magallanes",12,2012,1365586.94060896
+"612","Hombre","Profesionales científicos e intelectuales","Magallanes",12,2013,1487092.19422454
+"613","Hombre","Profesionales científicos e intelectuales","Magallanes",12,2014,1381606.09431231
+"614","Hombre","Profesionales científicos e intelectuales","Magallanes",12,2015,1721202.17627076
+"615","Hombre","Profesionales científicos e intelectuales","Maule",7,2010,743346.78060976
+"616","Hombre","Profesionales científicos e intelectuales","Maule",7,2011,855534.745180998
+"617","Hombre","Profesionales científicos e intelectuales","Maule",7,2012,875579.267880359
+"618","Hombre","Profesionales científicos e intelectuales","Maule",7,2013,710343.014685125
+"619","Hombre","Profesionales científicos e intelectuales","Maule",7,2014,994576.954531194
+"620","Hombre","Profesionales científicos e intelectuales","Maule",7,2015,1259393.57293508
+"621","Hombre","Profesionales científicos e intelectuales","Metropolitana",13,2010,1210671.26239776
+"622","Hombre","Profesionales científicos e intelectuales","Metropolitana",13,2011,1242438.67738346
+"623","Hombre","Profesionales científicos e intelectuales","Metropolitana",13,2012,1378082.8903303
+"624","Hombre","Profesionales científicos e intelectuales","Metropolitana",13,2013,1327582.43264723
+"625","Hombre","Profesionales científicos e intelectuales","Metropolitana",13,2014,1413428.41851875
+"626","Hombre","Profesionales científicos e intelectuales","Metropolitana",13,2015,1526640.08315261
+"627","Hombre","Profesionales científicos e intelectuales","O'Higgins",6,2010,853662.50237263
+"628","Hombre","Profesionales científicos e intelectuales","O'Higgins",6,2011,857330.801240141
+"629","Hombre","Profesionales científicos e intelectuales","O'Higgins",6,2012,1085793.04353761
+"630","Hombre","Profesionales científicos e intelectuales","O'Higgins",6,2013,1054433.60795834
+"631","Hombre","Profesionales científicos e intelectuales","O'Higgins",6,2014,1122045.36918616
+"632","Hombre","Profesionales científicos e intelectuales","O'Higgins",6,2015,1190495.11450419
+"633","Hombre","Profesionales científicos e intelectuales","Tarapacá",1,2010,1117206.58215819
+"634","Hombre","Profesionales científicos e intelectuales","Tarapacá",1,2011,912756.378746186
+"635","Hombre","Profesionales científicos e intelectuales","Tarapacá",1,2012,1256833.71291037
+"636","Hombre","Profesionales científicos e intelectuales","Tarapacá",1,2013,1334308.65470955
+"637","Hombre","Profesionales científicos e intelectuales","Tarapacá",1,2014,1177044.49759836
+"638","Hombre","Profesionales científicos e intelectuales","Tarapacá",1,2015,1484485.22103827
+"639","Hombre","Profesionales científicos e intelectuales","Valparaíso",5,2010,925179.855189103
+"640","Hombre","Profesionales científicos e intelectuales","Valparaíso",5,2011,1047053.17503787
+"641","Hombre","Profesionales científicos e intelectuales","Valparaíso",5,2012,1078791.39805836
+"642","Hombre","Profesionales científicos e intelectuales","Valparaíso",5,2013,1130367.74554094
+"643","Hombre","Profesionales científicos e intelectuales","Valparaíso",5,2014,1243482.72948058
+"644","Hombre","Profesionales científicos e intelectuales","Valparaíso",5,2015,1189599.72425618
+"645","Hombre","Profesionales científicos e intelectuales",NA,NA,2010,500376.391830514
+"646","Hombre","Profesionales científicos e intelectuales",NA,NA,2011,809395.082507858
+"647","Hombre","Profesionales científicos e intelectuales",NA,NA,2012,1053716.83747472
+"648","Hombre","Técnicos y profesionales de nivel medio","Antofagasta",2,2010,719668.049736247
+"649","Hombre","Técnicos y profesionales de nivel medio","Antofagasta",2,2011,758125.485228219
+"650","Hombre","Técnicos y profesionales de nivel medio","Antofagasta",2,2012,732542.694607479
+"651","Hombre","Técnicos y profesionales de nivel medio","Antofagasta",2,2013,915423.227890797
+"652","Hombre","Técnicos y profesionales de nivel medio","Antofagasta",2,2014,770751.683787972
+"653","Hombre","Técnicos y profesionales de nivel medio","Antofagasta",2,2015,933992.539550568
+"654","Hombre","Técnicos y profesionales de nivel medio","Araucanía",9,2010,444295.2870853
+"655","Hombre","Técnicos y profesionales de nivel medio","Araucanía",9,2011,489710.634767325
+"656","Hombre","Técnicos y profesionales de nivel medio","Araucanía",9,2012,620477.649581228
+"657","Hombre","Técnicos y profesionales de nivel medio","Araucanía",9,2013,579123.914516224
+"658","Hombre","Técnicos y profesionales de nivel medio","Araucanía",9,2014,647120.727333794
+"659","Hombre","Técnicos y profesionales de nivel medio","Araucanía",9,2015,664208.260561898
+"660","Hombre","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2010,375960.133502147
+"661","Hombre","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2011,573730.553296306
+"662","Hombre","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2012,632199.854014637
+"663","Hombre","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2013,502995.227420824
+"664","Hombre","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2014,611770.23018206
+"665","Hombre","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2015,659948.330685494
+"666","Hombre","Técnicos y profesionales de nivel medio","Atacama",3,2010,838260.759272708
+"667","Hombre","Técnicos y profesionales de nivel medio","Atacama",3,2011,660443.591188306
+"668","Hombre","Técnicos y profesionales de nivel medio","Atacama",3,2012,687624.498560471
+"669","Hombre","Técnicos y profesionales de nivel medio","Atacama",3,2013,672053.665650705
+"670","Hombre","Técnicos y profesionales de nivel medio","Atacama",3,2014,762438.000061345
+"671","Hombre","Técnicos y profesionales de nivel medio","Atacama",3,2015,803726.473031807
+"672","Hombre","Técnicos y profesionales de nivel medio","Aysén",11,2010,707958.47651427
+"673","Hombre","Técnicos y profesionales de nivel medio","Aysén",11,2011,854225.673044792
+"674","Hombre","Técnicos y profesionales de nivel medio","Aysén",11,2012,927069.665714772
+"675","Hombre","Técnicos y profesionales de nivel medio","Aysén",11,2013,741601.167608627
+"676","Hombre","Técnicos y profesionales de nivel medio","Aysén",11,2014,784686.199487466
+"677","Hombre","Técnicos y profesionales de nivel medio","Aysén",11,2015,747674.983086783
+"678","Hombre","Técnicos y profesionales de nivel medio","Bíobío",8,2010,518621.853969731
+"679","Hombre","Técnicos y profesionales de nivel medio","Bíobío",8,2011,592326.277940144
+"680","Hombre","Técnicos y profesionales de nivel medio","Bíobío",8,2012,575050.544634163
+"681","Hombre","Técnicos y profesionales de nivel medio","Bíobío",8,2013,605758.575970826
+"682","Hombre","Técnicos y profesionales de nivel medio","Bíobío",8,2014,616820.623770486
+"683","Hombre","Técnicos y profesionales de nivel medio","Bíobío",8,2015,641863.369637556
+"684","Hombre","Técnicos y profesionales de nivel medio","Coquimbo",4,2010,641034.836708469
+"685","Hombre","Técnicos y profesionales de nivel medio","Coquimbo",4,2011,772956.583304571
+"686","Hombre","Técnicos y profesionales de nivel medio","Coquimbo",4,2012,590073.386012023
+"687","Hombre","Técnicos y profesionales de nivel medio","Coquimbo",4,2013,757873.057947913
+"688","Hombre","Técnicos y profesionales de nivel medio","Coquimbo",4,2014,641701.13248332
+"689","Hombre","Técnicos y profesionales de nivel medio","Coquimbo",4,2015,604538.178631784
+"690","Hombre","Técnicos y profesionales de nivel medio","Los Lagos",10,2010,480948.168564914
+"691","Hombre","Técnicos y profesionales de nivel medio","Los Lagos",10,2011,486261.250667443
+"692","Hombre","Técnicos y profesionales de nivel medio","Los Lagos",10,2012,660250.030716987
+"693","Hombre","Técnicos y profesionales de nivel medio","Los Lagos",10,2013,656766.600506973
+"694","Hombre","Técnicos y profesionales de nivel medio","Los Lagos",10,2014,651061.921463568
+"695","Hombre","Técnicos y profesionales de nivel medio","Los Lagos",10,2015,829838.503666268
+"696","Hombre","Técnicos y profesionales de nivel medio","Los Ríos",14,2010,662644.212941225
+"697","Hombre","Técnicos y profesionales de nivel medio","Los Ríos",14,2011,496065.008011814
+"698","Hombre","Técnicos y profesionales de nivel medio","Los Ríos",14,2012,649403.436450886
+"699","Hombre","Técnicos y profesionales de nivel medio","Los Ríos",14,2013,757658.710476721
+"700","Hombre","Técnicos y profesionales de nivel medio","Los Ríos",14,2014,606817.249569208
+"701","Hombre","Técnicos y profesionales de nivel medio","Los Ríos",14,2015,649147.258138552
+"702","Hombre","Técnicos y profesionales de nivel medio","Magallanes",12,2010,980705.394452144
+"703","Hombre","Técnicos y profesionales de nivel medio","Magallanes",12,2011,980186.083545367
+"704","Hombre","Técnicos y profesionales de nivel medio","Magallanes",12,2012,801927.94991758
+"705","Hombre","Técnicos y profesionales de nivel medio","Magallanes",12,2013,1202245.09303944
+"706","Hombre","Técnicos y profesionales de nivel medio","Magallanes",12,2014,929314.439905408
+"707","Hombre","Técnicos y profesionales de nivel medio","Magallanes",12,2015,805889.449009979
+"708","Hombre","Técnicos y profesionales de nivel medio","Maule",7,2010,467050.868491319
+"709","Hombre","Técnicos y profesionales de nivel medio","Maule",7,2011,455345.555500642
+"710","Hombre","Técnicos y profesionales de nivel medio","Maule",7,2012,515464.709039943
+"711","Hombre","Técnicos y profesionales de nivel medio","Maule",7,2013,635494.656473238
+"712","Hombre","Técnicos y profesionales de nivel medio","Maule",7,2014,506087.070727718
+"713","Hombre","Técnicos y profesionales de nivel medio","Maule",7,2015,665210.150379171
+"714","Hombre","Técnicos y profesionales de nivel medio","Metropolitana",13,2010,598214.896825983
+"715","Hombre","Técnicos y profesionales de nivel medio","Metropolitana",13,2011,669089.917166327
+"716","Hombre","Técnicos y profesionales de nivel medio","Metropolitana",13,2012,693508.744930253
+"717","Hombre","Técnicos y profesionales de nivel medio","Metropolitana",13,2013,763303.296474089
+"718","Hombre","Técnicos y profesionales de nivel medio","Metropolitana",13,2014,689689.479286682
+"719","Hombre","Técnicos y profesionales de nivel medio","Metropolitana",13,2015,783119.047028452
+"720","Hombre","Técnicos y profesionales de nivel medio","O'Higgins",6,2010,596918.587462449
+"721","Hombre","Técnicos y profesionales de nivel medio","O'Higgins",6,2011,519844.761173049
+"722","Hombre","Técnicos y profesionales de nivel medio","O'Higgins",6,2012,615050.174699521
+"723","Hombre","Técnicos y profesionales de nivel medio","O'Higgins",6,2013,631952.009423814
+"724","Hombre","Técnicos y profesionales de nivel medio","O'Higgins",6,2014,681573.374728007
+"725","Hombre","Técnicos y profesionales de nivel medio","O'Higgins",6,2015,680828.593913974
+"726","Hombre","Técnicos y profesionales de nivel medio","Tarapacá",1,2010,578487.438866155
+"727","Hombre","Técnicos y profesionales de nivel medio","Tarapacá",1,2011,667797.738125642
+"728","Hombre","Técnicos y profesionales de nivel medio","Tarapacá",1,2012,607900.654141251
+"729","Hombre","Técnicos y profesionales de nivel medio","Tarapacá",1,2013,584059.28994615
+"730","Hombre","Técnicos y profesionales de nivel medio","Tarapacá",1,2014,584283.734470538
+"731","Hombre","Técnicos y profesionales de nivel medio","Tarapacá",1,2015,893199.158670816
+"732","Hombre","Técnicos y profesionales de nivel medio","Valparaíso",5,2010,552521.990364879
+"733","Hombre","Técnicos y profesionales de nivel medio","Valparaíso",5,2011,616988.183982152
+"734","Hombre","Técnicos y profesionales de nivel medio","Valparaíso",5,2012,631827.685406053
+"735","Hombre","Técnicos y profesionales de nivel medio","Valparaíso",5,2013,689803.216915137
+"736","Hombre","Técnicos y profesionales de nivel medio","Valparaíso",5,2014,671101.704847037
+"737","Hombre","Técnicos y profesionales de nivel medio","Valparaíso",5,2015,769402.435250285
+"738","Hombre","Técnicos y profesionales de nivel medio",NA,NA,2010,200000
+"739","Hombre","Técnicos y profesionales de nivel medio",NA,NA,2011,197758.890345978
+"740","Hombre","Técnicos y profesionales de nivel medio",NA,NA,2012,1104855.68548843
+"741","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2010,376888.462653342
+"742","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2011,408827.290299112
+"743","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2012,434679.397033144
+"744","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2013,560245.147160247
+"745","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2014,483558.834509349
+"746","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2015,640146.579691105
+"747","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2010,290861.319848333
+"748","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2011,300863.699033381
+"749","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2012,293118.582372886
+"750","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2013,328977.684662659
+"751","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2014,307880.152906946
+"752","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2015,364027.921312709
+"753","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2010,293958.043628298
+"754","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2011,246652.416545182
+"755","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2012,404739.733375499
+"756","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2013,360658.186317336
+"757","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2014,354445.520962233
+"758","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2015,383689.743077748
+"759","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2010,335816.280629253
+"760","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2011,303915.775497199
+"761","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2012,408036.011232055
+"762","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2013,540825.762137464
+"763","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2014,410626.399252731
+"764","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2015,314285.69963012
+"765","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2010,416731.55508683
+"766","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2011,422615.024806045
+"767","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2012,492991.013082692
+"768","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2013,568487.339214085
+"769","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2014,481494.424639685
+"770","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2015,567560.092840614
+"771","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2010,277421.21601376
+"772","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2011,320612.174002251
+"773","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2012,318429.764099733
+"774","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2013,282338.112290951
+"775","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2014,332897.443270642
+"776","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2015,383775.268189315
+"777","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2010,330779.247199611
+"778","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2011,448827.709703235
+"779","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2012,333756.643817144
+"780","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2013,366817.090545604
+"781","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2014,410156.196565029
+"782","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2015,410381.91519082
+"783","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2010,291779.428103114
+"784","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2011,443887.954534534
+"785","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2012,375211.841911983
+"786","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2013,370936.532061689
+"787","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2014,425847.106611173
+"788","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2015,386894.747826184
+"789","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2010,324950.086427196
+"790","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2011,311002.658589055
+"791","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2012,238435.2795576
+"792","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2013,352939.799319738
+"793","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2014,343517.028013813
+"794","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2015,380255.429029819
+"795","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2010,508250.659139164
+"796","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2011,539975.981961232
+"797","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2012,405871.763002225
+"798","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2013,521196.866818106
+"799","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2014,429177.225551507
+"800","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2015,412194.077170321
+"801","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2010,304906.941104723
+"802","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2011,256628.223592886
+"803","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2012,292417.595499681
+"804","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2013,328736.683083636
+"805","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2014,423419.153150784
+"806","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2015,329614.00259303
+"807","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2010,399199.474347097
+"808","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2011,370241.511346771
+"809","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2012,388904.972383159
+"810","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2013,422814.420386757
+"811","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2014,371867.027007326
+"812","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2015,446779.430435057
+"813","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2010,289410.100953795
+"814","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2011,302015.167688675
+"815","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2012,288269.591963907
+"816","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2013,333801.911257354
+"817","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2014,308975.395153317
+"818","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2015,366966.427188904
+"819","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2010,419026.397302059
+"820","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2011,318406.385026876
+"821","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2012,404858.019073624
+"822","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2013,395282.988824122
+"823","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2014,450435.466988726
+"824","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2015,386087.356328706
+"825","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2010,304987.081130837
+"826","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2011,317524.323535066
+"827","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2012,306034.594654935
+"828","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2013,402833.476293722
+"829","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2014,361115.417533865
+"830","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2015,379530.164436697
+"831","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados",NA,NA,2010,216559.210777229
+"832","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados",NA,NA,2011,207994.374361999
+"833","Hombre","Trabajadores de los servicios y vendedores de comercios y mercados",NA,NA,2012,213464.46504573
+"834","Hombre","Trabajadores no calificados","Antofagasta",2,2010,278297.671437837
+"835","Hombre","Trabajadores no calificados","Antofagasta",2,2011,284238.699161166
+"836","Hombre","Trabajadores no calificados","Antofagasta",2,2012,332941.5842294
+"837","Hombre","Trabajadores no calificados","Antofagasta",2,2013,372725.239067933
+"838","Hombre","Trabajadores no calificados","Antofagasta",2,2014,366935.958595377
+"839","Hombre","Trabajadores no calificados","Antofagasta",2,2015,371404.290352028
+"840","Hombre","Trabajadores no calificados","Araucanía",9,2010,139387.950546518
+"841","Hombre","Trabajadores no calificados","Araucanía",9,2011,180987.8983691
+"842","Hombre","Trabajadores no calificados","Araucanía",9,2012,182819.63776544
+"843","Hombre","Trabajadores no calificados","Araucanía",9,2013,205926.326752744
+"844","Hombre","Trabajadores no calificados","Araucanía",9,2014,219493.333370638
+"845","Hombre","Trabajadores no calificados","Araucanía",9,2015,255119.835590597
+"846","Hombre","Trabajadores no calificados","Arica y Parinacota",15,2010,210379.458646692
+"847","Hombre","Trabajadores no calificados","Arica y Parinacota",15,2011,198318.106967458
+"848","Hombre","Trabajadores no calificados","Arica y Parinacota",15,2012,237839.929114961
+"849","Hombre","Trabajadores no calificados","Arica y Parinacota",15,2013,238891.146108111
+"850","Hombre","Trabajadores no calificados","Arica y Parinacota",15,2014,286234.467630706
+"851","Hombre","Trabajadores no calificados","Arica y Parinacota",15,2015,288613.358250363
+"852","Hombre","Trabajadores no calificados","Atacama",3,2010,219561.862330786
+"853","Hombre","Trabajadores no calificados","Atacama",3,2011,248912.198797387
+"854","Hombre","Trabajadores no calificados","Atacama",3,2012,266725.556133726
+"855","Hombre","Trabajadores no calificados","Atacama",3,2013,281823.512642919
+"856","Hombre","Trabajadores no calificados","Atacama",3,2014,320176.909274194
+"857","Hombre","Trabajadores no calificados","Atacama",3,2015,358452.13799964
+"858","Hombre","Trabajadores no calificados","Aysén",11,2010,278389.808543225
+"859","Hombre","Trabajadores no calificados","Aysén",11,2011,259032.450647708
+"860","Hombre","Trabajadores no calificados","Aysén",11,2012,268605.767601296
+"861","Hombre","Trabajadores no calificados","Aysén",11,2013,280538.536877312
+"862","Hombre","Trabajadores no calificados","Aysén",11,2014,287738.907079644
+"863","Hombre","Trabajadores no calificados","Aysén",11,2015,361811.517578255
+"864","Hombre","Trabajadores no calificados","Bíobío",8,2010,176950.244417855
+"865","Hombre","Trabajadores no calificados","Bíobío",8,2011,192637.774589308
+"866","Hombre","Trabajadores no calificados","Bíobío",8,2012,206424.885639862
+"867","Hombre","Trabajadores no calificados","Bíobío",8,2013,228022.165777911
+"868","Hombre","Trabajadores no calificados","Bíobío",8,2014,237720.029063107
+"869","Hombre","Trabajadores no calificados","Bíobío",8,2015,269183.916465133
+"870","Hombre","Trabajadores no calificados","Coquimbo",4,2010,199890.03108629
+"871","Hombre","Trabajadores no calificados","Coquimbo",4,2011,207885.272358036
+"872","Hombre","Trabajadores no calificados","Coquimbo",4,2012,247787.711680159
+"873","Hombre","Trabajadores no calificados","Coquimbo",4,2013,258931.227300815
+"874","Hombre","Trabajadores no calificados","Coquimbo",4,2014,260743.912897649
+"875","Hombre","Trabajadores no calificados","Coquimbo",4,2015,299731.175041347
+"876","Hombre","Trabajadores no calificados","Los Lagos",10,2010,193177.427981984
+"877","Hombre","Trabajadores no calificados","Los Lagos",10,2011,204599.467314316
+"878","Hombre","Trabajadores no calificados","Los Lagos",10,2012,228353.780811611
+"879","Hombre","Trabajadores no calificados","Los Lagos",10,2013,223022.807560759
+"880","Hombre","Trabajadores no calificados","Los Lagos",10,2014,260230.088434683
+"881","Hombre","Trabajadores no calificados","Los Lagos",10,2015,272793.432680901
+"882","Hombre","Trabajadores no calificados","Los Ríos",14,2010,188453.703191148
+"883","Hombre","Trabajadores no calificados","Los Ríos",14,2011,208490.939650814
+"884","Hombre","Trabajadores no calificados","Los Ríos",14,2012,223988.921282555
+"885","Hombre","Trabajadores no calificados","Los Ríos",14,2013,221460.882210815
+"886","Hombre","Trabajadores no calificados","Los Ríos",14,2014,249199.740990943
+"887","Hombre","Trabajadores no calificados","Los Ríos",14,2015,301325.730621693
+"888","Hombre","Trabajadores no calificados","Magallanes",12,2010,262962.662884237
+"889","Hombre","Trabajadores no calificados","Magallanes",12,2011,259686.92308924
+"890","Hombre","Trabajadores no calificados","Magallanes",12,2012,291849.577494102
+"891","Hombre","Trabajadores no calificados","Magallanes",12,2013,341161.025709869
+"892","Hombre","Trabajadores no calificados","Magallanes",12,2014,318134.979977981
+"893","Hombre","Trabajadores no calificados","Magallanes",12,2015,384820.899367982
+"894","Hombre","Trabajadores no calificados","Maule",7,2010,172016.258407291
+"895","Hombre","Trabajadores no calificados","Maule",7,2011,181814.173904226
+"896","Hombre","Trabajadores no calificados","Maule",7,2012,200031.917946385
+"897","Hombre","Trabajadores no calificados","Maule",7,2013,233197.758332709
+"898","Hombre","Trabajadores no calificados","Maule",7,2014,247350.76104449
+"899","Hombre","Trabajadores no calificados","Maule",7,2015,260337.745606403
+"900","Hombre","Trabajadores no calificados","Metropolitana",13,2010,204097.639868687
+"901","Hombre","Trabajadores no calificados","Metropolitana",13,2011,234731.51913731
+"902","Hombre","Trabajadores no calificados","Metropolitana",13,2012,249230.193663658
+"903","Hombre","Trabajadores no calificados","Metropolitana",13,2013,281790.091728817
+"904","Hombre","Trabajadores no calificados","Metropolitana",13,2014,297404.11194949
+"905","Hombre","Trabajadores no calificados","Metropolitana",13,2015,306439.121032493
+"906","Hombre","Trabajadores no calificados","O'Higgins",6,2010,207639.462953075
+"907","Hombre","Trabajadores no calificados","O'Higgins",6,2011,206042.365246412
+"908","Hombre","Trabajadores no calificados","O'Higgins",6,2012,224951.482767421
+"909","Hombre","Trabajadores no calificados","O'Higgins",6,2013,249786.846878967
+"910","Hombre","Trabajadores no calificados","O'Higgins",6,2014,263902.138013435
+"911","Hombre","Trabajadores no calificados","O'Higgins",6,2015,286154.608281823
+"912","Hombre","Trabajadores no calificados","Tarapacá",1,2010,200650.985782795
+"913","Hombre","Trabajadores no calificados","Tarapacá",1,2011,221337.168239891
+"914","Hombre","Trabajadores no calificados","Tarapacá",1,2012,277355.675077701
+"915","Hombre","Trabajadores no calificados","Tarapacá",1,2013,312005.351251652
+"916","Hombre","Trabajadores no calificados","Tarapacá",1,2014,339827.934802517
+"917","Hombre","Trabajadores no calificados","Tarapacá",1,2015,268727.753424506
+"918","Hombre","Trabajadores no calificados","Valparaíso",5,2010,186837.533422726
+"919","Hombre","Trabajadores no calificados","Valparaíso",5,2011,209039.159518656
+"920","Hombre","Trabajadores no calificados","Valparaíso",5,2012,239822.374722758
+"921","Hombre","Trabajadores no calificados","Valparaíso",5,2013,273877.711763714
+"922","Hombre","Trabajadores no calificados","Valparaíso",5,2014,283597.369770422
+"923","Hombre","Trabajadores no calificados","Valparaíso",5,2015,298180.148849643
+"924","Hombre","Trabajadores no calificados",NA,NA,2010,136826.094678938
+"925","Hombre","Trabajadores no calificados",NA,NA,2011,172393.597352713
+"926","Hombre","Trabajadores no calificados",NA,NA,2012,122241.811008292
+"927","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2010,188469.469200931
+"928","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2011,59417.072246514
+"929","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2012,92445.0511826372
+"930","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2013,300000
+"931","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2014,172720.530893572
+"932","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Antofagasta",2,2015,506856.922900295
+"933","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2010,41618.2749781116
+"934","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2011,64124.8820258301
+"935","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2012,65607.2833362673
+"936","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2013,51811.8778552841
+"937","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2014,59880.542206547
+"938","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Araucanía",9,2015,66130.5103459073
+"939","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2010,181899.56941538
+"940","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2011,157954.918190067
+"941","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2012,213756.768579659
+"942","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2013,247639.105163049
+"943","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2014,254534.327262741
+"944","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Arica y Parinacota",15,2015,278167.029199841
+"945","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2010,132347.233198798
+"946","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2011,121602.866667986
+"947","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2012,212743.663633085
+"948","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2013,100636.240397651
+"949","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2014,161073.082003568
+"950","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Atacama",3,2015,227779.22653716
+"951","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2010,187216.99225423
+"952","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2011,264144.563878582
+"953","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2012,126833.072530039
+"954","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2013,132002.556056049
+"955","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2014,133090.954242395
+"956","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Aysén",11,2015,196961.775998063
+"957","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2010,82088.3042168945
+"958","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2011,93054.3246753407
+"959","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2012,85964.138999837
+"960","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2013,109510.546379873
+"961","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2014,136656.462177484
+"962","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Bíobío",8,2015,134495.728306734
+"963","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2010,138184.237491156
+"964","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2011,130012.249553073
+"965","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2012,91754.1285171106
+"966","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2013,146403.442440813
+"967","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2014,241698.884687298
+"968","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Coquimbo",4,2015,160338.968466421
+"969","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2010,139483.371895339
+"970","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2011,137491.161881373
+"971","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2012,114970.422765639
+"972","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2013,139106.05347218
+"973","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2014,150051.686431462
+"974","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Lagos",10,2015,275144.005585245
+"975","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2010,144063.682738662
+"976","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2011,101554.982681147
+"977","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2012,61984.7789728464
+"978","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2013,81739.0036969279
+"979","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2014,133718.41432687
+"980","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Los Ríos",14,2015,158380.339786124
+"981","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2010,102367.540954475
+"982","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2011,80456.0565596623
+"983","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2012,288828.639297026
+"984","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2013,100000
+"985","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2014,1000000
+"986","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Magallanes",12,2015,893668.286256631
+"987","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2010,110936.472596128
+"988","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2011,137463.145145655
+"989","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2012,113912.616729901
+"990","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2013,103246.498534594
+"991","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2014,131935.812916435
+"992","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Maule",7,2015,372572.89311969
+"993","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2010,133916.549173244
+"994","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2011,189531.707107348
+"995","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2012,469383.856622164
+"996","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2013,201010.023551657
+"997","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2014,324882.589884285
+"998","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Metropolitana",13,2015,345100.594970255
+"999","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2010,325452.909284306
+"1000","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2011,144316.568996664
+"1001","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2012,138385.714410207
+"1002","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2013,183159.302828115
+"1003","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2014,275706.188155434
+"1004","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","O'Higgins",6,2015,221535.804188605
+"1005","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2010,170627.2617474
+"1006","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2011,130655.552560973
+"1007","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2012,112941.494528907
+"1008","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2013,162922.626300037
+"1009","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2014,155745.220625638
+"1010","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Tarapacá",1,2015,232241.902832765
+"1011","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2010,105508.5890171
+"1012","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2011,129274.18674755
+"1013","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2012,130785.860742645
+"1014","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2013,113561.941718927
+"1015","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2014,142852.29002522
+"1016","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros","Valparaíso",5,2015,134312.459607306
+"1017","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros",NA,NA,2010,73486.2600489051
+"1018","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros",NA,NA,2011,119927.554884819
+"1019","Mujer","Agricultores y trabajadores calificados agropecuarios y pesqueros",NA,NA,2012,45763.1203886874
+"1020","Mujer","Empleados de oficina","Antofagasta",2,2010,284073.421884653
+"1021","Mujer","Empleados de oficina","Antofagasta",2,2011,336634.821213862
+"1022","Mujer","Empleados de oficina","Antofagasta",2,2012,341524.531451616
+"1023","Mujer","Empleados de oficina","Antofagasta",2,2013,406257.103707616
+"1024","Mujer","Empleados de oficina","Antofagasta",2,2014,405593.384545885
+"1025","Mujer","Empleados de oficina","Antofagasta",2,2015,426125.781935914
+"1026","Mujer","Empleados de oficina","Araucanía",9,2010,243458.171011291
+"1027","Mujer","Empleados de oficina","Araucanía",9,2011,216561.59637254
+"1028","Mujer","Empleados de oficina","Araucanía",9,2012,333193.568028128
+"1029","Mujer","Empleados de oficina","Araucanía",9,2013,306509.770600757
+"1030","Mujer","Empleados de oficina","Araucanía",9,2014,315539.561533078
+"1031","Mujer","Empleados de oficina","Araucanía",9,2015,376366.571692362
+"1032","Mujer","Empleados de oficina","Arica y Parinacota",15,2010,263953.08532585
+"1033","Mujer","Empleados de oficina","Arica y Parinacota",15,2011,277480.802516001
+"1034","Mujer","Empleados de oficina","Arica y Parinacota",15,2012,278433.64045216
+"1035","Mujer","Empleados de oficina","Arica y Parinacota",15,2013,281045.79637406
+"1036","Mujer","Empleados de oficina","Arica y Parinacota",15,2014,369379.382363554
+"1037","Mujer","Empleados de oficina","Arica y Parinacota",15,2015,374648.975441916
+"1038","Mujer","Empleados de oficina","Atacama",3,2010,291442.05502692
+"1039","Mujer","Empleados de oficina","Atacama",3,2011,348595.229588244
+"1040","Mujer","Empleados de oficina","Atacama",3,2012,306354.529242249
+"1041","Mujer","Empleados de oficina","Atacama",3,2013,360081.32842513
+"1042","Mujer","Empleados de oficina","Atacama",3,2014,358385.155727254
+"1043","Mujer","Empleados de oficina","Atacama",3,2015,403817.216128651
+"1044","Mujer","Empleados de oficina","Aysén",11,2010,328901.129899493
+"1045","Mujer","Empleados de oficina","Aysén",11,2011,361072.337804337
+"1046","Mujer","Empleados de oficina","Aysén",11,2012,403917.653465749
+"1047","Mujer","Empleados de oficina","Aysén",11,2013,476686.271857799
+"1048","Mujer","Empleados de oficina","Aysén",11,2014,421223.32405911
+"1049","Mujer","Empleados de oficina","Aysén",11,2015,508739.966570403
+"1050","Mujer","Empleados de oficina","Bíobío",8,2010,286847.932761548
+"1051","Mujer","Empleados de oficina","Bíobío",8,2011,263376.409676003
+"1052","Mujer","Empleados de oficina","Bíobío",8,2012,281071.935074335
+"1053","Mujer","Empleados de oficina","Bíobío",8,2013,314480.20289408
+"1054","Mujer","Empleados de oficina","Bíobío",8,2014,337991.033989574
+"1055","Mujer","Empleados de oficina","Bíobío",8,2015,334994.180902001
+"1056","Mujer","Empleados de oficina","Coquimbo",4,2010,265564.527431133
+"1057","Mujer","Empleados de oficina","Coquimbo",4,2011,232251.72394581
+"1058","Mujer","Empleados de oficina","Coquimbo",4,2012,271403.131691919
+"1059","Mujer","Empleados de oficina","Coquimbo",4,2013,328560.856208879
+"1060","Mujer","Empleados de oficina","Coquimbo",4,2014,386702.875888556
+"1061","Mujer","Empleados de oficina","Coquimbo",4,2015,373931.92760063
+"1062","Mujer","Empleados de oficina","Los Lagos",10,2010,277619.000247758
+"1063","Mujer","Empleados de oficina","Los Lagos",10,2011,317024.551583052
+"1064","Mujer","Empleados de oficina","Los Lagos",10,2012,334168.779618174
+"1065","Mujer","Empleados de oficina","Los Lagos",10,2013,370106.02623327
+"1066","Mujer","Empleados de oficina","Los Lagos",10,2014,347110.981111116
+"1067","Mujer","Empleados de oficina","Los Lagos",10,2015,343353.566928005
+"1068","Mujer","Empleados de oficina","Los Ríos",14,2010,320330.266203799
+"1069","Mujer","Empleados de oficina","Los Ríos",14,2011,293719.940927206
+"1070","Mujer","Empleados de oficina","Los Ríos",14,2012,320776.819131351
+"1071","Mujer","Empleados de oficina","Los Ríos",14,2013,339824.279930708
+"1072","Mujer","Empleados de oficina","Los Ríos",14,2014,364075.053727599
+"1073","Mujer","Empleados de oficina","Los Ríos",14,2015,464009.262917574
+"1074","Mujer","Empleados de oficina","Magallanes",12,2010,317845.640482905
+"1075","Mujer","Empleados de oficina","Magallanes",12,2011,401661.629667077
+"1076","Mujer","Empleados de oficina","Magallanes",12,2012,662379.060315687
+"1077","Mujer","Empleados de oficina","Magallanes",12,2013,523536.502531192
+"1078","Mujer","Empleados de oficina","Magallanes",12,2014,425878.235897501
+"1079","Mujer","Empleados de oficina","Magallanes",12,2015,675711.037904397
+"1080","Mujer","Empleados de oficina","Maule",7,2010,226237.732450193
+"1081","Mujer","Empleados de oficina","Maule",7,2011,288212.572794124
+"1082","Mujer","Empleados de oficina","Maule",7,2012,284221.609984207
+"1083","Mujer","Empleados de oficina","Maule",7,2013,268572.397293261
+"1084","Mujer","Empleados de oficina","Maule",7,2014,288298.339229157
+"1085","Mujer","Empleados de oficina","Maule",7,2015,316400.176067595
+"1086","Mujer","Empleados de oficina","Metropolitana",13,2010,286490.702957031
+"1087","Mujer","Empleados de oficina","Metropolitana",13,2011,325771.363713312
+"1088","Mujer","Empleados de oficina","Metropolitana",13,2012,354637.264079704
+"1089","Mujer","Empleados de oficina","Metropolitana",13,2013,390031.584886445
+"1090","Mujer","Empleados de oficina","Metropolitana",13,2014,387811.396454525
+"1091","Mujer","Empleados de oficina","Metropolitana",13,2015,412499.322590367
+"1092","Mujer","Empleados de oficina","O'Higgins",6,2010,301363.680177367
+"1093","Mujer","Empleados de oficina","O'Higgins",6,2011,291183.411232334
+"1094","Mujer","Empleados de oficina","O'Higgins",6,2012,326254.72295472
+"1095","Mujer","Empleados de oficina","O'Higgins",6,2013,341859.3762251
+"1096","Mujer","Empleados de oficina","O'Higgins",6,2014,323694.430426548
+"1097","Mujer","Empleados de oficina","O'Higgins",6,2015,409002.75670832
+"1098","Mujer","Empleados de oficina","Tarapacá",1,2010,320641.045556078
+"1099","Mujer","Empleados de oficina","Tarapacá",1,2011,416533.468080073
+"1100","Mujer","Empleados de oficina","Tarapacá",1,2012,369114.883908904
+"1101","Mujer","Empleados de oficina","Tarapacá",1,2013,377563.488257779
+"1102","Mujer","Empleados de oficina","Tarapacá",1,2014,415993.258707501
+"1103","Mujer","Empleados de oficina","Tarapacá",1,2015,423281.603962968
+"1104","Mujer","Empleados de oficina","Valparaíso",5,2010,265977.487428424
+"1105","Mujer","Empleados de oficina","Valparaíso",5,2011,263525.002842832
+"1106","Mujer","Empleados de oficina","Valparaíso",5,2012,310657.328053773
+"1107","Mujer","Empleados de oficina","Valparaíso",5,2013,329391.421777999
+"1108","Mujer","Empleados de oficina","Valparaíso",5,2014,365935.183134627
+"1109","Mujer","Empleados de oficina","Valparaíso",5,2015,383056.195530991
+"1110","Mujer","Empleados de oficina",NA,NA,2010,112321.170744555
+"1111","Mujer","Empleados de oficina",NA,NA,2012,256150.128865979
+"1112","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Antofagasta",2,2011,1183641.31099701
+"1113","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Araucanía",9,2011,413494.720543104
+"1114","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Arica y Parinacota",15,2011,534484.181363537
+"1115","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Atacama",3,2011,1431368.39885105
+"1116","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Aysén",11,2011,812736.127782065
+"1117","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Bíobío",8,2011,966136.902938662
+"1118","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Coquimbo",4,2011,751112.613384909
+"1119","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Los Lagos",10,2011,811449.020999245
+"1120","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Los Ríos",14,2011,997859.927425785
+"1121","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Magallanes",12,2011,1128734.62273349
+"1122","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Maule",7,2011,740817.510107558
+"1123","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Metropolitana",13,2011,1221934.04618836
+"1124","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","O'Higgins",6,2011,1373943.25886124
+"1125","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Tarapacá",1,2011,1245488.70129657
+"1126","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. pública y de empresas","Valparaíso",5,2011,647953.412531661
+"1127","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Antofagasta",2,2012,617396.397362093
+"1128","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Antofagasta",2,2013,653274.737292407
+"1129","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Antofagasta",2,2014,1021576.13395731
+"1130","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Antofagasta",2,2015,736790.906857094
+"1131","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Araucanía",9,2012,1053808.70973685
+"1132","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Araucanía",9,2013,865438.822724902
+"1133","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Araucanía",9,2014,669036.309840227
+"1134","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Araucanía",9,2015,653411.31824611
+"1135","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Arica y Parinacota",15,2012,1016392.47721134
+"1136","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Arica y Parinacota",15,2013,3673991.25950787
+"1137","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Arica y Parinacota",15,2014,1100848.37867172
+"1138","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Arica y Parinacota",15,2015,584930.612308192
+"1139","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Atacama",3,2012,609836.96474343
+"1140","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Atacama",3,2013,518161.372381004
+"1141","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Atacama",3,2014,1274491.51745643
+"1142","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Atacama",3,2015,787983.987775108
+"1143","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Aysén",11,2012,735188.215127257
+"1144","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Aysén",11,2013,753083.237425231
+"1145","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Aysén",11,2014,1206176.40870084
+"1146","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Aysén",11,2015,788200.748757877
+"1147","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Bíobío",8,2012,905522.378815871
+"1148","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Bíobío",8,2013,953663.532112453
+"1149","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Bíobío",8,2014,1182104.72087902
+"1150","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Bíobío",8,2015,1067318.844853
+"1151","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Coquimbo",4,2012,1014009.4706039
+"1152","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Coquimbo",4,2013,855064.766256304
+"1153","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Coquimbo",4,2014,817886.925547184
+"1154","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Coquimbo",4,2015,681443.789398377
+"1155","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Lagos",10,2012,1031306.13531741
+"1156","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Lagos",10,2013,1332912.87256598
+"1157","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Lagos",10,2014,1281201.25239828
+"1158","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Lagos",10,2015,1081104.11402545
+"1159","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Ríos",14,2012,618852.680873372
+"1160","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Ríos",14,2013,608363.279071476
+"1161","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Ríos",14,2014,1329516.9491321
+"1162","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Los Ríos",14,2015,2434272.573759
+"1163","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Magallanes",12,2012,748594.680207435
+"1164","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Magallanes",12,2013,1264582.19518247
+"1165","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Magallanes",12,2014,1238930.26032312
+"1166","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Magallanes",12,2015,1369980.77101919
+"1167","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Maule",7,2012,655523.940560549
+"1168","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Maule",7,2013,591189.734949135
+"1169","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Maule",7,2014,1062028.25715933
+"1170","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Maule",7,2015,764706.697037241
+"1171","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Metropolitana",13,2012,1546375.9834611
+"1172","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Metropolitana",13,2013,1303912.21313241
+"1173","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Metropolitana",13,2014,1423816.84071074
+"1174","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Metropolitana",13,2015,1707678.7092803
+"1175","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","O'Higgins",6,2012,1485279.6003138
+"1176","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","O'Higgins",6,2013,922042.996223961
+"1177","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","O'Higgins",6,2014,759398.323989745
+"1178","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","O'Higgins",6,2015,742394.069367222
+"1179","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Tarapacá",1,2012,561672.182517252
+"1180","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Tarapacá",1,2013,939091.99708163
+"1181","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Tarapacá",1,2014,1603725.75674302
+"1182","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Tarapacá",1,2015,1465168.76840353
+"1183","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Valparaíso",5,2012,937167.545789982
+"1184","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Valparaíso",5,2013,1101637.41960265
+"1185","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Valparaíso",5,2014,1279366.45977683
+"1186","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr","Valparaíso",5,2015,944900.536355075
+"1187","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración pública y de empr",NA,NA,2012,100562.108367121
+"1188","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Antofagasta",2,2010,1125456.23691518
+"1189","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Araucanía",9,2010,867901.499110197
+"1190","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Arica y Parinacota",15,2010,340918.529289584
+"1191","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Atacama",3,2010,1244305.04841801
+"1192","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Aysén",11,2010,857218.075645124
+"1193","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Bíobío",8,2010,516938.100556458
+"1194","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Coquimbo",4,2010,1771218.35206131
+"1195","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Los Lagos",10,2010,658073.164043716
+"1196","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Los Ríos",14,2010,604036.47613679
+"1197","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Magallanes",12,2010,1295165.18035211
+"1198","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Maule",7,2010,516616.96705122
+"1199","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Metropolitana",13,2010,999740.327068765
+"1200","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","O'Higgins",6,2010,814942.00944946
+"1201","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Tarapacá",1,2010,722584.265450003
+"1202","Mujer","Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administración publica y de empres","Valparaíso",5,2010,627881.624898094
+"1203","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2010,115285.402909865
+"1204","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2011,213126.399649921
+"1205","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2012,182670.100972949
+"1206","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2013,262163.594314209
+"1207","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2014,236109.588012374
+"1208","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Antofagasta",2,2015,178151.92993051
+"1209","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2010,59843.3947011372
+"1210","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2011,61954.7956358787
+"1211","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2012,77204.484450535
+"1212","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2013,90887.0680739586
+"1213","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2014,124029.622415941
+"1214","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Araucanía",9,2015,96073.7946744369
+"1215","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2010,112890.77863526
+"1216","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2011,87310.5026042115
+"1217","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2012,93321.4378916487
+"1218","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2013,135025.603349498
+"1219","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2014,175257.867144751
+"1220","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Arica y Parinacota",15,2015,140531.930635786
+"1221","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2010,169450.330704462
+"1222","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2011,111585.583624633
+"1223","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2012,130112.341150807
+"1224","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2013,174199.198005361
+"1225","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2014,183747.620751673
+"1226","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Atacama",3,2015,118146.760594024
+"1227","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2010,166493.476294303
+"1228","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2011,185454.84786542
+"1229","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2012,151835.69119121
+"1230","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2013,155259.917811746
+"1231","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2014,164801.207313681
+"1232","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Aysén",11,2015,171781.138149232
+"1233","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2010,69562.4383136351
+"1234","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2011,106351.448414906
+"1235","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2012,99242.8176514121
+"1236","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2013,102763.645978615
+"1237","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2014,144204.434559281
+"1238","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Bíobío",8,2015,112115.335980072
+"1239","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2010,108519.362941613
+"1240","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2011,130388.73116204
+"1241","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2012,130679.362376489
+"1242","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2013,108710.76343199
+"1243","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2014,113128.738567977
+"1244","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Coquimbo",4,2015,152904.275590312
+"1245","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2010,118120.528918463
+"1246","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2011,162476.305803083
+"1247","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2012,127066.742770531
+"1248","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2013,167753.032355105
+"1249","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2014,171745.590230192
+"1250","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Lagos",10,2015,194982.927447208
+"1251","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2010,73468.3229375288
+"1252","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2011,64370.6485466539
+"1253","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2012,76627.1767687645
+"1254","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2013,109622.784747602
+"1255","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2014,60781.2860221128
+"1256","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Los Ríos",14,2015,104233.703413174
+"1257","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2010,147509.372899703
+"1258","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2011,192710.248678835
+"1259","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2012,160033.437910619
+"1260","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2013,202859.0850609
+"1261","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2014,274482.358735562
+"1262","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Magallanes",12,2015,261979.185670716
+"1263","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2010,83149.4404937367
+"1264","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2011,83676.0400327792
+"1265","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2012,55799.9845245299
+"1266","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2013,104568.089175143
+"1267","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2014,99038.160913197
+"1268","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Maule",7,2015,105899.436481675
+"1269","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2010,118003.597219635
+"1270","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2011,157502.233045388
+"1271","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2012,149086.97549706
+"1272","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2013,165851.904571829
+"1273","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2014,186125.111277417
+"1274","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Metropolitana",13,2015,175988.827365876
+"1275","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2010,125434.377816024
+"1276","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2011,107203.945838274
+"1277","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2012,123102.201512569
+"1278","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2013,119078.217073022
+"1279","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2014,178075.575453588
+"1280","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","O'Higgins",6,2015,180863.437601097
+"1281","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2010,140622.891275106
+"1282","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2011,119871.531979136
+"1283","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2012,141802.062386179
+"1284","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2013,183423.969468564
+"1285","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2014,194427.206979622
+"1286","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tarapacá",1,2015,212449.525256736
+"1287","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2010,74988.7398534326
+"1288","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2011,127468.883458895
+"1289","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2012,97614.7710555529
+"1290","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2013,106928.436401936
+"1291","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2014,144619.802289773
+"1292","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Valparaíso",5,2015,132588.733593445
+"1293","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",NA,NA,2010,17470.9681762447
+"1294","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",NA,NA,2011,25084.3972337289
+"1295","Mujer","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",NA,NA,2012,120549.706301725
+"1296","Mujer","Operadores de instalaciones y maquinas y montadores","Antofagasta",2,2010,609943.227987619
+"1297","Mujer","Operadores de instalaciones y maquinas y montadores","Antofagasta",2,2011,264587.955903156
+"1298","Mujer","Operadores de instalaciones y maquinas y montadores","Araucanía",9,2010,130850.408701406
+"1299","Mujer","Operadores de instalaciones y maquinas y montadores","Araucanía",9,2011,317508.997722342
+"1300","Mujer","Operadores de instalaciones y maquinas y montadores","Arica y Parinacota",15,2010,160791.270092464
+"1301","Mujer","Operadores de instalaciones y maquinas y montadores","Arica y Parinacota",15,2011,502416.60348749
+"1302","Mujer","Operadores de instalaciones y maquinas y montadores","Atacama",3,2010,470821.03075774
+"1303","Mujer","Operadores de instalaciones y maquinas y montadores","Atacama",3,2011,230303.61828299
+"1304","Mujer","Operadores de instalaciones y maquinas y montadores","Aysén",11,2010,253829.084937428
+"1305","Mujer","Operadores de instalaciones y maquinas y montadores","Aysén",11,2011,253346.285032346
+"1306","Mujer","Operadores de instalaciones y maquinas y montadores","Bíobío",8,2010,165476.985622767
+"1307","Mujer","Operadores de instalaciones y maquinas y montadores","Bíobío",8,2011,221246.337416761
+"1308","Mujer","Operadores de instalaciones y maquinas y montadores","Coquimbo",4,2010,409626.205127735
+"1309","Mujer","Operadores de instalaciones y maquinas y montadores","Coquimbo",4,2011,181775.707578223
+"1310","Mujer","Operadores de instalaciones y maquinas y montadores","Los Lagos",10,2010,324073.374338598
+"1311","Mujer","Operadores de instalaciones y maquinas y montadores","Los Lagos",10,2011,145161.028593657
+"1312","Mujer","Operadores de instalaciones y maquinas y montadores","Los Ríos",14,2010,64813.1303216628
+"1313","Mujer","Operadores de instalaciones y maquinas y montadores","Los Ríos",14,2011,100483.320697498
+"1314","Mujer","Operadores de instalaciones y maquinas y montadores","Magallanes",12,2010,375455.709811692
+"1315","Mujer","Operadores de instalaciones y maquinas y montadores","Magallanes",12,2011,392848.912374997
+"1316","Mujer","Operadores de instalaciones y maquinas y montadores","Maule",7,2010,130256.083584545
+"1317","Mujer","Operadores de instalaciones y maquinas y montadores","Maule",7,2011,165117.191167427
+"1318","Mujer","Operadores de instalaciones y maquinas y montadores","Metropolitana",13,2010,208119.106039425
+"1319","Mujer","Operadores de instalaciones y maquinas y montadores","Metropolitana",13,2011,237919.683504302
+"1320","Mujer","Operadores de instalaciones y maquinas y montadores","O'Higgins",6,2010,194104.015635158
+"1321","Mujer","Operadores de instalaciones y maquinas y montadores","O'Higgins",6,2011,242043.587210228
+"1322","Mujer","Operadores de instalaciones y maquinas y montadores","Tarapacá",1,2010,301815.856780418
+"1323","Mujer","Operadores de instalaciones y maquinas y montadores","Tarapacá",1,2011,243152.366012317
+"1324","Mujer","Operadores de instalaciones y maquinas y montadores","Valparaíso",5,2010,207776.532633562
+"1325","Mujer","Operadores de instalaciones y maquinas y montadores","Valparaíso",5,2011,301432.291235398
+"1326","Mujer","Operadores de instalaciones y máquinas y montadores","Antofagasta",2,2012,261010.564742827
+"1327","Mujer","Operadores de instalaciones y máquinas y montadores","Antofagasta",2,2013,427299.462461573
+"1328","Mujer","Operadores de instalaciones y máquinas y montadores","Antofagasta",2,2014,1127733.06696594
+"1329","Mujer","Operadores de instalaciones y máquinas y montadores","Antofagasta",2,2015,418070.365195292
+"1330","Mujer","Operadores de instalaciones y máquinas y montadores","Araucanía",9,2012,312186.200131591
+"1331","Mujer","Operadores de instalaciones y máquinas y montadores","Araucanía",9,2013,310235.570765148
+"1332","Mujer","Operadores de instalaciones y máquinas y montadores","Araucanía",9,2014,180385.89670998
+"1333","Mujer","Operadores de instalaciones y máquinas y montadores","Araucanía",9,2015,111926.292333683
+"1334","Mujer","Operadores de instalaciones y máquinas y montadores","Arica y Parinacota",15,2012,323534.247111365
+"1335","Mujer","Operadores de instalaciones y máquinas y montadores","Arica y Parinacota",15,2013,196960.639929924
+"1336","Mujer","Operadores de instalaciones y máquinas y montadores","Arica y Parinacota",15,2014,251881.377916482
+"1337","Mujer","Operadores de instalaciones y máquinas y montadores","Arica y Parinacota",15,2015,836095.357395652
+"1338","Mujer","Operadores de instalaciones y máquinas y montadores","Atacama",3,2012,296510.674354809
+"1339","Mujer","Operadores de instalaciones y máquinas y montadores","Atacama",3,2013,621878.751197708
+"1340","Mujer","Operadores de instalaciones y máquinas y montadores","Atacama",3,2014,705476.59065955
+"1341","Mujer","Operadores de instalaciones y máquinas y montadores","Atacama",3,2015,246402.417363933
+"1342","Mujer","Operadores de instalaciones y máquinas y montadores","Aysén",11,2012,383976.169044621
+"1343","Mujer","Operadores de instalaciones y máquinas y montadores","Aysén",11,2013,336768.073438679
+"1344","Mujer","Operadores de instalaciones y máquinas y montadores","Aysén",11,2014,235505.637899097
+"1345","Mujer","Operadores de instalaciones y máquinas y montadores","Aysén",11,2015,237360.718206151
+"1346","Mujer","Operadores de instalaciones y máquinas y montadores","Bíobío",8,2012,190627.533154
+"1347","Mujer","Operadores de instalaciones y máquinas y montadores","Bíobío",8,2013,218880.991557111
+"1348","Mujer","Operadores de instalaciones y máquinas y montadores","Bíobío",8,2014,250045.916707374
+"1349","Mujer","Operadores de instalaciones y máquinas y montadores","Bíobío",8,2015,276290.096360025
+"1350","Mujer","Operadores de instalaciones y máquinas y montadores","Coquimbo",4,2012,174171.662439659
+"1351","Mujer","Operadores de instalaciones y máquinas y montadores","Coquimbo",4,2013,423607.238224744
+"1352","Mujer","Operadores de instalaciones y máquinas y montadores","Coquimbo",4,2014,358929.712524009
+"1353","Mujer","Operadores de instalaciones y máquinas y montadores","Coquimbo",4,2015,182492.916999073
+"1354","Mujer","Operadores de instalaciones y máquinas y montadores","Los Lagos",10,2012,233228.102305784
+"1355","Mujer","Operadores de instalaciones y máquinas y montadores","Los Lagos",10,2013,243812.97234664
+"1356","Mujer","Operadores de instalaciones y máquinas y montadores","Los Lagos",10,2014,350850.263244802
+"1357","Mujer","Operadores de instalaciones y máquinas y montadores","Los Lagos",10,2015,301539.512959485
+"1358","Mujer","Operadores de instalaciones y máquinas y montadores","Los Ríos",14,2012,230792.061093099
+"1359","Mujer","Operadores de instalaciones y máquinas y montadores","Los Ríos",14,2013,107727.804627587
+"1360","Mujer","Operadores de instalaciones y máquinas y montadores","Los Ríos",14,2014,252826.455369467
+"1361","Mujer","Operadores de instalaciones y máquinas y montadores","Los Ríos",14,2015,221843.827076426
+"1362","Mujer","Operadores de instalaciones y máquinas y montadores","Magallanes",12,2012,275246.841960287
+"1363","Mujer","Operadores de instalaciones y máquinas y montadores","Magallanes",12,2013,252453.015098842
+"1364","Mujer","Operadores de instalaciones y máquinas y montadores","Magallanes",12,2014,50521.1294296
+"1365","Mujer","Operadores de instalaciones y máquinas y montadores","Magallanes",12,2015,398063.302120359
+"1366","Mujer","Operadores de instalaciones y máquinas y montadores","Maule",7,2012,155392.830494184
+"1367","Mujer","Operadores de instalaciones y máquinas y montadores","Maule",7,2013,219150.649210432
+"1368","Mujer","Operadores de instalaciones y máquinas y montadores","Maule",7,2014,260494.861065809
+"1369","Mujer","Operadores de instalaciones y máquinas y montadores","Maule",7,2015,313957.671601302
+"1370","Mujer","Operadores de instalaciones y máquinas y montadores","Metropolitana",13,2012,365095.737803366
+"1371","Mujer","Operadores de instalaciones y máquinas y montadores","Metropolitana",13,2013,311150.73968541
+"1372","Mujer","Operadores de instalaciones y máquinas y montadores","Metropolitana",13,2014,330739.506652765
+"1373","Mujer","Operadores de instalaciones y máquinas y montadores","Metropolitana",13,2015,316563.250136688
+"1374","Mujer","Operadores de instalaciones y máquinas y montadores","O'Higgins",6,2012,205983.327568238
+"1375","Mujer","Operadores de instalaciones y máquinas y montadores","O'Higgins",6,2013,308952.983554694
+"1376","Mujer","Operadores de instalaciones y máquinas y montadores","O'Higgins",6,2014,393760.819372378
+"1377","Mujer","Operadores de instalaciones y máquinas y montadores","O'Higgins",6,2015,221523.427481799
+"1378","Mujer","Operadores de instalaciones y máquinas y montadores","Tarapacá",1,2012,293513.716869501
+"1379","Mujer","Operadores de instalaciones y máquinas y montadores","Tarapacá",1,2013,241353.422293845
+"1380","Mujer","Operadores de instalaciones y máquinas y montadores","Tarapacá",1,2014,453273.417387574
+"1381","Mujer","Operadores de instalaciones y máquinas y montadores","Tarapacá",1,2015,433313.900337108
+"1382","Mujer","Operadores de instalaciones y máquinas y montadores","Valparaíso",5,2012,263336.149618697
+"1383","Mujer","Operadores de instalaciones y máquinas y montadores","Valparaíso",5,2013,327466.973860567
+"1384","Mujer","Operadores de instalaciones y máquinas y montadores","Valparaíso",5,2014,236868.946532869
+"1385","Mujer","Operadores de instalaciones y máquinas y montadores","Valparaíso",5,2015,216292.115461184
+"1386","Mujer","Otros no identificados","Antofagasta",2,2013,828651.929989781
+"1387","Mujer","Otros no identificados","Antofagasta",2,2014,1172391.99678669
+"1388","Mujer","Otros no identificados","Antofagasta",2,2015,2138000
+"1389","Mujer","Otros no identificados","Araucanía",9,2012,865839.753040912
+"1390","Mujer","Otros no identificados","Araucanía",9,2013,796693.373307436
+"1391","Mujer","Otros no identificados","Araucanía",9,2014,662106.036525749
+"1392","Mujer","Otros no identificados","Araucanía",9,2015,836678.303427967
+"1393","Mujer","Otros no identificados","Arica y Parinacota",15,2012,348420.798009583
+"1394","Mujer","Otros no identificados","Arica y Parinacota",15,2013,537705.558065975
+"1395","Mujer","Otros no identificados","Arica y Parinacota",15,2014,730095.630976936
+"1396","Mujer","Otros no identificados","Arica y Parinacota",15,2015,773379.96066232
+"1397","Mujer","Otros no identificados","Atacama",3,2012,539838.252346065
+"1398","Mujer","Otros no identificados","Atacama",3,2013,636061.85704493
+"1399","Mujer","Otros no identificados","Atacama",3,2014,599887.492968311
+"1400","Mujer","Otros no identificados","Atacama",3,2015,759227.531156573
+"1401","Mujer","Otros no identificados","Aysén",11,2012,853833.762886598
+"1402","Mujer","Otros no identificados","Aysén",11,2013,1110962.1451712
+"1403","Mujer","Otros no identificados","Aysén",11,2014,714499.356914506
+"1404","Mujer","Otros no identificados","Bíobío",8,2012,585438.956595765
+"1405","Mujer","Otros no identificados","Bíobío",8,2013,612647.097336582
+"1406","Mujer","Otros no identificados","Bíobío",8,2014,491446.649530763
+"1407","Mujer","Otros no identificados","Bíobío",8,2015,620233.549167657
+"1408","Mujer","Otros no identificados","Coquimbo",4,2012,400000
+"1409","Mujer","Otros no identificados","Los Lagos",10,2012,203320.12785445
+"1410","Mujer","Otros no identificados","Los Lagos",10,2013,571503.353051219
+"1411","Mujer","Otros no identificados","Los Lagos",10,2014,350000
+"1412","Mujer","Otros no identificados","Los Lagos",10,2015,651022.975934553
+"1413","Mujer","Otros no identificados","Los Ríos",14,2015,638591.452372332
+"1414","Mujer","Otros no identificados","Magallanes",12,2012,1312071.9808542
+"1415","Mujer","Otros no identificados","Magallanes",12,2013,1017545.40550261
+"1416","Mujer","Otros no identificados","Magallanes",12,2014,1500000
+"1417","Mujer","Otros no identificados","Magallanes",12,2015,1262416.10738255
+"1418","Mujer","Otros no identificados","Maule",7,2012,359594.875162392
+"1419","Mujer","Otros no identificados","Maule",7,2013,398489.480309297
+"1420","Mujer","Otros no identificados","Maule",7,2014,472262.27313147
+"1421","Mujer","Otros no identificados","Metropolitana",13,2012,501401.904858373
+"1422","Mujer","Otros no identificados","Metropolitana",13,2013,477894.984286231
+"1423","Mujer","Otros no identificados","Metropolitana",13,2014,715282.228805278
+"1424","Mujer","Otros no identificados","Metropolitana",13,2015,683993.088277562
+"1425","Mujer","Otros no identificados","O'Higgins",6,2012,447726.061897498
+"1426","Mujer","Otros no identificados","O'Higgins",6,2014,596700
+"1427","Mujer","Otros no identificados","Tarapacá",1,2012,719579.402378389
+"1428","Mujer","Otros no identificados","Tarapacá",1,2013,692896.874966067
+"1429","Mujer","Otros no identificados","Tarapacá",1,2014,607203.713596056
+"1430","Mujer","Otros no identificados","Valparaíso",5,2012,429364.915732276
+"1431","Mujer","Otros no identificados","Valparaíso",5,2013,861883.110798507
+"1432","Mujer","Otros no identificados","Valparaíso",5,2014,642304.06473043
+"1433","Mujer","Otros no identificados","Valparaíso",5,2015,697830.478274156
+"1434","Mujer","Otros No identificados","Araucanía",9,2011,569642.819651917
+"1435","Mujer","Otros No identificados","Arica y Parinacota",15,2010,744490.473864191
+"1436","Mujer","Otros No identificados","Arica y Parinacota",15,2011,351691.622441243
+"1437","Mujer","Otros No identificados","Atacama",3,2010,545303.856457206
+"1438","Mujer","Otros No identificados","Atacama",3,2011,389372.867702805
+"1439","Mujer","Otros No identificados","Aysén",11,2010,599696.669748701
+"1440","Mujer","Otros No identificados","Aysén",11,2011,797442.88803234
+"1441","Mujer","Otros No identificados","Bíobío",8,2010,363096.131141459
+"1442","Mujer","Otros No identificados","Bíobío",8,2011,567808.492134728
+"1443","Mujer","Otros No identificados","Coquimbo",4,2010,599589.643380557
+"1444","Mujer","Otros No identificados","Coquimbo",4,2011,498401.805020212
+"1445","Mujer","Otros No identificados","Los Lagos",10,2010,452000
+"1446","Mujer","Otros No identificados","Los Lagos",10,2011,488150.438500385
+"1447","Mujer","Otros No identificados","Los Ríos",14,2010,506284.52366392
+"1448","Mujer","Otros No identificados","Maule",7,2010,250000
+"1449","Mujer","Otros No identificados","Maule",7,2011,404000
+"1450","Mujer","Otros No identificados","Metropolitana",13,2010,512212.680771372
+"1451","Mujer","Otros No identificados","Metropolitana",13,2011,560310.80411442
+"1452","Mujer","Otros No identificados","O'Higgins",6,2010,375366.9994128
+"1453","Mujer","Otros No identificados","O'Higgins",6,2011,464232.941622441
+"1454","Mujer","Otros No identificados","Tarapacá",1,2010,537829.610124865
+"1455","Mujer","Otros No identificados","Tarapacá",1,2011,1507249.81046247
+"1456","Mujer","Otros No identificados","Valparaíso",5,2010,816231.250821448
+"1457","Mujer","Otros No identificados","Valparaíso",5,2011,405255.465202472
+"1458","Mujer","Profesionales científicos e intelectuales","Antofagasta",2,2010,666285.561629716
+"1459","Mujer","Profesionales científicos e intelectuales","Antofagasta",2,2011,686677.905670558
+"1460","Mujer","Profesionales científicos e intelectuales","Antofagasta",2,2012,844622.934524829
+"1461","Mujer","Profesionales científicos e intelectuales","Antofagasta",2,2013,774956.648456845
+"1462","Mujer","Profesionales científicos e intelectuales","Antofagasta",2,2014,804926.778234305
+"1463","Mujer","Profesionales científicos e intelectuales","Antofagasta",2,2015,875935.052755699
+"1464","Mujer","Profesionales científicos e intelectuales","Araucanía",9,2010,549434.745442728
+"1465","Mujer","Profesionales científicos e intelectuales","Araucanía",9,2011,504183.390752179
+"1466","Mujer","Profesionales científicos e intelectuales","Araucanía",9,2012,601579.498845021
+"1467","Mujer","Profesionales científicos e intelectuales","Araucanía",9,2013,666619.301526913
+"1468","Mujer","Profesionales científicos e intelectuales","Araucanía",9,2014,726553.20336888
+"1469","Mujer","Profesionales científicos e intelectuales","Araucanía",9,2015,869763.371914441
+"1470","Mujer","Profesionales científicos e intelectuales","Arica y Parinacota",15,2010,591840.18621834
+"1471","Mujer","Profesionales científicos e intelectuales","Arica y Parinacota",15,2011,589249.514862892
+"1472","Mujer","Profesionales científicos e intelectuales","Arica y Parinacota",15,2012,702713.97698274
+"1473","Mujer","Profesionales científicos e intelectuales","Arica y Parinacota",15,2013,705544.497091106
+"1474","Mujer","Profesionales científicos e intelectuales","Arica y Parinacota",15,2014,697615.367276708
+"1475","Mujer","Profesionales científicos e intelectuales","Arica y Parinacota",15,2015,874230.871145828
+"1476","Mujer","Profesionales científicos e intelectuales","Atacama",3,2010,698883.766718844
+"1477","Mujer","Profesionales científicos e intelectuales","Atacama",3,2011,604860.558240207
+"1478","Mujer","Profesionales científicos e intelectuales","Atacama",3,2012,628487.631269577
+"1479","Mujer","Profesionales científicos e intelectuales","Atacama",3,2013,828147.789361501
+"1480","Mujer","Profesionales científicos e intelectuales","Atacama",3,2014,1026209.71318411
+"1481","Mujer","Profesionales científicos e intelectuales","Atacama",3,2015,868525.07025179
+"1482","Mujer","Profesionales científicos e intelectuales","Aysén",11,2010,813228.165321406
+"1483","Mujer","Profesionales científicos e intelectuales","Aysén",11,2011,887351.366542588
+"1484","Mujer","Profesionales científicos e intelectuales","Aysén",11,2012,879257.154547213
+"1485","Mujer","Profesionales científicos e intelectuales","Aysén",11,2013,846938.979461333
+"1486","Mujer","Profesionales científicos e intelectuales","Aysén",11,2014,948723.451365793
+"1487","Mujer","Profesionales científicos e intelectuales","Aysén",11,2015,1140716.36694695
+"1488","Mujer","Profesionales científicos e intelectuales","Bíobío",8,2010,570664.614464626
+"1489","Mujer","Profesionales científicos e intelectuales","Bíobío",8,2011,595099.986352065
+"1490","Mujer","Profesionales científicos e intelectuales","Bíobío",8,2012,737510.236464597
+"1491","Mujer","Profesionales científicos e intelectuales","Bíobío",8,2013,645007.316517925
+"1492","Mujer","Profesionales científicos e intelectuales","Bíobío",8,2014,664552.359654719
+"1493","Mujer","Profesionales científicos e intelectuales","Bíobío",8,2015,815555.48853408
+"1494","Mujer","Profesionales científicos e intelectuales","Coquimbo",4,2010,591231.562851808
+"1495","Mujer","Profesionales científicos e intelectuales","Coquimbo",4,2011,704784.859186819
+"1496","Mujer","Profesionales científicos e intelectuales","Coquimbo",4,2012,824844.207850283
+"1497","Mujer","Profesionales científicos e intelectuales","Coquimbo",4,2013,714400.741060744
+"1498","Mujer","Profesionales científicos e intelectuales","Coquimbo",4,2014,804408.837048013
+"1499","Mujer","Profesionales científicos e intelectuales","Coquimbo",4,2015,729616.791386804
+"1500","Mujer","Profesionales científicos e intelectuales","Los Lagos",10,2010,568923.435365539
+"1501","Mujer","Profesionales científicos e intelectuales","Los Lagos",10,2011,668113.141780429
+"1502","Mujer","Profesionales científicos e intelectuales","Los Lagos",10,2012,686136.944659808
+"1503","Mujer","Profesionales científicos e intelectuales","Los Lagos",10,2013,751725.93348036
+"1504","Mujer","Profesionales científicos e intelectuales","Los Lagos",10,2014,766643.172818133
+"1505","Mujer","Profesionales científicos e intelectuales","Los Lagos",10,2015,929129.024093784
+"1506","Mujer","Profesionales científicos e intelectuales","Los Ríos",14,2010,577689.350894316
+"1507","Mujer","Profesionales científicos e intelectuales","Los Ríos",14,2011,582651.047703211
+"1508","Mujer","Profesionales científicos e intelectuales","Los Ríos",14,2012,718213.871928923
+"1509","Mujer","Profesionales científicos e intelectuales","Los Ríos",14,2013,860686.561254539
+"1510","Mujer","Profesionales científicos e intelectuales","Los Ríos",14,2014,795634.401793874
+"1511","Mujer","Profesionales científicos e intelectuales","Los Ríos",14,2015,748071.790660614
+"1512","Mujer","Profesionales científicos e intelectuales","Magallanes",12,2010,755607.596883194
+"1513","Mujer","Profesionales científicos e intelectuales","Magallanes",12,2011,815070.006160463
+"1514","Mujer","Profesionales científicos e intelectuales","Magallanes",12,2012,951451.034230315
+"1515","Mujer","Profesionales científicos e intelectuales","Magallanes",12,2013,923222.883364848
+"1516","Mujer","Profesionales científicos e intelectuales","Magallanes",12,2014,1057909.7297958
+"1517","Mujer","Profesionales científicos e intelectuales","Magallanes",12,2015,1119518.15551208
+"1518","Mujer","Profesionales científicos e intelectuales","Maule",7,2010,457344.337246918
+"1519","Mujer","Profesionales científicos e intelectuales","Maule",7,2011,645681.000181054
+"1520","Mujer","Profesionales científicos e intelectuales","Maule",7,2012,636190.132972307
+"1521","Mujer","Profesionales científicos e intelectuales","Maule",7,2013,672471.447571938
+"1522","Mujer","Profesionales científicos e intelectuales","Maule",7,2014,721581.608779974
+"1523","Mujer","Profesionales científicos e intelectuales","Maule",7,2015,814983.173164019
+"1524","Mujer","Profesionales científicos e intelectuales","Metropolitana",13,2010,769916.688002011
+"1525","Mujer","Profesionales científicos e intelectuales","Metropolitana",13,2011,785058.212903575
+"1526","Mujer","Profesionales científicos e intelectuales","Metropolitana",13,2012,847003.085334782
+"1527","Mujer","Profesionales científicos e intelectuales","Metropolitana",13,2013,830357.434308903
+"1528","Mujer","Profesionales científicos e intelectuales","Metropolitana",13,2014,946729.15397646
+"1529","Mujer","Profesionales científicos e intelectuales","Metropolitana",13,2015,1001108.13862693
+"1530","Mujer","Profesionales científicos e intelectuales","O'Higgins",6,2010,505263.334568667
+"1531","Mujer","Profesionales científicos e intelectuales","O'Higgins",6,2011,604075.209511086
+"1532","Mujer","Profesionales científicos e intelectuales","O'Higgins",6,2012,576892.224404706
+"1533","Mujer","Profesionales científicos e intelectuales","O'Higgins",6,2013,704531.659467825
+"1534","Mujer","Profesionales científicos e intelectuales","O'Higgins",6,2014,695078.492851774
+"1535","Mujer","Profesionales científicos e intelectuales","O'Higgins",6,2015,822640.681621148
+"1536","Mujer","Profesionales científicos e intelectuales","Tarapacá",1,2010,586401.906049712
+"1537","Mujer","Profesionales científicos e intelectuales","Tarapacá",1,2011,743412.695350131
+"1538","Mujer","Profesionales científicos e intelectuales","Tarapacá",1,2012,727366.558762297
+"1539","Mujer","Profesionales científicos e intelectuales","Tarapacá",1,2013,794044.580614832
+"1540","Mujer","Profesionales científicos e intelectuales","Tarapacá",1,2014,784440.958766872
+"1541","Mujer","Profesionales científicos e intelectuales","Tarapacá",1,2015,994696.956430467
+"1542","Mujer","Profesionales científicos e intelectuales","Valparaíso",5,2010,546859.945403457
+"1543","Mujer","Profesionales científicos e intelectuales","Valparaíso",5,2011,557949.285661525
+"1544","Mujer","Profesionales científicos e intelectuales","Valparaíso",5,2012,597127.351288185
+"1545","Mujer","Profesionales científicos e intelectuales","Valparaíso",5,2013,780825.4241503
+"1546","Mujer","Profesionales científicos e intelectuales","Valparaíso",5,2014,854130.998119045
+"1547","Mujer","Profesionales científicos e intelectuales","Valparaíso",5,2015,816825.813607875
+"1548","Mujer","Profesionales científicos e intelectuales",NA,NA,2010,640046.830948612
+"1549","Mujer","Profesionales científicos e intelectuales",NA,NA,2011,579721.043988883
+"1550","Mujer","Profesionales científicos e intelectuales",NA,NA,2012,633117.777630195
+"1551","Mujer","Técnicos y profesionales de nivel medio","Antofagasta",2,2010,457367.229484983
+"1552","Mujer","Técnicos y profesionales de nivel medio","Antofagasta",2,2011,516333.826230868
+"1553","Mujer","Técnicos y profesionales de nivel medio","Antofagasta",2,2012,592017.591667238
+"1554","Mujer","Técnicos y profesionales de nivel medio","Antofagasta",2,2013,501933.584824204
+"1555","Mujer","Técnicos y profesionales de nivel medio","Antofagasta",2,2014,493861.440253988
+"1556","Mujer","Técnicos y profesionales de nivel medio","Antofagasta",2,2015,612164.542971468
+"1557","Mujer","Técnicos y profesionales de nivel medio","Araucanía",9,2010,334692.352634421
+"1558","Mujer","Técnicos y profesionales de nivel medio","Araucanía",9,2011,440625.250556043
+"1559","Mujer","Técnicos y profesionales de nivel medio","Araucanía",9,2012,450751.799763546
+"1560","Mujer","Técnicos y profesionales de nivel medio","Araucanía",9,2013,462129.875156943
+"1561","Mujer","Técnicos y profesionales de nivel medio","Araucanía",9,2014,505637.711169453
+"1562","Mujer","Técnicos y profesionales de nivel medio","Araucanía",9,2015,437959.628906948
+"1563","Mujer","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2010,361190.736541099
+"1564","Mujer","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2011,346381.777491836
+"1565","Mujer","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2012,338689.439562927
+"1566","Mujer","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2013,498835.210489825
+"1567","Mujer","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2014,465133.438183339
+"1568","Mujer","Técnicos y profesionales de nivel medio","Arica y Parinacota",15,2015,515294.594394489
+"1569","Mujer","Técnicos y profesionales de nivel medio","Atacama",3,2010,467078.745184456
+"1570","Mujer","Técnicos y profesionales de nivel medio","Atacama",3,2011,943662.690501023
+"1571","Mujer","Técnicos y profesionales de nivel medio","Atacama",3,2012,493489.384380116
+"1572","Mujer","Técnicos y profesionales de nivel medio","Atacama",3,2013,599366.084255783
+"1573","Mujer","Técnicos y profesionales de nivel medio","Atacama",3,2014,493435.531226594
+"1574","Mujer","Técnicos y profesionales de nivel medio","Atacama",3,2015,694894.34048016
+"1575","Mujer","Técnicos y profesionales de nivel medio","Aysén",11,2010,486980.605733483
+"1576","Mujer","Técnicos y profesionales de nivel medio","Aysén",11,2011,537404.362011695
+"1577","Mujer","Técnicos y profesionales de nivel medio","Aysén",11,2012,523968.711784029
+"1578","Mujer","Técnicos y profesionales de nivel medio","Aysén",11,2013,472403.433928218
+"1579","Mujer","Técnicos y profesionales de nivel medio","Aysén",11,2014,645778.763497965
+"1580","Mujer","Técnicos y profesionales de nivel medio","Aysén",11,2015,604759.355133593
+"1581","Mujer","Técnicos y profesionales de nivel medio","Bíobío",8,2010,451787.764386818
+"1582","Mujer","Técnicos y profesionales de nivel medio","Bíobío",8,2011,381233.737484299
+"1583","Mujer","Técnicos y profesionales de nivel medio","Bíobío",8,2012,452552.416512243
+"1584","Mujer","Técnicos y profesionales de nivel medio","Bíobío",8,2013,415884.596924296
+"1585","Mujer","Técnicos y profesionales de nivel medio","Bíobío",8,2014,427792.081450821
+"1586","Mujer","Técnicos y profesionales de nivel medio","Bíobío",8,2015,461969.978625952
+"1587","Mujer","Técnicos y profesionales de nivel medio","Coquimbo",4,2010,375536.777398837
+"1588","Mujer","Técnicos y profesionales de nivel medio","Coquimbo",4,2011,371202.477268284
+"1589","Mujer","Técnicos y profesionales de nivel medio","Coquimbo",4,2012,478005.422159912
+"1590","Mujer","Técnicos y profesionales de nivel medio","Coquimbo",4,2013,453700.355584129
+"1591","Mujer","Técnicos y profesionales de nivel medio","Coquimbo",4,2014,390734.789066634
+"1592","Mujer","Técnicos y profesionales de nivel medio","Coquimbo",4,2015,505119.810307363
+"1593","Mujer","Técnicos y profesionales de nivel medio","Los Lagos",10,2010,334077.602336363
+"1594","Mujer","Técnicos y profesionales de nivel medio","Los Lagos",10,2011,450032.013833246
+"1595","Mujer","Técnicos y profesionales de nivel medio","Los Lagos",10,2012,354772.770560553
+"1596","Mujer","Técnicos y profesionales de nivel medio","Los Lagos",10,2013,403746.926277634
+"1597","Mujer","Técnicos y profesionales de nivel medio","Los Lagos",10,2014,569199.129020931
+"1598","Mujer","Técnicos y profesionales de nivel medio","Los Lagos",10,2015,482645.311218072
+"1599","Mujer","Técnicos y profesionales de nivel medio","Los Ríos",14,2010,321490.82158157
+"1600","Mujer","Técnicos y profesionales de nivel medio","Los Ríos",14,2011,780833.574934498
+"1601","Mujer","Técnicos y profesionales de nivel medio","Los Ríos",14,2012,421112.458717439
+"1602","Mujer","Técnicos y profesionales de nivel medio","Los Ríos",14,2013,435486.616412911
+"1603","Mujer","Técnicos y profesionales de nivel medio","Los Ríos",14,2014,475726.681072724
+"1604","Mujer","Técnicos y profesionales de nivel medio","Los Ríos",14,2015,568018.520805885
+"1605","Mujer","Técnicos y profesionales de nivel medio","Magallanes",12,2010,479685.552926023
+"1606","Mujer","Técnicos y profesionales de nivel medio","Magallanes",12,2011,555409.453845425
+"1607","Mujer","Técnicos y profesionales de nivel medio","Magallanes",12,2012,671270.596517965
+"1608","Mujer","Técnicos y profesionales de nivel medio","Magallanes",12,2013,777697.250047076
+"1609","Mujer","Técnicos y profesionales de nivel medio","Magallanes",12,2014,586934.366037164
+"1610","Mujer","Técnicos y profesionales de nivel medio","Magallanes",12,2015,679883.025546145
+"1611","Mujer","Técnicos y profesionales de nivel medio","Maule",7,2010,348907.973670318
+"1612","Mujer","Técnicos y profesionales de nivel medio","Maule",7,2011,332587.078447964
+"1613","Mujer","Técnicos y profesionales de nivel medio","Maule",7,2012,372009.246660369
+"1614","Mujer","Técnicos y profesionales de nivel medio","Maule",7,2013,437289.409111334
+"1615","Mujer","Técnicos y profesionales de nivel medio","Maule",7,2014,433822.890965048
+"1616","Mujer","Técnicos y profesionales de nivel medio","Maule",7,2015,486705.715299727
+"1617","Mujer","Técnicos y profesionales de nivel medio","Metropolitana",13,2010,462996.769360587
+"1618","Mujer","Técnicos y profesionales de nivel medio","Metropolitana",13,2011,506374.67909792
+"1619","Mujer","Técnicos y profesionales de nivel medio","Metropolitana",13,2012,532688.775693257
+"1620","Mujer","Técnicos y profesionales de nivel medio","Metropolitana",13,2013,559978.05546485
+"1621","Mujer","Técnicos y profesionales de nivel medio","Metropolitana",13,2014,577704.106458133
+"1622","Mujer","Técnicos y profesionales de nivel medio","Metropolitana",13,2015,623551.993588835
+"1623","Mujer","Técnicos y profesionales de nivel medio","O'Higgins",6,2010,405951.64894158
+"1624","Mujer","Técnicos y profesionales de nivel medio","O'Higgins",6,2011,456253.38206344
+"1625","Mujer","Técnicos y profesionales de nivel medio","O'Higgins",6,2012,425700.48927015
+"1626","Mujer","Técnicos y profesionales de nivel medio","O'Higgins",6,2013,447258.63047173
+"1627","Mujer","Técnicos y profesionales de nivel medio","O'Higgins",6,2014,480564.350321599
+"1628","Mujer","Técnicos y profesionales de nivel medio","O'Higgins",6,2015,381590.275980219
+"1629","Mujer","Técnicos y profesionales de nivel medio","Tarapacá",1,2010,424975.603166986
+"1630","Mujer","Técnicos y profesionales de nivel medio","Tarapacá",1,2011,503513.499761081
+"1631","Mujer","Técnicos y profesionales de nivel medio","Tarapacá",1,2012,554182.602547295
+"1632","Mujer","Técnicos y profesionales de nivel medio","Tarapacá",1,2013,621833.315756819
+"1633","Mujer","Técnicos y profesionales de nivel medio","Tarapacá",1,2014,570943.543079177
+"1634","Mujer","Técnicos y profesionales de nivel medio","Tarapacá",1,2015,741333.719332143
+"1635","Mujer","Técnicos y profesionales de nivel medio","Valparaíso",5,2010,370919.72910191
+"1636","Mujer","Técnicos y profesionales de nivel medio","Valparaíso",5,2011,429414.969095876
+"1637","Mujer","Técnicos y profesionales de nivel medio","Valparaíso",5,2012,494850.110467801
+"1638","Mujer","Técnicos y profesionales de nivel medio","Valparaíso",5,2013,473322.056010439
+"1639","Mujer","Técnicos y profesionales de nivel medio","Valparaíso",5,2014,545982.872316249
+"1640","Mujer","Técnicos y profesionales de nivel medio","Valparaíso",5,2015,472731.013542619
+"1641","Mujer","Técnicos y profesionales de nivel medio",NA,NA,2010,182803.807855961
+"1642","Mujer","Técnicos y profesionales de nivel medio",NA,NA,2012,182283.245073794
+"1643","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2010,228157.306823857
+"1644","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2011,307204.929695031
+"1645","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2012,323126.90448836
+"1646","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2013,293499.140737155
+"1647","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2014,303815.713993305
+"1648","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Antofagasta",2,2015,363476.996945201
+"1649","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2010,151076.630595468
+"1650","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2011,168580.086618006
+"1651","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2012,208432.98043522
+"1652","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2013,245897.000971876
+"1653","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2014,234350.735633502
+"1654","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Araucanía",9,2015,215052.600876541
+"1655","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2010,188208.008536753
+"1656","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2011,173310.141393202
+"1657","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2012,169846.772366358
+"1658","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2013,213192.524295745
+"1659","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2014,229182.915717613
+"1660","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Arica y Parinacota",15,2015,261732.064549698
+"1661","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2010,172040.225312869
+"1662","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2011,193355.563642784
+"1663","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2012,240347.209391793
+"1664","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2013,271985.690955173
+"1665","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2014,261163.675509266
+"1666","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Atacama",3,2015,295568.02890347
+"1667","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2010,250844.629416642
+"1668","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2011,297898.457927171
+"1669","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2012,269292.279042544
+"1670","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2013,276522.824158566
+"1671","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2014,292155.003750079
+"1672","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Aysén",11,2015,325671.472647168
+"1673","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2010,168768.273981797
+"1674","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2011,172031.799118601
+"1675","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2012,195622.856895442
+"1676","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2013,215951.332937539
+"1677","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2014,214951.22932244
+"1678","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Bíobío",8,2015,243514.857290929
+"1679","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2010,195581.073889795
+"1680","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2011,213440.981847552
+"1681","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2012,206899.275936958
+"1682","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2013,238313.378806896
+"1683","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2014,244536.417552704
+"1684","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Coquimbo",4,2015,253437.562895105
+"1685","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2010,204847.152876354
+"1686","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2011,247204.726846952
+"1687","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2012,250969.371974152
+"1688","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2013,203526.057902141
+"1689","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2014,237361.543062278
+"1690","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Lagos",10,2015,287972.965881926
+"1691","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2010,181814.674062796
+"1692","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2011,178252.42529164
+"1693","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2012,262789.407587344
+"1694","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2013,218418.069387964
+"1695","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2014,256325.070775436
+"1696","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Los Ríos",14,2015,250568.982761175
+"1697","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2010,242789.132578353
+"1698","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2011,246245.327819528
+"1699","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2012,285103.283971021
+"1700","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2013,282584.420290609
+"1701","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2014,321601.675579848
+"1702","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Magallanes",12,2015,352027.018876152
+"1703","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2010,188158.42140415
+"1704","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2011,195447.533924069
+"1705","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2012,213812.396003808
+"1706","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2013,245462.2335875
+"1707","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2014,250540.018730723
+"1708","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Maule",7,2015,224250.932602175
+"1709","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2010,243994.54808435
+"1710","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2011,225397.106874769
+"1711","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2012,274013.361601769
+"1712","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2013,269367.67124354
+"1713","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2014,264325.99773598
+"1714","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Metropolitana",13,2015,287156.973130803
+"1715","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2010,186583.743019597
+"1716","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2011,204935.183808809
+"1717","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2012,247133.980487229
+"1718","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2013,222569.474828381
+"1719","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2014,236253.6864255
+"1720","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","O'Higgins",6,2015,246468.103760373
+"1721","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2010,258980.830007987
+"1722","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2011,241222.553119117
+"1723","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2012,224716.925258507
+"1724","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2013,263638.503750031
+"1725","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2014,308569.24811792
+"1726","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Tarapacá",1,2015,284772.441771266
+"1727","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2010,181317.487367591
+"1728","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2011,193313.659315001
+"1729","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2012,221031.343234421
+"1730","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2013,225150.531255361
+"1731","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2014,259111.422032505
+"1732","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados","Valparaíso",5,2015,287663.850612837
+"1733","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados",NA,NA,2010,97257.8887372295
+"1734","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados",NA,NA,2011,173071.069392786
+"1735","Mujer","Trabajadores de los servicios y vendedores de comercios y mercados",NA,NA,2012,150885.338216686
+"1736","Mujer","Trabajadores no calificados","Antofagasta",2,2010,147640.515695411
+"1737","Mujer","Trabajadores no calificados","Antofagasta",2,2011,200205.26372061
+"1738","Mujer","Trabajadores no calificados","Antofagasta",2,2012,215806.045573846
+"1739","Mujer","Trabajadores no calificados","Antofagasta",2,2013,205462.585039099
+"1740","Mujer","Trabajadores no calificados","Antofagasta",2,2014,193675.806912693
+"1741","Mujer","Trabajadores no calificados","Antofagasta",2,2015,230990.367085259
+"1742","Mujer","Trabajadores no calificados","Araucanía",9,2010,104259.529914387
+"1743","Mujer","Trabajadores no calificados","Araucanía",9,2011,94303.246547084
+"1744","Mujer","Trabajadores no calificados","Araucanía",9,2012,111088.968710744
+"1745","Mujer","Trabajadores no calificados","Araucanía",9,2013,136298.681644841
+"1746","Mujer","Trabajadores no calificados","Araucanía",9,2014,157632.825362911
+"1747","Mujer","Trabajadores no calificados","Araucanía",9,2015,146098.32237206
+"1748","Mujer","Trabajadores no calificados","Arica y Parinacota",15,2010,134921.401453967
+"1749","Mujer","Trabajadores no calificados","Arica y Parinacota",15,2011,133423.362219639
+"1750","Mujer","Trabajadores no calificados","Arica y Parinacota",15,2012,163000.0521867
+"1751","Mujer","Trabajadores no calificados","Arica y Parinacota",15,2013,152599.715655952
+"1752","Mujer","Trabajadores no calificados","Arica y Parinacota",15,2014,180319.561313451
+"1753","Mujer","Trabajadores no calificados","Arica y Parinacota",15,2015,189481.516787529
+"1754","Mujer","Trabajadores no calificados","Atacama",3,2010,145520.234194972
+"1755","Mujer","Trabajadores no calificados","Atacama",3,2011,165758.235272422
+"1756","Mujer","Trabajadores no calificados","Atacama",3,2012,172629.382768171
+"1757","Mujer","Trabajadores no calificados","Atacama",3,2013,192673.087002693
+"1758","Mujer","Trabajadores no calificados","Atacama",3,2014,194053.129466068
+"1759","Mujer","Trabajadores no calificados","Atacama",3,2015,252474.41598598
+"1760","Mujer","Trabajadores no calificados","Aysén",11,2010,143678.914929188
+"1761","Mujer","Trabajadores no calificados","Aysén",11,2011,146118.72581886
+"1762","Mujer","Trabajadores no calificados","Aysén",11,2012,153179.266150589
+"1763","Mujer","Trabajadores no calificados","Aysén",11,2013,187779.472378339
+"1764","Mujer","Trabajadores no calificados","Aysén",11,2014,190118.009803493
+"1765","Mujer","Trabajadores no calificados","Aysén",11,2015,215640.541255116
+"1766","Mujer","Trabajadores no calificados","Bíobío",8,2010,115318.332410252
+"1767","Mujer","Trabajadores no calificados","Bíobío",8,2011,118253.514504532
+"1768","Mujer","Trabajadores no calificados","Bíobío",8,2012,139218.663744633
+"1769","Mujer","Trabajadores no calificados","Bíobío",8,2013,143570.775187262
+"1770","Mujer","Trabajadores no calificados","Bíobío",8,2014,163820.929173817
+"1771","Mujer","Trabajadores no calificados","Bíobío",8,2015,180881.380575665
+"1772","Mujer","Trabajadores no calificados","Coquimbo",4,2010,120711.933734913
+"1773","Mujer","Trabajadores no calificados","Coquimbo",4,2011,136989.292099803
+"1774","Mujer","Trabajadores no calificados","Coquimbo",4,2012,159761.515207695
+"1775","Mujer","Trabajadores no calificados","Coquimbo",4,2013,179032.971313037
+"1776","Mujer","Trabajadores no calificados","Coquimbo",4,2014,196109.236648445
+"1777","Mujer","Trabajadores no calificados","Coquimbo",4,2015,190386.119696783
+"1778","Mujer","Trabajadores no calificados","Los Lagos",10,2010,127825.117919345
+"1779","Mujer","Trabajadores no calificados","Los Lagos",10,2011,153047.471051827
+"1780","Mujer","Trabajadores no calificados","Los Lagos",10,2012,137540.962936767
+"1781","Mujer","Trabajadores no calificados","Los Lagos",10,2013,151476.693658766
+"1782","Mujer","Trabajadores no calificados","Los Lagos",10,2014,160185.236423577
+"1783","Mujer","Trabajadores no calificados","Los Lagos",10,2015,205839.552052408
+"1784","Mujer","Trabajadores no calificados","Los Ríos",14,2010,98343.9567481722
+"1785","Mujer","Trabajadores no calificados","Los Ríos",14,2011,116374.552473579
+"1786","Mujer","Trabajadores no calificados","Los Ríos",14,2012,133758.73547093
+"1787","Mujer","Trabajadores no calificados","Los Ríos",14,2013,138739.286326037
+"1788","Mujer","Trabajadores no calificados","Los Ríos",14,2014,138265.588511045
+"1789","Mujer","Trabajadores no calificados","Los Ríos",14,2015,166139.144748396
+"1790","Mujer","Trabajadores no calificados","Magallanes",12,2010,174690.156999064
+"1791","Mujer","Trabajadores no calificados","Magallanes",12,2011,131851.403001609
+"1792","Mujer","Trabajadores no calificados","Magallanes",12,2012,173044.867688064
+"1793","Mujer","Trabajadores no calificados","Magallanes",12,2013,211668.437696049
+"1794","Mujer","Trabajadores no calificados","Magallanes",12,2014,256156.322244113
+"1795","Mujer","Trabajadores no calificados","Magallanes",12,2015,218730.390479291
+"1796","Mujer","Trabajadores no calificados","Maule",7,2010,127364.518535777
+"1797","Mujer","Trabajadores no calificados","Maule",7,2011,127068.760938387
+"1798","Mujer","Trabajadores no calificados","Maule",7,2012,137847.647633028
+"1799","Mujer","Trabajadores no calificados","Maule",7,2013,159740.117695425
+"1800","Mujer","Trabajadores no calificados","Maule",7,2014,185870.80250364
+"1801","Mujer","Trabajadores no calificados","Maule",7,2015,207994.371447084
+"1802","Mujer","Trabajadores no calificados","Metropolitana",13,2010,159375.548649111
+"1803","Mujer","Trabajadores no calificados","Metropolitana",13,2011,171692.840352833
+"1804","Mujer","Trabajadores no calificados","Metropolitana",13,2012,182384.423961664
+"1805","Mujer","Trabajadores no calificados","Metropolitana",13,2013,215469.244850661
+"1806","Mujer","Trabajadores no calificados","Metropolitana",13,2014,239860.475193568
+"1807","Mujer","Trabajadores no calificados","Metropolitana",13,2015,239105.347312853
+"1808","Mujer","Trabajadores no calificados","O'Higgins",6,2010,140963.877903722
+"1809","Mujer","Trabajadores no calificados","O'Higgins",6,2011,155408.194698356
+"1810","Mujer","Trabajadores no calificados","O'Higgins",6,2012,161931.246574828
+"1811","Mujer","Trabajadores no calificados","O'Higgins",6,2013,165441.923689946
+"1812","Mujer","Trabajadores no calificados","O'Higgins",6,2014,212449.929200421
+"1813","Mujer","Trabajadores no calificados","O'Higgins",6,2015,206229.313626338
+"1814","Mujer","Trabajadores no calificados","Tarapacá",1,2010,127721.709757643
+"1815","Mujer","Trabajadores no calificados","Tarapacá",1,2011,164133.449476027
+"1816","Mujer","Trabajadores no calificados","Tarapacá",1,2012,168066.235423076
+"1817","Mujer","Trabajadores no calificados","Tarapacá",1,2013,212645.895544915
+"1818","Mujer","Trabajadores no calificados","Tarapacá",1,2014,209163.451345957
+"1819","Mujer","Trabajadores no calificados","Tarapacá",1,2015,201990.112618216
+"1820","Mujer","Trabajadores no calificados","Valparaíso",5,2010,123517.998301729
+"1821","Mujer","Trabajadores no calificados","Valparaíso",5,2011,133105.658475689
+"1822","Mujer","Trabajadores no calificados","Valparaíso",5,2012,149429.591349185
+"1823","Mujer","Trabajadores no calificados","Valparaíso",5,2013,163996.031887952
+"1824","Mujer","Trabajadores no calificados","Valparaíso",5,2014,185169.285118364
+"1825","Mujer","Trabajadores no calificados","Valparaíso",5,2015,188333.411035856
+"1826","Mujer","Trabajadores no calificados",NA,NA,2010,90679.8304690978
+"1827","Mujer","Trabajadores no calificados",NA,NA,2011,90855.773544678
+"1828","Mujer","Trabajadores no calificados",NA,NA,2012,117887.625920436

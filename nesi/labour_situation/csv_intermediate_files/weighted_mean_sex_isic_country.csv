@@ -1,0 +1,205 @@
+"","sex","isic","year","weighted_mean"
+"1","Hombre","Agricultura, ganadería, caza y silvicultura",2010,232109.002677422
+"2","Hombre","Agricultura, ganadería, caza y silvicultura",2011,254220.151042901
+"3","Hombre","Agricultura, ganadería, caza y silvicultura",2012,261185.476833673
+"4","Hombre","Agricultura, ganadería, caza y silvicultura",2013,287781.420155608
+"5","Hombre","Agricultura, ganadería, caza y silvicultura",2014,304360.121373589
+"6","Hombre","Agricultura, ganadería, caza y silvicultura",2015,341306.691044478
+"7","Hombre","Pesca",2010,300684.799902363
+"8","Hombre","Pesca",2011,270582.658725682
+"9","Hombre","Pesca",2012,321361.984170222
+"10","Hombre","Pesca",2013,295044.700772927
+"11","Hombre","Pesca",2014,385930.070808853
+"12","Hombre","Pesca",2015,473384.596892039
+"13","Hombre","Explotación de minas y canteras",2010,712978.552096354
+"14","Hombre","Explotación de minas y canteras",2011,707463.861776054
+"15","Hombre","Explotación de minas y canteras",2012,773265.450305598
+"16","Hombre","Explotación de minas y canteras",2013,862003.478656262
+"17","Hombre","Explotación de minas y canteras",2014,837214.031741779
+"18","Hombre","Explotación de minas y canteras",2015,955279.814919946
+"19","Hombre","Industrias manufactureras",2010,399285.660420716
+"20","Hombre","Industrias manufactureras",2011,435973.223421542
+"21","Hombre","Industrias manufactureras",2012,442220.750679974
+"22","Hombre","Industrias manufactureras",2013,490148.584246479
+"23","Hombre","Industrias manufactureras",2014,497273.185274471
+"24","Hombre","Industrias manufactureras",2015,583623.730733754
+"25","Hombre","Suministro de electricidad, gas y agua",2010,405969.078746497
+"26","Hombre","Suministro de electricidad, gas y agua",2011,526252.849347547
+"27","Hombre","Suministro de electricidad, gas y agua",2012,570665.047602039
+"28","Hombre","Suministro de electricidad, gas y agua",2013,632196.416321816
+"29","Hombre","Suministro de electricidad, gas y agua",2014,675247.842363329
+"30","Hombre","Suministro de electricidad, gas y agua",2015,699570.654325161
+"31","Hombre","Construcción",2010,353736.380650899
+"32","Hombre","Construcción",2011,421885.654766076
+"33","Hombre","Construcción",2012,425099.482304609
+"34","Hombre","Construcción",2013,447847.873476809
+"35","Hombre","Construcción",2014,484753.71694451
+"36","Hombre","Construcción",2015,502676.792802524
+"37","Hombre","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres do",2010,357161.965612004
+"38","Hombre","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres do",2011,380356.726947504
+"39","Hombre","Hoteles y restaurantes",2010,414166.836280478
+"40","Hombre","Hoteles y restaurantes",2011,393049.494292509
+"41","Hombre","Hoteles y restaurantes",2012,514278.980582473
+"42","Hombre","Hoteles y restaurantes",2013,373664.249242907
+"43","Hombre","Hoteles y restaurantes",2014,440290.25873711
+"44","Hombre","Hoteles y restaurantes",2015,542727.823483941
+"45","Hombre","Transporte, almacenamiento y comunicaciones",2010,378369.87538134
+"46","Hombre","Transporte, almacenamiento y comunicaciones",2011,440580.88700486
+"47","Hombre","Transporte, almacenamiento y comunicaciones",2012,510327.3891193
+"48","Hombre","Transporte, almacenamiento y comunicaciones",2013,524755.133305134
+"49","Hombre","Transporte, almacenamiento y comunicaciones",2014,488488.583004257
+"50","Hombre","Transporte, almacenamiento y comunicaciones",2015,560284.151741267
+"51","Hombre","Intermediación financiera",2010,985897.380808986
+"52","Hombre","Intermediación financiera",2011,1006357.52588214
+"53","Hombre","Intermediación financiera",2012,1122464.73237689
+"54","Hombre","Intermediación financiera",2013,1147363.89674874
+"55","Hombre","Intermediación financiera",2014,1231620.58752537
+"56","Hombre","Intermediación financiera",2015,1129649.57182597
+"57","Hombre","Actividades inmobiliarias, empresariales y de alquiler",2010,754941.066326867
+"58","Hombre","Actividades inmobiliarias, empresariales y de alquiler",2011,757313.769955813
+"59","Hombre","Actividades inmobiliarias, empresariales y de alquiler",2012,829770.812980752
+"60","Hombre","Actividades inmobiliarias, empresariales y de alquiler",2013,818214.217872506
+"61","Hombre","Actividades inmobiliarias, empresariales y de alquiler",2014,831237.305260712
+"62","Hombre","Actividades inmobiliarias, empresariales y de alquiler",2015,827515.580179915
+"63","Hombre","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2010,585281.559443306
+"64","Hombre","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2011,621433.180933655
+"65","Hombre","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2012,677775.906643809
+"66","Hombre","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2013,730677.265371848
+"67","Hombre","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2014,775319.296617519
+"68","Hombre","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2015,838272.684185455
+"69","Hombre","Enseñanza",2010,535160.959856248
+"70","Hombre","Enseñanza",2011,545552.568281029
+"71","Hombre","Enseñanza",2012,568079.525787942
+"72","Hombre","Enseñanza",2013,583809.858472298
+"73","Hombre","Enseñanza",2014,655683.224307709
+"74","Hombre","Enseñanza",2015,700687.73112904
+"75","Hombre","Servicios sociales y de salud",2010,785544.8250505
+"76","Hombre","Servicios sociales y de salud",2011,777134.927789838
+"77","Hombre","Servicios sociales y de salud",2012,871610.400756186
+"78","Hombre","Servicios sociales y de salud",2013,811154.954454926
+"79","Hombre","Servicios sociales y de salud",2014,963008.503523889
+"80","Hombre","Servicios sociales y de salud",2015,1126189.22793497
+"81","Hombre","Otras actividades de servicios comunitarios, sociales y personales",2010,315517.030982069
+"82","Hombre","Otras actividades de servicios comunitarios, sociales y personales",2011,332146.065241481
+"83","Hombre","Otras actividades de servicios comunitarios, sociales y personales",2012,337638.472288064
+"84","Hombre","Otras actividades de servicios comunitarios, sociales y personales",2013,435003.108805093
+"85","Hombre","Otras actividades de servicios comunitarios, sociales y personales",2014,425419.406326155
+"86","Hombre","Otras actividades de servicios comunitarios, sociales y personales",2015,428694.665151564
+"87","Hombre","Hogares privados con servicio doméstico",2010,168909.012456287
+"88","Hombre","Hogares privados con servicio doméstico",2011,201369.786765723
+"89","Hombre","Hogares privados con servicio doméstico",2012,222593.987377321
+"90","Hombre","Hogares privados con servicio doméstico",2013,237859.793535818
+"91","Hombre","Hogares privados con servicio doméstico",2014,272675.009244971
+"92","Hombre","Hogares privados con servicio doméstico",2015,299657.399583858
+"93","Hombre","Organizaciones y organos extraterritoriales",2010,668480.308334761
+"94","Hombre","Organizaciones y organos extraterritoriales",2011,852813.140707189
+"95","Hombre","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres ",2012,447092.429553831
+"96","Hombre","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres ",2013,498898.956148155
+"97","Hombre","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres ",2014,467549.440394922
+"98","Hombre","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres ",2015,489813.393366158
+"99","Hombre","Organizaciones y órganos extraterritoriales",2012,686990.956659014
+"100","Hombre","Organizaciones y órganos extraterritoriales",2013,762528.173188328
+"101","Hombre","Organizaciones y órganos extraterritoriales",2014,459006.768554417
+"102","Hombre","Organizaciones y órganos extraterritoriales",2015,1420469.2105693
+"103","Mujer","Agricultura, ganadería, caza y silvicultura",2010,210440.663411661
+"104","Mujer","Agricultura, ganadería, caza y silvicultura",2011,182822.720314834
+"105","Mujer","Agricultura, ganadería, caza y silvicultura",2012,176051.907987916
+"106","Mujer","Agricultura, ganadería, caza y silvicultura",2013,213604.095597088
+"107","Mujer","Agricultura, ganadería, caza y silvicultura",2014,256974.008123089
+"108","Mujer","Agricultura, ganadería, caza y silvicultura",2015,249590.640476297
+"109","Mujer","Pesca",2010,161758.782941067
+"110","Mujer","Pesca",2011,187786.216400029
+"111","Mujer","Pesca",2012,241591.940923601
+"112","Mujer","Pesca",2013,386869.25208826
+"113","Mujer","Pesca",2014,284876.716003268
+"114","Mujer","Pesca",2015,317407.762965113
+"115","Mujer","Explotación de minas y canteras",2010,676454.543470706
+"116","Mujer","Explotación de minas y canteras",2011,709170.078143598
+"117","Mujer","Explotación de minas y canteras",2012,812113.130459515
+"118","Mujer","Explotación de minas y canteras",2013,577060.119947103
+"119","Mujer","Explotación de minas y canteras",2014,757128.550878979
+"120","Mujer","Explotación de minas y canteras",2015,1042605.54104064
+"121","Mujer","Industrias manufactureras",2010,225627.210774028
+"122","Mujer","Industrias manufactureras",2011,258538.94661707
+"123","Mujer","Industrias manufactureras",2012,314397.551362619
+"124","Mujer","Industrias manufactureras",2013,287216.776642453
+"125","Mujer","Industrias manufactureras",2014,289037.894646108
+"126","Mujer","Industrias manufactureras",2015,315710.640527591
+"127","Mujer","Suministro de electricidad, gas y agua",2010,325589.882954492
+"128","Mujer","Suministro de electricidad, gas y agua",2011,529616.578087514
+"129","Mujer","Suministro de electricidad, gas y agua",2012,448435.115631272
+"130","Mujer","Suministro de electricidad, gas y agua",2013,385828.212989176
+"131","Mujer","Suministro de electricidad, gas y agua",2014,360784.041358012
+"132","Mujer","Suministro de electricidad, gas y agua",2015,428137.203700329
+"133","Mujer","Construcción",2010,432415.257642294
+"134","Mujer","Construcción",2011,425899.062630557
+"135","Mujer","Construcción",2012,422985.733350276
+"136","Mujer","Construcción",2013,508993.178326391
+"137","Mujer","Construcción",2014,509238.31749203
+"138","Mujer","Construcción",2015,541202.233411942
+"139","Mujer","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres do",2010,216655.372133827
+"140","Mujer","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres do",2011,234037.069241489
+"141","Mujer","Hoteles y restaurantes",2010,226048.879001017
+"142","Mujer","Hoteles y restaurantes",2011,247571.34442846
+"143","Mujer","Hoteles y restaurantes",2012,282874.243941907
+"144","Mujer","Hoteles y restaurantes",2013,278210.179892585
+"145","Mujer","Hoteles y restaurantes",2014,317014.149545543
+"146","Mujer","Hoteles y restaurantes",2015,309481.99726227
+"147","Mujer","Transporte, almacenamiento y comunicaciones",2010,382872.658711195
+"148","Mujer","Transporte, almacenamiento y comunicaciones",2011,355117.30075527
+"149","Mujer","Transporte, almacenamiento y comunicaciones",2012,424778.961044989
+"150","Mujer","Transporte, almacenamiento y comunicaciones",2013,433027.39173281
+"151","Mujer","Transporte, almacenamiento y comunicaciones",2014,448138.508654636
+"152","Mujer","Transporte, almacenamiento y comunicaciones",2015,406109.421762306
+"153","Mujer","Intermediación financiera",2010,590680.237258163
+"154","Mujer","Intermediación financiera",2011,675485.784498231
+"155","Mujer","Intermediación financiera",2012,834010.255221192
+"156","Mujer","Intermediación financiera",2013,738913.391743636
+"157","Mujer","Intermediación financiera",2014,743630.46028372
+"158","Mujer","Intermediación financiera",2015,801919.798990042
+"159","Mujer","Actividades inmobiliarias, empresariales y de alquiler",2010,393077.354807758
+"160","Mujer","Actividades inmobiliarias, empresariales y de alquiler",2011,476604.452739997
+"161","Mujer","Actividades inmobiliarias, empresariales y de alquiler",2012,473764.534146011
+"162","Mujer","Actividades inmobiliarias, empresariales y de alquiler",2013,508731.15866015
+"163","Mujer","Actividades inmobiliarias, empresariales y de alquiler",2014,559262.415141074
+"164","Mujer","Actividades inmobiliarias, empresariales y de alquiler",2015,546731.483272949
+"165","Mujer","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2010,457936.441831654
+"166","Mujer","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2011,472158.285406813
+"167","Mujer","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2012,569939.870334261
+"168","Mujer","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2013,668817.072329236
+"169","Mujer","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2014,667317.580981512
+"170","Mujer","Administración pública y defensa; planes de seguridad social de afiliación obligatoria",2015,719815.583176296
+"171","Mujer","Enseñanza",2010,388549.101271089
+"172","Mujer","Enseñanza",2011,399013.896734171
+"173","Mujer","Enseñanza",2012,437711.920853084
+"174","Mujer","Enseñanza",2013,442456.465269346
+"175","Mujer","Enseñanza",2014,487124.712837693
+"176","Mujer","Enseñanza",2015,520315.351286003
+"177","Mujer","Servicios sociales y de salud",2010,418029.335133665
+"178","Mujer","Servicios sociales y de salud",2011,423201.748027204
+"179","Mujer","Servicios sociales y de salud",2012,484360.747676548
+"180","Mujer","Servicios sociales y de salud",2013,515136.607932105
+"181","Mujer","Servicios sociales y de salud",2014,561868.875864911
+"182","Mujer","Servicios sociales y de salud",2015,593481.748306279
+"183","Mujer","Otras actividades de servicios comunitarios, sociales y personales",2010,255119.621812959
+"184","Mujer","Otras actividades de servicios comunitarios, sociales y personales",2011,276216.046973401
+"185","Mujer","Otras actividades de servicios comunitarios, sociales y personales",2012,277666.621343135
+"186","Mujer","Otras actividades de servicios comunitarios, sociales y personales",2013,315790.157905334
+"187","Mujer","Otras actividades de servicios comunitarios, sociales y personales",2014,320023.519447079
+"188","Mujer","Otras actividades de servicios comunitarios, sociales y personales",2015,361603.476331508
+"189","Mujer","Hogares privados con servicio doméstico",2010,133996.762577232
+"190","Mujer","Hogares privados con servicio doméstico",2011,143104.636973594
+"191","Mujer","Hogares privados con servicio doméstico",2012,152289.06475101
+"192","Mujer","Hogares privados con servicio doméstico",2013,172203.130106502
+"193","Mujer","Hogares privados con servicio doméstico",2014,180943.274869424
+"194","Mujer","Hogares privados con servicio doméstico",2015,200020.707515565
+"195","Mujer","Organizaciones y organos extraterritoriales",2010,953986.699937164
+"196","Mujer","Organizaciones y organos extraterritoriales",2011,713435.298626471
+"197","Mujer","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres ",2012,259674.21966632
+"198","Mujer","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres ",2013,266995.220624296
+"199","Mujer","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres ",2014,287879.318599975
+"200","Mujer","Comercio al por mayor y al por menor; reparación de vehículos automotores, motocicletas, efectos personales y enseres ",2015,298200.820315293
+"201","Mujer","Organizaciones y órganos extraterritoriales",2012,623558.126657475
+"202","Mujer","Organizaciones y órganos extraterritoriales",2013,517248.916323733
+"203","Mujer","Organizaciones y órganos extraterritoriales",2014,836065.586811159
+"204","Mujer","Organizaciones y órganos extraterritoriales",2015,1434061.46201835

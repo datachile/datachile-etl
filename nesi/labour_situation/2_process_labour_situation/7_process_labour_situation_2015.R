@@ -115,6 +115,16 @@ labour_description_2015$comuna_name <- gsub("Los Alamos", "Los \u00c1lamos", lab
 labour_description_2015$comuna_name <- gsub("Los Angeles", "Los \u00c1ngeles", labour_description_2015$comuna_name)
 labour_description_2015$comuna_name <- gsub("Traiguen", "Traigu\u00e9n", labour_description_2015$comuna_name)
 labour_description_2015$comuna_name <- gsub("Ais\u00e9n", "Ays\u00e9n", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("Coihaique", "Coyhaique", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("LA FLORIDA", "La Florida", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("MOSTAZAL", "Mostazal", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("\u00d1U\u00d1OA", "\u00d1u\u00f1oa", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("PAILLACO", "Paillaco", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("Quilpue", "Quilpu\u00e9", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("SAN MIGUEL", "San Miguel", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("TALCAHUANO", "Talcahuano", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("TRAIGUEN", "Traigu\u00e9", labour_description_2015$comuna_name)
+labour_description_2015$comuna_name <- gsub("VILLARRICA", "Villarica", labour_description_2015$comuna_name)
 
 # Add region and provincia
 labour_description_2015 <- move_col(labour_description_2015, c("comuna_name" = ncol(labour_description_2015)))
