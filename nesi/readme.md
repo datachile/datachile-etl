@@ -5,30 +5,38 @@
 2. The relevant folders (at the moment) are:
 
 * describe_dataset
-* household_income
+* labour_situation
 
-Please see the file I did upload to [Google Drive](https://docs.google.com/spreadsheets/d/11fB0WbMgJNEiFmc7Rw8yZPMIhEdbXBBBIXhCpQP3XlA/edit#gid=1236419237) to see the variables' description.
+Please see the file I did upload to [Google Drive](https://docs.google.com/spreadsheets/d/1s77lG7gZEqLmryIo1BptxR-VxeHtAcDqeu-kOKX2kWQ/edit#gid=0) to see the variables' description.
 
-3. If you want to re run the code, the master file is `household_income/0_do_all_household_income.R` that will every other script.
+3. If you want to re run the code, the master file is `labour_situation/0_do_all_labour_situation.R` that will every other script.
 
-# Mean/Median household income and Gini
+# Mean/Median individuals
 
-The file `household_income/10_csv_final_files/household_income_tidy_all.csv` centralizes everything. The other files in `household_income/10_csv_final_files` are division of that file at different geographical levels (comuna, provincia, región and country)
+The file `labour_situation/6_csv_final_files/sex.csv` is the less informative. The other files in `household_income/6_csv_final_files` are refinements to this.
 
 The columns in this file are:
 
 * geography_level (comuna, provincia, región and country)
 * geography_name (Alhué, Andacollo, Angol, Antofagasta, etc)
 * geography_id (1,2,3,...,n for regions and comunas and  p11, p12,...,pmn for provincias)
-* year (1990 to 2015)
+* sex (hombre o mujer / male or female)
+* year (2010 to 2015)
 * weighted_mean_income (in CLP)
 * weighted_median_income (in CLP)
-* weighted_gini_income  (0-1 normed value)
 * ci_weighted_mean_income (confidence interval for weighted_mean_income)
 * ci_weighted_median_income (confidence interval for weighted_median_income)
-* ci_weighted_gini_income (confidence interval for weighted_gini_income)
 
 In total this has 4122 rows.
+
+The other files contain subdivisions such as
+
+* ICSE (International Classification by Status in Employment by ILO)
+* ISCED (International Standard Classification of Education by UNESCO)
+* ISCO (International Standard Classification of Occupations by ILO)
+* ISIC (International Standard Industrial Classification by UN)
+* Workday (part-time or full-time)
+* Company size (less than 5 workers, 5 to 10, 11 to 49, 50 to 199, more than 200)
 
 # Important note about `geography_id` variable
 

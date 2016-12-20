@@ -6,6 +6,7 @@ if ((exists("tidy_all_comuna") & exists("tidy_all_provincia") & exists("tidy_all
   tidy_all$geography_id <- as.factor(tidy_all$geography_id)
   tidy_all$year <- as.numeric(tidy_all$year)
   write.csv(tidy_all, file = "household_income/10_csv_final_files/household_income_tidy_all.csv")
+  save(tidy_all, file = "household_income/11_rdata_final_files/household_income_tidy_all.RData")
 } else {
   tidy_all_comuna <- read.csv("household_income/10_csv_final_files/household_income_tidy_all_comuna.csv")
   tidy_all_provincia <- read.csv("household_income/10_csv_final_files/household_income_tidy_all_provincia.csv")
