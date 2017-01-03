@@ -1,0 +1,73 @@
+"","sex","company_size","year","lb_weighted_median"
+"1","Hombre","Menos de 5",2010,178892
+"2","Hombre","Menos de 5",2011,199361
+"3","Hombre","Menos de 5",2012,201124
+"4","Hombre","Menos de 5",2013,236060
+"5","Hombre","Menos de 5",2014,250995
+"6","Hombre","Menos de 5",2015,262890
+"7","Hombre","De 5 a 10 personas",2010,212992
+"8","Hombre","De 5 a 10 personas",2011,241160
+"9","Hombre","De 5 a 10 personas",2012,265117
+"10","Hombre","De 5 a 10 personas",2013,298867
+"11","Hombre","De 5 a 10 personas",2014,299944
+"12","Hombre","De 5 a 10 personas",2015,329377
+"13","Hombre","Entre 11 y 49",2010,224321
+"14","Hombre","Entre 11 y 49",2011,249345
+"15","Hombre","Entre 11 y 49",2012,271360
+"16","Hombre","Entre 11 y 49",2013,300289
+"17","Hombre","Entre 11 y 49",2014,319989
+"18","Hombre","Entre 11 y 49",2015,350095
+"19","Hombre","Entre 50 y 199",2010,250245
+"20","Hombre","Entre 50 y 199",2011,294108
+"21","Hombre","Entre 50 y 199",2012,301353
+"22","Hombre","Entre 50 y 199",2013,355000
+"23","Hombre","Entre 50 y 199",2014,365931
+"24","Hombre","Entre 50 y 199",2015,400051
+"25","Hombre","200 y más personas",2010,350000
+"26","Hombre","200 y más personas",2011,398721
+"27","Hombre","200 y más personas",2012,438541
+"28","Hombre","200 y más personas",2013,467715
+"29","Hombre","200 y más personas",2014,489806
+"30","Hombre","200 y más personas",2015,502037
+"31","Hombre",NA,2010,152354
+"32","Hombre",NA,2011,166710
+"33","Hombre",NA,2012,151242
+"34","Hombre",NA,2013,185325
+"35","Hombre",NA,2014,220096
+"36","Hombre",NA,2015,240997
+"37","Mujer","Menos de 5",2010,99932
+"38","Mujer","Menos de 5",2011,100000
+"39","Mujer","Menos de 5",2012,110000
+"40","Mujer","Menos de 5",2013,120000
+"41","Mujer","Menos de 5",2014,149972
+"42","Mujer","Menos de 5",2015,142954
+"43","Mujer","De 5 a 10 personas",2010,184825
+"44","Mujer","De 5 a 10 personas",2011,200967
+"45","Mujer","De 5 a 10 personas",2012,212501
+"46","Mujer","De 5 a 10 personas",2013,235644
+"47","Mujer","De 5 a 10 personas",2014,250000
+"48","Mujer","De 5 a 10 personas",2015,267647
+"49","Mujer","Entre 11 y 49",2010,199863
+"50","Mujer","Entre 11 y 49",2011,213624
+"51","Mujer","Entre 11 y 49",2012,249159
+"52","Mujer","Entre 11 y 49",2013,263147
+"53","Mujer","Entre 11 y 49",2014,299944
+"54","Mujer","Entre 11 y 49",2015,300000
+"55","Mujer","Entre 50 y 199",2010,219921
+"56","Mujer","Entre 50 y 199",2011,264814
+"57","Mujer","Entre 50 y 199",2012,275725
+"58","Mujer","Entre 50 y 199",2013,300000
+"59","Mujer","Entre 50 y 199",2014,311957
+"60","Mujer","Entre 50 y 199",2015,350095
+"61","Mujer","200 y más personas",2010,260121
+"62","Mujer","200 y más personas",2011,300000
+"63","Mujer","200 y más personas",2012,316116
+"64","Mujer","200 y más personas",2013,350000
+"65","Mujer","200 y más personas",2014,352820
+"66","Mujer","200 y más personas",2015,397194
+"67","Mujer",NA,2010,120117
+"68","Mujer",NA,2011,128227
+"69","Mujer",NA,2012,150501
+"70","Mujer",NA,2013,169715
+"71","Mujer",NA,2014,180000
+"72","Mujer",NA,2015,200054

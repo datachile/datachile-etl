@@ -1,0 +1,121 @@
+"","sex","isced","year","ub_weighted_median"
+"1","Hombre","Doctorado",2010,1621258
+"2","Hombre","Doctorado",2011,2468431
+"3","Hombre","Doctorado",2012,1966906
+"4","Hombre","Doctorado",2013,1888612
+"5","Hombre","Doctorado",2014,1934814
+"6","Hombre","Doctorado",2015,2999212
+"7","Hombre","Educación preescolar",2010,185210
+"8","Hombre","Educación preescolar",2011,320000
+"9","Hombre","Educación Preescolar",2012,290000
+"10","Hombre","Educación Preescolar",2013,260666
+"11","Hombre","Educación Preescolar",2014,208932
+"12","Hombre","Educación Preescolar",2015,300081
+"13","Hombre","Educación primaria (nivel 1)",2010,171882
+"14","Hombre","Educación primaria (nivel 1)",2011,185000
+"15","Hombre","Educación Primaria (nivel 1)",2012,200332
+"16","Hombre","Educación Primaria (nivel 1)",2013,217220
+"17","Hombre","Educación Primaria (nivel 1)",2014,230000
+"18","Hombre","Educación Primaria (nivel 1)",2015,250036
+"19","Hombre","Educación primaria (nivel 2)",2010,199863
+"20","Hombre","Educación primaria (nivel 2)",2011,212070
+"21","Hombre","Educación Primaria (nivel 2)",2012,224645
+"22","Hombre","Educación Primaria (nivel 2)",2013,250339
+"23","Hombre","Educación Primaria (nivel 2)",2014,276490
+"24","Hombre","Educación Primaria (nivel 2)",2015,300000
+"25","Hombre","Educación secundaria",2010,250000
+"26","Hombre","Educación secundaria",2011,274082
+"27","Hombre","Educación Secundaria",2012,301353
+"28","Hombre","Educación Secundaria",2013,337507
+"29","Hombre","Educación Secundaria",2014,350000
+"30","Hombre","Educación Secundaria",2015,380103
+"31","Hombre","Educación Técnica (Educación Superior no Universitaria)",2010,390374
+"32","Hombre","Educación Técnica (Educación Superior no Universitaria)",2011,420270
+"33","Hombre","Educación Técnica (Educación Superior no Universitaria)",2012,446425
+"34","Hombre","Educación Técnica (Educación Superior no Universitaria)",2013,498112
+"35","Hombre","Educación Técnica (Educación Superior no Universitaria)",2014,500000
+"36","Hombre","Educación Técnica (Educación Superior no Universitaria)",2015,502037
+"37","Hombre","Educación universitaria",2010,700616
+"38","Hombre","Educación universitaria",2011,661199
+"39","Hombre","Educación Universitaria",2012,740432
+"40","Hombre","Educación Universitaria",2013,796979
+"41","Hombre","Educación Universitaria",2014,799850
+"42","Hombre","Educación Universitaria",2015,802953
+"43","Hombre","Nivel ignorado",2010,694813
+"44","Hombre","Nivel ignorado",2011,413915
+"45","Hombre","Nivel ignorado",2012,315150
+"46","Hombre","Nivel ignorado",2013,433621
+"47","Hombre","Nivel ignorado",2014,351119
+"48","Hombre","Nivel ignorado",2015,1300352
+"49","Hombre","Nunca estudió",2010,150000
+"50","Hombre","Nunca estudió",2011,150863
+"51","Hombre","Nunca estudió",2013,209207
+"52","Hombre","Nunca estudió",2014,239427
+"53","Hombre","Nunca estudió",2015,219680
+"54","Hombre","Nunca Estudió",2012,180812
+"55","Hombre","Postítulo y Maestría",2012,1940535
+"56","Hombre","Postítulo y Maestría",2014,1798523
+"57","Hombre","Postítulo y Maestría",2015,1819158
+"58","Hombre","Postitulos y maestria",2010,1682645
+"59","Hombre","Postitulos y maestria",2011,1607581
+"60","Hombre","Postítulos y Maestría",2013,1731216
+"61","Mujer","Doctorado",2010,1512986
+"62","Mujer","Doctorado",2011,2231960
+"63","Mujer","Doctorado",2012,1323187
+"64","Mujer","Doctorado",2013,1474060
+"65","Mujer","Doctorado",2014,1304433
+"66","Mujer","Doctorado",2015,1998605
+"67","Mujer","Educación preescolar",2010,97433
+"68","Mujer","Educación preescolar",2011,99680
+"69","Mujer","Educación Preescolar",2012,294144
+"70","Mujer","Educación Preescolar",2013,122714
+"71","Mujer","Educación Preescolar",2014,499906
+"72","Mujer","Educación Preescolar",2015,250068
+"73","Mujer","Educación primaria (nivel 1)",2010,113127
+"74","Mujer","Educación primaria (nivel 1)",2011,108339
+"75","Mujer","Educación Primaria (nivel 1)",2012,130000
+"76","Mujer","Educación Primaria (nivel 1)",2013,146844
+"77","Mujer","Educación Primaria (nivel 1)",2014,155977
+"78","Mujer","Educación Primaria (nivel 1)",2015,150041
+"79","Mujer","Educación primaria (nivel 2)",2010,137330
+"80","Mujer","Educación primaria (nivel 2)",2011,152654
+"81","Mujer","Educación Primaria (nivel 2)",2012,160815
+"82","Mujer","Educación Primaria (nivel 2)",2013,181295
+"83","Mujer","Educación Primaria (nivel 2)",2014,200000
+"84","Mujer","Educación Primaria (nivel 2)",2015,200054
+"85","Mujer","Educación secundaria",2010,179544
+"86","Mujer","Educación secundaria",2011,199361
+"87","Mujer","Educación Secundaria",2012,211180
+"88","Mujer","Educación Secundaria",2013,229587
+"89","Mujer","Educación Secundaria",2014,249978
+"90","Mujer","Educación Secundaria",2015,261060
+"91","Mujer","Educación Técnica (Educación Superior no Universitaria)",2010,299934
+"92","Mujer","Educación Técnica (Educación Superior no Universitaria)",2011,301450
+"93","Mujer","Educación Técnica (Educación Superior no Universitaria)",2012,310000
+"94","Mujer","Educación Técnica (Educación Superior no Universitaria)",2013,348678
+"95","Mujer","Educación Técnica (Educación Superior no Universitaria)",2014,373856
+"96","Mujer","Educación Técnica (Educación Superior no Universitaria)",2015,374987
+"97","Mujer","Educación universitaria",2010,499658
+"98","Mujer","Educación universitaria",2011,500000
+"99","Mujer","Educación Universitaria",2012,516581
+"100","Mujer","Educación Universitaria",2013,594440
+"101","Mujer","Educación Universitaria",2014,599887
+"102","Mujer","Educación Universitaria",2015,602445
+"103","Mujer","Nivel ignorado",2010,220417
+"104","Mujer","Nivel ignorado",2011,305336
+"105","Mujer","Nivel ignorado",2012,331855
+"106","Mujer","Nivel ignorado",2013,400542
+"107","Mujer","Nivel ignorado",2014,314676
+"108","Mujer","Nivel ignorado",2015,1000000
+"109","Mujer","Nunca estudió",2010,69477
+"110","Mujer","Nunca estudió",2011,100000
+"111","Mujer","Nunca estudió",2013,140203
+"112","Mujer","Nunca estudió",2014,143098
+"113","Mujer","Nunca estudió",2015,210838
+"114","Mujer","Nunca Estudió",2012,100000
+"115","Mujer","Postítulo y Maestría",2012,1200000
+"116","Mujer","Postítulo y Maestría",2014,1034041
+"117","Mujer","Postítulo y Maestría",2015,1089779
+"118","Mujer","Postitulos y maestria",2010,999316
+"119","Mujer","Postitulos y maestria",2011,781000
+"120","Mujer","Postítulos y Maestría",2013,952399

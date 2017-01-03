@@ -1,3 +1,0 @@
-load(file = paste0(getwd(),"/wage_by_gender_and_branch_with_weights/processed_wage_by_gender_and_branch_with_weights/wage_by_gender_and_branch_with_weights_2011.RData"))
-load(file = paste0(getwd(),"/wage_by_gender_and_branch_with_weights/processed_wage_by_gender_and_branch_with_weights/wage_by_gender_and_branch_with_weights_2013.RData"))
-load(file = paste0(getwd(),"/wage_by_gender_and_branch_with_weights/processed_wage_by_gender_and_branch_with_weights/wage_by_gender_and_branch_with_weights_2015.RData"))

@@ -1,0 +1,1618 @@
+"","sex","isced","geography_name","geography_id","year","weighted_median"
+"1","Hombre","Doctorado","Antofagasta",2,2010,1931398.0166428
+"2","Hombre","Doctorado","Antofagasta",2,2011,1939624.11809461
+"3","Hombre","Doctorado","Antofagasta",2,2012,2500000
+"4","Hombre","Doctorado","Antofagasta",2,2013,925788.438095875
+"5","Hombre","Doctorado","Antofagasta",2,2014,1999767.23175197
+"6","Hombre","Doctorado","Antofagasta",2,2015,2500000
+"7","Hombre","Doctorado","Araucanía",9,2010,3297192.46689577
+"8","Hombre","Doctorado","Araucanía",9,2012,950790.345842796
+"9","Hombre","Doctorado","Araucanía",9,2013,2332433.478221
+"10","Hombre","Doctorado","Araucanía",9,2014,1756361.11059758
+"11","Hombre","Doctorado","Araucanía",9,2015,1672796.53655733
+"12","Hombre","Doctorado","Arica y Parinacota",15,2010,1598905.71568148
+"13","Hombre","Doctorado","Arica y Parinacota",15,2011,1348362.28805114
+"14","Hombre","Doctorado","Arica y Parinacota",15,2012,1500000
+"15","Hombre","Doctorado","Arica y Parinacota",15,2015,2451866.32994353
+"16","Hombre","Doctorado","Atacama",3,2011,2512083.01743745
+"17","Hombre","Doctorado","Atacama",3,2012,1736707.61150018
+"18","Hombre","Doctorado","Bíobío",8,2010,632995.771257377
+"19","Hombre","Doctorado","Bíobío",8,2011,1763335.57448189
+"20","Hombre","Doctorado","Bíobío",8,2012,2000917.08236663
+"21","Hombre","Doctorado","Bíobío",8,2013,862684.206230464
+"22","Hombre","Doctorado","Bíobío",8,2014,1862622.52865407
+"23","Hombre","Doctorado","Bíobío",8,2015,2510186.5266208
+"24","Hombre","Doctorado","Coquimbo",4,2011,2292560.58437529
+"25","Hombre","Doctorado","Coquimbo",4,2012,1000000
+"26","Hombre","Doctorado","Coquimbo",4,2013,567192.315020912
+"27","Hombre","Doctorado","Coquimbo",4,2014,2300000
+"28","Hombre","Doctorado","Coquimbo",4,2015,1150703.10001926
+"29","Hombre","Doctorado","Los Lagos",10,2010,2470632.88612771
+"30","Hombre","Doctorado","Los Lagos",10,2011,3154302.64451182
+"31","Hombre","Doctorado","Los Lagos",10,2012,1263111.31163764
+"32","Hombre","Doctorado","Los Lagos",10,2013,2357042.04280573
+"33","Hombre","Doctorado","Los Lagos",10,2014,1476992.20036098
+"34","Hombre","Doctorado","Los Lagos",10,2015,748486.34334475
+"35","Hombre","Doctorado","Los Ríos",14,2010,1301272.26463104
+"36","Hombre","Doctorado","Los Ríos",14,2011,1448191.88220104
+"37","Hombre","Doctorado","Los Ríos",14,2012,1232641.35706126
+"38","Hombre","Doctorado","Los Ríos",14,2013,1460489.86007952
+"39","Hombre","Doctorado","Los Ríos",14,2014,1619847.48617056
+"40","Hombre","Doctorado","Los Ríos",14,2015,1005036.6613073
+"41","Hombre","Doctorado","Magallanes",12,2010,1283260.68737405
+"42","Hombre","Doctorado","Magallanes",12,2011,6069192.57012888
+"43","Hombre","Doctorado","Magallanes",12,2012,1077966.97395147
+"44","Hombre","Doctorado","Magallanes",12,2013,2744143.46667538
+"45","Hombre","Doctorado","Magallanes",12,2014,1452082.78327414
+"46","Hombre","Doctorado","Magallanes",12,2015,1800000
+"47","Hombre","Doctorado","Maule",7,2010,1498974.10845139
+"48","Hombre","Doctorado","Maule",7,2011,1346378.14408115
+"49","Hombre","Doctorado","Maule",7,2012,1619235.00313293
+"50","Hombre","Doctorado","Maule",7,2014,1649690.60566285
+"51","Hombre","Doctorado","Maule",7,2015,2500000
+"52","Hombre","Doctorado","Metropolitana",13,2010,1266131.4268608
+"53","Hombre","Doctorado","Metropolitana",13,2011,2500000
+"54","Hombre","Doctorado","Metropolitana",13,2012,1638265.38256409
+"55","Hombre","Doctorado","Metropolitana",13,2013,1194434.74437751
+"56","Hombre","Doctorado","Metropolitana",13,2014,1602813.2493719
+"57","Hombre","Doctorado","Metropolitana",13,2015,2245240.2761988
+"58","Hombre","Doctorado","O'Higgins",6,2010,1697238.75007575
+"59","Hombre","Doctorado","O'Higgins",6,2013,996223.700773242
+"60","Hombre","Doctorado","Tarapacá",1,2011,1500000
+"61","Hombre","Doctorado","Tarapacá",1,2012,1134887.90811816
+"62","Hombre","Doctorado","Tarapacá",1,2013,538884.920128476
+"63","Hombre","Doctorado","Tarapacá",1,2014,1000000
+"64","Hombre","Doctorado","Tarapacá",1,2015,3002037.30532416
+"65","Hombre","Doctorado","Valparaíso",5,2010,1323088.77167754
+"66","Hombre","Doctorado","Valparaíso",5,2011,1488401.63594506
+"67","Hombre","Doctorado","Valparaíso",5,2012,1737050.84958278
+"68","Hombre","Doctorado","Valparaíso",5,2013,1489275.28649149
+"69","Hombre","Doctorado","Valparaíso",5,2014,1178312.87066657
+"70","Hombre","Doctorado","Valparaíso",5,2015,2440060.36015212
+"71","Hombre","Educación preescolar","Antofagasta",2,2010,110000
+"72","Hombre","Educación preescolar","Antofagasta",2,2011,158823.546671665
+"73","Hombre","Educación preescolar","Araucanía",9,2010,418021.156284868
+"74","Hombre","Educación preescolar","Araucanía",9,2011,200000
+"75","Hombre","Educación preescolar","Arica y Parinacota",15,2010,404395.380700723
+"76","Hombre","Educación preescolar","Arica y Parinacota",15,2011,296252.801757874
+"77","Hombre","Educación preescolar","Atacama",3,2010,155322.752519878
+"78","Hombre","Educación preescolar","Aysén",11,2011,255097.430006634
+"79","Hombre","Educación preescolar","Bíobío",8,2010,28567.6002303745
+"80","Hombre","Educación preescolar","Bíobío",8,2011,121480.324803412
+"81","Hombre","Educación preescolar","Coquimbo",4,2010,138033.926471065
+"82","Hombre","Educación preescolar","Coquimbo",4,2011,43886.7490025502
+"83","Hombre","Educación preescolar","Los Lagos",10,2010,60238.6607141821
+"84","Hombre","Educación preescolar","Los Lagos",10,2011,182879.643669446
+"85","Hombre","Educación preescolar","Los Ríos",14,2010,58421.6397852578
+"86","Hombre","Educación preescolar","Los Ríos",14,2011,65314.1584533737
+"87","Hombre","Educación preescolar","Magallanes",12,2011,299041.083012127
+"88","Hombre","Educación preescolar","Maule",7,2010,27718.7697850362
+"89","Hombre","Educación preescolar","Metropolitana",13,2010,187015.912892496
+"90","Hombre","Educación preescolar","Metropolitana",13,2011,208850.203198573
+"91","Hombre","Educación preescolar","O'Higgins",6,2010,155775.356152941
+"92","Hombre","Educación preescolar","O'Higgins",6,2011,207344.861163459
+"93","Hombre","Educación preescolar","Tarapacá",1,2011,207871.388266358
+"94","Hombre","Educación preescolar","Valparaíso",5,2010,170298.80868929
+"95","Hombre","Educación preescolar","Valparaíso",5,2011,89995.7482950741
+"96","Hombre","Educación preescolar",NA,NA,2010,53127.6801329623
+"97","Hombre","Educación Preescolar","Antofagasta",2,2012,353461.538461538
+"98","Hombre","Educación Preescolar","Antofagasta",2,2013,273998.579001945
+"99","Hombre","Educación Preescolar","Antofagasta",2,2014,152996.441029145
+"100","Hombre","Educación Preescolar","Antofagasta",2,2015,125635.818563456
+"101","Hombre","Educación Preescolar","Araucanía",9,2014,191388.846383056
+"102","Hombre","Educación Preescolar","Araucanía",9,2015,95974.3320946749
+"103","Hombre","Educación Preescolar","Arica y Parinacota",15,2012,80449.6866936968
+"104","Hombre","Educación Preescolar","Arica y Parinacota",15,2013,84283.7173877773
+"105","Hombre","Educación Preescolar","Arica y Parinacota",15,2014,93982.3738983687
+"106","Hombre","Educación Preescolar","Arica y Parinacota",15,2015,78476.4938218314
+"107","Hombre","Educación Preescolar","Atacama",3,2012,134281.112800953
+"108","Hombre","Educación Preescolar","Atacama",3,2013,206735.807484176
+"109","Hombre","Educación Preescolar","Atacama",3,2014,240136.831851364
+"110","Hombre","Educación Preescolar","Atacama",3,2015,150000
+"111","Hombre","Educación Preescolar","Bíobío",8,2012,48094.1362055304
+"112","Hombre","Educación Preescolar","Bíobío",8,2013,42691.4669773813
+"113","Hombre","Educación Preescolar","Bíobío",8,2014,133577.03050798
+"114","Hombre","Educación Preescolar","Bíobío",8,2015,206910.960554983
+"115","Hombre","Educación Preescolar","Coquimbo",4,2012,50910.6250842532
+"116","Hombre","Educación Preescolar","Coquimbo",4,2013,195691.727074921
+"117","Hombre","Educación Preescolar","Coquimbo",4,2014,228242.176332827
+"118","Hombre","Educación Preescolar","Coquimbo",4,2015,230211.710892537
+"119","Hombre","Educación Preescolar","Los Lagos",10,2012,159944.893580596
+"120","Hombre","Educación Preescolar","Los Lagos",10,2014,167827.596709365
+"121","Hombre","Educación Preescolar","Los Lagos",10,2015,20000
+"122","Hombre","Educación Preescolar","Los Ríos",14,2012,56314.7806855878
+"123","Hombre","Educación Preescolar","Los Ríos",14,2013,198967.204704807
+"124","Hombre","Educación Preescolar","Magallanes",12,2014,180000
+"125","Hombre","Educación Preescolar","Magallanes",12,2015,350000
+"126","Hombre","Educación Preescolar","Maule",7,2012,241082.474226804
+"127","Hombre","Educación Preescolar","Maule",7,2013,111814.927417971
+"128","Hombre","Educación Preescolar","Maule",7,2014,136927.987969186
+"129","Hombre","Educación Preescolar","Maule",7,2015,166676.385367621
+"130","Hombre","Educación Preescolar","Metropolitana",13,2012,223328.22647678
+"131","Hombre","Educación Preescolar","Metropolitana",13,2013,286291.387993144
+"132","Hombre","Educación Preescolar","Metropolitana",13,2014,52135.4304411863
+"133","Hombre","Educación Preescolar","Metropolitana",13,2015,300081.183474654
+"134","Hombre","Educación Preescolar","O'Higgins",6,2012,112554.115083722
+"135","Hombre","Educación Preescolar","O'Higgins",6,2013,134912.573664588
+"136","Hombre","Educación Preescolar","O'Higgins",6,2014,235684.908004345
+"137","Hombre","Educación Preescolar","O'Higgins",6,2015,138223.319233571
+"138","Hombre","Educación Preescolar","Tarapacá",1,2013,280379.575237236
+"139","Hombre","Educación Preescolar","Valparaíso",5,2012,195410.730333433
+"140","Hombre","Educación Preescolar","Valparaíso",5,2013,204512.598248943
+"141","Hombre","Educación Preescolar","Valparaíso",5,2014,171089.576313254
+"142","Hombre","Educación Preescolar","Valparaíso",5,2015,212039.340991938
+"143","Hombre","Educación primaria (nivel 1)","Antofagasta",2,2010,259502.350154948
+"144","Hombre","Educación primaria (nivel 1)","Antofagasta",2,2011,299525.154773108
+"145","Hombre","Educación primaria (nivel 1)","Araucanía",9,2010,99931.6072300928
+"146","Hombre","Educación primaria (nivel 1)","Araucanía",9,2011,100483.320697498
+"147","Hombre","Educación primaria (nivel 1)","Arica y Parinacota",15,2010,170452.714385634
+"148","Hombre","Educación primaria (nivel 1)","Arica y Parinacota",15,2011,182044.411018013
+"149","Hombre","Educación primaria (nivel 1)","Atacama",3,2010,181976.037714373
+"150","Hombre","Educación primaria (nivel 1)","Atacama",3,2011,220965.742535338
+"151","Hombre","Educación primaria (nivel 1)","Aysén",11,2010,209950.218677499
+"152","Hombre","Educación primaria (nivel 1)","Aysén",11,2011,217492.68197564
+"153","Hombre","Educación primaria (nivel 1)","Bíobío",8,2010,150000
+"154","Hombre","Educación primaria (nivel 1)","Bíobío",8,2011,167180.947506956
+"155","Hombre","Educación primaria (nivel 1)","Coquimbo",4,2010,173826.578570612
+"156","Hombre","Educación primaria (nivel 1)","Coquimbo",4,2011,199360.722008085
+"157","Hombre","Educación primaria (nivel 1)","Los Lagos",10,2010,153874.466994029
+"158","Hombre","Educación primaria (nivel 1)","Los Lagos",10,2011,174540.183522205
+"159","Hombre","Educación primaria (nivel 1)","Los Ríos",14,2010,120000
+"160","Hombre","Educación primaria (nivel 1)","Los Ríos",14,2011,137901.568907912
+"161","Hombre","Educación primaria (nivel 1)","Magallanes",12,2010,266762.239864648
+"162","Hombre","Educación primaria (nivel 1)","Magallanes",12,2011,244329.401379256
+"163","Hombre","Educación primaria (nivel 1)","Maule",7,2010,150146.79976512
+"164","Hombre","Educación primaria (nivel 1)","Maule",7,2011,170821.645185747
+"165","Hombre","Educación primaria (nivel 1)","Metropolitana",13,2010,180000
+"166","Hombre","Educación primaria (nivel 1)","Metropolitana",13,2011,199360.722008085
+"167","Hombre","Educación primaria (nivel 1)","O'Higgins",6,2010,180176.159718144
+"168","Hombre","Educación primaria (nivel 1)","O'Higgins",6,2011,205077.857963363
+"169","Hombre","Educación primaria (nivel 1)","Tarapacá",1,2010,172000
+"170","Hombre","Educación primaria (nivel 1)","Tarapacá",1,2011,195452.489893537
+"171","Hombre","Educación primaria (nivel 1)","Valparaíso",5,2010,169904.15855403
+"172","Hombre","Educación primaria (nivel 1)","Valparaíso",5,2011,183000
+"173","Hombre","Educación primaria (nivel 1)",NA,NA,2010,151677.706597075
+"174","Hombre","Educación primaria (nivel 1)",NA,NA,2011,123879.998275127
+"175","Hombre","Educación Primaria (nivel 1)","Antofagasta",2,2012,317845.148770803
+"176","Hombre","Educación Primaria (nivel 1)","Antofagasta",2,2013,327973.679908006
+"177","Hombre","Educación Primaria (nivel 1)","Antofagasta",2,2014,306342.256914611
+"178","Hombre","Educación Primaria (nivel 1)","Antofagasta",2,2015,302306.474012592
+"179","Hombre","Educación Primaria (nivel 1)","Araucanía",9,2012,110022.938215083
+"180","Hombre","Educación Primaria (nivel 1)","Araucanía",9,2013,118853.344849291
+"181","Hombre","Educación Primaria (nivel 1)","Araucanía",9,2014,155419.148023508
+"182","Hombre","Educación Primaria (nivel 1)","Araucanía",9,2015,159175.583773202
+"183","Hombre","Educación Primaria (nivel 1)","Arica y Parinacota",15,2012,165652.745842744
+"184","Hombre","Educación Primaria (nivel 1)","Arica y Parinacota",15,2013,200025.487002554
+"185","Hombre","Educación Primaria (nivel 1)","Arica y Parinacota",15,2014,200000
+"186","Hombre","Educación Primaria (nivel 1)","Arica y Parinacota",15,2015,205396.291429346
+"187","Hombre","Educación Primaria (nivel 1)","Atacama",3,2012,251405.270917803
+"188","Hombre","Educación Primaria (nivel 1)","Atacama",3,2013,258206.108414713
+"189","Hombre","Educación Primaria (nivel 1)","Atacama",3,2014,252263.201104336
+"190","Hombre","Educación Primaria (nivel 1)","Atacama",3,2015,276120.517928288
+"191","Hombre","Educación Primaria (nivel 1)","Aysén",11,2012,251405.270917803
+"192","Hombre","Educación Primaria (nivel 1)","Aysén",11,2013,277927.758122044
+"193","Hombre","Educación Primaria (nivel 1)","Aysén",11,2014,279542.369530892
+"194","Hombre","Educación Primaria (nivel 1)","Aysén",11,2015,300081.183474654
+"195","Hombre","Educación Primaria (nivel 1)","Bíobío",8,2012,180811.855670103
+"196","Hombre","Educación Primaria (nivel 1)","Bíobío",8,2013,199244.740154648
+"197","Hombre","Educación Primaria (nivel 1)","Bíobío",8,2014,200253.899809753
+"198","Hombre","Educación Primaria (nivel 1)","Bíobío",8,2015,205389.529098717
+"199","Hombre","Educación Primaria (nivel 1)","Coquimbo",4,2012,200902.06185567
+"200","Hombre","Educación Primaria (nivel 1)","Coquimbo",4,2013,210284.681427927
+"201","Hombre","Educación Primaria (nivel 1)","Coquimbo",4,2014,249986.686050061
+"202","Hombre","Educación Primaria (nivel 1)","Coquimbo",4,2015,240977.906555597
+"203","Hombre","Educación Primaria (nivel 1)","Los Lagos",10,2012,180119.889946421
+"204","Hombre","Educación Primaria (nivel 1)","Los Lagos",10,2013,199244.740154648
+"205","Hombre","Educación Primaria (nivel 1)","Los Lagos",10,2014,210065.775941356
+"206","Hombre","Educación Primaria (nivel 1)","Los Lagos",10,2015,240000
+"207","Hombre","Educación Primaria (nivel 1)","Los Ríos",14,2012,170955.584224106
+"208","Hombre","Educación Primaria (nivel 1)","Los Ríos",14,2013,189623.915078085
+"209","Hombre","Educación Primaria (nivel 1)","Los Ríos",14,2014,180946.323867131
+"210","Hombre","Educación Primaria (nivel 1)","Los Ríos",14,2015,200000
+"211","Hombre","Educación Primaria (nivel 1)","Magallanes",12,2012,324698.270984972
+"212","Hombre","Educación Primaria (nivel 1)","Magallanes",12,2013,284433.420618284
+"213","Hombre","Educación Primaria (nivel 1)","Magallanes",12,2014,299943.746484155
+"214","Hombre","Educación Primaria (nivel 1)","Magallanes",12,2015,307083.762365005
+"215","Hombre","Educación Primaria (nivel 1)","Maule",7,2012,192035.159853214
+"216","Hombre","Educación Primaria (nivel 1)","Maule",7,2013,210000
+"217","Hombre","Educación Primaria (nivel 1)","Maule",7,2014,225000
+"218","Hombre","Educación Primaria (nivel 1)","Maule",7,2015,240356.371368042
+"219","Hombre","Educación Primaria (nivel 1)","Metropolitana",13,2012,210947.164948454
+"220","Hombre","Educación Primaria (nivel 1)","Metropolitana",13,2013,249055.92519331
+"221","Hombre","Educación Primaria (nivel 1)","Metropolitana",13,2014,249953.12207013
+"222","Hombre","Educación Primaria (nivel 1)","Metropolitana",13,2015,260070.359011367
+"223","Hombre","Educación Primaria (nivel 1)","O'Higgins",6,2012,200902.06185567
+"224","Hombre","Educación Primaria (nivel 1)","O'Higgins",6,2013,210284.681427927
+"225","Hombre","Educación Primaria (nivel 1)","O'Higgins",6,2014,246958.90325127
+"226","Hombre","Educación Primaria (nivel 1)","O'Higgins",6,2015,265680.262101146
+"227","Hombre","Educación Primaria (nivel 1)","Tarapacá",1,2012,191805.186728432
+"228","Hombre","Educación Primaria (nivel 1)","Tarapacá",1,2013,257449.9015052
+"229","Hombre","Educación Primaria (nivel 1)","Tarapacá",1,2014,279202.472416296
+"230","Hombre","Educación Primaria (nivel 1)","Tarapacá",1,2015,256503.682949154
+"231","Hombre","Educación Primaria (nivel 1)","Valparaíso",5,2012,194079.254446025
+"232","Hombre","Educación Primaria (nivel 1)","Valparaíso",5,2013,210178.290190989
+"233","Hombre","Educación Primaria (nivel 1)","Valparaíso",5,2014,225000
+"234","Hombre","Educación Primaria (nivel 1)","Valparaíso",5,2015,250067.652895545
+"235","Hombre","Educación Primaria (nivel 1)",NA,NA,2012,150832.216486543
+"236","Hombre","Educación primaria (nivel 2)","Antofagasta",2,2010,300293.59953024
+"237","Hombre","Educación primaria (nivel 2)","Antofagasta",2,2011,300000
+"238","Hombre","Educación primaria (nivel 2)","Araucanía",9,2010,137000
+"239","Hombre","Educación primaria (nivel 2)","Araucanía",9,2011,180869.977255496
+"240","Hombre","Educación primaria (nivel 2)","Arica y Parinacota",15,2010,180176.159718144
+"241","Hombre","Educación primaria (nivel 2)","Arica y Parinacota",15,2011,190026.500204117
+"242","Hombre","Educación primaria (nivel 2)","Atacama",3,2010,241271.77607529
+"243","Hombre","Educación primaria (nivel 2)","Atacama",3,2011,250000
+"244","Hombre","Educación primaria (nivel 2)","Aysén",11,2010,249829.018075232
+"245","Hombre","Educación primaria (nivel 2)","Aysén",11,2011,299412.602218648
+"246","Hombre","Educación primaria (nivel 2)","Bíobío",8,2010,180176.159718144
+"247","Hombre","Educación primaria (nivel 2)","Bíobío",8,2011,200000
+"248","Hombre","Educación primaria (nivel 2)","Coquimbo",4,2010,199863.214460186
+"249","Hombre","Educación primaria (nivel 2)","Coquimbo",4,2011,229264.830309298
+"250","Hombre","Educación primaria (nivel 2)","Los Lagos",10,2010,178722.249531474
+"251","Hombre","Educación primaria (nivel 2)","Los Lagos",10,2011,200000
+"252","Hombre","Educación primaria (nivel 2)","Los Ríos",14,2010,171896.614156359
+"253","Hombre","Educación primaria (nivel 2)","Los Ríos",14,2011,189172.091545305
+"254","Hombre","Educación primaria (nivel 2)","Magallanes",12,2010,263256.955903041
+"255","Hombre","Educación primaria (nivel 2)","Magallanes",12,2011,207246.463763121
+"256","Hombre","Educación primaria (nivel 2)","Maule",7,2010,174880.312652662
+"257","Hombre","Educación primaria (nivel 2)","Maule",7,2011,182879.643669446
+"258","Hombre","Educación primaria (nivel 2)","Metropolitana",13,2010,207508.795517334
+"259","Hombre","Educación primaria (nivel 2)","Metropolitana",13,2011,221421.324253675
+"260","Hombre","Educación primaria (nivel 2)","O'Higgins",6,2010,189063.943242674
+"261","Hombre","Educación primaria (nivel 2)","O'Higgins",6,2011,209250.908238175
+"262","Hombre","Educación primaria (nivel 2)","Tarapacá",1,2010,195042.406205417
+"263","Hombre","Educación primaria (nivel 2)","Tarapacá",1,2011,180869.977255496
+"264","Hombre","Educación primaria (nivel 2)","Valparaíso",5,2010,175171.26639264
+"265","Hombre","Educación primaria (nivel 2)","Valparaíso",5,2011,210424.388783636
+"266","Hombre","Educación primaria (nivel 2)",NA,NA,2010,193654.600528905
+"267","Hombre","Educación primaria (nivel 2)",NA,NA,2011,398332.458366268
+"268","Hombre","Educación Primaria (nivel 2)","Antofagasta",2,2012,391297.717732477
+"269","Hombre","Educación Primaria (nivel 2)","Antofagasta",2,2013,453469.001817073
+"270","Hombre","Educación Primaria (nivel 2)","Antofagasta",2,2014,424205.210944854
+"271","Hombre","Educación Primaria (nivel 2)","Antofagasta",2,2015,300081.183474654
+"272","Hombre","Educación Primaria (nivel 2)","Araucanía",9,2012,193788.739868133
+"273","Hombre","Educación Primaria (nivel 2)","Araucanía",9,2013,198904.355396444
+"274","Hombre","Educación Primaria (nivel 2)","Araucanía",9,2014,200000
+"275","Hombre","Educación Primaria (nivel 2)","Araucanía",9,2015,240978.385384617
+"276","Hombre","Educación Primaria (nivel 2)","Arica y Parinacota",15,2012,251340.593965262
+"277","Hombre","Educación Primaria (nivel 2)","Arica y Parinacota",15,2013,273731.682423071
+"278","Hombre","Educación Primaria (nivel 2)","Arica y Parinacota",15,2014,255559.048695229
+"279","Hombre","Educación Primaria (nivel 2)","Arica y Parinacota",15,2015,300081.183474654
+"280","Hombre","Educación Primaria (nivel 2)","Atacama",3,2012,267698.784958338
+"281","Hombre","Educación Primaria (nivel 2)","Atacama",3,2013,298867.110231973
+"282","Hombre","Educación Primaria (nivel 2)","Atacama",3,2014,332198.435796683
+"283","Hombre","Educación Primaria (nivel 2)","Atacama",3,2015,350081.411811106
+"284","Hombre","Educación Primaria (nivel 2)","Aysén",11,2012,300000
+"285","Hombre","Educación Primaria (nivel 2)","Aysén",11,2013,299629.799026525
+"286","Hombre","Educación Primaria (nivel 2)","Aysén",11,2014,282775.296929386
+"287","Hombre","Educación Primaria (nivel 2)","Aysén",11,2015,350094.714053763
+"288","Hombre","Educación Primaria (nivel 2)","Bíobío",8,2012,200000
+"289","Hombre","Educación Primaria (nivel 2)","Bíobío",8,2013,215291.459557163
+"290","Hombre","Educación Primaria (nivel 2)","Bíobío",8,2014,239964.485309906
+"291","Hombre","Educación Primaria (nivel 2)","Bíobío",8,2015,280075.77124301
+"292","Hombre","Educación Primaria (nivel 2)","Coquimbo",4,2012,230728.933210189
+"293","Hombre","Educación Primaria (nivel 2)","Coquimbo",4,2013,250338.906461818
+"294","Hombre","Educación Primaria (nivel 2)","Coquimbo",4,2014,260000
+"295","Hombre","Educación Primaria (nivel 2)","Coquimbo",4,2015,281910.876541846
+"296","Hombre","Educación Primaria (nivel 2)","Los Lagos",10,2012,194084.869148544
+"297","Hombre","Educación Primaria (nivel 2)","Los Lagos",10,2013,239565.534457961
+"298","Hombre","Educación Primaria (nivel 2)","Los Lagos",10,2014,230000
+"299","Hombre","Educación Primaria (nivel 2)","Los Lagos",10,2015,280000
+"300","Hombre","Educación Primaria (nivel 2)","Los Ríos",14,2012,212273.295478216
+"301","Hombre","Educación Primaria (nivel 2)","Los Ríos",14,2013,220298.237686399
+"302","Hombre","Educación Primaria (nivel 2)","Los Ríos",14,2014,242883.011437653
+"303","Hombre","Educación Primaria (nivel 2)","Los Ríos",14,2015,250000
+"304","Hombre","Educación Primaria (nivel 2)","Magallanes",12,2012,338462.350376029
+"305","Hombre","Educación Primaria (nivel 2)","Magallanes",12,2013,351895.095936273
+"306","Hombre","Educación Primaria (nivel 2)","Magallanes",12,2014,337025.058173575
+"307","Hombre","Educación Primaria (nivel 2)","Magallanes",12,2015,400195.860524793
+"308","Hombre","Educación Primaria (nivel 2)","Maule",7,2012,201124.216734242
+"309","Hombre","Educación Primaria (nivel 2)","Maule",7,2013,249055.92519331
+"310","Hombre","Educación Primaria (nivel 2)","Maule",7,2014,246775.206975468
+"311","Hombre","Educación Primaria (nivel 2)","Maule",7,2015,240977.906555597
+"312","Hombre","Educación Primaria (nivel 2)","Metropolitana",13,2012,251127.577319588
+"313","Hombre","Educación Primaria (nivel 2)","Metropolitana",13,2013,270000
+"314","Hombre","Educación Primaria (nivel 2)","Metropolitana",13,2014,302855.249851577
+"315","Hombre","Educación Primaria (nivel 2)","Metropolitana",13,2015,301222.383194496
+"316","Hombre","Educación Primaria (nivel 2)","O'Higgins",6,2012,213342.388805778
+"317","Hombre","Educación Primaria (nivel 2)","O'Higgins",6,2013,249055.92519331
+"318","Hombre","Educación Primaria (nivel 2)","O'Higgins",6,2014,256342.130763883
+"319","Hombre","Educación Primaria (nivel 2)","O'Higgins",6,2015,261059.398768563
+"320","Hombre","Educación Primaria (nivel 2)","Tarapacá",1,2012,269088.912229727
+"321","Hombre","Educación Primaria (nivel 2)","Tarapacá",1,2013,249055.92519331
+"322","Hombre","Educación Primaria (nivel 2)","Tarapacá",1,2014,302503.882987206
+"323","Hombre","Educación Primaria (nivel 2)","Tarapacá",1,2015,303577.813623403
+"324","Hombre","Educación Primaria (nivel 2)","Valparaíso",5,2012,200902.06185567
+"325","Hombre","Educación Primaria (nivel 2)","Valparaíso",5,2013,249055.92519331
+"326","Hombre","Educación Primaria (nivel 2)","Valparaíso",5,2014,259951.246952935
+"327","Hombre","Educación Primaria (nivel 2)","Valparaíso",5,2015,293459.783375201
+"328","Hombre","Educación Primaria (nivel 2)",NA,NA,2012,129268.822138452
+"329","Hombre","Educación secundaria","Antofagasta",2,2010,370050.641054245
+"330","Hombre","Educación secundaria","Antofagasta",2,2011,400000
+"331","Hombre","Educación secundaria","Araucanía",9,2010,189870.053737176
+"332","Hombre","Educación secundaria","Araucanía",9,2011,236016.185316551
+"333","Hombre","Educación secundaria","Arica y Parinacota",15,2010,249829.018075232
+"334","Hombre","Educación secundaria","Arica y Parinacota",15,2011,249200.902510106
+"335","Hombre","Educación secundaria","Atacama",3,2010,308036.012255001
+"336","Hombre","Educación secundaria","Atacama",3,2011,331594.958301743
+"337","Hombre","Educación secundaria","Aysén",11,2010,338099.795690902
+"338","Hombre","Educación secundaria","Aysén",11,2011,346894.956535339
+"339","Hombre","Educación secundaria","Bíobío",8,2010,230225.092973184
+"340","Hombre","Educación secundaria","Bíobío",8,2011,249200.902510106
+"341","Hombre","Educación secundaria","Coquimbo",4,2010,249829.018075232
+"342","Hombre","Educación secundaria","Coquimbo",4,2011,279677.762121258
+"343","Hombre","Educación secundaria","Los Lagos",10,2010,229842.696629213
+"344","Hombre","Educación secundaria","Los Lagos",10,2011,269136.974710915
+"345","Hombre","Educación secundaria","Los Ríos",14,2010,193900.825495631
+"346","Hombre","Educación secundaria","Los Ríos",14,2011,221088.965338776
+"347","Hombre","Educación secundaria","Magallanes",12,2010,330000
+"348","Hombre","Educación secundaria","Magallanes",12,2011,350000
+"349","Hombre","Educación secundaria","Maule",7,2010,208011.672174907
+"350","Hombre","Educación secundaria","Maule",7,2011,209074.802340615
+"351","Hombre","Educación secundaria","Metropolitana",13,2010,250000
+"352","Hombre","Educación secundaria","Metropolitana",13,2011,279105.010811319
+"353","Hombre","Educación secundaria","O'Higgins",6,2010,267533.516131173
+"354","Hombre","Educación secundaria","O'Higgins",6,2011,249801.56375906
+"355","Hombre","Educación secundaria","Tarapacá",1,2010,300293.59953024
+"356","Hombre","Educación secundaria","Tarapacá",1,2011,309009.119112532
+"357","Hombre","Educación secundaria","Valparaíso",5,2010,230000
+"358","Hombre","Educación secundaria","Valparaíso",5,2011,250000
+"359","Hombre","Educación secundaria",NA,NA,2010,143942.240608986
+"360","Hombre","Educación secundaria",NA,NA,2011,223296.938139723
+"361","Hombre","Educación Secundaria","Antofagasta",2,2012,500000
+"362","Hombre","Educación Secundaria","Antofagasta",2,2013,480015.59145917
+"363","Hombre","Educación Secundaria","Antofagasta",2,2014,450000
+"364","Hombre","Educación Secundaria","Antofagasta",2,2015,502037.30532416
+"365","Hombre","Educación Secundaria","Araucanía",9,2012,251405.270917803
+"366","Hombre","Educación Secundaria","Araucanía",9,2013,260352.46272029
+"367","Hombre","Educación Secundaria","Araucanía",9,2014,299947.698555
+"368","Hombre","Educación Secundaria","Araucanía",9,2015,301328.134478188
+"369","Hombre","Educación Secundaria","Arica y Parinacota",15,2012,295634.844789432
+"370","Hombre","Educación Secundaria","Arica y Parinacota",15,2013,300406.687754181
+"371","Hombre","Educación Secundaria","Arica y Parinacota",15,2014,303126.7765776
+"372","Hombre","Educación Secundaria","Arica y Parinacota",15,2015,374032.854979121
+"373","Hombre","Educación Secundaria","Atacama",3,2012,373289.629687256
+"374","Hombre","Educación Secundaria","Atacama",3,2013,400000
+"375","Hombre","Educación Secundaria","Atacama",3,2014,401856.830591384
+"376","Hombre","Educación Secundaria","Atacama",3,2015,431443.158237546
+"377","Hombre","Educación Secundaria","Aysén",11,2012,392912.088760122
+"378","Hombre","Educación Secundaria","Aysén",11,2013,398489.480309297
+"379","Hombre","Educación Secundaria","Aysén",11,2014,399602.569009319
+"380","Hombre","Educación Secundaria","Aysén",11,2015,450000
+"381","Hombre","Educación Secundaria","Bíobío",8,2012,265842.645989354
+"382","Hombre","Educación Secundaria","Bíobío",8,2013,298867.110231973
+"383","Hombre","Educación Secundaria","Bíobío",8,2014,303370.954506887
+"384","Hombre","Educación Secundaria","Bíobío",8,2015,348824.975498629
+"385","Hombre","Educación Secundaria","Coquimbo",4,2012,342835.72519494
+"386","Hombre","Educación Secundaria","Coquimbo",4,2013,332249.295038437
+"387","Hombre","Educación Secundaria","Coquimbo",4,2014,362526.46457954
+"388","Hombre","Educación Secundaria","Coquimbo",4,2015,373406.761207944
+"389","Hombre","Educación Secundaria","Los Lagos",10,2012,288385.805056476
+"390","Hombre","Educación Secundaria","Los Lagos",10,2013,298867.110231973
+"391","Hombre","Educación Secundaria","Los Lagos",10,2014,303126.7765776
+"392","Hombre","Educación Secundaria","Los Lagos",10,2015,349417.964505615
+"393","Hombre","Educación Secundaria","Los Ríos",14,2012,260570.553522693
+"394","Hombre","Educación Secundaria","Los Ríos",14,2013,280000
+"395","Hombre","Educación Secundaria","Los Ríos",14,2014,300000
+"396","Hombre","Educación Secundaria","Los Ríos",14,2015,348615.100344231
+"397","Hombre","Educación Secundaria","Magallanes",12,2012,358671.427391931
+"398","Hombre","Educación Secundaria","Magallanes",12,2013,402632.754486036
+"399","Hombre","Educación Secundaria","Magallanes",12,2014,404885.360214033
+"400","Hombre","Educación Secundaria","Magallanes",12,2015,431448.911781208
+"401","Hombre","Educación Secundaria","Maule",7,2012,250000
+"402","Hombre","Educación Secundaria","Maule",7,2013,280379.575237236
+"403","Hombre","Educación Secundaria","Maule",7,2014,287970.43774872
+"404","Hombre","Educación Secundaria","Maule",7,2015,314864.86131207
+"405","Hombre","Educación Secundaria","Metropolitana",13,2012,306397.232134103
+"406","Hombre","Educación Secundaria","Metropolitana",13,2013,350000
+"407","Hombre","Educación Secundaria","Metropolitana",13,2014,350000
+"408","Hombre","Educación Secundaria","Metropolitana",13,2015,400000
+"409","Hombre","Educación Secundaria","O'Higgins",6,2012,277443.332097968
+"410","Hombre","Educación Secundaria","O'Higgins",6,2013,300000
+"411","Hombre","Educación Secundaria","O'Higgins",6,2014,304942.808925558
+"412","Hombre","Educación Secundaria","O'Higgins",6,2015,329500.640956512
+"413","Hombre","Educación Secundaria","Tarapacá",1,2012,351578.608247422
+"414","Hombre","Educación Secundaria","Tarapacá",1,2013,398489.480309297
+"415","Hombre","Educación Secundaria","Tarapacá",1,2014,450000
+"416","Hombre","Educación Secundaria","Tarapacá",1,2015,400000
+"417","Hombre","Educación Secundaria","Valparaíso",5,2012,280000
+"418","Hombre","Educación Secundaria","Valparaíso",5,2013,314141.970388786
+"419","Hombre","Educación Secundaria","Valparaíso",5,2014,329938.121132571
+"420","Hombre","Educación Secundaria","Valparaíso",5,2015,350012.95656033
+"421","Hombre","Educación Secundaria",NA,NA,2012,200158.688173301
+"422","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2010,530000
+"423","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2011,602223.380805305
+"424","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2012,603619.755904573
+"425","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2013,697356.590541269
+"426","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2014,700000
+"427","Hombre","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2015,768242.463668844
+"428","Hombre","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2010,319910.341243608
+"429","Hombre","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2011,221657.84810573
+"430","Hombre","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2012,384328.11301373
+"431","Hombre","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2013,398489.480309297
+"432","Hombre","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2014,436458.738010435
+"433","Hombre","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2015,400108.244632872
+"434","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2010,442248.002200557
+"435","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2011,396933.921436425
+"436","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2012,402248.433468484
+"437","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2013,422153.51844766
+"438","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2014,451075.262739237
+"439","Hombre","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2015,400023.2877099
+"440","Hombre","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2010,476172.173432632
+"441","Hombre","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2011,466816.138713433
+"442","Hombre","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2012,499843.952649391
+"443","Hombre","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2013,594827.118371604
+"444","Hombre","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2014,528598.950161385
+"445","Hombre","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2015,708434.629825873
+"446","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2010,529655.97866621
+"447","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2011,564072.948529631
+"448","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2012,693879.225881792
+"449","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2013,601467.582026637
+"450","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2014,450000
+"451","Hombre","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2015,600053.608768138
+"452","Hombre","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2010,300211.515975769
+"453","Hombre","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2011,368668.905342068
+"454","Hombre","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2012,401198.444258056
+"455","Hombre","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2013,366634.4049275
+"456","Hombre","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2014,399924.995312207
+"457","Hombre","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2015,477269.217277636
+"458","Hombre","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2010,458037.028510413
+"459","Hombre","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2011,401504.38019872
+"460","Hombre","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2012,415814.701223758
+"461","Hombre","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2013,498111.850386621
+"462","Hombre","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2014,505211.294296
+"463","Hombre","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2015,471226.081984721
+"464","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2010,428906.55352492
+"465","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2011,478726.092096474
+"466","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2012,452023.105831313
+"467","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2013,499274.785517168
+"468","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2014,516118.273668689
+"469","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2015,500038.706725807
+"470","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2010,569431.666158536
+"471","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2011,328822.407592723
+"472","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2012,455447.407166833
+"473","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2013,429909.663250108
+"474","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2014,538611.214567194
+"475","Hombre","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2015,492047.901862146
+"476","Hombre","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2010,642312.00610548
+"477","Hombre","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2011,550272.836482487
+"478","Hombre","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2012,520631.025867761
+"479","Hombre","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2013,627987.663072068
+"480","Hombre","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2014,653322.63632117
+"481","Hombre","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2015,702852.227453824
+"482","Hombre","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2010,300000
+"483","Hombre","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2011,261160.706910742
+"484","Hombre","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2012,484853.704457685
+"485","Hombre","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2013,442556.743241525
+"486","Hombre","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2014,399924.995312207
+"487","Hombre","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2015,400000
+"488","Hombre","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2010,350000
+"489","Hombre","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2011,401933.282789992
+"490","Hombre","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2012,401804.12371134
+"491","Hombre","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2013,479455.474916961
+"492","Hombre","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2014,495025.493834186
+"493","Hombre","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2015,501332.357233372
+"494","Hombre","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2010,301779.720215224
+"495","Hombre","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2011,334401.375060435
+"496","Hombre","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2012,402248.433468484
+"497","Hombre","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2013,498111.850386621
+"498","Hombre","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2014,429342.283865479
+"499","Hombre","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2015,500692.567693479
+"500","Hombre","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2010,449979.033451964
+"501","Hombre","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2011,501327.510926988
+"502","Hombre","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2012,474882.350896983
+"503","Hombre","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2013,601057.996857253
+"504","Hombre","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2014,604256.039780457
+"505","Hombre","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2015,500905.241805163
+"506","Hombre","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2010,343363.143910267
+"507","Hombre","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2011,350000
+"508","Hombre","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2012,375572.918903623
+"509","Hombre","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2013,424171.694742767
+"510","Hombre","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2014,479956.691301811
+"511","Hombre","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2015,489044.226555876
+"512","Hombre","Educación Técnica (Educación Superior no Universitaria)",NA,NA,2010,80078.293208064
+"513","Hombre","Educación Técnica (Educación Superior no Universitaria)",NA,NA,2011,174440.631757074
+"514","Hombre","Educación universitaria","Antofagasta",2,2010,899543.593100638
+"515","Hombre","Educación universitaria","Antofagasta",2,2011,780803.457165437
+"516","Hombre","Educación universitaria","Araucanía",9,2010,524961.286709103
+"517","Hombre","Educación universitaria","Araucanía",9,2011,500000
+"518","Hombre","Educación universitaria","Arica y Parinacota",15,2010,436424.811328979
+"519","Hombre","Educación universitaria","Arica y Parinacota",15,2011,498401.805020212
+"520","Hombre","Educación universitaria","Atacama",3,2010,693135.221862842
+"521","Hombre","Educación universitaria","Atacama",3,2011,666276.492279252
+"522","Hombre","Educación universitaria","Aysén",11,2010,791847.506235527
+"523","Hombre","Educación universitaria","Aysén",11,2011,946345.933260577
+"524","Hombre","Educación universitaria","Bíobío",8,2010,499658.036150464
+"525","Hombre","Educación universitaria","Bíobío",8,2011,548241.985522234
+"526","Hombre","Educación universitaria","Coquimbo",4,2010,600000
+"527","Hombre","Educación universitaria","Coquimbo",4,2011,463485.710717421
+"528","Hombre","Educación universitaria","Los Lagos",10,2010,561009.186058645
+"529","Hombre","Educación universitaria","Los Lagos",10,2011,600000
+"530","Hombre","Educación universitaria","Los Ríos",14,2010,504644.527146952
+"531","Hombre","Educación universitaria","Los Ríos",14,2011,504839.526138036
+"532","Hombre","Educación universitaria","Magallanes",12,2010,806919.430893915
+"533","Hombre","Educación universitaria","Magallanes",12,2011,996803.610040425
+"534","Hombre","Educación universitaria","Maule",7,2010,552404.472974452
+"535","Hombre","Educación universitaria","Maule",7,2011,499427.570459539
+"536","Hombre","Educación universitaria","Metropolitana",13,2010,771258.964451891
+"537","Hombre","Educación universitaria","Metropolitana",13,2011,700000
+"538","Hombre","Educación universitaria","O'Higgins",6,2010,692445.288976538
+"539","Hombre","Educación universitaria","O'Higgins",6,2011,551745.299775996
+"540","Hombre","Educación universitaria","Tarapacá",1,2010,599589.643380557
+"541","Hombre","Educación universitaria","Tarapacá",1,2011,534710.581719748
+"542","Hombre","Educación universitaria","Valparaíso",5,2010,500000
+"543","Hombre","Educación universitaria","Valparaíso",5,2011,500000
+"544","Hombre","Educación universitaria",NA,NA,2010,203964.548985105
+"545","Hombre","Educación universitaria",NA,NA,2011,428325.764484064
+"546","Hombre","Educación Universitaria","Antofagasta",2,2012,843905.222767928
+"547","Hombre","Educación Universitaria","Antofagasta",2,2013,906616.665936729
+"548","Hombre","Educación Universitaria","Antofagasta",2,2014,995874.308357773
+"549","Hombre","Educación Universitaria","Antofagasta",2,2015,803259.688518656
+"550","Hombre","Educación Universitaria","Araucanía",9,2012,599702.978918827
+"551","Hombre","Educación Universitaria","Araucanía",9,2013,517248.602351993
+"552","Hombre","Educación Universitaria","Araucanía",9,2014,606253.5531552
+"553","Hombre","Educación Universitaria","Araucanía",9,2015,602608.345547896
+"554","Hombre","Educación Universitaria","Arica y Parinacota",15,2012,461071.433475334
+"555","Hombre","Educación Universitaria","Arica y Parinacota",15,2013,498111.850386621
+"556","Hombre","Educación Universitaria","Arica y Parinacota",15,2014,600000
+"557","Hombre","Educación Universitaria","Arica y Parinacota",15,2015,600000
+"558","Hombre","Educación Universitaria","Atacama",3,2012,731122.922389165
+"559","Hombre","Educación Universitaria","Atacama",3,2013,799035.216793141
+"560","Hombre","Educación Universitaria","Atacama",3,2014,782486.017016633
+"561","Hombre","Educación Universitaria","Atacama",3,2015,670173.177100971
+"562","Hombre","Educación Universitaria","Aysén",11,2012,804496.866936968
+"563","Hombre","Educación Universitaria","Aysén",11,2013,917255.604087849
+"564","Hombre","Educación Universitaria","Aysén",11,2014,1002988.2912584
+"565","Hombre","Educación Universitaria","Aysén",11,2015,1309774.51176791
+"566","Hombre","Educación Universitaria","Bíobío",8,2012,548100.722229952
+"567","Hombre","Educación Universitaria","Bíobío",8,2013,568267.229520409
+"568","Hombre","Educación Universitaria","Bíobío",8,2014,561179.032441911
+"569","Hombre","Educación Universitaria","Bíobío",8,2015,627920.028676609
+"570","Hombre","Educación Universitaria","Coquimbo",4,2012,536140.441002394
+"571","Hombre","Educación Universitaria","Coquimbo",4,2013,646177.457287117
+"572","Hombre","Educación Universitaria","Coquimbo",4,2014,704696.937331826
+"573","Hombre","Educación Universitaria","Coquimbo",4,2015,700000
+"574","Hombre","Educación Universitaria","Los Lagos",10,2012,741774.429085554
+"575","Hombre","Educación Universitaria","Los Lagos",10,2013,675303.601610877
+"576","Hombre","Educación Universitaria","Los Lagos",10,2014,802584.506005334
+"577","Hombre","Educación Universitaria","Los Lagos",10,2015,802969.889966682
+"578","Hombre","Educación Universitaria","Los Ríos",14,2012,700248.314773663
+"579","Hombre","Educación Universitaria","Los Ríos",14,2013,673098.747551395
+"580","Hombre","Educación Universitaria","Los Ríos",14,2014,599936.115688068
+"581","Hombre","Educación Universitaria","Los Ríos",14,2015,500014.136751745
+"582","Hombre","Educación Universitaria","Magallanes",12,2012,700000
+"583","Hombre","Educación Universitaria","Magallanes",12,2013,980310.062947963
+"584","Hombre","Educación Universitaria","Magallanes",12,2014,794129.181168186
+"585","Hombre","Educación Universitaria","Magallanes",12,2015,1144398.73940786
+"586","Hombre","Educación Universitaria","Maule",7,2012,502255.154639175
+"587","Hombre","Educación Universitaria","Maule",7,2013,500064.794651995
+"588","Hombre","Educación Universitaria","Maule",7,2014,530570.183256396
+"589","Hombre","Educación Universitaria","Maule",7,2015,723441.877913195
+"590","Hombre","Educación Universitaria","Metropolitana",13,2012,804002.922845533
+"591","Hombre","Educación Universitaria","Metropolitana",13,2013,800158.824837635
+"592","Hombre","Educación Universitaria","Metropolitana",13,2014,808338.0708736
+"593","Hombre","Educación Universitaria","Metropolitana",13,2015,879643.510705849
+"594","Hombre","Educación Universitaria","O'Higgins",6,2012,698782.730595692
+"595","Hombre","Educación Universitaria","O'Higgins",6,2013,684244.998279825
+"596","Hombre","Educación Universitaria","O'Higgins",6,2014,600000
+"597","Hombre","Educación Universitaria","O'Higgins",6,2015,752706.111079765
+"598","Hombre","Educación Universitaria","Tarapacá",1,2012,600000
+"599","Hombre","Educación Universitaria","Tarapacá",1,2013,698259.230267358
+"600","Hombre","Educación Universitaria","Tarapacá",1,2014,700000
+"601","Hombre","Educación Universitaria","Tarapacá",1,2015,800216.489265744
+"602","Hombre","Educación Universitaria","Valparaíso",5,2012,553091.596019166
+"603","Hombre","Educación Universitaria","Valparaíso",5,2013,598526.470580612
+"604","Hombre","Educación Universitaria","Valparaíso",5,2014,649878.117382337
+"605","Hombre","Educación Universitaria","Valparaíso",5,2015,702388.773333945
+"606","Hombre","Educación Universitaria",NA,NA,2012,824149.765951277
+"607","Hombre","Nivel ignorado","Antofagasta",2,2011,300000
+"608","Hombre","Nivel ignorado","Antofagasta",2,2013,450610.031631272
+"609","Hombre","Nivel ignorado","Araucanía",9,2011,256232.46777862
+"610","Hombre","Nivel ignorado","Araucanía",9,2014,2616994.50445328
+"611","Hombre","Nivel ignorado","Arica y Parinacota",15,2010,189478.843941567
+"612","Hombre","Nivel ignorado","Arica y Parinacota",15,2011,960510.450229349
+"613","Hombre","Nivel ignorado","Arica y Parinacota",15,2012,214452.667989549
+"614","Hombre","Nivel ignorado","Arica y Parinacota",15,2013,672409.233467407
+"615","Hombre","Nivel ignorado","Arica y Parinacota",15,2014,357712.824467053
+"616","Hombre","Nivel ignorado","Arica y Parinacota",15,2015,332545.296351313
+"617","Hombre","Nivel ignorado","Atacama",3,2010,820802.505382656
+"618","Hombre","Nivel ignorado","Atacama",3,2011,2660000
+"619","Hombre","Nivel ignorado","Atacama",3,2014,1515633.882888
+"620","Hombre","Nivel ignorado","Bíobío",8,2010,329539.475742405
+"621","Hombre","Nivel ignorado","Bíobío",8,2012,172703.599364735
+"622","Hombre","Nivel ignorado","Bíobío",8,2013,238723.140644342
+"623","Hombre","Nivel ignorado","Bíobío",8,2014,422686.276010157
+"624","Hombre","Nivel ignorado","Bíobío",8,2015,479976.227201708
+"625","Hombre","Nivel ignorado","Coquimbo",4,2010,1204212.17116848
+"626","Hombre","Nivel ignorado","Coquimbo",4,2011,1719486.22731973
+"627","Hombre","Nivel ignorado","Coquimbo",4,2012,3519673.79284924
+"628","Hombre","Nivel ignorado","Coquimbo",4,2014,959901.4591624
+"629","Hombre","Nivel ignorado","Los Lagos",10,2010,149897.410845139
+"630","Hombre","Nivel ignorado","Los Lagos",10,2011,481583.19658515
+"631","Hombre","Nivel ignorado","Los Lagos",10,2012,150994.723636873
+"632","Hombre","Nivel ignorado","Los Lagos",10,2013,380625.232793892
+"633","Hombre","Nivel ignorado","Los Lagos",10,2014,201891.810450827
+"634","Hombre","Nivel ignorado","Los Lagos",10,2015,160000
+"635","Hombre","Nivel ignorado","Los Ríos",14,2012,301686.325101363
+"636","Hombre","Nivel ignorado","Los Ríos",14,2015,250067.652895545
+"637","Hombre","Nivel ignorado","Magallanes",12,2010,500000
+"638","Hombre","Nivel ignorado","Magallanes",12,2012,452029.639175258
+"639","Hombre","Nivel ignorado","Maule",7,2010,185240.241944579
+"640","Hombre","Nivel ignorado","Maule",7,2011,166910.83311559
+"641","Hombre","Nivel ignorado","Maule",7,2012,130730.740877257
+"642","Hombre","Nivel ignorado","Maule",7,2013,150203.34387709
+"643","Hombre","Nivel ignorado","Maule",7,2014,224957.809863117
+"644","Hombre","Nivel ignorado","Metropolitana",13,2010,249829.018075232
+"645","Hombre","Nivel ignorado","Metropolitana",13,2011,253845.290514479
+"646","Hombre","Nivel ignorado","Metropolitana",13,2012,243933.683908714
+"647","Hombre","Nivel ignorado","Metropolitana",13,2013,260917.974616709
+"648","Hombre","Nivel ignorado","Metropolitana",13,2014,279982.921199034
+"649","Hombre","Nivel ignorado","Metropolitana",13,2015,529057.160477695
+"650","Hombre","Nivel ignorado","O'Higgins",6,2010,199915.985988028
+"651","Hombre","Nivel ignorado","O'Higgins",6,2011,200966.641394996
+"652","Hombre","Nivel ignorado","O'Higgins",6,2012,300800
+"653","Hombre","Nivel ignorado","O'Higgins",6,2014,220000
+"654","Hombre","Nivel ignorado","O'Higgins",6,2015,284724.683763492
+"655","Hombre","Nivel ignorado","Tarapacá",1,2010,600587.19906048
+"656","Hombre","Nivel ignorado","Tarapacá",1,2011,992241.76656966
+"657","Hombre","Nivel ignorado","Tarapacá",1,2013,747167.775579931
+"658","Hombre","Nivel ignorado","Valparaíso",5,2010,200838.414613038
+"659","Hombre","Nivel ignorado","Valparaíso",5,2011,190603.186553713
+"660","Hombre","Nivel ignorado","Valparaíso",5,2012,804000
+"661","Hombre","Nivel ignorado","Valparaíso",5,2013,439722.370570474
+"662","Hombre","Nivel ignorado","Valparaíso",5,2014,448576.541575073
+"663","Hombre","Nivel ignorado","Valparaíso",5,2015,1039329.4347709
+"664","Hombre","Nunca estudió","Antofagasta",2,2010,501444.531676923
+"665","Hombre","Nunca estudió","Antofagasta",2,2011,98271.901378636
+"666","Hombre","Nunca estudió","Antofagasta",2,2013,548625.054589607
+"667","Hombre","Nunca estudió","Antofagasta",2,2014,371943.227356829
+"668","Hombre","Nunca estudió","Araucanía",9,2010,69748.9935752007
+"669","Hombre","Nunca estudió","Araucanía",9,2011,76702.0385949303
+"670","Hombre","Nunca estudió","Araucanía",9,2013,77313.3259244638
+"671","Hombre","Nunca estudió","Araucanía",9,2014,50059.1253705023
+"672","Hombre","Nunca estudió","Araucanía",9,2015,100367.013332032
+"673","Hombre","Nunca estudió","Arica y Parinacota",15,2010,89220.6135343176
+"674","Hombre","Nunca estudió","Arica y Parinacota",15,2011,81589.0327367534
+"675","Hombre","Nunca estudió","Arica y Parinacota",15,2013,222343.986032473
+"676","Hombre","Nunca estudió","Arica y Parinacota",15,2014,142646.878063932
+"677","Hombre","Nunca estudió","Arica y Parinacota",15,2015,200074.77147039
+"678","Hombre","Nunca estudió","Atacama",3,2010,120052.969679822
+"679","Hombre","Nunca estudió","Atacama",3,2011,140314.477615729
+"680","Hombre","Nunca estudió","Atacama",3,2013,240145.904283348
+"681","Hombre","Nunca estudió","Atacama",3,2014,86060.1762438384
+"682","Hombre","Nunca estudió","Atacama",3,2015,235905.618689478
+"683","Hombre","Nunca estudió","Aysén",11,2010,180026.461616352
+"684","Hombre","Nunca estudió","Aysén",11,2011,189683.575853925
+"685","Hombre","Nunca estudió","Aysén",11,2013,198017.522263624
+"686","Hombre","Nunca estudió","Aysén",11,2014,248091.620685067
+"687","Hombre","Nunca estudió","Aysén",11,2015,190637.448447046
+"688","Hombre","Nunca estudió","Bíobío",8,2010,120000
+"689","Hombre","Nunca estudió","Bíobío",8,2011,134350.735229626
+"690","Hombre","Nunca estudió","Bíobío",8,2013,98045.8561559069
+"691","Hombre","Nunca estudió","Bíobío",8,2014,151563.3882888
+"692","Hombre","Nunca estudió","Bíobío",8,2015,190051.416200614
+"693","Hombre","Nunca estudió","Coquimbo",4,2010,99963.0105744278
+"694","Hombre","Nunca estudió","Coquimbo",4,2011,119640.376370146
+"695","Hombre","Nunca estudió","Coquimbo",4,2013,106198.097502454
+"696","Hombre","Nunca estudió","Coquimbo",4,2014,139363.572610447
+"697","Hombre","Nunca estudió","Coquimbo",4,2015,195456.075538313
+"698","Hombre","Nunca estudió","Los Lagos",10,2010,153217.297041027
+"699","Hombre","Nunca estudió","Los Lagos",10,2011,152668.683905803
+"700","Hombre","Nunca estudió","Los Lagos",10,2013,79708.9205621037
+"701","Hombre","Nunca estudió","Los Lagos",10,2014,161351.90339353
+"702","Hombre","Nunca estudió","Los Lagos",10,2015,200143.076075503
+"703","Hombre","Nunca estudió","Los Ríos",14,2010,137909.803959872
+"704","Hombre","Nunca estudió","Los Ríos",14,2011,53890.5673261004
+"705","Hombre","Nunca estudió","Los Ríos",14,2013,111682.326485206
+"706","Hombre","Nunca estudió","Los Ríos",14,2014,169679.360498956
+"707","Hombre","Nunca estudió","Los Ríos",14,2015,120999.609243293
+"708","Hombre","Nunca estudió","Magallanes",12,2010,102429.897410845
+"709","Hombre","Nunca estudió","Magallanes",12,2014,30312.67765776
+"710","Hombre","Nunca estudió","Magallanes",12,2015,40162.9844259328
+"711","Hombre","Nunca estudió","Maule",7,2010,139980.975434269
+"712","Hombre","Nunca estudió","Maule",7,2011,147676.762683649
+"713","Hombre","Nunca estudió","Maule",7,2013,199632.388634269
+"714","Hombre","Nunca estudió","Maule",7,2014,191274.746863658
+"715","Hombre","Nunca estudió","Maule",7,2015,165809.888929746
+"716","Hombre","Nunca estudió","Metropolitana",13,2010,171367.025802808
+"717","Hombre","Nunca estudió","Metropolitana",13,2011,141857.407579981
+"718","Hombre","Nunca estudió","Metropolitana",13,2013,208691.610642458
+"719","Hombre","Nunca estudió","Metropolitana",13,2014,291196.840690571
+"720","Hombre","Nunca estudió","Metropolitana",13,2015,240993.54175211
+"721","Hombre","Nunca estudió","O'Higgins",6,2010,149658.313075248
+"722","Hombre","Nunca estudió","O'Higgins",6,2011,179546.337944205
+"723","Hombre","Nunca estudió","O'Higgins",6,2013,219776.21123227
+"724","Hombre","Nunca estudió","O'Higgins",6,2014,227260.756749987
+"725","Hombre","Nunca estudió","O'Higgins",6,2015,300000
+"726","Hombre","Nunca estudió","Tarapacá",1,2010,124433.823528973
+"727","Hombre","Nunca estudió","Tarapacá",1,2011,81436.2321768136
+"728","Hombre","Nunca estudió","Tarapacá",1,2013,126569.089628765
+"729","Hombre","Nunca estudió","Tarapacá",1,2014,214955.207933385
+"730","Hombre","Nunca estudió","Tarapacá",1,2015,241650.212347494
+"731","Hombre","Nunca estudió","Valparaíso",5,2010,139991.803756158
+"732","Hombre","Nunca estudió","Valparaíso",5,2011,144362.103183644
+"733","Hombre","Nunca estudió","Valparaíso",5,2013,203326.188483233
+"734","Hombre","Nunca estudió","Valparaíso",5,2014,199978.20697911
+"735","Hombre","Nunca estudió","Valparaíso",5,2015,235831.020591488
+"736","Hombre","Nunca estudió",NA,NA,2010,115345.139527858
+"737","Hombre","Nunca estudió",NA,NA,2011,50160
+"738","Hombre","Nunca Estudió","Antofagasta",2,2012,184361.568620977
+"739","Hombre","Nunca Estudió","Araucanía",9,2012,68768.6467740637
+"740","Hombre","Nunca Estudió","Arica y Parinacota",15,2012,86062.0064750282
+"741","Hombre","Nunca Estudió","Atacama",3,2012,238248.13560947
+"742","Hombre","Nunca Estudió","Aysén",11,2012,186580.492062149
+"743","Hombre","Nunca Estudió","Bíobío",8,2012,153062.896378165
+"744","Hombre","Nunca Estudió","Coquimbo",4,2012,95711.1757850537
+"745","Hombre","Nunca Estudió","Los Lagos",10,2012,132987.075215332
+"746","Hombre","Nunca Estudió","Los Ríos",14,2012,89471.4040922006
+"747","Hombre","Nunca Estudió","Magallanes",12,2012,251753.251851212
+"748","Hombre","Nunca Estudió","Maule",7,2012,155133.423529163
+"749","Hombre","Nunca Estudió","Metropolitana",13,2012,181010.179553111
+"750","Hombre","Nunca Estudió","O'Higgins",6,2012,186819.424007772
+"751","Hombre","Nunca Estudió","Tarapacá",1,2012,75290.3248709867
+"752","Hombre","Nunca Estudió","Valparaíso",5,2012,123409.220739829
+"753","Hombre","Nunca Estudió",NA,NA,2012,50117
+"754","Hombre","Postítulo y Maestría","Antofagasta",2,2012,2082611.9884086
+"755","Hombre","Postítulo y Maestría","Antofagasta",2,2014,1818063.57619618
+"756","Hombre","Postítulo y Maestría","Antofagasta",2,2015,1855587.94385908
+"757","Hombre","Postítulo y Maestría","Araucanía",9,2012,1014914.14756919
+"758","Hombre","Postítulo y Maestría","Araucanía",9,2014,1276485.7017478
+"759","Hombre","Postítulo y Maestría","Araucanía",9,2015,1915832.6316825
+"760","Hombre","Postítulo y Maestría","Arica y Parinacota",15,2012,2471401.91227502
+"761","Hombre","Postítulo y Maestría","Arica y Parinacota",15,2014,1818760.6594656
+"762","Hombre","Postítulo y Maestría","Arica y Parinacota",15,2015,801717.114337512
+"763","Hombre","Postítulo y Maestría","Atacama",3,2012,993052.0427168
+"764","Hombre","Postítulo y Maestría","Atacama",3,2014,1561407.11175401
+"765","Hombre","Postítulo y Maestría","Atacama",3,2015,1098138.49432674
+"766","Hombre","Postítulo y Maestría","Aysén",11,2012,1993933.2510183
+"767","Hombre","Postítulo y Maestría","Aysén",11,2014,1253909.16053945
+"768","Hombre","Postítulo y Maestría","Aysén",11,2015,2771846.51316211
+"769","Hombre","Postítulo y Maestría","Bíobío",8,2012,1198554.96022249
+"770","Hombre","Postítulo y Maestría","Bíobío",8,2014,1199774.98593662
+"771","Hombre","Postítulo y Maestría","Bíobío",8,2015,1204935.0681238
+"772","Hombre","Postítulo y Maestría","Coquimbo",4,2012,1179627.87433813
+"773","Hombre","Postítulo y Maestría","Coquimbo",4,2014,2990601.25559131
+"774","Hombre","Postítulo y Maestría","Coquimbo",4,2015,2474955.42891662
+"775","Hombre","Postítulo y Maestría","Los Lagos",10,2012,1105858.43815423
+"776","Hombre","Postítulo y Maestría","Los Lagos",10,2014,3011034.73271996
+"777","Hombre","Postítulo y Maestría","Los Lagos",10,2015,2321207.19704762
+"778","Hombre","Postítulo y Maestría","Los Ríos",14,2012,1085170.41520083
+"779","Hombre","Postítulo y Maestría","Los Ríos",14,2014,1214001.81093105
+"780","Hombre","Postítulo y Maestría","Los Ríos",14,2015,799958.164825093
+"781","Hombre","Postítulo y Maestría","Magallanes",12,2012,2824939.52246477
+"782","Hombre","Postítulo y Maestría","Magallanes",12,2014,1512557.82301236
+"783","Hombre","Postítulo y Maestría","Magallanes",12,2015,1659535.68192262
+"784","Hombre","Postítulo y Maestría","Maule",7,2012,919340.183454366
+"785","Hombre","Postítulo y Maestría","Maule",7,2014,1790118.97818788
+"786","Hombre","Postítulo y Maestría","Maule",7,2015,2117391.71811297
+"787","Hombre","Postítulo y Maestría","Metropolitana",13,2012,1956095.20808322
+"788","Hombre","Postítulo y Maestría","Metropolitana",13,2014,1582535.64234508
+"789","Hombre","Postítulo y Maestría","Metropolitana",13,2015,1596203.46514724
+"790","Hombre","Postítulo y Maestría","O'Higgins",6,2012,1676679.62276873
+"791","Hombre","Postítulo y Maestría","O'Higgins",6,2014,807403.270614107
+"792","Hombre","Postítulo y Maestría","O'Higgins",6,2015,2080365.80358258
+"793","Hombre","Postítulo y Maestría","Tarapacá",1,2012,1562883.97091836
+"794","Hombre","Postítulo y Maestría","Tarapacá",1,2014,1011424.13686826
+"795","Hombre","Postítulo y Maestría","Tarapacá",1,2015,2002877.34835268
+"796","Hombre","Postítulo y Maestría","Valparaíso",5,2012,1205639.74790262
+"797","Hombre","Postítulo y Maestría","Valparaíso",5,2014,1715388.27212593
+"798","Hombre","Postítulo y Maestría","Valparaíso",5,2015,1004073.28996719
+"799","Hombre","Postitulos y maestria","Antofagasta",2,2010,545086.475015416
+"800","Hombre","Postitulos y maestria","Antofagasta",2,2011,2263019.83030666
+"801","Hombre","Postitulos y maestria","Araucanía",9,2010,689755.864386379
+"802","Hombre","Postitulos y maestria","Araucanía",9,2011,1493551.78630609
+"803","Hombre","Postitulos y maestria","Arica y Parinacota",15,2010,1045028.13262869
+"804","Hombre","Postitulos y maestria","Arica y Parinacota",15,2011,1484752.76916877
+"805","Hombre","Postitulos y maestria","Atacama",3,2010,2001957.3302016
+"806","Hombre","Postitulos y maestria","Atacama",3,2011,877315.162850025
+"807","Hombre","Postitulos y maestria","Aysén",11,2010,3100279.20582917
+"808","Hombre","Postitulos y maestria","Aysén",11,2011,782807.495024639
+"809","Hombre","Postitulos y maestria","Bíobío",8,2010,1008782.63718456
+"810","Hombre","Postitulos y maestria","Bíobío",8,2011,987050.376754855
+"811","Hombre","Postitulos y maestria","Coquimbo",4,2010,1733309.59196485
+"812","Hombre","Postitulos y maestria","Coquimbo",4,2011,2983451.19051799
+"813","Hombre","Postitulos y maestria","Los Lagos",10,2010,901165.463464145
+"814","Hombre","Postitulos y maestria","Los Lagos",10,2011,1008005.72352924
+"815","Hombre","Postitulos y maestria","Los Ríos",14,2010,426061.681239006
+"816","Hombre","Postitulos y maestria","Los Ríos",14,2011,498401.805020212
+"817","Hombre","Postitulos y maestria","Magallanes",12,2010,3802852.31709075
+"818","Hombre","Postitulos y maestria","Magallanes",12,2011,2719075.94125906
+"819","Hombre","Postitulos y maestria","Maule",7,2010,526800.042571481
+"820","Hombre","Postitulos y maestria","Maule",7,2011,1157178.68298947
+"821","Hombre","Postitulos y maestria","Metropolitana",13,2010,1509160.89856069
+"822","Hombre","Postitulos y maestria","Metropolitana",13,2011,1507249.81046247
+"823","Hombre","Postitulos y maestria","O'Higgins",6,2010,565176.29587148
+"824","Hombre","Postitulos y maestria","O'Higgins",6,2011,1985103.93828013
+"825","Hombre","Postitulos y maestria","Tarapacá",1,2010,998547.999196832
+"826","Hombre","Postitulos y maestria","Tarapacá",1,2011,651423.768933702
+"827","Hombre","Postitulos y maestria","Valparaíso",5,2010,805337.192303237
+"828","Hombre","Postitulos y maestria","Valparaíso",5,2011,1316088.09848896
+"829","Hombre","Postítulos y Maestría","Antofagasta",2,2013,1396739.66491915
+"830","Hombre","Postítulos y Maestría","Araucanía",9,2013,598883.201057743
+"831","Hombre","Postítulos y Maestría","Arica y Parinacota",15,2013,721017.346059372
+"832","Hombre","Postítulos y Maestría","Atacama",3,2013,1495794.10499648
+"833","Hombre","Postítulos y Maestría","Aysén",11,2013,1947993.6610318
+"834","Hombre","Postítulos y Maestría","Bíobío",8,2013,979547.25155534
+"835","Hombre","Postítulos y Maestría","Coquimbo",4,2013,1996874.29268219
+"836","Hombre","Postítulos y Maestría","Los Lagos",10,2013,1603765.03281611
+"837","Hombre","Postítulos y Maestría","Los Ríos",14,2013,1184440.76322503
+"838","Hombre","Postítulos y Maestría","Magallanes",12,2013,1671531.57249873
+"839","Hombre","Postítulos y Maestría","Maule",7,2013,2296361.09035161
+"840","Hombre","Postítulos y Maestría","Metropolitana",13,2013,1502033.4387709
+"841","Hombre","Postítulos y Maestría","O'Higgins",6,2013,821941.138327224
+"842","Hombre","Postítulos y Maestría","Tarapacá",1,2013,1156389.05708816
+"843","Hombre","Postítulos y Maestría","Valparaíso",5,2013,1312706.48507974
+"844","Mujer","Doctorado","Antofagasta",2,2012,84378.8659793814
+"845","Mujer","Doctorado","Antofagasta",2,2015,2500000
+"846","Mujer","Doctorado","Araucanía",9,2010,2502446.662752
+"847","Mujer","Doctorado","Araucanía",9,2011,942533.548142531
+"848","Mujer","Doctorado","Araucanía",9,2012,1005621.08367121
+"849","Mujer","Doctorado","Araucanía",9,2014,1600000
+"850","Mujer","Doctorado","Arica y Parinacota",15,2010,3703621.06087296
+"851","Mujer","Doctorado","Arica y Parinacota",15,2011,1306283.16906747
+"852","Mujer","Doctorado","Arica y Parinacota",15,2013,1793202.66139184
+"853","Mujer","Doctorado","Arica y Parinacota",15,2014,699868.741796363
+"854","Mujer","Doctorado","Atacama",3,2010,1014992.36641221
+"855","Mujer","Doctorado","Atacama",3,2011,967386.647647659
+"856","Mujer","Doctorado","Atacama",3,2015,1263125.86019559
+"857","Mujer","Doctorado","Aysén",11,2014,300000
+"858","Mujer","Doctorado","Bíobío",8,2011,1068255.55322912
+"859","Mujer","Doctorado","Bíobío",8,2012,1024757.81758265
+"860","Mujer","Doctorado","Bíobío",8,2013,451235.627873765
+"861","Mujer","Doctorado","Bíobío",8,2014,705867.616726046
+"862","Mujer","Doctorado","Bíobío",8,2015,2510186.5266208
+"863","Mujer","Doctorado","Coquimbo",4,2014,1253928.05696342
+"864","Mujer","Doctorado","Coquimbo",4,2015,450121.775211981
+"865","Mujer","Doctorado","Los Lagos",10,2011,1900000
+"866","Mujer","Doctorado","Los Lagos",10,2012,1200000
+"867","Mujer","Doctorado","Los Lagos",10,2014,999812.488280518
+"868","Mujer","Doctorado","Los Ríos",14,2011,3300000
+"869","Mujer","Doctorado","Los Ríos",14,2012,1410827.75287948
+"870","Mujer","Doctorado","Los Ríos",14,2013,1349064.40329109
+"871","Mujer","Doctorado","Los Ríos",14,2014,999812.488280518
+"872","Mujer","Doctorado","Los Ríos",14,2015,841414.523723292
+"873","Mujer","Doctorado","Maule",7,2010,408238.976089282
+"874","Mujer","Doctorado","Maule",7,2011,546167.686415531
+"875","Mujer","Doctorado","Maule",7,2014,1004642.07647846
+"876","Mujer","Doctorado","Maule",7,2015,697867.045748894
+"877","Mujer","Doctorado","Metropolitana",13,2010,652566.650801816
+"878","Mujer","Doctorado","Metropolitana",13,2011,1995422.23487551
+"879","Mujer","Doctorado","Metropolitana",13,2012,966283.133266758
+"880","Mujer","Doctorado","Metropolitana",13,2013,836108.694824401
+"881","Mujer","Doctorado","Metropolitana",13,2014,971949.590583561
+"882","Mujer","Doctorado","Metropolitana",13,2015,1403677.84247609
+"883","Mujer","Doctorado","Valparaíso",5,2010,400000
+"884","Mujer","Doctorado","Valparaíso",5,2011,776042.210234446
+"885","Mujer","Doctorado","Valparaíso",5,2012,1085625.57036343
+"886","Mujer","Doctorado","Valparaíso",5,2013,1191731.06124605
+"887","Mujer","Doctorado","Valparaíso",5,2014,2517246.86475342
+"888","Mujer","Doctorado","Valparaíso",5,2015,761373.109518107
+"889","Mujer","Educación preescolar","Antofagasta",2,2011,79744.288803234
+"890","Mujer","Educación preescolar","Araucanía",9,2010,150000
+"891","Mujer","Educación preescolar","Araucanía",9,2011,25000
+"892","Mujer","Educación preescolar","Aysén",11,2010,179876.893014167
+"893","Mujer","Educación preescolar","Aysén",11,2011,99680.3610040425
+"894","Mujer","Educación preescolar","Bíobío",8,2010,4996.58036150464
+"895","Mujer","Educación preescolar","Bíobío",8,2011,60000
+"896","Mujer","Educación preescolar","Coquimbo",4,2011,99680.3610040425
+"897","Mujer","Educación preescolar","Maule",7,2011,14067.6648976497
+"898","Mujer","Educación preescolar","Metropolitana",13,2010,51852.1090503225
+"899","Mujer","Educación preescolar","Metropolitana",13,2011,67336.366455036
+"900","Mujer","Educación preescolar","Valparaíso",5,2011,141960.355411275
+"901","Mujer","Educación Preescolar","Antofagasta",2,2012,100451.030927835
+"902","Mujer","Educación Preescolar","Antofagasta",2,2015,218313.705698186
+"903","Mujer","Educación Preescolar","Araucanía",9,2012,24134.906008109
+"904","Mujer","Educación Preescolar","Araucanía",9,2014,210000
+"905","Mujer","Educación Preescolar","Araucanía",9,2015,71065.237864689
+"906","Mujer","Educación Preescolar","Arica y Parinacota",15,2013,50067.7812923635
+"907","Mujer","Educación Preescolar","Arica y Parinacota",15,2015,50203.730532416
+"908","Mujer","Educación Preescolar","Atacama",3,2015,211499.719988933
+"909","Mujer","Educación Preescolar","Bíobío",8,2013,49811.1850386621
+"910","Mujer","Educación Preescolar","Bíobío",8,2014,137646.140075831
+"911","Mujer","Educación Preescolar","Coquimbo",4,2015,240000
+"912","Mujer","Educación Preescolar","Maule",7,2013,125169.453230909
+"913","Mujer","Educación Preescolar","Maule",7,2014,117000
+"914","Mujer","Educación Preescolar","Metropolitana",13,2012,291253.496892032
+"915","Mujer","Educación Preescolar","Metropolitana",13,2013,83170.5923533701
+"916","Mujer","Educación Preescolar","Metropolitana",13,2014,233631.36579348
+"917","Mujer","Educación Preescolar","Metropolitana",13,2015,241731.269787649
+"918","Mujer","Educación Preescolar","O'Higgins",6,2012,204000
+"919","Mujer","Educación Preescolar","O'Higgins",6,2015,25006.7652895545
+"920","Mujer","Educación Preescolar","Tarapacá",1,2012,86027.9742370696
+"921","Mujer","Educación Preescolar","Tarapacá",1,2013,40000
+"922","Mujer","Educación Preescolar","Valparaíso",5,2012,1000000
+"923","Mujer","Educación Preescolar","Valparaíso",5,2013,97530.9773072932
+"924","Mujer","Educación Preescolar","Valparaíso",5,2014,100464.207647846
+"925","Mujer","Educación Preescolar","Valparaíso",5,2015,15004.0591737327
+"926","Mujer","Educación primaria (nivel 1)","Antofagasta",2,2010,140137.013114112
+"927","Mujer","Educación primaria (nivel 1)","Antofagasta",2,2011,104100.147630655
+"928","Mujer","Educación primaria (nivel 1)","Araucanía",9,2010,39972.6428920371
+"929","Mujer","Educación primaria (nivel 1)","Araucanía",9,2011,53992.2626084295
+"930","Mujer","Educación primaria (nivel 1)","Arica y Parinacota",15,2010,90064.1138247055
+"931","Mujer","Educación primaria (nivel 1)","Arica y Parinacota",15,2011,102329.49455173
+"932","Mujer","Educación primaria (nivel 1)","Atacama",3,2010,75015.0048846154
+"933","Mujer","Educación primaria (nivel 1)","Atacama",3,2011,150724.981046247
+"934","Mujer","Educación primaria (nivel 1)","Aysén",11,2010,150000.259512882
+"935","Mujer","Educación primaria (nivel 1)","Aysén",11,2011,128910.56676696
+"936","Mujer","Educación primaria (nivel 1)","Bíobío",8,2010,80534.8378347463
+"937","Mujer","Educación primaria (nivel 1)","Bíobío",8,2011,79744.288803234
+"938","Mujer","Educación primaria (nivel 1)","Coquimbo",4,2010,99931.6877184263
+"939","Mujer","Educación primaria (nivel 1)","Coquimbo",4,2011,120579.984836998
+"940","Mujer","Educación primaria (nivel 1)","Los Lagos",10,2010,76452.3904748522
+"941","Mujer","Educación primaria (nivel 1)","Los Lagos",10,2011,73645.8157552848
+"942","Mujer","Educación primaria (nivel 1)","Los Ríos",14,2010,60000
+"943","Mujer","Educación primaria (nivel 1)","Los Ríos",14,2011,67489.9836930073
+"944","Mujer","Educación primaria (nivel 1)","Magallanes",12,2010,165287.99761274
+"945","Mujer","Educación primaria (nivel 1)","Magallanes",12,2011,120385.209306452
+"946","Mujer","Educación primaria (nivel 1)","Maule",7,2010,89995.2901756904
+"947","Mujer","Educación primaria (nivel 1)","Maule",7,2011,89715.1785277782
+"948","Mujer","Educación primaria (nivel 1)","Metropolitana",13,2010,134911.012898722
+"949","Mujer","Educación primaria (nivel 1)","Metropolitana",13,2011,130628.316906747
+"950","Mujer","Educación primaria (nivel 1)","O'Higgins",6,2010,149897.410845139
+"951","Mujer","Educación primaria (nivel 1)","O'Higgins",6,2011,159031.340636638
+"952","Mujer","Educación primaria (nivel 1)","Tarapacá",1,2010,163593.728579653
+"953","Mujer","Educación primaria (nivel 1)","Tarapacá",1,2011,117068.888023455
+"954","Mujer","Educación primaria (nivel 1)","Valparaíso",5,2010,80017.7801479256
+"955","Mujer","Educación primaria (nivel 1)","Valparaíso",5,2011,79744.288803234
+"956","Mujer","Educación primaria (nivel 1)",NA,NA,2010,39988.1069570765
+"957","Mujer","Educación primaria (nivel 1)",NA,NA,2011,43574.7620368159
+"958","Mujer","Educación Primaria (nivel 1)","Antofagasta",2,2012,185779.0733437
+"959","Mujer","Educación Primaria (nivel 1)","Antofagasta",2,2013,139144.518060714
+"960","Mujer","Educación Primaria (nivel 1)","Antofagasta",2,2014,249761.363244388
+"961","Mujer","Educación Primaria (nivel 1)","Antofagasta",2,2015,210035.366400779
+"962","Mujer","Educación Primaria (nivel 1)","Araucanía",9,2012,42465.5027543304
+"963","Mujer","Educación Primaria (nivel 1)","Araucanía",9,2013,54547.7174251547
+"964","Mujer","Educación Primaria (nivel 1)","Araucanía",9,2014,75107.3666638122
+"965","Mujer","Educación Primaria (nivel 1)","Araucanía",9,2015,79632.9455533588
+"966","Mujer","Educación Primaria (nivel 1)","Arica y Parinacota",15,2012,117015.375485302
+"967","Mujer","Educación Primaria (nivel 1)","Arica y Parinacota",15,2013,110978.973937775
+"968","Mujer","Educación Primaria (nivel 1)","Arica y Parinacota",15,2014,139976.43716201
+"969","Mujer","Educación Primaria (nivel 1)","Arica y Parinacota",15,2015,150000
+"970","Mujer","Educación Primaria (nivel 1)","Atacama",3,2012,150723.594173353
+"971","Mujer","Educación Primaria (nivel 1)","Atacama",3,2013,190000
+"972","Mujer","Educación Primaria (nivel 1)","Atacama",3,2014,131698.454767596
+"973","Mujer","Educación Primaria (nivel 1)","Atacama",3,2015,208100.40276404
+"974","Mujer","Educación Primaria (nivel 1)","Aysén",11,2012,139152.9121611
+"975","Mujer","Educación Primaria (nivel 1)","Aysén",11,2013,171221.677836914
+"976","Mujer","Educación Primaria (nivel 1)","Aysén",11,2014,172379.62472863
+"977","Mujer","Educación Primaria (nivel 1)","Aysén",11,2015,150055.754428001
+"978","Mujer","Educación Primaria (nivel 1)","Bíobío",8,2012,70393.4758569847
+"979","Mujer","Educación Primaria (nivel 1)","Bíobío",8,2013,80108.4500677816
+"980","Mujer","Educación Primaria (nivel 1)","Bíobío",8,2014,99996.6583603982
+"981","Mujer","Educación Primaria (nivel 1)","Bíobío",8,2015,130035.179505683
+"982","Mujer","Educación Primaria (nivel 1)","Coquimbo",4,2012,109828.604440168
+"983","Mujer","Educación Primaria (nivel 1)","Coquimbo",4,2013,139716.225819067
+"984","Mujer","Educación Primaria (nivel 1)","Coquimbo",4,2014,149971.873242078
+"985","Mujer","Educación Primaria (nivel 1)","Coquimbo",4,2015,138207.541980425
+"986","Mujer","Educación Primaria (nivel 1)","Los Lagos",10,2012,80449.6866936968
+"987","Mujer","Educación Primaria (nivel 1)","Los Lagos",10,2013,100097.396817899
+"988","Mujer","Educación Primaria (nivel 1)","Los Lagos",10,2014,99996.49503795
+"989","Mujer","Educación Primaria (nivel 1)","Los Lagos",10,2015,100256.125775179
+"990","Mujer","Educación Primaria (nivel 1)","Los Ríos",14,2012,89627.3042093101
+"991","Mujer","Educación Primaria (nivel 1)","Los Ríos",14,2013,65959.0621399102
+"992","Mujer","Educación Primaria (nivel 1)","Los Ríos",14,2014,63461.3787483248
+"993","Mujer","Educación Primaria (nivel 1)","Los Ríos",14,2015,79514.627924804
+"994","Mujer","Educación Primaria (nivel 1)","Magallanes",12,2012,202928.755285641
+"995","Mujer","Educación Primaria (nivel 1)","Magallanes",12,2013,206977.346627511
+"996","Mujer","Educación Primaria (nivel 1)","Magallanes",12,2014,186053.668471669
+"997","Mujer","Educación Primaria (nivel 1)","Magallanes",12,2015,242583.397161818
+"998","Mujer","Educación Primaria (nivel 1)","Maule",7,2012,100562.108367121
+"999","Mujer","Educación Primaria (nivel 1)","Maule",7,2013,119657.014491585
+"1000","Mujer","Educación Primaria (nivel 1)","Maule",7,2014,100523.285786297
+"1001","Mujer","Educación Primaria (nivel 1)","Maule",7,2015,90017.3671785695
+"1002","Mujer","Educación Primaria (nivel 1)","Metropolitana",13,2012,171052.654736063
+"1003","Mujer","Educación Primaria (nivel 1)","Metropolitana",13,2013,168880.770291594
+"1004","Mujer","Educación Primaria (nivel 1)","Metropolitana",13,2014,199356.596212106
+"1005","Mujer","Educación Primaria (nivel 1)","Metropolitana",13,2015,200054.122316436
+"1006","Mujer","Educación Primaria (nivel 1)","O'Higgins",6,2012,150677.675851459
+"1007","Mujer","Educación Primaria (nivel 1)","O'Higgins",6,2013,157157.803287784
+"1008","Mujer","Educación Primaria (nivel 1)","O'Higgins",6,2014,181935
+"1009","Mujer","Educación Primaria (nivel 1)","O'Higgins",6,2015,154844.036652439
+"1010","Mujer","Educación Primaria (nivel 1)","Tarapacá",1,2012,69680.0541475839
+"1011","Mujer","Educación Primaria (nivel 1)","Tarapacá",1,2013,188263.304544977
+"1012","Mujer","Educación Primaria (nivel 1)","Tarapacá",1,2014,148281.194505306
+"1013","Mujer","Educación Primaria (nivel 1)","Tarapacá",1,2015,157224.079289748
+"1014","Mujer","Educación Primaria (nivel 1)","Valparaíso",5,2012,100562.108367121
+"1015","Mujer","Educación Primaria (nivel 1)","Valparaíso",5,2013,100054.244116838
+"1016","Mujer","Educación Primaria (nivel 1)","Valparaíso",5,2014,130736.919060514
+"1017","Mujer","Educación Primaria (nivel 1)","Valparaíso",5,2015,120034.673787474
+"1018","Mujer","Educación Primaria (nivel 1)",NA,NA,2012,22751.05209412
+"1019","Mujer","Educación primaria (nivel 2)","Antofagasta",2,2010,75922.5614357828
+"1020","Mujer","Educación primaria (nivel 2)","Antofagasta",2,2011,149175.879302618
+"1021","Mujer","Educación primaria (nivel 2)","Araucanía",9,2010,62299.8601705312
+"1022","Mujer","Educación primaria (nivel 2)","Araucanía",9,2011,74882.7408545783
+"1023","Mujer","Educación primaria (nivel 2)","Arica y Parinacota",15,2010,142633.176041177
+"1024","Mujer","Educación primaria (nivel 2)","Arica y Parinacota",15,2011,148027.38698012
+"1025","Mujer","Educación primaria (nivel 2)","Atacama",3,2010,97190.2273216241
+"1026","Mujer","Educación primaria (nivel 2)","Atacama",3,2011,119828.483108978
+"1027","Mujer","Educación primaria (nivel 2)","Aysén",11,2010,140105.078382176
+"1028","Mujer","Educación primaria (nivel 2)","Aysén",11,2011,160177.599892162
+"1029","Mujer","Educación primaria (nivel 2)","Bíobío",8,2010,105000
+"1030","Mujer","Educación primaria (nivel 2)","Bíobío",8,2011,119616.433204851
+"1031","Mujer","Educación primaria (nivel 2)","Coquimbo",4,2010,120320.940936697
+"1032","Mujer","Educación primaria (nivel 2)","Coquimbo",4,2011,127189.204490774
+"1033","Mujer","Educación primaria (nivel 2)","Los Lagos",10,2010,100097.86651008
+"1034","Mujer","Educación primaria (nivel 2)","Los Lagos",10,2011,133727.824246706
+"1035","Mujer","Educación primaria (nivel 2)","Los Ríos",14,2010,90715.3631615077
+"1036","Mujer","Educación primaria (nivel 2)","Los Ríos",14,2011,74962.427490517
+"1037","Mujer","Educación primaria (nivel 2)","Magallanes",12,2010,160156.586416128
+"1038","Mujer","Educación primaria (nivel 2)","Magallanes",12,2011,139908.365895077
+"1039","Mujer","Educación primaria (nivel 2)","Maule",7,2010,120117.439812096
+"1040","Mujer","Educación primaria (nivel 2)","Maule",7,2011,147997.767291769
+"1041","Mujer","Educación primaria (nivel 2)","Metropolitana",13,2010,151705.261222693
+"1042","Mujer","Educación primaria (nivel 2)","Metropolitana",13,2011,180869.977255496
+"1043","Mujer","Educación primaria (nivel 2)","O'Higgins",6,2010,140876.235294195
+"1044","Mujer","Educación primaria (nivel 2)","O'Higgins",6,2011,139552.505405659
+"1045","Mujer","Educación primaria (nivel 2)","Tarapacá",1,2010,81087.6521402547
+"1046","Mujer","Educación primaria (nivel 2)","Tarapacá",1,2011,180350.425706872
+"1047","Mujer","Educación primaria (nivel 2)","Valparaíso",5,2010,100000
+"1048","Mujer","Educación primaria (nivel 2)","Valparaíso",5,2011,99680.3610040425
+"1049","Mujer","Educación primaria (nivel 2)",NA,NA,2010,60564.5689508651
+"1050","Mujer","Educación primaria (nivel 2)",NA,NA,2011,68203.2318492019
+"1051","Mujer","Educación Primaria (nivel 2)","Antofagasta",2,2012,182101.638161531
+"1052","Mujer","Educación Primaria (nivel 2)","Antofagasta",2,2013,268067.111235142
+"1053","Mujer","Educación Primaria (nivel 2)","Antofagasta",2,2014,225228.8669121
+"1054","Mujer","Educación Primaria (nivel 2)","Antofagasta",2,2015,231931.289764992
+"1055","Mujer","Educación Primaria (nivel 2)","Araucanía",9,2012,75113.5431717655
+"1056","Mujer","Educación Primaria (nivel 2)","Araucanía",9,2013,85862.1442001184
+"1057","Mujer","Educación Primaria (nivel 2)","Araucanía",9,2014,102819.457163352
+"1058","Mujer","Educación Primaria (nivel 2)","Araucanía",9,2015,94196.6373840501
+"1059","Mujer","Educación Primaria (nivel 2)","Arica y Parinacota",15,2012,122015.723312615
+"1060","Mujer","Educación Primaria (nivel 2)","Arica y Parinacota",15,2013,171850.112663236
+"1061","Mujer","Educación Primaria (nivel 2)","Arica y Parinacota",15,2014,127678.290609449
+"1062","Mujer","Educación Primaria (nivel 2)","Arica y Parinacota",15,2015,199673.475664797
+"1063","Mujer","Educación Primaria (nivel 2)","Atacama",3,2012,131946.487904984
+"1064","Mujer","Educación Primaria (nivel 2)","Atacama",3,2013,211693.884889425
+"1065","Mujer","Educación Primaria (nivel 2)","Atacama",3,2014,181023.607968893
+"1066","Mujer","Educación Primaria (nivel 2)","Atacama",3,2015,142310.205083492
+"1067","Mujer","Educación Primaria (nivel 2)","Aysén",11,2012,180795.794445208
+"1068","Mujer","Educación Primaria (nivel 2)","Aysén",11,2013,200003.249193874
+"1069","Mujer","Educación Primaria (nivel 2)","Aysén",11,2014,200871.14291737
+"1070","Mujer","Educación Primaria (nivel 2)","Aysén",11,2015,238618.686326251
+"1071","Mujer","Educación Primaria (nivel 2)","Bíobío",8,2012,125779.743824156
+"1072","Mujer","Educación Primaria (nivel 2)","Bíobío",8,2013,130000
+"1073","Mujer","Educación Primaria (nivel 2)","Bíobío",8,2014,159949.896924725
+"1074","Mujer","Educación Primaria (nivel 2)","Bíobío",8,2015,180000
+"1075","Mujer","Educación Primaria (nivel 2)","Coquimbo",4,2012,151211.994128583
+"1076","Mujer","Educación Primaria (nivel 2)","Coquimbo",4,2013,149886.614107627
+"1077","Mujer","Educación Primaria (nivel 2)","Coquimbo",4,2014,166561.094442939
+"1078","Mujer","Educación Primaria (nivel 2)","Coquimbo",4,2015,200054.122316436
+"1079","Mujer","Educación Primaria (nivel 2)","Los Lagos",10,2012,140000
+"1080","Mujer","Educación Primaria (nivel 2)","Los Lagos",10,2013,150000
+"1081","Mujer","Educación Primaria (nivel 2)","Los Lagos",10,2014,180995.935203838
+"1082","Mujer","Educación Primaria (nivel 2)","Los Lagos",10,2015,180700.040218553
+"1083","Mujer","Educación Primaria (nivel 2)","Los Ríos",14,2012,104935.166566588
+"1084","Mujer","Educación Primaria (nivel 2)","Los Ríos",14,2013,141556.76891751
+"1085","Mujer","Educación Primaria (nivel 2)","Los Ríos",14,2014,90376.7932963357
+"1086","Mujer","Educación Primaria (nivel 2)","Los Ríos",14,2015,104910.615605555
+"1087","Mujer","Educación Primaria (nivel 2)","Magallanes",12,2012,168232.089560374
+"1088","Mujer","Educación Primaria (nivel 2)","Magallanes",12,2013,200077.973155883
+"1089","Mujer","Educación Primaria (nivel 2)","Magallanes",12,2014,196535.677909724
+"1090","Mujer","Educación Primaria (nivel 2)","Magallanes",12,2015,251347.295600514
+"1091","Mujer","Educación Primaria (nivel 2)","Maule",7,2012,100562.108367121
+"1092","Mujer","Educación Primaria (nivel 2)","Maule",7,2013,168780.107484567
+"1093","Mujer","Educación Primaria (nivel 2)","Maule",7,2014,195495.382037891
+"1094","Mujer","Educación Primaria (nivel 2)","Maule",7,2015,192800
+"1095","Mujer","Educación Primaria (nivel 2)","Metropolitana",13,2012,190856.958762886
+"1096","Mujer","Educación Primaria (nivel 2)","Metropolitana",13,2013,199244.740154648
+"1097","Mujer","Educación Primaria (nivel 2)","Metropolitana",13,2014,224957.809863117
+"1098","Mujer","Educación Primaria (nivel 2)","Metropolitana",13,2015,211001.352239851
+"1099","Mujer","Educación Primaria (nivel 2)","O'Higgins",6,2012,180839.508459539
+"1100","Mujer","Educación Primaria (nivel 2)","O'Higgins",6,2013,187382.45068644
+"1101","Mujer","Educación Primaria (nivel 2)","O'Higgins",6,2014,181468.761040706
+"1102","Mujer","Educación Primaria (nivel 2)","O'Higgins",6,2015,200017.804525034
+"1103","Mujer","Educación Primaria (nivel 2)","Tarapacá",1,2012,101061.443294982
+"1104","Mujer","Educación Primaria (nivel 2)","Tarapacá",1,2013,229443.771892181
+"1105","Mujer","Educación Primaria (nivel 2)","Tarapacá",1,2014,199432.596109301
+"1106","Mujer","Educación Primaria (nivel 2)","Tarapacá",1,2015,257411.444718026
+"1107","Mujer","Educación Primaria (nivel 2)","Valparaíso",5,2012,120630.617307674
+"1108","Mujer","Educación Primaria (nivel 2)","Valparaíso",5,2013,110409.879835518
+"1109","Mujer","Educación Primaria (nivel 2)","Valparaíso",5,2014,189976.203674522
+"1110","Mujer","Educación Primaria (nivel 2)","Valparaíso",5,2015,180048.710084792
+"1111","Mujer","Educación Primaria (nivel 2)",NA,NA,2012,36073.5340224349
+"1112","Mujer","Educación secundaria","Antofagasta",2,2010,200086.345868081
+"1113","Mujer","Educación secundaria","Antofagasta",2,2011,239232.866409702
+"1114","Mujer","Educación secundaria","Araucanía",9,2010,150000
+"1115","Mujer","Educación secundaria","Araucanía",9,2011,147771.707859386
+"1116","Mujer","Educación secundaria","Arica y Parinacota",15,2010,154082.113530393
+"1117","Mujer","Educación secundaria","Arica y Parinacota",15,2011,156686.052455282
+"1118","Mujer","Educación secundaria","Atacama",3,2010,180176.159718144
+"1119","Mujer","Educación secundaria","Atacama",3,2011,199360.722008085
+"1120","Mujer","Educación secundaria","Aysén",11,2010,215273.930565975
+"1121","Mujer","Educación secundaria","Aysén",11,2011,221063.305534496
+"1122","Mujer","Educación secundaria","Bíobío",8,2010,153735.234339613
+"1123","Mujer","Educación secundaria","Bíobío",8,2011,160773.313115997
+"1124","Mujer","Educación secundaria","Coquimbo",4,2010,169883.732291158
+"1125","Mujer","Educación secundaria","Coquimbo",4,2011,184117.785307282
+"1126","Mujer","Educación secundaria","Los Lagos",10,2010,170166.373067136
+"1127","Mujer","Educación secundaria","Los Lagos",10,2011,200000
+"1128","Mujer","Educación secundaria","Los Ríos",14,2010,149897.410845139
+"1129","Mujer","Educación secundaria","Los Ríos",14,2011,159488.577606468
+"1130","Mujer","Educación secundaria","Magallanes",12,2010,175087.287089733
+"1131","Mujer","Educación secundaria","Magallanes",12,2011,200357.231698971
+"1132","Mujer","Educación secundaria","Maule",7,2010,150146.79976512
+"1133","Mujer","Educación secundaria","Maule",7,2011,166608.990714241
+"1134","Mujer","Educación secundaria","Metropolitana",13,2010,189870.053737176
+"1135","Mujer","Educación secundaria","Metropolitana",13,2011,200966.641394996
+"1136","Mujer","Educación secundaria","O'Higgins",6,2010,174888.407562167
+"1137","Mujer","Educación secundaria","O'Higgins",6,2011,187802.799085758
+"1138","Mujer","Educación secundaria","Tarapacá",1,2010,174795.995422483
+"1139","Mujer","Educación secundaria","Tarapacá",1,2011,211014.973464746
+"1140","Mujer","Educación secundaria","Valparaíso",5,2010,164978.816863603
+"1141","Mujer","Educación secundaria","Valparaíso",5,2011,181418.257027357
+"1142","Mujer","Educación secundaria",NA,NA,2010,120403.23413517
+"1143","Mujer","Educación secundaria",NA,NA,2011,47307.8047905584
+"1144","Mujer","Educación Secundaria","Antofagasta",2,2012,250666.977127631
+"1145","Mujer","Educación Secundaria","Antofagasta",2,2013,280379.575237236
+"1146","Mujer","Educación Secundaria","Antofagasta",2,2014,295912.402517054
+"1147","Mujer","Educación Secundaria","Antofagasta",2,2015,290000
+"1148","Mujer","Educación Secundaria","Araucanía",9,2012,153626.151645736
+"1149","Mujer","Educación Secundaria","Araucanía",9,2013,200000
+"1150","Mujer","Educación Secundaria","Araucanía",9,2014,224957.809863117
+"1151","Mujer","Educación Secundaria","Araucanía",9,2015,240000
+"1152","Mujer","Educación Secundaria","Arica y Parinacota",15,2012,169497.864534157
+"1153","Mujer","Educación Secundaria","Arica y Parinacota",15,2013,180000
+"1154","Mujer","Educación Secundaria","Arica y Parinacota",15,2014,200000
+"1155","Mujer","Educación Secundaria","Arica y Parinacota",15,2015,200569.617224241
+"1156","Mujer","Educación Secundaria","Atacama",3,2012,240000
+"1157","Mujer","Educación Secundaria","Atacama",3,2013,249055.92519331
+"1158","Mujer","Educación Secundaria","Atacama",3,2014,276701.478191707
+"1159","Mujer","Educación Secundaria","Atacama",3,2015,301127.864165442
+"1160","Mujer","Educación Secundaria","Aysén",11,2012,208755.07238014
+"1161","Mujer","Educación Secundaria","Aysén",11,2013,239831.289684593
+"1162","Mujer","Educación Secundaria","Aysén",11,2014,252605.647148
+"1163","Mujer","Educación Secundaria","Aysén",11,2015,280000
+"1164","Mujer","Educación Secundaria","Bíobío",8,2012,181023.738302643
+"1165","Mujer","Educación Secundaria","Bíobío",8,2013,202246.085314629
+"1166","Mujer","Educación Secundaria","Bíobío",8,2014,220000
+"1167","Mujer","Educación Secundaria","Bíobío",8,2015,231722.568814128
+"1168","Mujer","Educación Secundaria","Coquimbo",4,2012,200000
+"1169","Mujer","Educación Secundaria","Coquimbo",4,2013,209206.977162381
+"1170","Mujer","Educación Secundaria","Coquimbo",4,2014,229719.347574523
+"1171","Mujer","Educación Secundaria","Coquimbo",4,2015,245000
+"1172","Mujer","Educación Secundaria","Los Lagos",10,2012,200902.06185567
+"1173","Mujer","Educación Secundaria","Los Lagos",10,2013,227562.960806368
+"1174","Mujer","Educación Secundaria","Los Lagos",10,2014,226586.491727683
+"1175","Mujer","Educación Secundaria","Los Lagos",10,2015,270004.131672208
+"1176","Mujer","Educación Secundaria","Los Ríos",14,2012,193000
+"1177","Mujer","Educación Secundaria","Los Ríos",14,2013,210284.681427927
+"1178","Mujer","Educación Secundaria","Los Ríos",14,2014,199984.79590073
+"1179","Mujer","Educación Secundaria","Los Ríos",14,2015,240000
+"1180","Mujer","Educación Secundaria","Magallanes",12,2012,220992.268041237
+"1181","Mujer","Educación Secundaria","Magallanes",12,2013,296447.70831302
+"1182","Mujer","Educación Secundaria","Magallanes",12,2014,302393.933770558
+"1183","Mujer","Educación Secundaria","Magallanes",12,2015,300063.34070718
+"1184","Mujer","Educación Secundaria","Maule",7,2012,193000
+"1185","Mujer","Educación Secundaria","Maule",7,2013,209206.977162381
+"1186","Mujer","Educación Secundaria","Maule",7,2014,219958.747421714
+"1187","Mujer","Educación Secundaria","Maule",7,2015,240977.906555597
+"1188","Mujer","Educación Secundaria","Metropolitana",13,2012,236452.845933642
+"1189","Mujer","Educación Secundaria","Metropolitana",13,2013,249055.92519331
+"1190","Mujer","Educación Secundaria","Metropolitana",13,2014,262450.778173636
+"1191","Mujer","Educación Secundaria","Metropolitana",13,2015,280827.042877444
+"1192","Mujer","Educación Secundaria","O'Higgins",6,2012,193870.489690722
+"1193","Mujer","Educación Secundaria","O'Higgins",6,2013,209588.563789584
+"1194","Mujer","Educación Secundaria","O'Higgins",6,2014,244293.694112497
+"1195","Mujer","Educación Secundaria","O'Higgins",6,2015,241065.217391305
+"1196","Mujer","Educación Secundaria","Tarapacá",1,2012,245371.544415775
+"1197","Mujer","Educación Secundaria","Tarapacá",1,2013,249055.92519331
+"1198","Mujer","Educación Secundaria","Tarapacá",1,2014,282918.32480576
+"1199","Mujer","Educación Secundaria","Tarapacá",1,2015,251018.65266208
+"1200","Mujer","Educación Secundaria","Valparaíso",5,2012,193000
+"1201","Mujer","Educación Secundaria","Valparaíso",5,2013,208943.251603912
+"1202","Mujer","Educación Secundaria","Valparaíso",5,2014,225000
+"1203","Mujer","Educación Secundaria","Valparaíso",5,2015,248000
+"1204","Mujer","Educación Secundaria",NA,NA,2012,146366.83615346
+"1205","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2010,283433.233362978
+"1206","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2011,300000
+"1207","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2012,353628.872186713
+"1208","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2013,382843.380136867
+"1209","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2014,441272.017940671
+"1210","Mujer","Educación Técnica (Educación Superior no Universitaria)","Antofagasta",2,2015,358491.862119804
+"1211","Mujer","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2010,232763.292752974
+"1212","Mujer","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2011,301449.962092494
+"1213","Mujer","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2012,322418.851438909
+"1214","Mujer","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2013,351554.542419853
+"1215","Mujer","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2014,298423.71879592
+"1216","Mujer","Educación Técnica (Educación Superior no Universitaria)","Araucanía",9,2015,301146.777149295
+"1217","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2010,223082.135048017
+"1218","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2011,279068.308719675
+"1219","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2012,203782.92991165
+"1220","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2013,364155.993538889
+"1221","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2014,330036.932433534
+"1222","Mujer","Educación Técnica (Educación Superior no Universitaria)","Arica y Parinacota",15,2015,300000
+"1223","Mujer","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2010,249174.067789988
+"1224","Mujer","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2011,311001.956832432
+"1225","Mujer","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2012,389449.963566257
+"1226","Mujer","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2013,339178.157197604
+"1227","Mujer","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2014,386790.675762642
+"1228","Mujer","Educación Técnica (Educación Superior no Universitaria)","Atacama",3,2015,399687.74753192
+"1229","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2010,359802.331481199
+"1230","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2011,448561.624518191
+"1231","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2012,412304.644305196
+"1232","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2013,498111.850386621
+"1233","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2014,435064.004246004
+"1234","Mujer","Educación Técnica (Educación Superior no Universitaria)","Aysén",11,2015,522623.974744686
+"1235","Mujer","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2010,250000
+"1236","Mujer","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2011,247723.027800758
+"1237","Mujer","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2012,267888.114212275
+"1238","Mujer","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2013,280000
+"1239","Mujer","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2014,303126.7765776
+"1240","Mujer","Educación Técnica (Educación Superior no Universitaria)","Bíobío",8,2015,300081.183474654
+"1241","Mujer","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2010,239845.959834707
+"1242","Mujer","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2011,263269.221247741
+"1243","Mujer","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2012,308354.845193908
+"1244","Mujer","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2013,290003.264219386
+"1245","Mujer","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2014,340739.553131068
+"1246","Mujer","Educación Técnica (Educación Superior no Universitaria)","Coquimbo",4,2015,305521.005374931
+"1247","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2010,302483.630412498
+"1248","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2011,334350.967413625
+"1249","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2012,300000
+"1250","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2013,300000
+"1251","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2014,371983.092150262
+"1252","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Lagos",10,2015,390570.028191255
+"1253","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2010,248430.893139742
+"1254","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2011,297552.408703612
+"1255","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2012,351015.500266633
+"1256","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2013,361570.033646564
+"1257","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2014,416992.502032942
+"1258","Mujer","Educación Técnica (Educación Superior no Universitaria)","Los Ríos",14,2015,391278.985133153
+"1259","Mujer","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2010,346136.858669823
+"1260","Mujer","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2011,496910.40580656
+"1261","Mujer","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2012,451058.349003725
+"1262","Mujer","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2013,485314.061360817
+"1263","Mujer","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2014,450000
+"1264","Mujer","Educación Técnica (Educación Superior no Universitaria)","Magallanes",12,2015,388187.748891493
+"1265","Mujer","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2010,239113.673078955
+"1266","Mujer","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2011,244864.766184765
+"1267","Mujer","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2012,250000
+"1268","Mujer","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2013,275843.183599545
+"1269","Mujer","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2014,284940.513633449
+"1270","Mujer","Educación Técnica (Educación Superior no Universitaria)","Maule",7,2015,300019.690928187
+"1271","Mujer","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2010,300019.228188628
+"1272","Mujer","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2011,307518.592019009
+"1273","Mujer","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2012,315810.164388661
+"1274","Mujer","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2013,350000
+"1275","Mujer","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2014,394064.80955088
+"1276","Mujer","Educación Técnica (Educación Superior no Universitaria)","Metropolitana",13,2015,400108.244632872
+"1277","Mujer","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2010,264893.297311288
+"1278","Mujer","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2011,256261.666639072
+"1279","Mujer","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2012,301686.325101363
+"1280","Mujer","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2013,319502.67044803
+"1281","Mujer","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2014,350000
+"1282","Mujer","Educación Técnica (Educación Superior no Universitaria)","O'Higgins",6,2015,301879.420607035
+"1283","Mujer","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2010,331402.037216728
+"1284","Mujer","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2011,300773.339915613
+"1285","Mujer","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2012,301353.092783505
+"1286","Mujer","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2013,310903.306449016
+"1287","Mujer","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2014,399947.956119684
+"1288","Mujer","Educación Técnica (Educación Superior no Universitaria)","Tarapacá",1,2015,440037.453820807
+"1289","Mujer","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2010,211687.120880289
+"1290","Mujer","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2011,260000
+"1291","Mujer","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2012,281396.976562776
+"1292","Mujer","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2013,289703.85346291
+"1293","Mujer","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2014,302001.780386999
+"1294","Mujer","Educación Técnica (Educación Superior no Universitaria)","Valparaíso",5,2015,318042.845914999
+"1295","Mujer","Educación Técnica (Educación Superior no Universitaria)",NA,NA,2012,62560.080347471
+"1296","Mujer","Educación universitaria","Antofagasta",2,2010,513552.170147241
+"1297","Mujer","Educación universitaria","Antofagasta",2,2011,449876.098027656
+"1298","Mujer","Educación universitaria","Araucanía",9,2010,447938.631862491
+"1299","Mujer","Educación universitaria","Araucanía",9,2011,426934.434645518
+"1300","Mujer","Educación universitaria","Arica y Parinacota",15,2010,399858.331339448
+"1301","Mujer","Educación universitaria","Arica y Parinacota",15,2011,400138.602208165
+"1302","Mujer","Educación universitaria","Atacama",3,2010,491522.866368497
+"1303","Mujer","Educación universitaria","Atacama",3,2011,449244.832447374
+"1304","Mujer","Educación universitaria","Aysén",11,2010,703078.083656289
+"1305","Mujer","Educación universitaria","Aysén",11,2011,703603.098171929
+"1306","Mujer","Educación universitaria","Bíobío",8,2010,450000
+"1307","Mujer","Educación universitaria","Bíobío",8,2011,470470.204265337
+"1308","Mujer","Educación universitaria","Coquimbo",4,2010,453696.001309505
+"1309","Mujer","Educación universitaria","Coquimbo",4,2011,511568.788478395
+"1310","Mujer","Educación universitaria","Los Lagos",10,2010,432953.73461365
+"1311","Mujer","Educación universitaria","Los Lagos",10,2011,500000
+"1312","Mujer","Educación universitaria","Los Ríos",14,2010,429226.293596247
+"1313","Mujer","Educación universitaria","Los Ríos",14,2011,400000
+"1314","Mujer","Educación universitaria","Magallanes",12,2010,475113.351041389
+"1315","Mujer","Educación universitaria","Magallanes",12,2011,504577.35598421
+"1316","Mujer","Educación universitaria","Maule",7,2010,399726.428920371
+"1317","Mujer","Educación universitaria","Maule",7,2011,488433.768919808
+"1318","Mujer","Educación universitaria","Metropolitana",13,2010,500000
+"1319","Mujer","Educación universitaria","Metropolitana",13,2011,500000
+"1320","Mujer","Educación universitaria","O'Higgins",6,2010,392720.6385988
+"1321","Mujer","Educación universitaria","O'Higgins",6,2011,457646.568661432
+"1322","Mujer","Educación universitaria","Tarapacá",1,2010,399726.428920371
+"1323","Mujer","Educación universitaria","Tarapacá",1,2011,449503.693645686
+"1324","Mujer","Educación universitaria","Valparaíso",5,2010,362417.693801151
+"1325","Mujer","Educación universitaria","Valparaíso",5,2011,400803.497748699
+"1326","Mujer","Educación universitaria",NA,NA,2010,291738.905709735
+"1327","Mujer","Educación universitaria",NA,NA,2011,428206.347462814
+"1328","Mujer","Educación Universitaria","Antofagasta",2,2012,652931.701030928
+"1329","Mujer","Educación Universitaria","Antofagasta",2,2013,631443.903611743
+"1330","Mujer","Educación Universitaria","Antofagasta",2,2014,579921.668326538
+"1331","Mujer","Educación Universitaria","Antofagasta",2,2015,700000
+"1332","Mujer","Educación Universitaria","Araucanía",9,2012,444894.685069463
+"1333","Mujer","Educación Universitaria","Araucanía",9,2013,500000
+"1334","Mujer","Educación Universitaria","Araucanía",9,2014,530290.892005302
+"1335","Mujer","Educación Universitaria","Araucanía",9,2015,500613.577056666
+"1336","Mujer","Educación Universitaria","Arica y Parinacota",15,2012,539466.928373007
+"1337","Mujer","Educación Universitaria","Arica y Parinacota",15,2013,478769.266693129
+"1338","Mujer","Educación Universitaria","Arica y Parinacota",15,2014,549979.187479241
+"1339","Mujer","Educación Universitaria","Arica y Parinacota",15,2015,514973.830767599
+"1340","Mujer","Educación Universitaria","Atacama",3,2012,402058.598530475
+"1341","Mujer","Educación Universitaria","Atacama",3,2013,572298.324650719
+"1342","Mujer","Educación Universitaria","Atacama",3,2014,506646.215016484
+"1343","Mujer","Educación Universitaria","Atacama",3,2015,599488.974775038
+"1344","Mujer","Educación Universitaria","Aysén",11,2012,788500.720374935
+"1345","Mujer","Educación Universitaria","Aysén",11,2013,697356.590541269
+"1346","Mujer","Educación Universitaria","Aysén",11,2014,815188.427123721
+"1347","Mujer","Educación Universitaria","Aysén",11,2015,800053.239048397
+"1348","Mujer","Educación Universitaria","Bíobío",8,2012,502276.035130334
+"1349","Mujer","Educación Universitaria","Bíobío",8,2013,500677.812923635
+"1350","Mujer","Educación Universitaria","Bíobío",8,2014,500000
+"1351","Mujer","Educación Universitaria","Bíobío",8,2015,500135.30579109
+"1352","Mujer","Educación Universitaria","Coquimbo",4,2012,463262.583902347
+"1353","Mujer","Educación Universitaria","Coquimbo",4,2013,498111.850386621
+"1354","Mujer","Educación Universitaria","Coquimbo",4,2014,594227.862481783
+"1355","Mujer","Educación Universitaria","Coquimbo",4,2015,570261.131130424
+"1356","Mujer","Educación Universitaria","Los Lagos",10,2012,550000
+"1357","Mujer","Educación Universitaria","Los Lagos",10,2013,597734.220463945
+"1358","Mujer","Educación Universitaria","Los Lagos",10,2014,606253.5531552
+"1359","Mujer","Educación Universitaria","Los Lagos",10,2015,700000
+"1360","Mujer","Educación Universitaria","Los Ríos",14,2012,406491.575103189
+"1361","Mujer","Educación Universitaria","Los Ríos",14,2013,532952.08440877
+"1362","Mujer","Educación Universitaria","Los Ríos",14,2014,440635.303668825
+"1363","Mujer","Educación Universitaria","Los Ríos",14,2015,462290.491639999
+"1364","Mujer","Educación Universitaria","Magallanes",12,2012,603042.728297425
+"1365","Mujer","Educación Universitaria","Magallanes",12,2013,736145.065467999
+"1366","Mujer","Educación Universitaria","Magallanes",12,2014,707553.265415928
+"1367","Mujer","Educación Universitaria","Magallanes",12,2015,800000
+"1368","Mujer","Educación Universitaria","Maule",7,2012,485933.376335953
+"1369","Mujer","Educación Universitaria","Maule",7,2013,500000
+"1370","Mujer","Educación Universitaria","Maule",7,2014,473321.28482828
+"1371","Mujer","Educación Universitaria","Maule",7,2015,502037.30532416
+"1372","Mujer","Educación Universitaria","Metropolitana",13,2012,521291.767710738
+"1373","Mujer","Educación Universitaria","Metropolitana",13,2013,597734.220463945
+"1374","Mujer","Educación Universitaria","Metropolitana",13,2014,599887.492968311
+"1375","Mujer","Educación Universitaria","Metropolitana",13,2015,608933.575257135
+"1376","Mujer","Educación Universitaria","O'Higgins",6,2012,502255.154639175
+"1377","Mujer","Educación Universitaria","O'Higgins",6,2013,543849.762254773
+"1378","Mujer","Educación Universitaria","O'Higgins",6,2014,546897.912854317
+"1379","Mujer","Educación Universitaria","O'Higgins",6,2015,601072.03126292
+"1380","Mujer","Educación Universitaria","Tarapacá",1,2012,524466.790431789
+"1381","Mujer","Educación Universitaria","Tarapacá",1,2013,597734.220463945
+"1382","Mujer","Educación Universitaria","Tarapacá",1,2014,551231.310145352
+"1383","Mujer","Educación Universitaria","Tarapacá",1,2015,620167.779180952
+"1384","Mujer","Educación Universitaria","Valparaíso",5,2012,401804.12371134
+"1385","Mujer","Educación Universitaria","Valparaíso",5,2013,497424.850674316
+"1386","Mujer","Educación Universitaria","Valparaíso",5,2014,545628.19783968
+"1387","Mujer","Educación Universitaria","Valparaíso",5,2015,502037.30532416
+"1388","Mujer","Educación Universitaria",NA,NA,2012,375452.212873626
+"1389","Mujer","Nivel ignorado","Antofagasta",2,2014,199962.497656104
+"1390","Mujer","Nivel ignorado","Antofagasta",2,2015,500000
+"1391","Mujer","Nivel ignorado","Araucanía",9,2010,400154.859967051
+"1392","Mujer","Nivel ignorado","Araucanía",9,2012,1206745.30040545
+"1393","Mujer","Nivel ignorado","Araucanía",9,2013,801084.500677816
+"1394","Mujer","Nivel ignorado","Araucanía",9,2014,181876.06594656
+"1395","Mujer","Nivel ignorado","Arica y Parinacota",15,2010,264205.457463884
+"1396","Mujer","Nivel ignorado","Arica y Parinacota",15,2011,191952.046528055
+"1397","Mujer","Nivel ignorado","Arica y Parinacota",15,2013,216435.434136396
+"1398","Mujer","Nivel ignorado","Arica y Parinacota",15,2014,520000
+"1399","Mujer","Nivel ignorado","Arica y Parinacota",15,2015,138646.015885853
+"1400","Mujer","Nivel ignorado","Atacama",3,2014,675000
+"1401","Mujer","Nivel ignorado","Bíobío",8,2010,49976.6250635883
+"1402","Mujer","Nivel ignorado","Bíobío",8,2011,60289.9924184988
+"1403","Mujer","Nivel ignorado","Bíobío",8,2012,90405.9278350515
+"1404","Mujer","Nivel ignorado","Bíobío",8,2013,129509.081100521
+"1405","Mujer","Nivel ignorado","Bíobío",8,2014,257159.089987228
+"1406","Mujer","Nivel ignorado","Bíobío",8,2015,119759.590284598
+"1407","Mujer","Nivel ignorado","Coquimbo",4,2011,199360.722008085
+"1408","Mujer","Nivel ignorado","Coquimbo",4,2013,796978.960618594
+"1409","Mujer","Nivel ignorado","Coquimbo",4,2014,45000
+"1410","Mujer","Nivel ignorado","Los Lagos",10,2010,250000
+"1411","Mujer","Nivel ignorado","Los Lagos",10,2011,844493.621977258
+"1412","Mujer","Nivel ignorado","Los Lagos",10,2012,226228.72600541
+"1413","Mujer","Nivel ignorado","Los Lagos",10,2013,30000
+"1414","Mujer","Nivel ignorado","Los Lagos",10,2014,30147.9946605996
+"1415","Mujer","Nivel ignorado","Los Ríos",14,2010,208944.45093628
+"1416","Mujer","Nivel ignorado","Los Ríos",14,2011,656326.556702979
+"1417","Mujer","Nivel ignorado","Los Ríos",14,2013,996223.700773242
+"1418","Mujer","Nivel ignorado","Los Ríos",14,2014,389000
+"1419","Mujer","Nivel ignorado","Magallanes",12,2010,300000
+"1420","Mujer","Nivel ignorado","Maule",7,2012,150843.162550682
+"1421","Mujer","Nivel ignorado","Maule",7,2014,295183.116988656
+"1422","Mujer","Nivel ignorado","Metropolitana",13,2010,198735.01805106
+"1423","Mujer","Nivel ignorado","Metropolitana",13,2011,288169.02834479
+"1424","Mujer","Nivel ignorado","Metropolitana",13,2012,250000
+"1425","Mujer","Nivel ignorado","Metropolitana",13,2013,350000
+"1426","Mujer","Nivel ignorado","Metropolitana",13,2014,291414.827955373
+"1427","Mujer","Nivel ignorado","Metropolitana",13,2015,405198.559969366
+"1428","Mujer","Nivel ignorado","O'Higgins",6,2010,194940.852120129
+"1429","Mujer","Nivel ignorado","O'Higgins",6,2011,120000
+"1430","Mujer","Nivel ignorado","O'Higgins",6,2012,193000
+"1431","Mujer","Nivel ignorado","O'Higgins",6,2013,18024.4012652509
+"1432","Mujer","Nivel ignorado","O'Higgins",6,2014,232063.96761202
+"1433","Mujer","Nivel ignorado","O'Higgins",6,2015,865723.488927486
+"1434","Mujer","Nivel ignorado","Valparaíso",5,2010,185256.823806445
+"1435","Mujer","Nivel ignorado","Valparaíso",5,2011,129584.469305255
+"1436","Mujer","Nivel ignorado","Valparaíso",5,2012,244382.132535916
+"1437","Mujer","Nivel ignorado","Valparaíso",5,2013,1108158.8345286
+"1438","Mujer","Nivel ignorado","Valparaíso",5,2014,225000
+"1439","Mujer","Nivel ignorado","Valparaíso",5,2015,886944.449234123
+"1440","Mujer","Nunca estudió","Antofagasta",2,2010,74169.6299343389
+"1441","Mujer","Nunca estudió","Antofagasta",2,2011,196153.683656772
+"1442","Mujer","Nunca estudió","Antofagasta",2,2013,140791.47193183
+"1443","Mujer","Nunca estudió","Antofagasta",2,2014,105082.485310823
+"1444","Mujer","Nunca estudió","Antofagasta",2,2015,83270.7318164019
+"1445","Mujer","Nunca estudió","Araucanía",9,2010,30128.1192620137
+"1446","Mujer","Nunca estudió","Araucanía",9,2011,32166.2653553496
+"1447","Mujer","Nunca estudió","Araucanía",9,2013,15164.6516442709
+"1448","Mujer","Nunca estudió","Araucanía",9,2014,20659.9169885785
+"1449","Mujer","Nunca estudió","Araucanía",9,2015,30559.0999885952
+"1450","Mujer","Nunca estudió","Arica y Parinacota",15,2010,56713.7939982146
+"1451","Mujer","Nunca estudió","Arica y Parinacota",15,2011,50132.3925873714
+"1452","Mujer","Nunca estudió","Arica y Parinacota",15,2013,195509.065205715
+"1453","Mujer","Nunca estudió","Arica y Parinacota",15,2014,164220.963010861
+"1454","Mujer","Nunca estudió","Arica y Parinacota",15,2015,200928.423233635
+"1455","Mujer","Nunca estudió","Atacama",3,2010,106106.884404143
+"1456","Mujer","Nunca estudió","Atacama",3,2011,92489.6612264904
+"1457","Mujer","Nunca estudió","Atacama",3,2013,166800.05150306
+"1458","Mujer","Nunca estudió","Atacama",3,2014,39501.0035045027
+"1459","Mujer","Nunca estudió","Atacama",3,2015,66574.0181186897
+"1460","Mujer","Nunca estudió","Aysén",11,2010,108177.331008266
+"1461","Mujer","Nunca estudió","Aysén",11,2011,157615.342271546
+"1462","Mujer","Nunca estudió","Aysén",11,2013,144893.48707419
+"1463","Mujer","Nunca estudió","Aysén",11,2014,54796.3553374797
+"1464","Mujer","Nunca estudió","Aysén",11,2015,44001.8413779774
+"1465","Mujer","Nunca estudió","Bíobío",8,2010,56542.0463135927
+"1466","Mujer","Nunca estudió","Bíobío",8,2011,49039.3864579378
+"1467","Mujer","Nunca estudió","Bíobío",8,2013,100135.562584727
+"1468","Mujer","Nunca estudió","Bíobío",8,2014,50863.2810662074
+"1469","Mujer","Nunca estudió","Bíobío",8,2015,30457.2548887282
+"1470","Mujer","Nunca estudió","Coquimbo",4,2010,147820.385085072
+"1471","Mujer","Nunca estudió","Coquimbo",4,2011,72185.7488828652
+"1472","Mujer","Nunca estudió","Coquimbo",4,2013,105598.591152261
+"1473","Mujer","Nunca estudió","Coquimbo",4,2014,115704.553310897
+"1474","Mujer","Nunca estudió","Coquimbo",4,2015,138562.963703138
+"1475","Mujer","Nunca estudió","Los Lagos",10,2010,60205.4552331307
+"1476","Mujer","Nunca estudió","Los Lagos",10,2011,95305.6652113103
+"1477","Mujer","Nunca estudió","Los Lagos",10,2013,43143.892005909
+"1478","Mujer","Nunca estudió","Los Lagos",10,2014,200991.965573021
+"1479","Mujer","Nunca estudió","Los Lagos",10,2015,186208.153565814
+"1480","Mujer","Nunca estudió","Los Ríos",14,2010,40997.7508267902
+"1481","Mujer","Nunca estudió","Los Ríos",14,2011,32929.9268008612
+"1482","Mujer","Nunca estudió","Los Ríos",14,2013,50067.7812923635
+"1483","Mujer","Nunca estudió","Los Ríos",14,2014,16797.9563592797
+"1484","Mujer","Nunca estudió","Los Ríos",14,2015,113285.298830096
+"1485","Mujer","Nunca estudió","Magallanes",12,2014,139973.748359273
+"1486","Mujer","Nunca estudió","Magallanes",12,2015,200054.122316436
+"1487","Mujer","Nunca estudió","Maule",7,2010,53200.0863797443
+"1488","Mujer","Nunca estudió","Maule",7,2011,80386.6565579984
+"1489","Mujer","Nunca estudió","Maule",7,2013,41042.8321254157
+"1490","Mujer","Nunca estudió","Maule",7,2014,144530.770131265
+"1491","Mujer","Nunca estudió","Maule",7,2015,208396.352742022
+"1492","Mujer","Nunca estudió","Metropolitana",13,2010,40005.0662198257
+"1493","Mujer","Nunca estudió","Metropolitana",13,2011,99885.6554519384
+"1494","Mujer","Nunca estudió","Metropolitana",13,2013,135694.331990915
+"1495","Mujer","Nunca estudió","Metropolitana",13,2014,109612.442152864
+"1496","Mujer","Nunca estudió","Metropolitana",13,2015,204967.344068565
+"1497","Mujer","Nunca estudió","O'Higgins",6,2010,70381.3913064015
+"1498","Mujer","Nunca estudió","O'Higgins",6,2011,119123.666506341
+"1499","Mujer","Nunca estudió","O'Higgins",6,2013,168593.462222745
+"1500","Mujer","Nunca estudió","O'Higgins",6,2014,28168.2104137296
+"1501","Mujer","Nunca estudió","O'Higgins",6,2015,196038.516635266
+"1502","Mujer","Nunca estudió","Tarapacá",1,2010,211412.840465399
+"1503","Mujer","Nunca estudió","Tarapacá",1,2011,290000
+"1504","Mujer","Nunca estudió","Tarapacá",1,2013,44743.45490912
+"1505","Mujer","Nunca estudió","Tarapacá",1,2014,90310.6224944394
+"1506","Mujer","Nunca estudió","Tarapacá",1,2015,162650.410333217
+"1507","Mujer","Nunca estudió","Valparaíso",5,2010,65583.9835220627
+"1508","Mujer","Nunca estudió","Valparaíso",5,2011,77995.5510833909
+"1509","Mujer","Nunca estudió","Valparaíso",5,2013,198249.861469788
+"1510","Mujer","Nunca estudió","Valparaíso",5,2014,172822.589651598
+"1511","Mujer","Nunca estudió","Valparaíso",5,2015,261629.699118056
+"1512","Mujer","Nunca Estudió","Antofagasta",2,2012,218764.235013681
+"1513","Mujer","Nunca Estudió","Araucanía",9,2012,27888.9400274368
+"1514","Mujer","Nunca Estudió","Arica y Parinacota",15,2012,161182.254486568
+"1515","Mujer","Nunca Estudió","Atacama",3,2012,81009.6441513836
+"1516","Mujer","Nunca Estudió","Aysén",11,2012,150547.845508228
+"1517","Mujer","Nunca Estudió","Bíobío",8,2012,113198.250508311
+"1518","Mujer","Nunca Estudió","Coquimbo",4,2012,77318.544590873
+"1519","Mujer","Nunca Estudió","Los Lagos",10,2012,14251.4568560052
+"1520","Mujer","Nunca Estudió","Los Ríos",14,2012,22994.9954270359
+"1521","Mujer","Nunca Estudió","Magallanes",12,2012,341911.168448211
+"1522","Mujer","Nunca Estudió","Maule",7,2012,29606.5652713554
+"1523","Mujer","Nunca Estudió","Metropolitana",13,2012,193936.61485853
+"1524","Mujer","Nunca Estudió","O'Higgins",6,2012,40494.5572836952
+"1525","Mujer","Nunca Estudió","Tarapacá",1,2012,31039.4181484339
+"1526","Mujer","Nunca Estudió","Valparaíso",5,2012,161996.484824451
+"1527","Mujer","Nunca Estudió",NA,NA,2012,100451.030927835
+"1528","Mujer","Postítulo y Maestría","Antofagasta",2,2012,850682.54188727
+"1529","Mujer","Postítulo y Maestría","Antofagasta",2,2014,1036659.82813383
+"1530","Mujer","Postítulo y Maestría","Antofagasta",2,2015,800108.606161022
+"1531","Mujer","Postítulo y Maestría","Araucanía",9,2012,894057.002650973
+"1532","Mujer","Postítulo y Maestría","Araucanía",9,2014,705947.125446605
+"1533","Mujer","Postítulo y Maestría","Araucanía",9,2015,1096094.34935228
+"1534","Mujer","Postítulo y Maestría","Arica y Parinacota",15,2012,904059.278350515
+"1535","Mujer","Postítulo y Maestría","Arica y Parinacota",15,2014,1019045.40466932
+"1536","Mujer","Postítulo y Maestría","Arica y Parinacota",15,2015,1099083.3026876
+"1537","Mujer","Postítulo y Maestría","Atacama",3,2012,933201.070654691
+"1538","Mujer","Postítulo y Maestría","Atacama",3,2014,1652622.78832281
+"1539","Mujer","Postítulo y Maestría","Atacama",3,2015,967779.430583373
+"1540","Mujer","Postítulo y Maestría","Aysén",11,2012,964029.660344859
+"1541","Mujer","Postítulo y Maestría","Aysén",11,2014,857204.643387583
+"1542","Mujer","Postítulo y Maestría","Aysén",11,2015,1505040.43109331
+"1543","Mujer","Postítulo y Maestría","Bíobío",8,2012,654717.654378546
+"1544","Mujer","Postítulo y Maestría","Bíobío",8,2014,693735.793881236
+"1545","Mujer","Postítulo y Maestría","Bíobío",8,2015,947601.545655554
+"1546","Mujer","Postítulo y Maestría","Coquimbo",4,2012,1166247.43048464
+"1547","Mujer","Postítulo y Maestría","Coquimbo",4,2014,971194.078638728
+"1548","Mujer","Postítulo y Maestría","Coquimbo",4,2015,991900.335832373
+"1549","Mujer","Postítulo y Maestría","Los Lagos",10,2012,774092.052694899
+"1550","Mujer","Postítulo y Maestría","Los Lagos",10,2014,1092785.22349676
+"1551","Mujer","Postítulo y Maestría","Los Lagos",10,2015,861724.157934019
+"1552","Mujer","Postítulo y Maestría","Los Ríos",14,2012,543228.874944422
+"1553","Mujer","Postítulo y Maestría","Los Ríos",14,2014,949542.175488601
+"1554","Mujer","Postítulo y Maestría","Los Ríos",14,2015,897788.314302123
+"1555","Mujer","Postítulo y Maestría","Magallanes",12,2012,1392613.10892287
+"1556","Mujer","Postítulo y Maestría","Magallanes",12,2014,1800792.4469008
+"1557","Mujer","Postítulo y Maestría","Magallanes",12,2015,1275852.70466842
+"1558","Mujer","Postítulo y Maestría","Maule",7,2012,591828.181471456
+"1559","Mujer","Postítulo y Maestría","Maule",7,2014,763150.541861651
+"1560","Mujer","Postítulo y Maestría","Maule",7,2015,1031391.14275255
+"1561","Mujer","Postítulo y Maestría","Metropolitana",13,2012,1121608.01467252
+"1562","Mujer","Postítulo y Maestría","Metropolitana",13,2014,997495.019635905
+"1563","Mujer","Postítulo y Maestría","Metropolitana",13,2015,1057861.38297769
+"1564","Mujer","Postítulo y Maestría","O'Higgins",6,2012,953034.031719561
+"1565","Mujer","Postítulo y Maestría","O'Higgins",6,2014,864356.877819237
+"1566","Mujer","Postítulo y Maestría","O'Higgins",6,2015,994043.698821568
+"1567","Mujer","Postítulo y Maestría","Tarapacá",1,2012,550000
+"1568","Mujer","Postítulo y Maestría","Tarapacá",1,2014,900184.637879938
+"1569","Mujer","Postítulo y Maestría","Tarapacá",1,2015,823540.790820406
+"1570","Mujer","Postítulo y Maestría","Valparaíso",5,2012,663100.624199158
+"1571","Mujer","Postítulo y Maestría","Valparaíso",5,2014,869995.705927242
+"1572","Mujer","Postítulo y Maestría","Valparaíso",5,2015,500003.315662819
+"1573","Mujer","Postitulos y maestria","Antofagasta",2,2010,2055480.20873216
+"1574","Mujer","Postitulos y maestria","Antofagasta",2,2011,1646294.26091316
+"1575","Mujer","Postitulos y maestria","Araucanía",9,2010,471046.801687392
+"1576","Mujer","Postitulos y maestria","Araucanía",9,2011,568523.994673964
+"1577","Mujer","Postitulos y maestria","Arica y Parinacota",15,2010,806000.42837138
+"1578","Mujer","Postitulos y maestria","Arica y Parinacota",15,2011,573977.512681697
+"1579","Mujer","Postitulos y maestria","Atacama",3,2010,402370.950379029
+"1580","Mujer","Postitulos y maestria","Atacama",3,2011,259529.664396921
+"1581","Mujer","Postitulos y maestria","Aysén",11,2010,200195.73302016
+"1582","Mujer","Postitulos y maestria","Aysén",11,2011,1470952.44887767
+"1583","Mujer","Postitulos y maestria","Bíobío",8,2010,520686.937093302
+"1584","Mujer","Postitulos y maestria","Bíobío",8,2011,445208.935286544
+"1585","Mujer","Postitulos y maestria","Coquimbo",4,2010,507560.648076328
+"1586","Mujer","Postitulos y maestria","Coquimbo",4,2011,1038384.30939407
+"1587","Mujer","Postitulos y maestria","Los Lagos",10,2010,495484.439224896
+"1588","Mujer","Postitulos y maestria","Los Lagos",10,2011,577779.094010614
+"1589","Mujer","Postitulos y maestria","Los Ríos",14,2010,421812.405999686
+"1590","Mujer","Postitulos y maestria","Los Ríos",14,2011,727674.124621172
+"1591","Mujer","Postitulos y maestria","Magallanes",12,2010,2800000
+"1592","Mujer","Postitulos y maestria","Magallanes",12,2011,1477617.22633485
+"1593","Mujer","Postitulos y maestria","Maule",7,2010,514824.995186197
+"1594","Mujer","Postitulos y maestria","Maule",7,2011,500000
+"1595","Mujer","Postitulos y maestria","Metropolitana",13,2010,998449.739817875
+"1596","Mujer","Postitulos y maestria","Metropolitana",13,2011,708930.998786767
+"1597","Mujer","Postitulos y maestria","O'Higgins",6,2010,886382.075661059
+"1598","Mujer","Postitulos y maestria","O'Higgins",6,2011,1027259.17282049
+"1599","Mujer","Postitulos y maestria","Tarapacá",1,2010,1166504.50577035
+"1600","Mujer","Postitulos y maestria","Tarapacá",1,2011,513401.395753464
+"1601","Mujer","Postitulos y maestria","Valparaíso",5,2010,599887.098822193
+"1602","Mujer","Postitulos y maestria","Valparaíso",5,2011,399343.818832001
+"1603","Mujer","Postítulos y Maestría","Antofagasta",2,2013,423833.415977491
+"1604","Mujer","Postítulos y Maestría","Araucanía",9,2013,903252.903378099
+"1605","Mujer","Postítulos y Maestría","Arica y Parinacota",15,2013,895866.447933685
+"1606","Mujer","Postítulos y Maestría","Atacama",3,2013,862944.897699049
+"1607","Mujer","Postítulos y Maestría","Aysén",11,2013,1193576.87693908
+"1608","Mujer","Postítulos y Maestría","Bíobío",8,2013,485489.178492728
+"1609","Mujer","Postítulos y Maestría","Coquimbo",4,2013,895089.328571153
+"1610","Mujer","Postítulos y Maestría","Los Lagos",10,2013,811199.463295122
+"1611","Mujer","Postítulos y Maestría","Los Ríos",14,2013,691140.074531937
+"1612","Mujer","Postítulos y Maestría","Magallanes",12,2013,1016618.15301009
+"1613","Mujer","Postítulos y Maestría","Maule",7,2013,622492.850493562
+"1614","Mujer","Postítulos y Maestría","Metropolitana",13,2013,896601.330695918
+"1615","Mujer","Postítulos y Maestría","O'Higgins",6,2013,1397480.87098905
+"1616","Mujer","Postítulos y Maestría","Tarapacá",1,2013,871168.433677183
+"1617","Mujer","Postítulos y Maestría","Valparaíso",5,2013,601136.18382712

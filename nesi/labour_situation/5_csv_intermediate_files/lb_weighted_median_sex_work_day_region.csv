@@ -1,0 +1,373 @@
+"","sex","work_day","geography_name","geography_id","year","lb_weighted_median"
+"1","Hombre","Completa","Antofagasta",2,2010,400391
+"2","Hombre","Completa","Antofagasta",2,2011,448180
+"3","Hombre","Completa","Antofagasta",2,2012,500000
+"4","Hombre","Completa","Antofagasta",2,2013,500678
+"5","Hombre","Completa","Antofagasta",2,2014,505211
+"6","Hombre","Completa","Antofagasta",2,2015,600000
+"7","Hombre","Completa","Araucanía",9,2010,191595
+"8","Hombre","Completa","Araucanía",9,2011,210365
+"9","Hombre","Completa","Araucanía",9,2012,250000
+"10","Hombre","Completa","Araucanía",9,2013,250069
+"11","Hombre","Completa","Araucanía",9,2014,279947
+"12","Hombre","Completa","Araucanía",9,2015,300081
+"13","Hombre","Completa","Arica y Parinacota",15,2010,249829
+"14","Hombre","Completa","Arica y Parinacota",15,2011,251208
+"15","Hombre","Completa","Arica y Parinacota",15,2012,301353
+"16","Hombre","Completa","Arica y Parinacota",15,2013,300407
+"17","Hombre","Completa","Arica y Parinacota",15,2014,317315
+"18","Hombre","Completa","Arica y Parinacota",15,2015,387437
+"19","Hombre","Completa","Atacama",3,2010,300094
+"20","Hombre","Completa","Atacama",3,2011,319463
+"21","Hombre","Completa","Atacama",3,2012,360839
+"22","Hombre","Completa","Atacama",3,2013,399609
+"23","Hombre","Completa","Atacama",3,2014,400000
+"24","Hombre","Completa","Atacama",3,2015,446218
+"25","Hombre","Completa","Aysén",11,2010,294650
+"26","Hombre","Completa","Aysén",11,2011,332375
+"27","Hombre","Completa","Aysén",11,2012,350750
+"28","Hombre","Completa","Aysén",11,2013,350000
+"29","Hombre","Completa","Aysén",11,2014,383961
+"30","Hombre","Completa","Aysén",11,2015,451834
+"31","Hombre","Completa","Bíobío",8,2010,220102
+"32","Hombre","Completa","Bíobío",8,2011,250000
+"33","Hombre","Completa","Bíobío",8,2012,261461
+"34","Hombre","Completa","Bíobío",8,2013,298867
+"35","Hombre","Completa","Bíobío",8,2014,303127
+"36","Hombre","Completa","Bíobío",8,2015,350095
+"37","Hombre","Completa","Coquimbo",4,2010,239836
+"38","Hombre","Completa","Coquimbo",4,2011,259169
+"39","Hombre","Completa","Coquimbo",4,2012,326257
+"40","Hombre","Completa","Coquimbo",4,2013,325301
+"41","Hombre","Completa","Coquimbo",4,2014,354342
+"42","Hombre","Completa","Coquimbo",4,2015,371270
+"43","Hombre","Completa","Los Lagos",10,2010,229843
+"44","Hombre","Completa","Los Lagos",10,2011,270598
+"45","Hombre","Completa","Los Lagos",10,2012,276478
+"46","Hombre","Completa","Los Lagos",10,2013,300000
+"47","Hombre","Completa","Los Lagos",10,2014,303127
+"48","Hombre","Completa","Los Lagos",10,2015,351424
+"49","Hombre","Completa","Los Ríos",14,2010,200196
+"50","Hombre","Completa","Los Ríos",14,2011,228866
+"51","Hombre","Completa","Los Ríos",14,2012,265421
+"52","Hombre","Completa","Los Ríos",14,2013,280000
+"53","Hombre","Completa","Los Ríos",14,2014,300711
+"54","Hombre","Completa","Los Ríos",14,2015,349659
+"55","Hombre","Completa","Magallanes",12,2010,349874
+"56","Hombre","Completa","Magallanes",12,2011,397190
+"57","Hombre","Completa","Magallanes",12,2012,407250
+"58","Hombre","Completa","Magallanes",12,2013,441759
+"59","Hombre","Completa","Magallanes",12,2014,431284
+"60","Hombre","Completa","Magallanes",12,2015,450266
+"61","Hombre","Completa","Maule",7,2010,184368
+"62","Hombre","Completa","Maule",7,2011,199361
+"63","Hombre","Completa","Maule",7,2012,229154
+"64","Hombre","Completa","Maule",7,2013,255164
+"65","Hombre","Completa","Maule",7,2014,271398
+"66","Hombre","Completa","Maule",7,2015,300081
+"67","Hombre","Completa","Metropolitana",13,2010,299795
+"68","Hombre","Completa","Metropolitana",13,2011,303121
+"69","Hombre","Completa","Metropolitana",13,2012,351579
+"70","Hombre","Completa","Metropolitana",13,2013,400000
+"71","Hombre","Completa","Metropolitana",13,2014,399925
+"72","Hombre","Completa","Metropolitana",13,2015,415000
+"73","Hombre","Completa","O'Higgins",6,2010,230475
+"74","Hombre","Completa","O'Higgins",6,2011,249201
+"75","Hombre","Completa","O'Higgins",6,2012,251128
+"76","Hombre","Completa","O'Higgins",6,2013,288918
+"77","Hombre","Completa","O'Higgins",6,2014,300000
+"78","Hombre","Completa","O'Higgins",6,2015,320000
+"79","Hombre","Completa","Tarapacá",1,2010,303304
+"80","Hombre","Completa","Tarapacá",1,2011,313942
+"81","Hombre","Completa","Tarapacá",1,2012,380000
+"82","Hombre","Completa","Tarapacá",1,2013,403678
+"83","Hombre","Completa","Tarapacá",1,2014,450000
+"84","Hombre","Completa","Tarapacá",1,2015,420873
+"85","Hombre","Completa","Valparaíso",5,2010,239836
+"86","Hombre","Completa","Valparaíso",5,2011,276329
+"87","Hombre","Completa","Valparaíso",5,2012,300000
+"88","Hombre","Completa","Valparaíso",5,2013,345000
+"89","Hombre","Completa","Valparaíso",5,2014,381259
+"90","Hombre","Completa","Valparaíso",5,2015,381548
+"91","Hombre","Completa",NA,NA,2010,153229
+"92","Hombre","Completa",NA,NA,2011,181498
+"93","Hombre","Completa",NA,NA,2012,166853
+"94","Hombre","Parcial","Antofagasta",2,2010,102011
+"95","Hombre","Parcial","Antofagasta",2,2011,146313
+"96","Hombre","Parcial","Antofagasta",2,2012,150414
+"97","Hombre","Parcial","Antofagasta",2,2013,160659
+"98","Hombre","Parcial","Antofagasta",2,2014,139003
+"99","Hombre","Parcial","Antofagasta",2,2015,195768
+"100","Hombre","Parcial","Araucanía",9,2010,59338
+"101","Hombre","Parcial","Araucanía",9,2011,56459
+"102","Hombre","Parcial","Araucanía",9,2012,57375
+"103","Hombre","Parcial","Araucanía",9,2013,84774
+"104","Hombre","Parcial","Araucanía",9,2014,100212
+"105","Hombre","Parcial","Araucanía",9,2015,84444
+"106","Hombre","Parcial","Arica y Parinacota",15,2010,90013
+"107","Hombre","Parcial","Arica y Parinacota",15,2011,100483
+"108","Hombre","Parcial","Arica y Parinacota",15,2012,92899
+"109","Hombre","Parcial","Arica y Parinacota",15,2013,100136
+"110","Hombre","Parcial","Arica y Parinacota",15,2014,119977
+"111","Hombre","Parcial","Arica y Parinacota",15,2015,150380
+"112","Hombre","Parcial","Atacama",3,2010,90747
+"113","Hombre","Parcial","Atacama",3,2011,88320
+"114","Hombre","Parcial","Atacama",3,2012,80450
+"115","Hombre","Parcial","Atacama",3,2013,150197
+"116","Hombre","Parcial","Atacama",3,2014,100493
+"117","Hombre","Parcial","Atacama",3,2015,100373
+"118","Hombre","Parcial","Aysén",11,2010,184452
+"119","Hombre","Parcial","Aysén",11,2011,191009
+"120","Hombre","Parcial","Aysén",11,2012,172305
+"121","Hombre","Parcial","Aysén",11,2013,173655
+"122","Hombre","Parcial","Aysén",11,2014,214964
+"123","Hombre","Parcial","Aysén",11,2015,222729
+"124","Hombre","Parcial","Bíobío",8,2010,80009
+"125","Hombre","Parcial","Bíobío",8,2011,70950
+"126","Hombre","Parcial","Bíobío",8,2012,80629
+"127","Hombre","Parcial","Bíobío",8,2013,100000
+"128","Hombre","Parcial","Bíobío",8,2014,100000
+"129","Hombre","Parcial","Bíobío",8,2015,85390
+"130","Hombre","Parcial","Coquimbo",4,2010,81391
+"131","Hombre","Parcial","Coquimbo",4,2011,80310
+"132","Hombre","Parcial","Coquimbo",4,2012,97746
+"133","Hombre","Parcial","Coquimbo",4,2013,80052
+"134","Hombre","Parcial","Coquimbo",4,2014,149974
+"135","Hombre","Parcial","Coquimbo",4,2015,127375
+"136","Hombre","Parcial","Los Lagos",10,2010,75959
+"137","Hombre","Parcial","Los Lagos",10,2011,95459
+"138","Hombre","Parcial","Los Lagos",10,2012,100000
+"139","Hombre","Parcial","Los Lagos",10,2013,100136
+"140","Hombre","Parcial","Los Lagos",10,2014,106977
+"141","Hombre","Parcial","Los Lagos",10,2015,120104
+"142","Hombre","Parcial","Los Ríos",14,2010,70678
+"143","Hombre","Parcial","Los Ríos",14,2011,67812
+"144","Hombre","Parcial","Los Ríos",14,2012,100000
+"145","Hombre","Parcial","Los Ríos",14,2013,80075
+"146","Hombre","Parcial","Los Ríos",14,2014,90938
+"147","Hombre","Parcial","Los Ríos",14,2015,106666
+"148","Hombre","Parcial","Magallanes",12,2010,90860
+"149","Hombre","Parcial","Magallanes",12,2011,119573
+"150","Hombre","Parcial","Magallanes",12,2012,40415
+"151","Hombre","Parcial","Magallanes",12,2013,199792
+"152","Hombre","Parcial","Magallanes",12,2014,163803
+"153","Hombre","Parcial","Magallanes",12,2015,109508
+"154","Hombre","Parcial","Maule",7,2010,80078
+"155","Hombre","Parcial","Maule",7,2011,90435
+"156","Hombre","Parcial","Maule",7,2012,70057
+"157","Hombre","Parcial","Maule",7,2013,84971
+"158","Hombre","Parcial","Maule",7,2014,80408
+"159","Hombre","Parcial","Maule",7,2015,100000
+"160","Hombre","Parcial","Metropolitana",13,2010,119918
+"161","Hombre","Parcial","Metropolitana",13,2011,111816
+"162","Hombre","Parcial","Metropolitana",13,2012,150000
+"163","Hombre","Parcial","Metropolitana",13,2013,150203
+"164","Hombre","Parcial","Metropolitana",13,2014,150165
+"165","Hombre","Parcial","Metropolitana",13,2015,150041
+"166","Hombre","Parcial","O'Higgins",6,2010,95175
+"167","Hombre","Parcial","O'Higgins",6,2011,88649
+"168","Hombre","Parcial","O'Higgins",6,2012,102549
+"169","Hombre","Parcial","O'Higgins",6,2013,111984
+"170","Hombre","Parcial","O'Higgins",6,2014,143373
+"171","Hombre","Parcial","O'Higgins",6,2015,150216
+"172","Hombre","Parcial","Tarapacá",1,2010,121768
+"173","Hombre","Parcial","Tarapacá",1,2011,138000
+"174","Hombre","Parcial","Tarapacá",1,2012,138999
+"175","Hombre","Parcial","Tarapacá",1,2013,150203
+"176","Hombre","Parcial","Tarapacá",1,2014,129750
+"177","Hombre","Parcial","Tarapacá",1,2015,120000
+"178","Hombre","Parcial","Valparaíso",5,2010,98057
+"179","Hombre","Parcial","Valparaíso",5,2011,99794
+"180","Hombre","Parcial","Valparaíso",5,2012,100451
+"181","Hombre","Parcial","Valparaíso",5,2013,120203
+"182","Hombre","Parcial","Valparaíso",5,2014,120594
+"183","Hombre","Parcial","Valparaíso",5,2015,152174
+"184","Hombre","Parcial",NA,NA,2010,41230
+"185","Hombre","Parcial",NA,NA,2011,93700
+"186","Hombre","Parcial",NA,NA,2012,24042
+"187","Mujer","Completa","Antofagasta",2,2010,250219
+"188","Mujer","Completa","Antofagasta",2,2011,270000
+"189","Mujer","Completa","Antofagasta",2,2012,295028
+"190","Mujer","Completa","Antofagasta",2,2013,347990
+"191","Mujer","Completa","Antofagasta",2,2014,353648
+"192","Mujer","Completa","Antofagasta",2,2015,399801
+"193","Mujer","Completa","Araucanía",9,2010,179597
+"194","Mujer","Completa","Araucanía",9,2011,199361
+"195","Mujer","Completa","Araucanía",9,2012,204520
+"196","Mujer","Completa","Araucanía",9,2013,240879
+"197","Mujer","Completa","Araucanía",9,2014,250000
+"198","Mujer","Completa","Araucanía",9,2015,260043
+"199","Mujer","Completa","Arica y Parinacota",15,2010,184022
+"200","Mujer","Completa","Arica y Parinacota",15,2011,181445
+"201","Mujer","Completa","Arica y Parinacota",15,2012,200902
+"202","Mujer","Completa","Arica y Parinacota",15,2013,233577
+"203","Mujer","Completa","Arica y Parinacota",15,2014,260493
+"204","Mujer","Completa","Arica y Parinacota",15,2015,270000
+"205","Mujer","Completa","Atacama",3,2010,210356
+"206","Mujer","Completa","Atacama",3,2011,210877
+"207","Mujer","Completa","Atacama",3,2012,252228
+"208","Mujer","Completa","Atacama",3,2013,272731
+"209","Mujer","Completa","Atacama",3,2014,289964
+"210","Mujer","Completa","Atacama",3,2015,338619
+"211","Mujer","Completa","Aysén",11,2010,240026
+"212","Mujer","Completa","Aysén",11,2011,241774
+"213","Mujer","Completa","Aysén",11,2012,251259
+"214","Mujer","Completa","Aysén",11,2013,280011
+"215","Mujer","Completa","Aysén",11,2014,299944
+"216","Mujer","Completa","Aysén",11,2015,369797
+"217","Mujer","Completa","Bíobío",8,2010,186429
+"218","Mujer","Completa","Bíobío",8,2011,199428
+"219","Mujer","Completa","Bíobío",8,2012,209643
+"220","Mujer","Completa","Bíobío",8,2013,246432
+"221","Mujer","Completa","Bíobío",8,2014,260857
+"222","Mujer","Completa","Bíobío",8,2015,280076
+"223","Mujer","Completa","Coquimbo",4,2010,199916
+"224","Mujer","Completa","Coquimbo",4,2011,199664
+"225","Mujer","Completa","Coquimbo",4,2012,233500
+"226","Mujer","Completa","Coquimbo",4,2013,237847
+"227","Mujer","Completa","Coquimbo",4,2014,286507
+"228","Mujer","Completa","Coquimbo",4,2015,300000
+"229","Mujer","Completa","Los Lagos",10,2010,192773
+"230","Mujer","Completa","Los Lagos",10,2011,231112
+"231","Mujer","Completa","Los Lagos",10,2012,250000
+"232","Mujer","Completa","Los Lagos",10,2013,259485
+"233","Mujer","Completa","Los Lagos",10,2014,279947
+"234","Mujer","Completa","Los Lagos",10,2015,300081
+"235","Mujer","Completa","Los Ríos",14,2010,174170
+"236","Mujer","Completa","Los Ríos",14,2011,182000
+"237","Mujer","Completa","Los Ríos",14,2012,224466
+"238","Mujer","Completa","Los Ríos",14,2013,244265
+"239","Mujer","Completa","Los Ríos",14,2014,258000
+"240","Mujer","Completa","Los Ríos",14,2015,300218
+"241","Mujer","Completa","Magallanes",12,2010,223713
+"242","Mujer","Completa","Magallanes",12,2011,251208
+"243","Mujer","Completa","Magallanes",12,2012,318012
+"244","Mujer","Completa","Magallanes",12,2013,360488
+"245","Mujer","Completa","Magallanes",12,2014,358048
+"246","Mujer","Completa","Magallanes",12,2015,361467
+"247","Mujer","Completa","Maule",7,2010,170166
+"248","Mujer","Completa","Maule",7,2011,182000
+"249","Mujer","Completa","Maule",7,2012,200000
+"250","Mujer","Completa","Maule",7,2013,210285
+"251","Mujer","Completa","Maule",7,2014,227345
+"252","Mujer","Completa","Maule",7,2015,256477
+"253","Mujer","Completa","Metropolitana",13,2010,230225
+"254","Mujer","Completa","Metropolitana",13,2011,251208
+"255","Mujer","Completa","Metropolitana",13,2012,294959
+"256","Mujer","Completa","Metropolitana",13,2013,300407
+"257","Mujer","Completa","Metropolitana",13,2014,330000
+"258","Mujer","Completa","Metropolitana",13,2015,350095
+"259","Mujer","Completa","O'Higgins",6,2010,197365
+"260","Mujer","Completa","O'Higgins",6,2011,217834
+"261","Mujer","Completa","O'Higgins",6,2012,210955
+"262","Mujer","Completa","O'Higgins",6,2013,227297
+"263","Mujer","Completa","O'Higgins",6,2014,264410
+"264","Mujer","Completa","O'Higgins",6,2015,270073
+"265","Mujer","Completa","Tarapacá",1,2010,210000
+"266","Mujer","Completa","Tarapacá",1,2011,248726
+"267","Mujer","Completa","Tarapacá",1,2012,271518
+"268","Mujer","Completa","Tarapacá",1,2013,300407
+"269","Mujer","Completa","Tarapacá",1,2014,349934
+"270","Mujer","Completa","Tarapacá",1,2015,302653
+"271","Mujer","Completa","Valparaíso",5,2010,190186
+"272","Mujer","Completa","Valparaíso",5,2011,200967
+"273","Mujer","Completa","Valparaíso",5,2012,231180
+"274","Mujer","Completa","Valparaíso",5,2013,259018
+"275","Mujer","Completa","Valparaíso",5,2014,299970
+"276","Mujer","Completa","Valparaíso",5,2015,301222
+"277","Mujer","Completa",NA,NA,2010,126212
+"278","Mujer","Completa",NA,NA,2011,35801
+"279","Mujer","Completa",NA,NA,2012,120541
+"280","Mujer","Parcial","Antofagasta",2,2010,61030
+"281","Mujer","Parcial","Antofagasta",2,2011,99680
+"282","Mujer","Parcial","Antofagasta",2,2012,100491
+"283","Mujer","Parcial","Antofagasta",2,2013,99622
+"284","Mujer","Parcial","Antofagasta",2,2014,102855
+"285","Mujer","Parcial","Antofagasta",2,2015,155559
+"286","Mujer","Parcial","Araucanía",9,2010,37355
+"287","Mujer","Parcial","Araucanía",9,2011,30145
+"288","Mujer","Parcial","Araucanía",9,2012,37284
+"289","Mujer","Parcial","Araucanía",9,2013,60116
+"290","Mujer","Parcial","Araucanía",9,2014,65183
+"291","Mujer","Parcial","Araucanía",9,2015,65000
+"292","Mujer","Parcial","Arica y Parinacota",15,2010,61373
+"293","Mujer","Parcial","Arica y Parinacota",15,2011,57165
+"294","Mujer","Parcial","Arica y Parinacota",15,2012,60000
+"295","Mujer","Parcial","Arica y Parinacota",15,2013,77985
+"296","Mujer","Parcial","Arica y Parinacota",15,2014,80000
+"297","Mujer","Parcial","Arica y Parinacota",15,2015,90024
+"298","Mujer","Parcial","Atacama",3,2010,60059
+"299","Mujer","Parcial","Atacama",3,2011,60193
+"300","Mujer","Parcial","Atacama",3,2012,69206
+"301","Mujer","Parcial","Atacama",3,2013,58491
+"302","Mujer","Parcial","Atacama",3,2014,99985
+"303","Mujer","Parcial","Atacama",3,2015,70285
+"304","Mujer","Parcial","Aysén",11,2010,70377
+"305","Mujer","Parcial","Aysén",11,2011,90435
+"306","Mujer","Parcial","Aysén",11,2012,80361
+"307","Mujer","Parcial","Aysén",11,2013,85115
+"308","Mujer","Parcial","Aysén",11,2014,80834
+"309","Mujer","Parcial","Aysén",11,2015,85342
+"310","Mujer","Parcial","Bíobío",8,2010,55962
+"311","Mujer","Parcial","Bíobío",8,2011,49840
+"312","Mujer","Parcial","Bíobío",8,2012,50582
+"313","Mujer","Parcial","Bíobío",8,2013,59881
+"314","Mujer","Parcial","Bíobío",8,2014,80000
+"315","Mujer","Parcial","Bíobío",8,2015,80326
+"316","Mujer","Parcial","Coquimbo",4,2010,61959
+"317","Mujer","Parcial","Coquimbo",4,2011,60138
+"318","Mujer","Parcial","Coquimbo",4,2012,62359
+"319","Mujer","Parcial","Coquimbo",4,2013,70095
+"320","Mujer","Parcial","Coquimbo",4,2014,97882
+"321","Mujer","Parcial","Coquimbo",4,2015,90367
+"322","Mujer","Parcial","Los Lagos",10,2010,51834
+"323","Mujer","Parcial","Los Lagos",10,2011,59899
+"324","Mujer","Parcial","Los Lagos",10,2012,50226
+"325","Mujer","Parcial","Los Lagos",10,2013,69752
+"326","Mujer","Parcial","Los Lagos",10,2014,99981
+"327","Mujer","Parcial","Los Lagos",10,2015,67549
+"328","Mujer","Parcial","Los Ríos",14,2010,44874
+"329","Mujer","Parcial","Los Ríos",14,2011,47770
+"330","Mujer","Parcial","Los Ríos",14,2012,65028
+"331","Mujer","Parcial","Los Ríos",14,2013,59969
+"332","Mujer","Parcial","Los Ríos",14,2014,50000
+"333","Mujer","Parcial","Los Ríos",14,2015,60215
+"334","Mujer","Parcial","Magallanes",12,2010,91076
+"335","Mujer","Parcial","Magallanes",12,2011,73180
+"336","Mujer","Parcial","Magallanes",12,2012,85478
+"337","Mujer","Parcial","Magallanes",12,2013,100136
+"338","Mujer","Parcial","Magallanes",12,2014,99997
+"339","Mujer","Parcial","Magallanes",12,2015,140570
+"340","Mujer","Parcial","Maule",7,2010,54981
+"341","Mujer","Parcial","Maule",7,2011,50242
+"342","Mujer","Parcial","Maule",7,2012,40180
+"343","Mujer","Parcial","Maule",7,2013,64646
+"344","Mujer","Parcial","Maule",7,2014,50377
+"345","Mujer","Parcial","Maule",7,2015,72002
+"346","Mujer","Parcial","Metropolitana",13,2010,80078
+"347","Mujer","Parcial","Metropolitana",13,2011,100000
+"348","Mujer","Parcial","Metropolitana",13,2012,100214
+"349","Mujer","Parcial","Metropolitana",13,2013,99802
+"350","Mujer","Parcial","Metropolitana",13,2014,120173
+"351","Mujer","Parcial","Metropolitana",13,2015,119009
+"352","Mujer","Parcial","O'Higgins",6,2010,61273
+"353","Mujer","Parcial","O'Higgins",6,2011,63304
+"354","Mujer","Parcial","O'Higgins",6,2012,86518
+"355","Mujer","Parcial","O'Higgins",6,2013,80000
+"356","Mujer","Parcial","O'Higgins",6,2014,100379
+"357","Mujer","Parcial","O'Higgins",6,2015,92885
+"358","Mujer","Parcial","Tarapacá",1,2010,60679
+"359","Mujer","Parcial","Tarapacá",1,2011,80184
+"360","Mujer","Parcial","Tarapacá",1,2012,80000
+"361","Mujer","Parcial","Tarapacá",1,2013,81249
+"362","Mujer","Parcial","Tarapacá",1,2014,99981
+"363","Mujer","Parcial","Tarapacá",1,2015,102369
+"364","Mujer","Parcial","Valparaíso",5,2010,60000
+"365","Mujer","Parcial","Valparaíso",5,2011,63433
+"366","Mujer","Parcial","Valparaíso",5,2012,80282
+"367","Mujer","Parcial","Valparaíso",5,2013,85007
+"368","Mujer","Parcial","Valparaíso",5,2014,89983
+"369","Mujer","Parcial","Valparaíso",5,2015,100363
+"370","Mujer","Parcial",NA,NA,2010,16436
+"371","Mujer","Parcial",NA,NA,2011,33814
+"372","Mujer","Parcial",NA,NA,2012,20090
