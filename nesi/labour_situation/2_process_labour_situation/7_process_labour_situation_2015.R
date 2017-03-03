@@ -131,3 +131,16 @@ labour_description_2015 <- move_col(labour_description_2015, c("comuna_name" = n
 labour_description_2015 <- join(labour_description_2015, regiones_casen_2015, by = "comuna_name")
 labour_description_2015 <- join(labour_description_2015, region_codes_datachile[,c("comuna_name","comuna_datachile_id","region_id")], by = "comuna_name")
 labour_description_2015 <- join(labour_description_2015, provincia_codes_pacha[,c("provincia_name","provincia_pacha_id")], by = "provincia_name")
+
+# Convert geographical columns to factor
+to_factor <- c("comuna_name", "region_name", "provincia_name", "comuna_datachile_id", "provincia_pacha_id", "region_id")
+labour_description_2015[to_factor] <- lapply(labour_description_2015[to_factor], factor)
+
+# Fix "icse", "isced", "isco", "isic"
+labour_description_2015$isced <- ifelse(labour_description_2015$isced == "Educaci\u00f3n T\u00e9cnica (Educaci\u00f3n Superior no Universitaria)", "Educaci\u00f3n T\u00e9cnica", labour_description_2015$isced)
+labour_description_2015$isco <- ifelse(labour_description_2015$isco == "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administraci\u00f3n p\u00fablica y de empr", "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administraci\u00f3n p\u00fablica y de empresas", labour_description_2015$isco)
+labour_description_2015$isic <- as.character(labour_description_2015$isic)
+labour_description_2015$isic <- ifelse(labour_description_2015$isic == "Comercio al por mayor y al por menor; reparaci\u00f3n de veh\u00edculos automotores, motocicletas, efectos personales y enseres ", "Comercio al por mayor y al por menor;reparaci\u00f3n de veh\u00edculos automotores, motocicletas, efectos personales y enseres dom\u00e9sticos", labour_description_2015$isic)
+
+to_factor <- c("occupational_situation", "icse", "isced", "isco", "isic")
+labour_description_2015[to_factor] <- lapply(labour_description_2015[to_factor], factor)

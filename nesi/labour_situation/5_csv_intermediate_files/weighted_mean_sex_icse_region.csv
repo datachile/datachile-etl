@@ -1,1004 +1,1004 @@
 "","sex","icse","geography_name","geography_id","year","weighted_mean"
-"1","Hombre","Asalariado sector privado","Antofagasta",2,2010,572458.89000562
-"2","Hombre","Asalariado sector privado","Antofagasta",2,2011,585103.262977368
-"3","Hombre","Asalariado sector privado","Araucanía",9,2010,282756.42256644
-"4","Hombre","Asalariado sector privado","Araucanía",9,2011,305902.450764693
-"5","Hombre","Asalariado sector privado","Arica y Parinacota",15,2010,336353.618733957
-"6","Hombre","Asalariado sector privado","Arica y Parinacota",15,2011,345892.120976467
-"7","Hombre","Asalariado sector privado","Atacama",3,2010,435719.008190407
-"8","Hombre","Asalariado sector privado","Atacama",3,2011,511738.772314642
-"9","Hombre","Asalariado sector privado","Aysén",11,2010,355701.902338999
-"10","Hombre","Asalariado sector privado","Aysén",11,2011,404328.44322225
-"11","Hombre","Asalariado sector privado","Bíobío",8,2010,315729.19025237
-"12","Hombre","Asalariado sector privado","Bíobío",8,2011,342819.05875941
-"13","Hombre","Asalariado sector privado","Coquimbo",4,2010,409004.954071971
-"14","Hombre","Asalariado sector privado","Coquimbo",4,2011,396378.316940685
-"15","Hombre","Asalariado sector privado","Los Lagos",10,2010,304360.660058218
-"16","Hombre","Asalariado sector privado","Los Lagos",10,2011,340304.606131283
-"17","Hombre","Asalariado sector privado","Los Ríos",14,2010,283495.855409487
-"18","Hombre","Asalariado sector privado","Los Ríos",14,2011,321861.531792771
-"19","Hombre","Asalariado sector privado","Magallanes",12,2010,543976.740978342
-"20","Hombre","Asalariado sector privado","Magallanes",12,2011,599545.654707736
-"21","Hombre","Asalariado sector privado","Maule",7,2010,256622.91011959
-"22","Hombre","Asalariado sector privado","Maule",7,2011,261026.314858527
-"23","Hombre","Asalariado sector privado","Metropolitana",13,2010,460559.30812943
-"24","Hombre","Asalariado sector privado","Metropolitana",13,2011,512848.001247371
-"25","Hombre","Asalariado sector privado","O'Higgins",6,2010,325792.503783663
-"26","Hombre","Asalariado sector privado","O'Higgins",6,2011,309034.857862393
-"27","Hombre","Asalariado sector privado","Tarapacá",1,2010,503944.738794484
-"28","Hombre","Asalariado sector privado","Tarapacá",1,2011,502772.870799358
-"29","Hombre","Asalariado sector privado","Valparaíso",5,2010,353036.446169326
-"30","Hombre","Asalariado sector privado","Valparaíso",5,2011,363986.42550364
-"31","Hombre","Asalariado sector privado",NA,NA,2010,222163.984852677
-"32","Hombre","Asalariado sector privado",NA,NA,2011,290450.668755251
-"33","Hombre","Asalariado Sector Privado","Antofagasta",2,2012,664554.182727359
-"34","Hombre","Asalariado Sector Privado","Antofagasta",2,2013,702989.744400148
-"35","Hombre","Asalariado Sector Privado","Antofagasta",2,2014,731205.133676724
-"36","Hombre","Asalariado Sector Privado","Antofagasta",2,2015,802982.520049311
-"37","Hombre","Asalariado Sector Privado","Araucanía",9,2012,384201.60404974
-"38","Hombre","Asalariado Sector Privado","Araucanía",9,2013,376035.770785182
-"39","Hombre","Asalariado Sector Privado","Araucanía",9,2014,369592.725115825
-"40","Hombre","Asalariado Sector Privado","Araucanía",9,2015,425052.636283865
-"41","Hombre","Asalariado Sector Privado","Arica y Parinacota",15,2012,422137.734878225
-"42","Hombre","Asalariado Sector Privado","Arica y Parinacota",15,2013,390707.463992477
-"43","Hombre","Asalariado Sector Privado","Arica y Parinacota",15,2014,420893.401655435
-"44","Hombre","Asalariado Sector Privado","Arica y Parinacota",15,2015,462787.651907955
-"45","Hombre","Asalariado Sector Privado","Atacama",3,2012,474782.759160302
-"46","Hombre","Asalariado Sector Privado","Atacama",3,2013,580642.052863025
-"47","Hombre","Asalariado Sector Privado","Atacama",3,2014,586720.451840802
-"48","Hombre","Asalariado Sector Privado","Atacama",3,2015,635006.882913998
-"49","Hombre","Asalariado Sector Privado","Aysén",11,2012,411407.824591337
-"50","Hombre","Asalariado Sector Privado","Aysén",11,2013,405953.878175978
-"51","Hombre","Asalariado Sector Privado","Aysén",11,2014,527019.029988656
-"52","Hombre","Asalariado Sector Privado","Aysén",11,2015,533735.260369976
-"53","Hombre","Asalariado Sector Privado","Bíobío",8,2012,348426.285851396
-"54","Hombre","Asalariado Sector Privado","Bíobío",8,2013,380135.095026597
-"55","Hombre","Asalariado Sector Privado","Bíobío",8,2014,407002.673817317
-"56","Hombre","Asalariado Sector Privado","Bíobío",8,2015,445905.930787119
-"57","Hombre","Asalariado Sector Privado","Coquimbo",4,2012,456392.34782599
-"58","Hombre","Asalariado Sector Privado","Coquimbo",4,2013,499735.440881911
-"59","Hombre","Asalariado Sector Privado","Coquimbo",4,2014,470237.000592827
-"60","Hombre","Asalariado Sector Privado","Coquimbo",4,2015,480197.435287927
-"61","Hombre","Asalariado Sector Privado","Los Lagos",10,2012,382903.366383821
-"62","Hombre","Asalariado Sector Privado","Los Lagos",10,2013,408059.147280484
-"63","Hombre","Asalariado Sector Privado","Los Lagos",10,2014,469731.927812785
-"64","Hombre","Asalariado Sector Privado","Los Lagos",10,2015,523416.506762362
-"65","Hombre","Asalariado Sector Privado","Los Ríos",14,2012,360064.476911857
-"66","Hombre","Asalariado Sector Privado","Los Ríos",14,2013,387124.467511593
-"67","Hombre","Asalariado Sector Privado","Los Ríos",14,2014,379282.929813819
-"68","Hombre","Asalariado Sector Privado","Los Ríos",14,2015,420476.314565691
-"69","Hombre","Asalariado Sector Privado","Magallanes",12,2012,581984.964565503
-"70","Hombre","Asalariado Sector Privado","Magallanes",12,2013,594480.680974397
-"71","Hombre","Asalariado Sector Privado","Magallanes",12,2014,535597.720283939
-"72","Hombre","Asalariado Sector Privado","Magallanes",12,2015,632802.058521854
-"73","Hombre","Asalariado Sector Privado","Maule",7,2012,307674.543315867
-"74","Hombre","Asalariado Sector Privado","Maule",7,2013,340132.039231649
-"75","Hombre","Asalariado Sector Privado","Maule",7,2014,349461.880211949
-"76","Hombre","Asalariado Sector Privado","Maule",7,2015,418613.68713203
-"77","Hombre","Asalariado Sector Privado","Metropolitana",13,2012,580611.121337658
-"78","Hombre","Asalariado Sector Privado","Metropolitana",13,2013,610264.090700522
-"79","Hombre","Asalariado Sector Privado","Metropolitana",13,2014,627710.377901107
-"80","Hombre","Asalariado Sector Privado","Metropolitana",13,2015,655742.235969022
-"81","Hombre","Asalariado Sector Privado","O'Higgins",6,2012,347407.242228961
-"82","Hombre","Asalariado Sector Privado","O'Higgins",6,2013,368522.287782436
-"83","Hombre","Asalariado Sector Privado","O'Higgins",6,2014,377640.275584496
-"84","Hombre","Asalariado Sector Privado","O'Higgins",6,2015,422496.841940116
-"85","Hombre","Asalariado Sector Privado","Tarapacá",1,2012,581100.19067312
-"86","Hombre","Asalariado Sector Privado","Tarapacá",1,2013,572459.540095268
-"87","Hombre","Asalariado Sector Privado","Tarapacá",1,2014,601669.026564864
-"88","Hombre","Asalariado Sector Privado","Tarapacá",1,2015,640134.493989134
-"89","Hombre","Asalariado Sector Privado","Valparaíso",5,2012,444893.103628508
-"90","Hombre","Asalariado Sector Privado","Valparaíso",5,2013,457843.164145181
-"91","Hombre","Asalariado Sector Privado","Valparaíso",5,2014,487032.983389568
-"92","Hombre","Asalariado Sector Privado","Valparaíso",5,2015,491744.374999701
+"1","Hombre","Asalariado Sector Privado","Antofagasta","2",2010,572458.89000562
+"2","Hombre","Asalariado Sector Privado","Antofagasta","2",2011,585103.262977368
+"3","Hombre","Asalariado Sector Privado","Antofagasta","2",2012,664554.182727359
+"4","Hombre","Asalariado Sector Privado","Antofagasta","2",2013,702989.744400148
+"5","Hombre","Asalariado Sector Privado","Antofagasta","2",2014,731205.133676724
+"6","Hombre","Asalariado Sector Privado","Antofagasta","2",2015,802982.520049311
+"7","Hombre","Asalariado Sector Privado","Araucanía","9",2010,282756.42256644
+"8","Hombre","Asalariado Sector Privado","Araucanía","9",2011,305902.450764693
+"9","Hombre","Asalariado Sector Privado","Araucanía","9",2012,384201.60404974
+"10","Hombre","Asalariado Sector Privado","Araucanía","9",2013,376035.770785182
+"11","Hombre","Asalariado Sector Privado","Araucanía","9",2014,369592.725115825
+"12","Hombre","Asalariado Sector Privado","Araucanía","9",2015,425052.636283865
+"13","Hombre","Asalariado Sector Privado","Arica y Parinacota","15",2010,336353.618733957
+"14","Hombre","Asalariado Sector Privado","Arica y Parinacota","15",2011,345892.120976467
+"15","Hombre","Asalariado Sector Privado","Arica y Parinacota","15",2012,422137.734878225
+"16","Hombre","Asalariado Sector Privado","Arica y Parinacota","15",2013,390707.463992477
+"17","Hombre","Asalariado Sector Privado","Arica y Parinacota","15",2014,420893.401655435
+"18","Hombre","Asalariado Sector Privado","Arica y Parinacota","15",2015,462787.651907955
+"19","Hombre","Asalariado Sector Privado","Atacama","3",2010,435719.008190407
+"20","Hombre","Asalariado Sector Privado","Atacama","3",2011,511738.772314642
+"21","Hombre","Asalariado Sector Privado","Atacama","3",2012,474782.759160302
+"22","Hombre","Asalariado Sector Privado","Atacama","3",2013,580642.052863025
+"23","Hombre","Asalariado Sector Privado","Atacama","3",2014,586720.451840802
+"24","Hombre","Asalariado Sector Privado","Atacama","3",2015,635006.882913998
+"25","Hombre","Asalariado Sector Privado","Aysén","11",2010,355701.902338999
+"26","Hombre","Asalariado Sector Privado","Aysén","11",2011,404328.44322225
+"27","Hombre","Asalariado Sector Privado","Aysén","11",2012,411407.824591337
+"28","Hombre","Asalariado Sector Privado","Aysén","11",2013,405953.878175978
+"29","Hombre","Asalariado Sector Privado","Aysén","11",2014,527019.029988656
+"30","Hombre","Asalariado Sector Privado","Aysén","11",2015,533735.260369976
+"31","Hombre","Asalariado Sector Privado","Bíobío","8",2010,315729.19025237
+"32","Hombre","Asalariado Sector Privado","Bíobío","8",2011,342819.05875941
+"33","Hombre","Asalariado Sector Privado","Bíobío","8",2012,348426.285851396
+"34","Hombre","Asalariado Sector Privado","Bíobío","8",2013,380135.095026597
+"35","Hombre","Asalariado Sector Privado","Bíobío","8",2014,407002.673817317
+"36","Hombre","Asalariado Sector Privado","Bíobío","8",2015,445905.930787119
+"37","Hombre","Asalariado Sector Privado","Coquimbo","4",2010,409004.954071971
+"38","Hombre","Asalariado Sector Privado","Coquimbo","4",2011,396378.316940685
+"39","Hombre","Asalariado Sector Privado","Coquimbo","4",2012,456392.34782599
+"40","Hombre","Asalariado Sector Privado","Coquimbo","4",2013,499735.440881911
+"41","Hombre","Asalariado Sector Privado","Coquimbo","4",2014,470237.000592827
+"42","Hombre","Asalariado Sector Privado","Coquimbo","4",2015,480197.435287927
+"43","Hombre","Asalariado Sector Privado","Los Lagos","10",2010,304360.660058218
+"44","Hombre","Asalariado Sector Privado","Los Lagos","10",2011,340304.606131283
+"45","Hombre","Asalariado Sector Privado","Los Lagos","10",2012,382903.366383821
+"46","Hombre","Asalariado Sector Privado","Los Lagos","10",2013,408059.147280484
+"47","Hombre","Asalariado Sector Privado","Los Lagos","10",2014,469731.927812785
+"48","Hombre","Asalariado Sector Privado","Los Lagos","10",2015,523416.506762362
+"49","Hombre","Asalariado Sector Privado","Los Ríos","14",2010,283495.855409487
+"50","Hombre","Asalariado Sector Privado","Los Ríos","14",2011,321861.531792771
+"51","Hombre","Asalariado Sector Privado","Los Ríos","14",2012,360064.476911857
+"52","Hombre","Asalariado Sector Privado","Los Ríos","14",2013,387124.467511593
+"53","Hombre","Asalariado Sector Privado","Los Ríos","14",2014,379282.929813819
+"54","Hombre","Asalariado Sector Privado","Los Ríos","14",2015,420476.314565691
+"55","Hombre","Asalariado Sector Privado","Magallanes","12",2010,543976.740978342
+"56","Hombre","Asalariado Sector Privado","Magallanes","12",2011,599545.654707736
+"57","Hombre","Asalariado Sector Privado","Magallanes","12",2012,581984.964565503
+"58","Hombre","Asalariado Sector Privado","Magallanes","12",2013,594480.680974397
+"59","Hombre","Asalariado Sector Privado","Magallanes","12",2014,535597.720283939
+"60","Hombre","Asalariado Sector Privado","Magallanes","12",2015,632802.058521854
+"61","Hombre","Asalariado Sector Privado","Maule","7",2010,256622.91011959
+"62","Hombre","Asalariado Sector Privado","Maule","7",2011,261026.314858527
+"63","Hombre","Asalariado Sector Privado","Maule","7",2012,307674.543315867
+"64","Hombre","Asalariado Sector Privado","Maule","7",2013,340132.039231649
+"65","Hombre","Asalariado Sector Privado","Maule","7",2014,349461.880211949
+"66","Hombre","Asalariado Sector Privado","Maule","7",2015,418613.68713203
+"67","Hombre","Asalariado Sector Privado","Metropolitana","13",2010,460559.30812943
+"68","Hombre","Asalariado Sector Privado","Metropolitana","13",2011,512848.001247371
+"69","Hombre","Asalariado Sector Privado","Metropolitana","13",2012,580611.121337658
+"70","Hombre","Asalariado Sector Privado","Metropolitana","13",2013,610264.090700522
+"71","Hombre","Asalariado Sector Privado","Metropolitana","13",2014,627710.377901107
+"72","Hombre","Asalariado Sector Privado","Metropolitana","13",2015,655742.235969022
+"73","Hombre","Asalariado Sector Privado","O'Higgins","6",2010,325792.503783663
+"74","Hombre","Asalariado Sector Privado","O'Higgins","6",2011,309034.857862393
+"75","Hombre","Asalariado Sector Privado","O'Higgins","6",2012,347407.242228961
+"76","Hombre","Asalariado Sector Privado","O'Higgins","6",2013,368522.287782436
+"77","Hombre","Asalariado Sector Privado","O'Higgins","6",2014,377640.275584496
+"78","Hombre","Asalariado Sector Privado","O'Higgins","6",2015,422496.841940116
+"79","Hombre","Asalariado Sector Privado","Tarapacá","1",2010,503944.738794484
+"80","Hombre","Asalariado Sector Privado","Tarapacá","1",2011,502772.870799358
+"81","Hombre","Asalariado Sector Privado","Tarapacá","1",2012,581100.19067312
+"82","Hombre","Asalariado Sector Privado","Tarapacá","1",2013,572459.540095268
+"83","Hombre","Asalariado Sector Privado","Tarapacá","1",2014,601669.026564864
+"84","Hombre","Asalariado Sector Privado","Tarapacá","1",2015,640134.493989134
+"85","Hombre","Asalariado Sector Privado","Valparaíso","5",2010,353036.446169326
+"86","Hombre","Asalariado Sector Privado","Valparaíso","5",2011,363986.42550364
+"87","Hombre","Asalariado Sector Privado","Valparaíso","5",2012,444893.103628508
+"88","Hombre","Asalariado Sector Privado","Valparaíso","5",2013,457843.164145181
+"89","Hombre","Asalariado Sector Privado","Valparaíso","5",2014,487032.983389568
+"90","Hombre","Asalariado Sector Privado","Valparaíso","5",2015,491744.374999701
+"91","Hombre","Asalariado Sector Privado",NA,NA,2010,222163.984852677
+"92","Hombre","Asalariado Sector Privado",NA,NA,2011,290450.668755251
 "93","Hombre","Asalariado Sector Privado",NA,NA,2012,243376.741337546
-"94","Hombre","Asalariado sector público","Antofagasta",2,2010,875113.293196807
-"95","Hombre","Asalariado sector público","Antofagasta",2,2011,1073423.95331626
-"96","Hombre","Asalariado sector público","Araucanía",9,2010,575736.832323786
-"97","Hombre","Asalariado sector público","Araucanía",9,2011,650923.378905358
-"98","Hombre","Asalariado sector público","Arica y Parinacota",15,2010,590460.91387417
-"99","Hombre","Asalariado sector público","Arica y Parinacota",15,2011,537265.461679351
-"100","Hombre","Asalariado sector público","Atacama",3,2010,572477.666601548
-"101","Hombre","Asalariado sector público","Atacama",3,2011,485680.335401337
-"102","Hombre","Asalariado sector público","Aysén",11,2010,849983.866031629
-"103","Hombre","Asalariado sector público","Aysén",11,2011,1048310.2685967
-"104","Hombre","Asalariado sector público","Bíobío",8,2010,473686.964844361
-"105","Hombre","Asalariado sector público","Bíobío",8,2011,627246.313886812
-"106","Hombre","Asalariado sector público","Coquimbo",4,2010,568861.806397372
-"107","Hombre","Asalariado sector público","Coquimbo",4,2011,630413.20674692
-"108","Hombre","Asalariado sector público","Los Lagos",10,2010,567935.441674164
-"109","Hombre","Asalariado sector público","Los Lagos",10,2011,576050.827833357
-"110","Hombre","Asalariado sector público","Los Ríos",14,2010,437205.887703062
-"111","Hombre","Asalariado sector público","Los Ríos",14,2011,545033.743111732
-"112","Hombre","Asalariado sector público","Magallanes",12,2010,1174420.96807055
-"113","Hombre","Asalariado sector público","Magallanes",12,2011,1124895.25986871
-"114","Hombre","Asalariado sector público","Maule",7,2010,502716.898550662
-"115","Hombre","Asalariado sector público","Maule",7,2011,551428.116087901
-"116","Hombre","Asalariado sector público","Metropolitana",13,2010,686167.510574874
-"117","Hombre","Asalariado sector público","Metropolitana",13,2011,757042.103206701
-"118","Hombre","Asalariado sector público","O'Higgins",6,2010,636454.906700483
-"119","Hombre","Asalariado sector público","O'Higgins",6,2011,627575.479810031
-"120","Hombre","Asalariado sector público","Tarapacá",1,2010,592798.229567865
-"121","Hombre","Asalariado sector público","Tarapacá",1,2011,693324.618040412
-"122","Hombre","Asalariado sector público","Valparaíso",5,2010,576825.729841943
-"123","Hombre","Asalariado sector público","Valparaíso",5,2011,713252.685837911
-"124","Hombre","Asalariado sector público",NA,NA,2010,204442.306533653
-"125","Hombre","Asalariado sector público",NA,NA,2011,214805.591201563
-"126","Hombre","Asalariado Sector Público","Antofagasta",2,2012,1010518.42581442
-"127","Hombre","Asalariado Sector Público","Antofagasta",2,2013,1334399.25981461
-"128","Hombre","Asalariado Sector Público","Antofagasta",2,2014,1142572.35160281
-"129","Hombre","Asalariado Sector Público","Antofagasta",2,2015,1116362.44798201
-"130","Hombre","Asalariado Sector Público","Araucanía",9,2012,635764.586455507
-"131","Hombre","Asalariado Sector Público","Araucanía",9,2013,618167.42975721
-"132","Hombre","Asalariado Sector Público","Araucanía",9,2014,850059.825887643
-"133","Hombre","Asalariado Sector Público","Araucanía",9,2015,923002.943289119
-"134","Hombre","Asalariado Sector Público","Arica y Parinacota",15,2012,895318.703386028
-"135","Hombre","Asalariado Sector Público","Arica y Parinacota",15,2013,619326.779057062
-"136","Hombre","Asalariado Sector Público","Arica y Parinacota",15,2014,673780.602297696
-"137","Hombre","Asalariado Sector Público","Arica y Parinacota",15,2015,737771.787337935
-"138","Hombre","Asalariado Sector Público","Atacama",3,2012,640094.177198288
-"139","Hombre","Asalariado Sector Público","Atacama",3,2013,801968.513788961
-"140","Hombre","Asalariado Sector Público","Atacama",3,2014,823736.169615298
-"141","Hombre","Asalariado Sector Público","Atacama",3,2015,824164.396042575
-"142","Hombre","Asalariado Sector Público","Aysén",11,2012,847697.911608305
-"143","Hombre","Asalariado Sector Público","Aysén",11,2013,1049933.31557719
-"144","Hombre","Asalariado Sector Público","Aysén",11,2014,958255.625299011
-"145","Hombre","Asalariado Sector Público","Aysén",11,2015,1223371.32639722
-"146","Hombre","Asalariado Sector Público","Bíobío",8,2012,623860.234674708
-"147","Hombre","Asalariado Sector Público","Bíobío",8,2013,574557.73265383
-"148","Hombre","Asalariado Sector Público","Bíobío",8,2014,787443.966144676
-"149","Hombre","Asalariado Sector Público","Bíobío",8,2015,873586.817952756
-"150","Hombre","Asalariado Sector Público","Coquimbo",4,2012,713770.640188211
-"151","Hombre","Asalariado Sector Público","Coquimbo",4,2013,713176.142628904
-"152","Hombre","Asalariado Sector Público","Coquimbo",4,2014,774923.785171346
-"153","Hombre","Asalariado Sector Público","Coquimbo",4,2015,702260.902073662
-"154","Hombre","Asalariado Sector Público","Los Lagos",10,2012,718262.573059299
-"155","Hombre","Asalariado Sector Público","Los Lagos",10,2013,739832.633585622
-"156","Hombre","Asalariado Sector Público","Los Lagos",10,2014,770014.801605728
-"157","Hombre","Asalariado Sector Público","Los Lagos",10,2015,841399.322281047
-"158","Hombre","Asalariado Sector Público","Los Ríos",14,2012,643049.68984382
-"159","Hombre","Asalariado Sector Público","Los Ríos",14,2013,647532.197816974
-"160","Hombre","Asalariado Sector Público","Los Ríos",14,2014,737599.960657077
-"161","Hombre","Asalariado Sector Público","Los Ríos",14,2015,807698.776654083
-"162","Hombre","Asalariado Sector Público","Magallanes",12,2012,1038351.16016621
-"163","Hombre","Asalariado Sector Público","Magallanes",12,2013,1203604.12455832
-"164","Hombre","Asalariado Sector Público","Magallanes",12,2014,1191263.94699061
-"165","Hombre","Asalariado Sector Público","Magallanes",12,2015,1405309.10701303
-"166","Hombre","Asalariado Sector Público","Maule",7,2012,495298.078875764
-"167","Hombre","Asalariado Sector Público","Maule",7,2013,572582.701079219
-"168","Hombre","Asalariado Sector Público","Maule",7,2014,587555.673368007
-"169","Hombre","Asalariado Sector Público","Maule",7,2015,731635.719407865
-"170","Hombre","Asalariado Sector Público","Metropolitana",13,2012,669200.34844286
-"171","Hombre","Asalariado Sector Público","Metropolitana",13,2013,847211.083804471
-"172","Hombre","Asalariado Sector Público","Metropolitana",13,2014,826776.805223895
-"173","Hombre","Asalariado Sector Público","Metropolitana",13,2015,1026341.71586187
-"174","Hombre","Asalariado Sector Público","O'Higgins",6,2012,706175.963930264
-"175","Hombre","Asalariado Sector Público","O'Higgins",6,2013,740698.344534849
-"176","Hombre","Asalariado Sector Público","O'Higgins",6,2014,694957.753783462
-"177","Hombre","Asalariado Sector Público","O'Higgins",6,2015,834399.765803659
-"178","Hombre","Asalariado Sector Público","Tarapacá",1,2012,717500.39669776
-"179","Hombre","Asalariado Sector Público","Tarapacá",1,2013,971194.548756495
-"180","Hombre","Asalariado Sector Público","Tarapacá",1,2014,787067.895529296
-"181","Hombre","Asalariado Sector Público","Tarapacá",1,2015,1017381.05615612
-"182","Hombre","Asalariado Sector Público","Valparaíso",5,2012,832643.782738453
-"183","Hombre","Asalariado Sector Público","Valparaíso",5,2013,907910.004135984
-"184","Hombre","Asalariado Sector Público","Valparaíso",5,2014,948006.358361217
-"185","Hombre","Asalariado Sector Público","Valparaíso",5,2015,934408.618560979
+"94","Hombre","Asalariado Sector Público","Antofagasta","2",2010,875113.293196807
+"95","Hombre","Asalariado Sector Público","Antofagasta","2",2011,1073423.95331626
+"96","Hombre","Asalariado Sector Público","Antofagasta","2",2012,1010518.42581442
+"97","Hombre","Asalariado Sector Público","Antofagasta","2",2013,1334399.25981461
+"98","Hombre","Asalariado Sector Público","Antofagasta","2",2014,1142572.35160281
+"99","Hombre","Asalariado Sector Público","Antofagasta","2",2015,1116362.44798201
+"100","Hombre","Asalariado Sector Público","Araucanía","9",2010,575736.832323786
+"101","Hombre","Asalariado Sector Público","Araucanía","9",2011,650923.378905358
+"102","Hombre","Asalariado Sector Público","Araucanía","9",2012,635764.586455507
+"103","Hombre","Asalariado Sector Público","Araucanía","9",2013,618167.42975721
+"104","Hombre","Asalariado Sector Público","Araucanía","9",2014,850059.825887643
+"105","Hombre","Asalariado Sector Público","Araucanía","9",2015,923002.943289119
+"106","Hombre","Asalariado Sector Público","Arica y Parinacota","15",2010,590460.91387417
+"107","Hombre","Asalariado Sector Público","Arica y Parinacota","15",2011,537265.461679351
+"108","Hombre","Asalariado Sector Público","Arica y Parinacota","15",2012,895318.703386028
+"109","Hombre","Asalariado Sector Público","Arica y Parinacota","15",2013,619326.779057062
+"110","Hombre","Asalariado Sector Público","Arica y Parinacota","15",2014,673780.602297696
+"111","Hombre","Asalariado Sector Público","Arica y Parinacota","15",2015,737771.787337935
+"112","Hombre","Asalariado Sector Público","Atacama","3",2010,572477.666601548
+"113","Hombre","Asalariado Sector Público","Atacama","3",2011,485680.335401337
+"114","Hombre","Asalariado Sector Público","Atacama","3",2012,640094.177198288
+"115","Hombre","Asalariado Sector Público","Atacama","3",2013,801968.513788961
+"116","Hombre","Asalariado Sector Público","Atacama","3",2014,823736.169615298
+"117","Hombre","Asalariado Sector Público","Atacama","3",2015,824164.396042575
+"118","Hombre","Asalariado Sector Público","Aysén","11",2010,849983.866031629
+"119","Hombre","Asalariado Sector Público","Aysén","11",2011,1048310.2685967
+"120","Hombre","Asalariado Sector Público","Aysén","11",2012,847697.911608305
+"121","Hombre","Asalariado Sector Público","Aysén","11",2013,1049933.31557719
+"122","Hombre","Asalariado Sector Público","Aysén","11",2014,958255.625299011
+"123","Hombre","Asalariado Sector Público","Aysén","11",2015,1223371.32639722
+"124","Hombre","Asalariado Sector Público","Bíobío","8",2010,473686.964844361
+"125","Hombre","Asalariado Sector Público","Bíobío","8",2011,627246.313886812
+"126","Hombre","Asalariado Sector Público","Bíobío","8",2012,623860.234674708
+"127","Hombre","Asalariado Sector Público","Bíobío","8",2013,574557.73265383
+"128","Hombre","Asalariado Sector Público","Bíobío","8",2014,787443.966144676
+"129","Hombre","Asalariado Sector Público","Bíobío","8",2015,873586.817952756
+"130","Hombre","Asalariado Sector Público","Coquimbo","4",2010,568861.806397372
+"131","Hombre","Asalariado Sector Público","Coquimbo","4",2011,630413.20674692
+"132","Hombre","Asalariado Sector Público","Coquimbo","4",2012,713770.640188211
+"133","Hombre","Asalariado Sector Público","Coquimbo","4",2013,713176.142628904
+"134","Hombre","Asalariado Sector Público","Coquimbo","4",2014,774923.785171346
+"135","Hombre","Asalariado Sector Público","Coquimbo","4",2015,702260.902073662
+"136","Hombre","Asalariado Sector Público","Los Lagos","10",2010,567935.441674164
+"137","Hombre","Asalariado Sector Público","Los Lagos","10",2011,576050.827833357
+"138","Hombre","Asalariado Sector Público","Los Lagos","10",2012,718262.573059299
+"139","Hombre","Asalariado Sector Público","Los Lagos","10",2013,739832.633585622
+"140","Hombre","Asalariado Sector Público","Los Lagos","10",2014,770014.801605728
+"141","Hombre","Asalariado Sector Público","Los Lagos","10",2015,841399.322281047
+"142","Hombre","Asalariado Sector Público","Los Ríos","14",2010,437205.887703062
+"143","Hombre","Asalariado Sector Público","Los Ríos","14",2011,545033.743111732
+"144","Hombre","Asalariado Sector Público","Los Ríos","14",2012,643049.68984382
+"145","Hombre","Asalariado Sector Público","Los Ríos","14",2013,647532.197816974
+"146","Hombre","Asalariado Sector Público","Los Ríos","14",2014,737599.960657077
+"147","Hombre","Asalariado Sector Público","Los Ríos","14",2015,807698.776654083
+"148","Hombre","Asalariado Sector Público","Magallanes","12",2010,1174420.96807055
+"149","Hombre","Asalariado Sector Público","Magallanes","12",2011,1124895.25986871
+"150","Hombre","Asalariado Sector Público","Magallanes","12",2012,1038351.16016621
+"151","Hombre","Asalariado Sector Público","Magallanes","12",2013,1203604.12455832
+"152","Hombre","Asalariado Sector Público","Magallanes","12",2014,1191263.94699061
+"153","Hombre","Asalariado Sector Público","Magallanes","12",2015,1405309.10701303
+"154","Hombre","Asalariado Sector Público","Maule","7",2010,502716.898550662
+"155","Hombre","Asalariado Sector Público","Maule","7",2011,551428.116087901
+"156","Hombre","Asalariado Sector Público","Maule","7",2012,495298.078875764
+"157","Hombre","Asalariado Sector Público","Maule","7",2013,572582.701079219
+"158","Hombre","Asalariado Sector Público","Maule","7",2014,587555.673368007
+"159","Hombre","Asalariado Sector Público","Maule","7",2015,731635.719407865
+"160","Hombre","Asalariado Sector Público","Metropolitana","13",2010,686167.510574874
+"161","Hombre","Asalariado Sector Público","Metropolitana","13",2011,757042.103206701
+"162","Hombre","Asalariado Sector Público","Metropolitana","13",2012,669200.34844286
+"163","Hombre","Asalariado Sector Público","Metropolitana","13",2013,847211.083804471
+"164","Hombre","Asalariado Sector Público","Metropolitana","13",2014,826776.805223895
+"165","Hombre","Asalariado Sector Público","Metropolitana","13",2015,1026341.71586187
+"166","Hombre","Asalariado Sector Público","O'Higgins","6",2010,636454.906700483
+"167","Hombre","Asalariado Sector Público","O'Higgins","6",2011,627575.479810031
+"168","Hombre","Asalariado Sector Público","O'Higgins","6",2012,706175.963930264
+"169","Hombre","Asalariado Sector Público","O'Higgins","6",2013,740698.344534849
+"170","Hombre","Asalariado Sector Público","O'Higgins","6",2014,694957.753783462
+"171","Hombre","Asalariado Sector Público","O'Higgins","6",2015,834399.765803659
+"172","Hombre","Asalariado Sector Público","Tarapacá","1",2010,592798.229567865
+"173","Hombre","Asalariado Sector Público","Tarapacá","1",2011,693324.618040412
+"174","Hombre","Asalariado Sector Público","Tarapacá","1",2012,717500.39669776
+"175","Hombre","Asalariado Sector Público","Tarapacá","1",2013,971194.548756495
+"176","Hombre","Asalariado Sector Público","Tarapacá","1",2014,787067.895529296
+"177","Hombre","Asalariado Sector Público","Tarapacá","1",2015,1017381.05615612
+"178","Hombre","Asalariado Sector Público","Valparaíso","5",2010,576825.729841943
+"179","Hombre","Asalariado Sector Público","Valparaíso","5",2011,713252.685837911
+"180","Hombre","Asalariado Sector Público","Valparaíso","5",2012,832643.782738453
+"181","Hombre","Asalariado Sector Público","Valparaíso","5",2013,907910.004135984
+"182","Hombre","Asalariado Sector Público","Valparaíso","5",2014,948006.358361217
+"183","Hombre","Asalariado Sector Público","Valparaíso","5",2015,934408.618560979
+"184","Hombre","Asalariado Sector Público",NA,NA,2010,204442.306533653
+"185","Hombre","Asalariado Sector Público",NA,NA,2011,214805.591201563
 "186","Hombre","Asalariado Sector Público",NA,NA,2012,855610.363095794
-"187","Hombre","Cuenta propia","Antofagasta",2,2010,318001.04277857
-"188","Hombre","Cuenta propia","Antofagasta",2,2011,333755.631784744
-"189","Hombre","Cuenta propia","Araucanía",9,2010,123036.498352438
-"190","Hombre","Cuenta propia","Araucanía",9,2011,174214.795324936
-"191","Hombre","Cuenta propia","Arica y Parinacota",15,2010,197102.478486688
-"192","Hombre","Cuenta propia","Arica y Parinacota",15,2011,206656.162605792
-"193","Hombre","Cuenta propia","Atacama",3,2010,266711.963693302
-"194","Hombre","Cuenta propia","Atacama",3,2011,272447.925264041
-"195","Hombre","Cuenta propia","Aysén",11,2010,313631.20584647
-"196","Hombre","Cuenta propia","Aysén",11,2011,298918.425376159
-"197","Hombre","Cuenta propia","Bíobío",8,2010,203000.51825274
-"198","Hombre","Cuenta propia","Bíobío",8,2011,224402.036376422
-"199","Hombre","Cuenta propia","Coquimbo",4,2010,229153.939642648
-"200","Hombre","Cuenta propia","Coquimbo",4,2011,283850.100718205
-"201","Hombre","Cuenta propia","Los Lagos",10,2010,224384.978290798
-"202","Hombre","Cuenta propia","Los Lagos",10,2011,254126.175738165
-"203","Hombre","Cuenta propia","Los Ríos",14,2010,225771.730309526
-"204","Hombre","Cuenta propia","Los Ríos",14,2011,200370.110112765
-"205","Hombre","Cuenta propia","Magallanes",12,2010,332843.229951972
-"206","Hombre","Cuenta propia","Magallanes",12,2011,399327.251776287
-"207","Hombre","Cuenta propia","Maule",7,2010,173915.981346253
-"208","Hombre","Cuenta propia","Maule",7,2011,223425.443780076
-"209","Hombre","Cuenta propia","Metropolitana",13,2010,343702.062202232
-"210","Hombre","Cuenta propia","Metropolitana",13,2011,352837.214288126
-"211","Hombre","Cuenta propia","O'Higgins",6,2010,222676.540125768
-"212","Hombre","Cuenta propia","O'Higgins",6,2011,263741.563729871
-"213","Hombre","Cuenta propia","Tarapacá",1,2010,242402.668011488
-"214","Hombre","Cuenta propia","Tarapacá",1,2011,227175.506986816
-"215","Hombre","Cuenta propia","Valparaíso",5,2010,235267.468755004
-"216","Hombre","Cuenta propia","Valparaíso",5,2011,260322.658861937
-"217","Hombre","Cuenta propia",NA,NA,2010,175032.330332022
-"218","Hombre","Cuenta propia",NA,NA,2011,287651.368497157
-"219","Hombre","Cuenta Propia","Antofagasta",2,2012,389549.598008107
-"220","Hombre","Cuenta Propia","Antofagasta",2,2013,356301.537562885
-"221","Hombre","Cuenta Propia","Antofagasta",2,2014,474399.330696359
-"222","Hombre","Cuenta Propia","Antofagasta",2,2015,562249.7022326
-"223","Hombre","Cuenta Propia","Araucanía",9,2012,166328.687398678
-"224","Hombre","Cuenta Propia","Araucanía",9,2013,178704.928349967
-"225","Hombre","Cuenta Propia","Araucanía",9,2014,249488.678457417
-"226","Hombre","Cuenta Propia","Araucanía",9,2015,190454.178924698
-"227","Hombre","Cuenta Propia","Arica y Parinacota",15,2012,282823.071066867
-"228","Hombre","Cuenta Propia","Arica y Parinacota",15,2013,301855.627304468
-"229","Hombre","Cuenta Propia","Arica y Parinacota",15,2014,291128.885414422
-"230","Hombre","Cuenta Propia","Arica y Parinacota",15,2015,325617.332910697
-"231","Hombre","Cuenta Propia","Atacama",3,2012,276868.855682859
-"232","Hombre","Cuenta Propia","Atacama",3,2013,402778.67299191
-"233","Hombre","Cuenta Propia","Atacama",3,2014,305820.390545371
-"234","Hombre","Cuenta Propia","Atacama",3,2015,385487.007072679
-"235","Hombre","Cuenta Propia","Aysén",11,2012,332979.018703925
-"236","Hombre","Cuenta Propia","Aysén",11,2013,300529.309236065
-"237","Hombre","Cuenta Propia","Aysén",11,2014,323165.698802868
-"238","Hombre","Cuenta Propia","Aysén",11,2015,436752.967625405
-"239","Hombre","Cuenta Propia","Bíobío",8,2012,251094.095655217
-"240","Hombre","Cuenta Propia","Bíobío",8,2013,229469.692068394
-"241","Hombre","Cuenta Propia","Bíobío",8,2014,238760.170137362
-"242","Hombre","Cuenta Propia","Bíobío",8,2015,280118.064964609
-"243","Hombre","Cuenta Propia","Coquimbo",4,2012,250201.058787562
-"244","Hombre","Cuenta Propia","Coquimbo",4,2013,263286.253301052
-"245","Hombre","Cuenta Propia","Coquimbo",4,2014,292314.938006471
-"246","Hombre","Cuenta Propia","Coquimbo",4,2015,321412.714629608
-"247","Hombre","Cuenta Propia","Los Lagos",10,2012,211807.799906724
-"248","Hombre","Cuenta Propia","Los Lagos",10,2013,231582.843074754
-"249","Hombre","Cuenta Propia","Los Lagos",10,2014,296626.519656828
-"250","Hombre","Cuenta Propia","Los Lagos",10,2015,321337.305753016
-"251","Hombre","Cuenta Propia","Los Ríos",14,2012,213778.936796604
-"252","Hombre","Cuenta Propia","Los Ríos",14,2013,266586.77889416
-"253","Hombre","Cuenta Propia","Los Ríos",14,2014,268939.194508838
-"254","Hombre","Cuenta Propia","Los Ríos",14,2015,256182.017951942
-"255","Hombre","Cuenta Propia","Magallanes",12,2012,335819.242133244
-"256","Hombre","Cuenta Propia","Magallanes",12,2013,392834.856396662
-"257","Hombre","Cuenta Propia","Magallanes",12,2014,337294.84301595
-"258","Hombre","Cuenta Propia","Magallanes",12,2015,455478.407662591
-"259","Hombre","Cuenta Propia","Maule",7,2012,204431.819098252
-"260","Hombre","Cuenta Propia","Maule",7,2013,223235.305015945
-"261","Hombre","Cuenta Propia","Maule",7,2014,241316.054263322
-"262","Hombre","Cuenta Propia","Maule",7,2015,283119.973922052
-"263","Hombre","Cuenta Propia","Metropolitana",13,2012,403791.669982734
-"264","Hombre","Cuenta Propia","Metropolitana",13,2013,409969.855780263
-"265","Hombre","Cuenta Propia","Metropolitana",13,2014,397553.929405479
-"266","Hombre","Cuenta Propia","Metropolitana",13,2015,407299.994185433
-"267","Hombre","Cuenta Propia","O'Higgins",6,2012,241655.668455709
-"268","Hombre","Cuenta Propia","O'Higgins",6,2013,267483.625158078
-"269","Hombre","Cuenta Propia","O'Higgins",6,2014,355467.963861177
-"270","Hombre","Cuenta Propia","O'Higgins",6,2015,352481.695012283
-"271","Hombre","Cuenta Propia","Tarapacá",1,2012,297227.820124234
-"272","Hombre","Cuenta Propia","Tarapacá",1,2013,271938.525294361
-"273","Hombre","Cuenta Propia","Tarapacá",1,2014,331917.602213647
-"274","Hombre","Cuenta Propia","Tarapacá",1,2015,323751.602120695
-"275","Hombre","Cuenta Propia","Valparaíso",5,2012,258990.598374673
-"276","Hombre","Cuenta Propia","Valparaíso",5,2013,310342.359335348
-"277","Hombre","Cuenta Propia","Valparaíso",5,2014,356101.939942841
-"278","Hombre","Cuenta Propia","Valparaíso",5,2015,306046.191302932
+"187","Hombre","Cuenta Propia","Antofagasta","2",2010,318001.04277857
+"188","Hombre","Cuenta Propia","Antofagasta","2",2011,333755.631784744
+"189","Hombre","Cuenta Propia","Antofagasta","2",2012,389549.598008107
+"190","Hombre","Cuenta Propia","Antofagasta","2",2013,356301.537562885
+"191","Hombre","Cuenta Propia","Antofagasta","2",2014,474399.330696359
+"192","Hombre","Cuenta Propia","Antofagasta","2",2015,562249.7022326
+"193","Hombre","Cuenta Propia","Araucanía","9",2010,123036.498352438
+"194","Hombre","Cuenta Propia","Araucanía","9",2011,174214.795324936
+"195","Hombre","Cuenta Propia","Araucanía","9",2012,166328.687398678
+"196","Hombre","Cuenta Propia","Araucanía","9",2013,178704.928349967
+"197","Hombre","Cuenta Propia","Araucanía","9",2014,249488.678457417
+"198","Hombre","Cuenta Propia","Araucanía","9",2015,190454.178924698
+"199","Hombre","Cuenta Propia","Arica y Parinacota","15",2010,197102.478486688
+"200","Hombre","Cuenta Propia","Arica y Parinacota","15",2011,206656.162605792
+"201","Hombre","Cuenta Propia","Arica y Parinacota","15",2012,282823.071066867
+"202","Hombre","Cuenta Propia","Arica y Parinacota","15",2013,301855.627304468
+"203","Hombre","Cuenta Propia","Arica y Parinacota","15",2014,291128.885414422
+"204","Hombre","Cuenta Propia","Arica y Parinacota","15",2015,325617.332910697
+"205","Hombre","Cuenta Propia","Atacama","3",2010,266711.963693302
+"206","Hombre","Cuenta Propia","Atacama","3",2011,272447.925264041
+"207","Hombre","Cuenta Propia","Atacama","3",2012,276868.855682859
+"208","Hombre","Cuenta Propia","Atacama","3",2013,402778.67299191
+"209","Hombre","Cuenta Propia","Atacama","3",2014,305820.390545371
+"210","Hombre","Cuenta Propia","Atacama","3",2015,385487.007072679
+"211","Hombre","Cuenta Propia","Aysén","11",2010,313631.20584647
+"212","Hombre","Cuenta Propia","Aysén","11",2011,298918.425376159
+"213","Hombre","Cuenta Propia","Aysén","11",2012,332979.018703925
+"214","Hombre","Cuenta Propia","Aysén","11",2013,300529.309236065
+"215","Hombre","Cuenta Propia","Aysén","11",2014,323165.698802868
+"216","Hombre","Cuenta Propia","Aysén","11",2015,436752.967625405
+"217","Hombre","Cuenta Propia","Bíobío","8",2010,203000.51825274
+"218","Hombre","Cuenta Propia","Bíobío","8",2011,224402.036376422
+"219","Hombre","Cuenta Propia","Bíobío","8",2012,251094.095655217
+"220","Hombre","Cuenta Propia","Bíobío","8",2013,229469.692068394
+"221","Hombre","Cuenta Propia","Bíobío","8",2014,238760.170137362
+"222","Hombre","Cuenta Propia","Bíobío","8",2015,280118.064964609
+"223","Hombre","Cuenta Propia","Coquimbo","4",2010,229153.939642648
+"224","Hombre","Cuenta Propia","Coquimbo","4",2011,283850.100718205
+"225","Hombre","Cuenta Propia","Coquimbo","4",2012,250201.058787562
+"226","Hombre","Cuenta Propia","Coquimbo","4",2013,263286.253301052
+"227","Hombre","Cuenta Propia","Coquimbo","4",2014,292314.938006471
+"228","Hombre","Cuenta Propia","Coquimbo","4",2015,321412.714629608
+"229","Hombre","Cuenta Propia","Los Lagos","10",2010,224384.978290798
+"230","Hombre","Cuenta Propia","Los Lagos","10",2011,254126.175738165
+"231","Hombre","Cuenta Propia","Los Lagos","10",2012,211807.799906724
+"232","Hombre","Cuenta Propia","Los Lagos","10",2013,231582.843074754
+"233","Hombre","Cuenta Propia","Los Lagos","10",2014,296626.519656828
+"234","Hombre","Cuenta Propia","Los Lagos","10",2015,321337.305753016
+"235","Hombre","Cuenta Propia","Los Ríos","14",2010,225771.730309526
+"236","Hombre","Cuenta Propia","Los Ríos","14",2011,200370.110112765
+"237","Hombre","Cuenta Propia","Los Ríos","14",2012,213778.936796604
+"238","Hombre","Cuenta Propia","Los Ríos","14",2013,266586.77889416
+"239","Hombre","Cuenta Propia","Los Ríos","14",2014,268939.194508838
+"240","Hombre","Cuenta Propia","Los Ríos","14",2015,256182.017951942
+"241","Hombre","Cuenta Propia","Magallanes","12",2010,332843.229951972
+"242","Hombre","Cuenta Propia","Magallanes","12",2011,399327.251776287
+"243","Hombre","Cuenta Propia","Magallanes","12",2012,335819.242133244
+"244","Hombre","Cuenta Propia","Magallanes","12",2013,392834.856396662
+"245","Hombre","Cuenta Propia","Magallanes","12",2014,337294.84301595
+"246","Hombre","Cuenta Propia","Magallanes","12",2015,455478.407662591
+"247","Hombre","Cuenta Propia","Maule","7",2010,173915.981346253
+"248","Hombre","Cuenta Propia","Maule","7",2011,223425.443780076
+"249","Hombre","Cuenta Propia","Maule","7",2012,204431.819098252
+"250","Hombre","Cuenta Propia","Maule","7",2013,223235.305015945
+"251","Hombre","Cuenta Propia","Maule","7",2014,241316.054263322
+"252","Hombre","Cuenta Propia","Maule","7",2015,283119.973922052
+"253","Hombre","Cuenta Propia","Metropolitana","13",2010,343702.062202232
+"254","Hombre","Cuenta Propia","Metropolitana","13",2011,352837.214288126
+"255","Hombre","Cuenta Propia","Metropolitana","13",2012,403791.669982734
+"256","Hombre","Cuenta Propia","Metropolitana","13",2013,409969.855780263
+"257","Hombre","Cuenta Propia","Metropolitana","13",2014,397553.929405479
+"258","Hombre","Cuenta Propia","Metropolitana","13",2015,407299.994185433
+"259","Hombre","Cuenta Propia","O'Higgins","6",2010,222676.540125768
+"260","Hombre","Cuenta Propia","O'Higgins","6",2011,263741.563729871
+"261","Hombre","Cuenta Propia","O'Higgins","6",2012,241655.668455709
+"262","Hombre","Cuenta Propia","O'Higgins","6",2013,267483.625158078
+"263","Hombre","Cuenta Propia","O'Higgins","6",2014,355467.963861177
+"264","Hombre","Cuenta Propia","O'Higgins","6",2015,352481.695012283
+"265","Hombre","Cuenta Propia","Tarapacá","1",2010,242402.668011488
+"266","Hombre","Cuenta Propia","Tarapacá","1",2011,227175.506986816
+"267","Hombre","Cuenta Propia","Tarapacá","1",2012,297227.820124234
+"268","Hombre","Cuenta Propia","Tarapacá","1",2013,271938.525294361
+"269","Hombre","Cuenta Propia","Tarapacá","1",2014,331917.602213647
+"270","Hombre","Cuenta Propia","Tarapacá","1",2015,323751.602120695
+"271","Hombre","Cuenta Propia","Valparaíso","5",2010,235267.468755004
+"272","Hombre","Cuenta Propia","Valparaíso","5",2011,260322.658861937
+"273","Hombre","Cuenta Propia","Valparaíso","5",2012,258990.598374673
+"274","Hombre","Cuenta Propia","Valparaíso","5",2013,310342.359335348
+"275","Hombre","Cuenta Propia","Valparaíso","5",2014,356101.939942841
+"276","Hombre","Cuenta Propia","Valparaíso","5",2015,306046.191302932
+"277","Hombre","Cuenta Propia",NA,NA,2010,175032.330332022
+"278","Hombre","Cuenta Propia",NA,NA,2011,287651.368497157
 "279","Hombre","Cuenta Propia",NA,NA,2012,182175.639447292
-"280","Hombre","Empleador","Antofagasta",2,2010,1004107.97668553
-"281","Hombre","Empleador","Antofagasta",2,2011,1020215.21447731
-"282","Hombre","Empleador","Antofagasta",2,2012,976907.204023389
-"283","Hombre","Empleador","Antofagasta",2,2013,1080208.20514898
-"284","Hombre","Empleador","Antofagasta",2,2014,1185330.9980796
-"285","Hombre","Empleador","Antofagasta",2,2015,1175210.11102536
-"286","Hombre","Empleador","Araucanía",9,2010,674580.915701449
-"287","Hombre","Empleador","Araucanía",9,2011,815877.145102396
-"288","Hombre","Empleador","Araucanía",9,2012,591419.271654879
-"289","Hombre","Empleador","Araucanía",9,2013,735914.053775339
-"290","Hombre","Empleador","Araucanía",9,2014,822665.624648851
-"291","Hombre","Empleador","Araucanía",9,2015,711004.957981299
-"292","Hombre","Empleador","Arica y Parinacota",15,2010,588123.707839389
-"293","Hombre","Empleador","Arica y Parinacota",15,2011,818088.597570721
-"294","Hombre","Empleador","Arica y Parinacota",15,2012,839648.702927488
-"295","Hombre","Empleador","Arica y Parinacota",15,2013,644836.824076456
-"296","Hombre","Empleador","Arica y Parinacota",15,2014,593270.935594836
-"297","Hombre","Empleador","Arica y Parinacota",15,2015,629203.545617255
-"298","Hombre","Empleador","Atacama",3,2010,1076848.65539596
-"299","Hombre","Empleador","Atacama",3,2011,1541824.34255752
-"300","Hombre","Empleador","Atacama",3,2012,1041321.27087819
-"301","Hombre","Empleador","Atacama",3,2013,713423.352153603
-"302","Hombre","Empleador","Atacama",3,2014,838849.979218614
-"303","Hombre","Empleador","Atacama",3,2015,1235088.97435124
-"304","Hombre","Empleador","Aysén",11,2010,1307274.03790201
-"305","Hombre","Empleador","Aysén",11,2011,976964.427439652
-"306","Hombre","Empleador","Aysén",11,2012,1034926.79762011
-"307","Hombre","Empleador","Aysén",11,2013,863068.427533212
-"308","Hombre","Empleador","Aysén",11,2014,838209.108479037
-"309","Hombre","Empleador","Aysén",11,2015,1119009.38327527
-"310","Hombre","Empleador","Bíobío",8,2010,682483.822926835
-"311","Hombre","Empleador","Bíobío",8,2011,938550.988519078
-"312","Hombre","Empleador","Bíobío",8,2012,983418.364139672
-"313","Hombre","Empleador","Bíobío",8,2013,1194260.11821387
-"314","Hombre","Empleador","Bíobío",8,2014,900479.078615345
-"315","Hombre","Empleador","Bíobío",8,2015,1084732.74043683
-"316","Hombre","Empleador","Coquimbo",4,2010,755193.327843399
-"317","Hombre","Empleador","Coquimbo",4,2011,706044.796227233
-"318","Hombre","Empleador","Coquimbo",4,2012,667876.359319731
-"319","Hombre","Empleador","Coquimbo",4,2013,845275.69103201
-"320","Hombre","Empleador","Coquimbo",4,2014,1031654.19625271
-"321","Hombre","Empleador","Coquimbo",4,2015,1649378.35206406
-"322","Hombre","Empleador","Los Lagos",10,2010,646282.887614437
-"323","Hombre","Empleador","Los Lagos",10,2011,919627.378084171
-"324","Hombre","Empleador","Los Lagos",10,2012,1639466.63090873
-"325","Hombre","Empleador","Los Lagos",10,2013,1110618.24215864
-"326","Hombre","Empleador","Los Lagos",10,2014,1455190.23450366
-"327","Hombre","Empleador","Los Lagos",10,2015,1731677.30741095
-"328","Hombre","Empleador","Los Ríos",14,2010,690978.959066319
-"329","Hombre","Empleador","Los Ríos",14,2011,650543.408955428
-"330","Hombre","Empleador","Los Ríos",14,2012,1186103.68091483
-"331","Hombre","Empleador","Los Ríos",14,2013,636485.196451892
-"332","Hombre","Empleador","Los Ríos",14,2014,671694.091176027
-"333","Hombre","Empleador","Los Ríos",14,2015,869068.718051639
-"334","Hombre","Empleador","Magallanes",12,2010,1356712.02647471
-"335","Hombre","Empleador","Magallanes",12,2011,1320117.17035666
-"336","Hombre","Empleador","Magallanes",12,2012,1063222.5284681
-"337","Hombre","Empleador","Magallanes",12,2013,1573630.31261222
-"338","Hombre","Empleador","Magallanes",12,2014,1349853.32608707
-"339","Hombre","Empleador","Magallanes",12,2015,1475587.48310163
-"340","Hombre","Empleador","Maule",7,2010,483569.458674992
-"341","Hombre","Empleador","Maule",7,2011,807299.138976439
-"342","Hombre","Empleador","Maule",7,2012,490765.528879711
-"343","Hombre","Empleador","Maule",7,2013,722018.512845048
-"344","Hombre","Empleador","Maule",7,2014,864371.014009172
-"345","Hombre","Empleador","Maule",7,2015,871955.460385581
-"346","Hombre","Empleador","Metropolitana",13,2010,1236518.70180697
-"347","Hombre","Empleador","Metropolitana",13,2011,1218778.70344817
-"348","Hombre","Empleador","Metropolitana",13,2012,1405258.89672194
-"349","Hombre","Empleador","Metropolitana",13,2013,1398900.32297053
-"350","Hombre","Empleador","Metropolitana",13,2014,1247011.46562368
-"351","Hombre","Empleador","Metropolitana",13,2015,1509744.06276864
-"352","Hombre","Empleador","O'Higgins",6,2010,768955.722256016
-"353","Hombre","Empleador","O'Higgins",6,2011,982383.805937229
-"354","Hombre","Empleador","O'Higgins",6,2012,908238.354827828
-"355","Hombre","Empleador","O'Higgins",6,2013,897206.018240796
-"356","Hombre","Empleador","O'Higgins",6,2014,715346.374218371
-"357","Hombre","Empleador","O'Higgins",6,2015,755447.754167887
-"358","Hombre","Empleador","Tarapacá",1,2010,898382.903217015
-"359","Hombre","Empleador","Tarapacá",1,2011,825019.286380127
-"360","Hombre","Empleador","Tarapacá",1,2012,940726.467264968
-"361","Hombre","Empleador","Tarapacá",1,2013,1681559.73367232
-"362","Hombre","Empleador","Tarapacá",1,2014,1564928.57697998
-"363","Hombre","Empleador","Tarapacá",1,2015,1726314.44656498
-"364","Hombre","Empleador","Valparaíso",5,2010,754622.502468484
-"365","Hombre","Empleador","Valparaíso",5,2011,1170899.10013062
-"366","Hombre","Empleador","Valparaíso",5,2012,920532.161122037
-"367","Hombre","Empleador","Valparaíso",5,2013,1088303.72349566
-"368","Hombre","Empleador","Valparaíso",5,2014,1090501.07626716
-"369","Hombre","Empleador","Valparaíso",5,2015,1238269.87826909
+"280","Hombre","Empleador","Antofagasta","2",2010,1004107.97668553
+"281","Hombre","Empleador","Antofagasta","2",2011,1020215.21447731
+"282","Hombre","Empleador","Antofagasta","2",2012,976907.204023389
+"283","Hombre","Empleador","Antofagasta","2",2013,1080208.20514898
+"284","Hombre","Empleador","Antofagasta","2",2014,1185330.9980796
+"285","Hombre","Empleador","Antofagasta","2",2015,1175210.11102536
+"286","Hombre","Empleador","Araucanía","9",2010,674580.915701449
+"287","Hombre","Empleador","Araucanía","9",2011,815877.145102396
+"288","Hombre","Empleador","Araucanía","9",2012,591419.271654879
+"289","Hombre","Empleador","Araucanía","9",2013,735914.053775339
+"290","Hombre","Empleador","Araucanía","9",2014,822665.624648851
+"291","Hombre","Empleador","Araucanía","9",2015,711004.957981299
+"292","Hombre","Empleador","Arica y Parinacota","15",2010,588123.707839389
+"293","Hombre","Empleador","Arica y Parinacota","15",2011,818088.597570721
+"294","Hombre","Empleador","Arica y Parinacota","15",2012,839648.702927488
+"295","Hombre","Empleador","Arica y Parinacota","15",2013,644836.824076456
+"296","Hombre","Empleador","Arica y Parinacota","15",2014,593270.935594836
+"297","Hombre","Empleador","Arica y Parinacota","15",2015,629203.545617255
+"298","Hombre","Empleador","Atacama","3",2010,1076848.65539596
+"299","Hombre","Empleador","Atacama","3",2011,1541824.34255752
+"300","Hombre","Empleador","Atacama","3",2012,1041321.27087819
+"301","Hombre","Empleador","Atacama","3",2013,713423.352153603
+"302","Hombre","Empleador","Atacama","3",2014,838849.979218614
+"303","Hombre","Empleador","Atacama","3",2015,1235088.97435124
+"304","Hombre","Empleador","Aysén","11",2010,1307274.03790201
+"305","Hombre","Empleador","Aysén","11",2011,976964.427439652
+"306","Hombre","Empleador","Aysén","11",2012,1034926.79762011
+"307","Hombre","Empleador","Aysén","11",2013,863068.427533212
+"308","Hombre","Empleador","Aysén","11",2014,838209.108479037
+"309","Hombre","Empleador","Aysén","11",2015,1119009.38327527
+"310","Hombre","Empleador","Bíobío","8",2010,682483.822926835
+"311","Hombre","Empleador","Bíobío","8",2011,938550.988519078
+"312","Hombre","Empleador","Bíobío","8",2012,983418.364139672
+"313","Hombre","Empleador","Bíobío","8",2013,1194260.11821387
+"314","Hombre","Empleador","Bíobío","8",2014,900479.078615345
+"315","Hombre","Empleador","Bíobío","8",2015,1084732.74043683
+"316","Hombre","Empleador","Coquimbo","4",2010,755193.327843399
+"317","Hombre","Empleador","Coquimbo","4",2011,706044.796227233
+"318","Hombre","Empleador","Coquimbo","4",2012,667876.359319731
+"319","Hombre","Empleador","Coquimbo","4",2013,845275.69103201
+"320","Hombre","Empleador","Coquimbo","4",2014,1031654.19625271
+"321","Hombre","Empleador","Coquimbo","4",2015,1649378.35206406
+"322","Hombre","Empleador","Los Lagos","10",2010,646282.887614437
+"323","Hombre","Empleador","Los Lagos","10",2011,919627.378084171
+"324","Hombre","Empleador","Los Lagos","10",2012,1639466.63090873
+"325","Hombre","Empleador","Los Lagos","10",2013,1110618.24215864
+"326","Hombre","Empleador","Los Lagos","10",2014,1455190.23450366
+"327","Hombre","Empleador","Los Lagos","10",2015,1731677.30741095
+"328","Hombre","Empleador","Los Ríos","14",2010,690978.959066319
+"329","Hombre","Empleador","Los Ríos","14",2011,650543.408955428
+"330","Hombre","Empleador","Los Ríos","14",2012,1186103.68091483
+"331","Hombre","Empleador","Los Ríos","14",2013,636485.196451892
+"332","Hombre","Empleador","Los Ríos","14",2014,671694.091176027
+"333","Hombre","Empleador","Los Ríos","14",2015,869068.718051639
+"334","Hombre","Empleador","Magallanes","12",2010,1356712.02647471
+"335","Hombre","Empleador","Magallanes","12",2011,1320117.17035666
+"336","Hombre","Empleador","Magallanes","12",2012,1063222.5284681
+"337","Hombre","Empleador","Magallanes","12",2013,1573630.31261222
+"338","Hombre","Empleador","Magallanes","12",2014,1349853.32608707
+"339","Hombre","Empleador","Magallanes","12",2015,1475587.48310163
+"340","Hombre","Empleador","Maule","7",2010,483569.458674992
+"341","Hombre","Empleador","Maule","7",2011,807299.138976439
+"342","Hombre","Empleador","Maule","7",2012,490765.528879711
+"343","Hombre","Empleador","Maule","7",2013,722018.512845048
+"344","Hombre","Empleador","Maule","7",2014,864371.014009172
+"345","Hombre","Empleador","Maule","7",2015,871955.460385581
+"346","Hombre","Empleador","Metropolitana","13",2010,1236518.70180697
+"347","Hombre","Empleador","Metropolitana","13",2011,1218778.70344817
+"348","Hombre","Empleador","Metropolitana","13",2012,1405258.89672194
+"349","Hombre","Empleador","Metropolitana","13",2013,1398900.32297053
+"350","Hombre","Empleador","Metropolitana","13",2014,1247011.46562368
+"351","Hombre","Empleador","Metropolitana","13",2015,1509744.06276864
+"352","Hombre","Empleador","O'Higgins","6",2010,768955.722256016
+"353","Hombre","Empleador","O'Higgins","6",2011,982383.805937229
+"354","Hombre","Empleador","O'Higgins","6",2012,908238.354827828
+"355","Hombre","Empleador","O'Higgins","6",2013,897206.018240796
+"356","Hombre","Empleador","O'Higgins","6",2014,715346.374218371
+"357","Hombre","Empleador","O'Higgins","6",2015,755447.754167887
+"358","Hombre","Empleador","Tarapacá","1",2010,898382.903217015
+"359","Hombre","Empleador","Tarapacá","1",2011,825019.286380127
+"360","Hombre","Empleador","Tarapacá","1",2012,940726.467264968
+"361","Hombre","Empleador","Tarapacá","1",2013,1681559.73367232
+"362","Hombre","Empleador","Tarapacá","1",2014,1564928.57697998
+"363","Hombre","Empleador","Tarapacá","1",2015,1726314.44656498
+"364","Hombre","Empleador","Valparaíso","5",2010,754622.502468484
+"365","Hombre","Empleador","Valparaíso","5",2011,1170899.10013062
+"366","Hombre","Empleador","Valparaíso","5",2012,920532.161122037
+"367","Hombre","Empleador","Valparaíso","5",2013,1088303.72349566
+"368","Hombre","Empleador","Valparaíso","5",2014,1090501.07626716
+"369","Hombre","Empleador","Valparaíso","5",2015,1238269.87826909
 "370","Hombre","Empleador",NA,NA,2010,316962.67410101
 "371","Hombre","Empleador",NA,NA,2011,215974.115508759
 "372","Hombre","Empleador",NA,NA,2012,873157.073483993
-"373","Hombre","Personal de servicio doméstico puertas adentro","Atacama",3,2011,160000
-"374","Hombre","Personal de servicio doméstico puertas adentro","Magallanes",12,2010,198000
-"375","Hombre","Personal de servicio doméstico puertas adentro","Metropolitana",13,2010,316540.117878945
-"376","Hombre","Personal de servicio doméstico puertas adentro","Metropolitana",13,2011,310663.085514046
-"377","Hombre","Personal de servicio doméstico puertas adentro","O'Higgins",6,2010,200195.73302016
-"378","Hombre","Personal de servicio doméstico puertas adentro","Valparaíso",5,2010,106339.679147502
-"379","Hombre","Personal de servicio doméstico puertas adentro","Valparaíso",5,2011,243702.087404093
-"380","Hombre","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota",15,2013,40054.2250338908
-"381","Hombre","Personal de Servicio Doméstico Puertas Adentro","Atacama",3,2013,175000
-"382","Hombre","Personal de Servicio Doméstico Puertas Adentro","Bíobío",8,2012,301353.092783505
-"383","Hombre","Personal de Servicio Doméstico Puertas Adentro","Los Lagos",10,2013,30000
-"384","Hombre","Personal de Servicio Doméstico Puertas Adentro","Los Lagos",10,2015,332348.696124594
-"385","Hombre","Personal de Servicio Doméstico Puertas Adentro","Los Ríos",14,2013,142089.132212476
-"386","Hombre","Personal de Servicio Doméstico Puertas Adentro","Magallanes",12,2012,331700.951439715
-"387","Hombre","Personal de Servicio Doméstico Puertas Adentro","Maule",7,2015,286135.295278526
-"388","Hombre","Personal de Servicio Doméstico Puertas Adentro","Metropolitana",13,2012,224791.363057761
-"389","Hombre","Personal de Servicio Doméstico Puertas Adentro","Metropolitana",13,2013,224445.554407373
-"390","Hombre","Personal de Servicio Doméstico Puertas Adentro","Metropolitana",13,2015,591827.183482772
-"391","Hombre","Personal de Servicio Doméstico Puertas Adentro","Valparaíso",5,2012,134134.858887008
-"392","Hombre","Personal de Servicio Doméstico Puertas Adentro","Valparaíso",5,2013,210000
-"393","Hombre","Personal de servicio doméstico puertas afuera","Araucanía",9,2010,165748.981169857
-"394","Hombre","Personal de servicio doméstico puertas afuera","Araucanía",9,2011,83491.6521513692
-"395","Hombre","Personal de servicio doméstico puertas afuera","Arica y Parinacota",15,2010,68874.4125074157
-"396","Hombre","Personal de servicio doméstico puertas afuera","Arica y Parinacota",15,2011,129431.152087396
-"397","Hombre","Personal de servicio doméstico puertas afuera","Atacama",3,2010,240234.879624192
-"398","Hombre","Personal de servicio doméstico puertas afuera","Atacama",3,2011,170742.839091724
-"399","Hombre","Personal de servicio doméstico puertas afuera","Aysén",11,2010,201861.846604787
-"400","Hombre","Personal de servicio doméstico puertas afuera","Aysén",11,2011,127759.335934758
-"401","Hombre","Personal de servicio doméstico puertas afuera","Bíobío",8,2010,196000
-"402","Hombre","Personal de servicio doméstico puertas afuera","Bíobío",8,2011,145373.404481306
-"403","Hombre","Personal de servicio doméstico puertas afuera","Coquimbo",4,2010,80078.293208064
-"404","Hombre","Personal de servicio doméstico puertas afuera","Coquimbo",4,2011,199360.722008085
-"405","Hombre","Personal de servicio doméstico puertas afuera","Los Lagos",10,2010,102569.552794927
-"406","Hombre","Personal de servicio doméstico puertas afuera","Los Lagos",10,2011,197483.167738371
-"407","Hombre","Personal de servicio doméstico puertas afuera","Los Ríos",14,2010,179433.262576286
-"408","Hombre","Personal de servicio doméstico puertas afuera","Los Ríos",14,2011,181626.710209702
-"409","Hombre","Personal de servicio doméstico puertas afuera","Maule",7,2010,169150.344064695
-"410","Hombre","Personal de servicio doméstico puertas afuera","Maule",7,2011,170771.698774298
-"411","Hombre","Personal de servicio doméstico puertas afuera","Metropolitana",13,2010,217514.250387634
-"412","Hombre","Personal de servicio doméstico puertas afuera","Metropolitana",13,2011,216275.326435893
-"413","Hombre","Personal de servicio doméstico puertas afuera","O'Higgins",6,2010,122762.158954182
-"414","Hombre","Personal de servicio doméstico puertas afuera","O'Higgins",6,2011,193751.315676117
-"415","Hombre","Personal de servicio doméstico puertas afuera","Valparaíso",5,2010,152428.89545044
-"416","Hombre","Personal de servicio doméstico puertas afuera","Valparaíso",5,2011,186758.011364924
-"417","Hombre","Personal de Servicio Doméstico Puertas Afuera","Araucanía",9,2012,173627.591952424
-"418","Hombre","Personal de Servicio Doméstico Puertas Afuera","Araucanía",9,2013,298129.218040432
-"419","Hombre","Personal de Servicio Doméstico Puertas Afuera","Araucanía",9,2014,203114.619746059
-"420","Hombre","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota",15,2012,180000
-"421","Hombre","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota",15,2013,19924.4740154648
-"422","Hombre","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota",15,2015,30000
-"423","Hombre","Personal de Servicio Doméstico Puertas Afuera","Atacama",3,2012,184038.030393086
-"424","Hombre","Personal de Servicio Doméstico Puertas Afuera","Atacama",3,2015,175000
-"425","Hombre","Personal de Servicio Doméstico Puertas Afuera","Aysén",11,2014,225000
-"426","Hombre","Personal de Servicio Doméstico Puertas Afuera","Bíobío",8,2012,152875.269862588
-"427","Hombre","Personal de Servicio Doméstico Puertas Afuera","Bíobío",8,2014,227345.0824332
-"428","Hombre","Personal de Servicio Doméstico Puertas Afuera","Bíobío",8,2015,158270.898255487
-"429","Hombre","Personal de Servicio Doméstico Puertas Afuera","Coquimbo",4,2012,30135.3092783505
-"430","Hombre","Personal de Servicio Doméstico Puertas Afuera","Coquimbo",4,2013,100000
-"431","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos",10,2012,140141.444600892
-"432","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos",10,2013,68152.4227214228
-"433","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos",10,2014,176009.264259131
-"434","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos",10,2015,50000
-"435","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos",14,2012,173082.244000551
-"436","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos",14,2013,325369.774078069
-"437","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos",14,2014,302537.897093668
-"438","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos",14,2015,266687.444679609
-"439","Hombre","Personal de Servicio Doméstico Puertas Afuera","Magallanes",12,2013,400000
-"440","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule",7,2012,200902.06185567
-"441","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule",7,2013,170761.298496143
-"442","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule",7,2014,236841.28969565
-"443","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule",7,2015,243587.084816704
-"444","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana",13,2012,181947.135192168
-"445","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana",13,2013,229358.012061465
-"446","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana",13,2014,290515.20252727
-"447","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana",13,2015,292872.340828929
-"448","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins",6,2012,220717.958917905
-"449","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins",6,2013,180900.504153337
-"450","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins",6,2014,212085.698986969
-"451","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins",6,2015,279185.863316567
-"452","Hombre","Personal de Servicio Doméstico Puertas Afuera","Tarapacá",1,2012,243000
-"453","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso",5,2012,110433.806034436
-"454","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso",5,2013,231676.690451818
-"455","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso",5,2014,155814.364704655
-"456","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso",5,2015,316774.682306779
-"457","Mujer","Asalariado sector privado","Antofagasta",2,2010,355353.186371013
-"458","Mujer","Asalariado sector privado","Antofagasta",2,2011,382359.688839947
-"459","Mujer","Asalariado sector privado","Araucanía",9,2010,239012.050142919
-"460","Mujer","Asalariado sector privado","Araucanía",9,2011,252881.704839347
-"461","Mujer","Asalariado sector privado","Arica y Parinacota",15,2010,235815.69161746
-"462","Mujer","Asalariado sector privado","Arica y Parinacota",15,2011,232136.323887106
-"463","Mujer","Asalariado sector privado","Atacama",3,2010,265601.312114
-"464","Mujer","Asalariado sector privado","Atacama",3,2011,315599.670528323
-"465","Mujer","Asalariado sector privado","Aysén",11,2010,310060.449784046
-"466","Mujer","Asalariado sector privado","Aysén",11,2011,307936.863440753
-"467","Mujer","Asalariado sector privado","Bíobío",8,2010,251151.691001693
-"468","Mujer","Asalariado sector privado","Bíobío",8,2011,277504.068733271
-"469","Mujer","Asalariado sector privado","Coquimbo",4,2010,233916.98080046
-"470","Mujer","Asalariado sector privado","Coquimbo",4,2011,255587.880932154
-"471","Mujer","Asalariado sector privado","Los Lagos",10,2010,254503.649903293
-"472","Mujer","Asalariado sector privado","Los Lagos",10,2011,286797.821504334
-"473","Mujer","Asalariado sector privado","Los Ríos",14,2010,285044.201772404
-"474","Mujer","Asalariado sector privado","Los Ríos",14,2011,319497.731156499
-"475","Mujer","Asalariado sector privado","Magallanes",12,2010,223948.023505563
-"476","Mujer","Asalariado sector privado","Magallanes",12,2011,322749.897390894
-"477","Mujer","Asalariado sector privado","Maule",7,2010,213562.720296861
-"478","Mujer","Asalariado sector privado","Maule",7,2011,217862.901722806
-"479","Mujer","Asalariado sector privado","Metropolitana",13,2010,370897.700111343
-"480","Mujer","Asalariado sector privado","Metropolitana",13,2011,402498.251737617
-"481","Mujer","Asalariado sector privado","O'Higgins",6,2010,256831.130509457
-"482","Mujer","Asalariado sector privado","O'Higgins",6,2011,279716.666969399
-"483","Mujer","Asalariado sector privado","Tarapacá",1,2010,266538.50699518
-"484","Mujer","Asalariado sector privado","Tarapacá",1,2011,377370.30123361
-"485","Mujer","Asalariado sector privado","Valparaíso",5,2010,254522.932862147
-"486","Mujer","Asalariado sector privado","Valparaíso",5,2011,265952.705357264
-"487","Mujer","Asalariado sector privado",NA,NA,2010,160189.582104268
-"488","Mujer","Asalariado sector privado",NA,NA,2011,286538.075326527
-"489","Mujer","Asalariado Sector Privado","Antofagasta",2,2012,453250.78354164
-"490","Mujer","Asalariado Sector Privado","Antofagasta",2,2013,404243.61135113
-"491","Mujer","Asalariado Sector Privado","Antofagasta",2,2014,442352.541859465
-"492","Mujer","Asalariado Sector Privado","Antofagasta",2,2015,494326.506163885
-"493","Mujer","Asalariado Sector Privado","Araucanía",9,2012,307778.232446897
-"494","Mujer","Asalariado Sector Privado","Araucanía",9,2013,305541.69342586
-"495","Mujer","Asalariado Sector Privado","Araucanía",9,2014,381494.343963861
-"496","Mujer","Asalariado Sector Privado","Araucanía",9,2015,369870.320201895
-"497","Mujer","Asalariado Sector Privado","Arica y Parinacota",15,2012,250603.556284735
-"498","Mujer","Asalariado Sector Privado","Arica y Parinacota",15,2013,252318.887699777
-"499","Mujer","Asalariado Sector Privado","Arica y Parinacota",15,2014,317357.4517725
-"500","Mujer","Asalariado Sector Privado","Arica y Parinacota",15,2015,349381.74435414
-"501","Mujer","Asalariado Sector Privado","Atacama",3,2012,323540.601151352
-"502","Mujer","Asalariado Sector Privado","Atacama",3,2013,380004.633588339
-"503","Mujer","Asalariado Sector Privado","Atacama",3,2014,379365.665750782
-"504","Mujer","Asalariado Sector Privado","Atacama",3,2015,368879.835740806
-"505","Mujer","Asalariado Sector Privado","Aysén",11,2012,309862.951039054
-"506","Mujer","Asalariado Sector Privado","Aysén",11,2013,340262.216692343
-"507","Mujer","Asalariado Sector Privado","Aysén",11,2014,385473.666388715
-"508","Mujer","Asalariado Sector Privado","Aysén",11,2015,449049.878295594
-"509","Mujer","Asalariado Sector Privado","Bíobío",8,2012,311733.209640406
-"510","Mujer","Asalariado Sector Privado","Bíobío",8,2013,304328.870112755
-"511","Mujer","Asalariado Sector Privado","Bíobío",8,2014,326145.205821111
-"512","Mujer","Asalariado Sector Privado","Bíobío",8,2015,352841.181486303
-"513","Mujer","Asalariado Sector Privado","Coquimbo",4,2012,324315.263355564
-"514","Mujer","Asalariado Sector Privado","Coquimbo",4,2013,297209.204708047
-"515","Mujer","Asalariado Sector Privado","Coquimbo",4,2014,364819.1898963
-"516","Mujer","Asalariado Sector Privado","Coquimbo",4,2015,373999.296256434
-"517","Mujer","Asalariado Sector Privado","Los Lagos",10,2012,308655.733152021
-"518","Mujer","Asalariado Sector Privado","Los Lagos",10,2013,355937.918862245
-"519","Mujer","Asalariado Sector Privado","Los Lagos",10,2014,350834.693009654
-"520","Mujer","Asalariado Sector Privado","Los Lagos",10,2015,384395.252816237
-"521","Mujer","Asalariado Sector Privado","Los Ríos",14,2012,287710.559572859
-"522","Mujer","Asalariado Sector Privado","Los Ríos",14,2013,315378.509036908
-"523","Mujer","Asalariado Sector Privado","Los Ríos",14,2014,347301.813530664
-"524","Mujer","Asalariado Sector Privado","Los Ríos",14,2015,361434.211490376
-"525","Mujer","Asalariado Sector Privado","Magallanes",12,2012,387222.484194513
-"526","Mujer","Asalariado Sector Privado","Magallanes",12,2013,442830.305343561
-"527","Mujer","Asalariado Sector Privado","Magallanes",12,2014,480171.236954143
-"528","Mujer","Asalariado Sector Privado","Magallanes",12,2015,489032.69309633
-"529","Mujer","Asalariado Sector Privado","Maule",7,2012,245395.09607259
-"530","Mujer","Asalariado Sector Privado","Maule",7,2013,264558.076474597
-"531","Mujer","Asalariado Sector Privado","Maule",7,2014,291979.860208747
-"532","Mujer","Asalariado Sector Privado","Maule",7,2015,340405.90686216
-"533","Mujer","Asalariado Sector Privado","Metropolitana",13,2012,442718.638950286
-"534","Mujer","Asalariado Sector Privado","Metropolitana",13,2013,466757.586231312
-"535","Mujer","Asalariado Sector Privado","Metropolitana",13,2014,495780.938056664
-"536","Mujer","Asalariado Sector Privado","Metropolitana",13,2015,513677.460323152
-"537","Mujer","Asalariado Sector Privado","O'Higgins",6,2012,289729.086243734
-"538","Mujer","Asalariado Sector Privado","O'Higgins",6,2013,290232.744518155
-"539","Mujer","Asalariado Sector Privado","O'Higgins",6,2014,305756.021943622
-"540","Mujer","Asalariado Sector Privado","O'Higgins",6,2015,333606.580246033
-"541","Mujer","Asalariado Sector Privado","Tarapacá",1,2012,380834.225391223
-"542","Mujer","Asalariado Sector Privado","Tarapacá",1,2013,421933.702585904
-"543","Mujer","Asalariado Sector Privado","Tarapacá",1,2014,405172.263194513
-"544","Mujer","Asalariado Sector Privado","Tarapacá",1,2015,456970.390058755
-"545","Mujer","Asalariado Sector Privado","Valparaíso",5,2012,323728.195562959
-"546","Mujer","Asalariado Sector Privado","Valparaíso",5,2013,318907.055535199
-"547","Mujer","Asalariado Sector Privado","Valparaíso",5,2014,392966.12951839
-"548","Mujer","Asalariado Sector Privado","Valparaíso",5,2015,379211.83060196
+"373","Hombre","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota","15",2013,40054.2250338908
+"374","Hombre","Personal de Servicio Doméstico Puertas Adentro","Atacama","3",2011,160000
+"375","Hombre","Personal de Servicio Doméstico Puertas Adentro","Atacama","3",2013,175000
+"376","Hombre","Personal de Servicio Doméstico Puertas Adentro","Bíobío","8",2012,301353.092783505
+"377","Hombre","Personal de Servicio Doméstico Puertas Adentro","Los Lagos","10",2013,30000
+"378","Hombre","Personal de Servicio Doméstico Puertas Adentro","Los Lagos","10",2015,332348.696124594
+"379","Hombre","Personal de Servicio Doméstico Puertas Adentro","Los Ríos","14",2013,142089.132212476
+"380","Hombre","Personal de Servicio Doméstico Puertas Adentro","Magallanes","12",2010,198000
+"381","Hombre","Personal de Servicio Doméstico Puertas Adentro","Magallanes","12",2012,331700.951439715
+"382","Hombre","Personal de Servicio Doméstico Puertas Adentro","Maule","7",2015,286135.295278526
+"383","Hombre","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2010,316540.117878945
+"384","Hombre","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2011,310663.085514046
+"385","Hombre","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2012,224791.363057761
+"386","Hombre","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2013,224445.554407373
+"387","Hombre","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2015,591827.183482772
+"388","Hombre","Personal de Servicio Doméstico Puertas Adentro","O'Higgins","6",2010,200195.73302016
+"389","Hombre","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2010,106339.679147502
+"390","Hombre","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2011,243702.087404093
+"391","Hombre","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2012,134134.858887008
+"392","Hombre","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2013,210000
+"393","Hombre","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2010,165748.981169857
+"394","Hombre","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2011,83491.6521513692
+"395","Hombre","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2012,173627.591952424
+"396","Hombre","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2013,298129.218040432
+"397","Hombre","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2014,203114.619746059
+"398","Hombre","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2010,68874.4125074157
+"399","Hombre","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2011,129431.152087396
+"400","Hombre","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2012,180000
+"401","Hombre","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2013,19924.4740154648
+"402","Hombre","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2015,30000
+"403","Hombre","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2010,240234.879624192
+"404","Hombre","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2011,170742.839091724
+"405","Hombre","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2012,184038.030393086
+"406","Hombre","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2015,175000
+"407","Hombre","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2010,201861.846604787
+"408","Hombre","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2011,127759.335934758
+"409","Hombre","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2014,225000
+"410","Hombre","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2010,196000
+"411","Hombre","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2011,145373.404481306
+"412","Hombre","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2012,152875.269862588
+"413","Hombre","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2014,227345.0824332
+"414","Hombre","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2015,158270.898255487
+"415","Hombre","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2010,80078.293208064
+"416","Hombre","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2011,199360.722008085
+"417","Hombre","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2012,30135.3092783505
+"418","Hombre","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2013,100000
+"419","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2010,102569.552794927
+"420","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2011,197483.167738371
+"421","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2012,140141.444600892
+"422","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2013,68152.4227214228
+"423","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2014,176009.264259131
+"424","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2015,50000
+"425","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2010,179433.262576286
+"426","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2011,181626.710209702
+"427","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2012,173082.244000551
+"428","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2013,325369.774078069
+"429","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2014,302537.897093668
+"430","Hombre","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2015,266687.444679609
+"431","Hombre","Personal de Servicio Doméstico Puertas Afuera","Magallanes","12",2013,400000
+"432","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2010,169150.344064695
+"433","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2011,170771.698774298
+"434","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2012,200902.06185567
+"435","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2013,170761.298496143
+"436","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2014,236841.28969565
+"437","Hombre","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2015,243587.084816704
+"438","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2010,217514.250387634
+"439","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2011,216275.326435893
+"440","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2012,181947.135192168
+"441","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2013,229358.012061465
+"442","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2014,290515.20252727
+"443","Hombre","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2015,292872.340828929
+"444","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2010,122762.158954182
+"445","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2011,193751.315676117
+"446","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2012,220717.958917905
+"447","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2013,180900.504153337
+"448","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2014,212085.698986969
+"449","Hombre","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2015,279185.863316567
+"450","Hombre","Personal de Servicio Doméstico Puertas Afuera","Tarapacá","1",2012,243000
+"451","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2010,152428.89545044
+"452","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2011,186758.011364924
+"453","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2012,110433.806034436
+"454","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2013,231676.690451818
+"455","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2014,155814.364704655
+"456","Hombre","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2015,316774.682306779
+"457","Mujer","Asalariado Sector Privado","Antofagasta","2",2010,355353.186371013
+"458","Mujer","Asalariado Sector Privado","Antofagasta","2",2011,382359.688839947
+"459","Mujer","Asalariado Sector Privado","Antofagasta","2",2012,453250.78354164
+"460","Mujer","Asalariado Sector Privado","Antofagasta","2",2013,404243.61135113
+"461","Mujer","Asalariado Sector Privado","Antofagasta","2",2014,442352.541859465
+"462","Mujer","Asalariado Sector Privado","Antofagasta","2",2015,494326.506163885
+"463","Mujer","Asalariado Sector Privado","Araucanía","9",2010,239012.050142919
+"464","Mujer","Asalariado Sector Privado","Araucanía","9",2011,252881.704839347
+"465","Mujer","Asalariado Sector Privado","Araucanía","9",2012,307778.232446897
+"466","Mujer","Asalariado Sector Privado","Araucanía","9",2013,305541.69342586
+"467","Mujer","Asalariado Sector Privado","Araucanía","9",2014,381494.343963861
+"468","Mujer","Asalariado Sector Privado","Araucanía","9",2015,369870.320201895
+"469","Mujer","Asalariado Sector Privado","Arica y Parinacota","15",2010,235815.69161746
+"470","Mujer","Asalariado Sector Privado","Arica y Parinacota","15",2011,232136.323887106
+"471","Mujer","Asalariado Sector Privado","Arica y Parinacota","15",2012,250603.556284735
+"472","Mujer","Asalariado Sector Privado","Arica y Parinacota","15",2013,252318.887699777
+"473","Mujer","Asalariado Sector Privado","Arica y Parinacota","15",2014,317357.4517725
+"474","Mujer","Asalariado Sector Privado","Arica y Parinacota","15",2015,349381.74435414
+"475","Mujer","Asalariado Sector Privado","Atacama","3",2010,265601.312114
+"476","Mujer","Asalariado Sector Privado","Atacama","3",2011,315599.670528323
+"477","Mujer","Asalariado Sector Privado","Atacama","3",2012,323540.601151352
+"478","Mujer","Asalariado Sector Privado","Atacama","3",2013,380004.633588339
+"479","Mujer","Asalariado Sector Privado","Atacama","3",2014,379365.665750782
+"480","Mujer","Asalariado Sector Privado","Atacama","3",2015,368879.835740806
+"481","Mujer","Asalariado Sector Privado","Aysén","11",2010,310060.449784046
+"482","Mujer","Asalariado Sector Privado","Aysén","11",2011,307936.863440753
+"483","Mujer","Asalariado Sector Privado","Aysén","11",2012,309862.951039054
+"484","Mujer","Asalariado Sector Privado","Aysén","11",2013,340262.216692343
+"485","Mujer","Asalariado Sector Privado","Aysén","11",2014,385473.666388715
+"486","Mujer","Asalariado Sector Privado","Aysén","11",2015,449049.878295594
+"487","Mujer","Asalariado Sector Privado","Bíobío","8",2010,251151.691001693
+"488","Mujer","Asalariado Sector Privado","Bíobío","8",2011,277504.068733271
+"489","Mujer","Asalariado Sector Privado","Bíobío","8",2012,311733.209640406
+"490","Mujer","Asalariado Sector Privado","Bíobío","8",2013,304328.870112755
+"491","Mujer","Asalariado Sector Privado","Bíobío","8",2014,326145.205821111
+"492","Mujer","Asalariado Sector Privado","Bíobío","8",2015,352841.181486303
+"493","Mujer","Asalariado Sector Privado","Coquimbo","4",2010,233916.98080046
+"494","Mujer","Asalariado Sector Privado","Coquimbo","4",2011,255587.880932154
+"495","Mujer","Asalariado Sector Privado","Coquimbo","4",2012,324315.263355564
+"496","Mujer","Asalariado Sector Privado","Coquimbo","4",2013,297209.204708047
+"497","Mujer","Asalariado Sector Privado","Coquimbo","4",2014,364819.1898963
+"498","Mujer","Asalariado Sector Privado","Coquimbo","4",2015,373999.296256434
+"499","Mujer","Asalariado Sector Privado","Los Lagos","10",2010,254503.649903293
+"500","Mujer","Asalariado Sector Privado","Los Lagos","10",2011,286797.821504334
+"501","Mujer","Asalariado Sector Privado","Los Lagos","10",2012,308655.733152021
+"502","Mujer","Asalariado Sector Privado","Los Lagos","10",2013,355937.918862245
+"503","Mujer","Asalariado Sector Privado","Los Lagos","10",2014,350834.693009654
+"504","Mujer","Asalariado Sector Privado","Los Lagos","10",2015,384395.252816237
+"505","Mujer","Asalariado Sector Privado","Los Ríos","14",2010,285044.201772404
+"506","Mujer","Asalariado Sector Privado","Los Ríos","14",2011,319497.731156499
+"507","Mujer","Asalariado Sector Privado","Los Ríos","14",2012,287710.559572859
+"508","Mujer","Asalariado Sector Privado","Los Ríos","14",2013,315378.509036908
+"509","Mujer","Asalariado Sector Privado","Los Ríos","14",2014,347301.813530664
+"510","Mujer","Asalariado Sector Privado","Los Ríos","14",2015,361434.211490376
+"511","Mujer","Asalariado Sector Privado","Magallanes","12",2010,223948.023505563
+"512","Mujer","Asalariado Sector Privado","Magallanes","12",2011,322749.897390894
+"513","Mujer","Asalariado Sector Privado","Magallanes","12",2012,387222.484194513
+"514","Mujer","Asalariado Sector Privado","Magallanes","12",2013,442830.305343561
+"515","Mujer","Asalariado Sector Privado","Magallanes","12",2014,480171.236954143
+"516","Mujer","Asalariado Sector Privado","Magallanes","12",2015,489032.69309633
+"517","Mujer","Asalariado Sector Privado","Maule","7",2010,213562.720296861
+"518","Mujer","Asalariado Sector Privado","Maule","7",2011,217862.901722806
+"519","Mujer","Asalariado Sector Privado","Maule","7",2012,245395.09607259
+"520","Mujer","Asalariado Sector Privado","Maule","7",2013,264558.076474597
+"521","Mujer","Asalariado Sector Privado","Maule","7",2014,291979.860208747
+"522","Mujer","Asalariado Sector Privado","Maule","7",2015,340405.90686216
+"523","Mujer","Asalariado Sector Privado","Metropolitana","13",2010,370897.700111343
+"524","Mujer","Asalariado Sector Privado","Metropolitana","13",2011,402498.251737617
+"525","Mujer","Asalariado Sector Privado","Metropolitana","13",2012,442718.638950286
+"526","Mujer","Asalariado Sector Privado","Metropolitana","13",2013,466757.586231312
+"527","Mujer","Asalariado Sector Privado","Metropolitana","13",2014,495780.938056664
+"528","Mujer","Asalariado Sector Privado","Metropolitana","13",2015,513677.460323152
+"529","Mujer","Asalariado Sector Privado","O'Higgins","6",2010,256831.130509457
+"530","Mujer","Asalariado Sector Privado","O'Higgins","6",2011,279716.666969399
+"531","Mujer","Asalariado Sector Privado","O'Higgins","6",2012,289729.086243734
+"532","Mujer","Asalariado Sector Privado","O'Higgins","6",2013,290232.744518155
+"533","Mujer","Asalariado Sector Privado","O'Higgins","6",2014,305756.021943622
+"534","Mujer","Asalariado Sector Privado","O'Higgins","6",2015,333606.580246033
+"535","Mujer","Asalariado Sector Privado","Tarapacá","1",2010,266538.50699518
+"536","Mujer","Asalariado Sector Privado","Tarapacá","1",2011,377370.30123361
+"537","Mujer","Asalariado Sector Privado","Tarapacá","1",2012,380834.225391223
+"538","Mujer","Asalariado Sector Privado","Tarapacá","1",2013,421933.702585904
+"539","Mujer","Asalariado Sector Privado","Tarapacá","1",2014,405172.263194513
+"540","Mujer","Asalariado Sector Privado","Tarapacá","1",2015,456970.390058755
+"541","Mujer","Asalariado Sector Privado","Valparaíso","5",2010,254522.932862147
+"542","Mujer","Asalariado Sector Privado","Valparaíso","5",2011,265952.705357264
+"543","Mujer","Asalariado Sector Privado","Valparaíso","5",2012,323728.195562959
+"544","Mujer","Asalariado Sector Privado","Valparaíso","5",2013,318907.055535199
+"545","Mujer","Asalariado Sector Privado","Valparaíso","5",2014,392966.12951839
+"546","Mujer","Asalariado Sector Privado","Valparaíso","5",2015,379211.83060196
+"547","Mujer","Asalariado Sector Privado",NA,NA,2010,160189.582104268
+"548","Mujer","Asalariado Sector Privado",NA,NA,2011,286538.075326527
 "549","Mujer","Asalariado Sector Privado",NA,NA,2012,168332.684946226
-"550","Mujer","Asalariado sector público","Antofagasta",2,2010,487752.695207299
-"551","Mujer","Asalariado sector público","Antofagasta",2,2011,490904.074667838
-"552","Mujer","Asalariado sector público","Araucanía",9,2010,460708.202643715
-"553","Mujer","Asalariado sector público","Araucanía",9,2011,471691.451345613
-"554","Mujer","Asalariado sector público","Arica y Parinacota",15,2010,440943.138500089
-"555","Mujer","Asalariado sector público","Arica y Parinacota",15,2011,377980.771257578
-"556","Mujer","Asalariado sector público","Atacama",3,2010,402436.764035101
-"557","Mujer","Asalariado sector público","Atacama",3,2011,367204.817952769
-"558","Mujer","Asalariado sector público","Aysén",11,2010,519925.52265832
-"559","Mujer","Asalariado sector público","Aysén",11,2011,634125.534256387
-"560","Mujer","Asalariado sector público","Bíobío",8,2010,393669.583730786
-"561","Mujer","Asalariado sector público","Bíobío",8,2011,448532.474199981
-"562","Mujer","Asalariado sector público","Coquimbo",4,2010,486105.910736769
-"563","Mujer","Asalariado sector público","Coquimbo",4,2011,398208.228119725
-"564","Mujer","Asalariado sector público","Los Lagos",10,2010,383867.510735268
-"565","Mujer","Asalariado sector público","Los Lagos",10,2011,487389.337054903
-"566","Mujer","Asalariado sector público","Los Ríos",14,2010,338813.751268887
-"567","Mujer","Asalariado sector público","Los Ríos",14,2011,416435.357639668
-"568","Mujer","Asalariado sector público","Magallanes",12,2010,599085.091187104
-"569","Mujer","Asalariado sector público","Magallanes",12,2011,769917.011175204
-"570","Mujer","Asalariado sector público","Maule",7,2010,326622.273614838
-"571","Mujer","Asalariado sector público","Maule",7,2011,390375.306871836
-"572","Mujer","Asalariado sector público","Metropolitana",13,2010,498790.204011636
-"573","Mujer","Asalariado sector público","Metropolitana",13,2011,478890.073997258
-"574","Mujer","Asalariado sector público","O'Higgins",6,2010,348915.964555372
-"575","Mujer","Asalariado sector público","O'Higgins",6,2011,433745.751312013
-"576","Mujer","Asalariado sector público","Tarapacá",1,2010,466452.178242211
-"577","Mujer","Asalariado sector público","Tarapacá",1,2011,486895.160132078
-"578","Mujer","Asalariado sector público","Valparaíso",5,2010,428076.472135119
-"579","Mujer","Asalariado sector público","Valparaíso",5,2011,441078.644767862
-"580","Mujer","Asalariado sector público",NA,NA,2010,231313.10663546
-"581","Mujer","Asalariado sector público",NA,NA,2011,208407.085724813
-"582","Mujer","Asalariado Sector Público","Antofagasta",2,2012,500540.028830773
-"583","Mujer","Asalariado Sector Público","Antofagasta",2,2013,640095.716757088
-"584","Mujer","Asalariado Sector Público","Antofagasta",2,2014,647258.198734848
-"585","Mujer","Asalariado Sector Público","Antofagasta",2,2015,709268.903033179
-"586","Mujer","Asalariado Sector Público","Araucanía",9,2012,507380.770203997
-"587","Mujer","Asalariado Sector Público","Araucanía",9,2013,498056.347299134
-"588","Mujer","Asalariado Sector Público","Araucanía",9,2014,475207.240819357
-"589","Mujer","Asalariado Sector Público","Araucanía",9,2015,575903.813256522
-"590","Mujer","Asalariado Sector Público","Arica y Parinacota",15,2012,509678.06302567
-"591","Mujer","Asalariado Sector Público","Arica y Parinacota",15,2013,600745.092847343
-"592","Mujer","Asalariado Sector Público","Arica y Parinacota",15,2014,581014.132127456
-"593","Mujer","Asalariado Sector Público","Arica y Parinacota",15,2015,733189.863302573
-"594","Mujer","Asalariado Sector Público","Atacama",3,2012,417909.761141394
-"595","Mujer","Asalariado Sector Público","Atacama",3,2013,528050.568295201
-"596","Mujer","Asalariado Sector Público","Atacama",3,2014,657415.663486017
-"597","Mujer","Asalariado Sector Público","Atacama",3,2015,606671.871329578
-"598","Mujer","Asalariado Sector Público","Aysén",11,2012,601977.989497684
-"599","Mujer","Asalariado Sector Público","Aysén",11,2013,599308.713616301
-"600","Mujer","Asalariado Sector Público","Aysén",11,2014,590507.216183313
-"601","Mujer","Asalariado Sector Público","Aysén",11,2015,762817.612842137
-"602","Mujer","Asalariado Sector Público","Bíobío",8,2012,480548.45121939
-"603","Mujer","Asalariado Sector Público","Bíobío",8,2013,474114.587054325
-"604","Mujer","Asalariado Sector Público","Bíobío",8,2014,505565.437095259
-"605","Mujer","Asalariado Sector Público","Bíobío",8,2015,558793.55701271
-"606","Mujer","Asalariado Sector Público","Coquimbo",4,2012,498897.010723868
-"607","Mujer","Asalariado Sector Público","Coquimbo",4,2013,511915.086747899
-"608","Mujer","Asalariado Sector Público","Coquimbo",4,2014,500225.500896128
-"609","Mujer","Asalariado Sector Público","Coquimbo",4,2015,537854.940928685
-"610","Mujer","Asalariado Sector Público","Los Lagos",10,2012,529341.594043887
-"611","Mujer","Asalariado Sector Público","Los Lagos",10,2013,547888.96851237
-"612","Mujer","Asalariado Sector Público","Los Lagos",10,2014,612705.657966852
-"613","Mujer","Asalariado Sector Público","Los Lagos",10,2015,698192.72350433
-"614","Mujer","Asalariado Sector Público","Los Ríos",14,2012,487309.60316615
-"615","Mujer","Asalariado Sector Público","Los Ríos",14,2013,596092.936467566
-"616","Mujer","Asalariado Sector Público","Los Ríos",14,2014,511922.056155749
-"617","Mujer","Asalariado Sector Público","Los Ríos",14,2015,630079.002687038
-"618","Mujer","Asalariado Sector Público","Magallanes",12,2012,869471.272694758
-"619","Mujer","Asalariado Sector Público","Magallanes",12,2013,1078951.86468635
-"620","Mujer","Asalariado Sector Público","Magallanes",12,2014,856020.471678285
-"621","Mujer","Asalariado Sector Público","Magallanes",12,2015,1114877.69769441
-"622","Mujer","Asalariado Sector Público","Maule",7,2012,440980.86465503
-"623","Mujer","Asalariado Sector Público","Maule",7,2013,477733.48810119
-"624","Mujer","Asalariado Sector Público","Maule",7,2014,399645.861698697
-"625","Mujer","Asalariado Sector Público","Maule",7,2015,476635.878586982
-"626","Mujer","Asalariado Sector Público","Metropolitana",13,2012,551257.490997022
-"627","Mujer","Asalariado Sector Público","Metropolitana",13,2013,636882.288879864
-"628","Mujer","Asalariado Sector Público","Metropolitana",13,2014,661847.73552307
-"629","Mujer","Asalariado Sector Público","Metropolitana",13,2015,731787.312842094
-"630","Mujer","Asalariado Sector Público","O'Higgins",6,2012,442549.938670584
-"631","Mujer","Asalariado Sector Público","O'Higgins",6,2013,498541.937046768
-"632","Mujer","Asalariado Sector Público","O'Higgins",6,2014,509735.70999147
-"633","Mujer","Asalariado Sector Público","O'Higgins",6,2015,545128.164576454
-"634","Mujer","Asalariado Sector Público","Tarapacá",1,2012,623475.081859812
-"635","Mujer","Asalariado Sector Público","Tarapacá",1,2013,596625.006558177
-"636","Mujer","Asalariado Sector Público","Tarapacá",1,2014,614200.806378354
-"637","Mujer","Asalariado Sector Público","Tarapacá",1,2015,801083.140173322
-"638","Mujer","Asalariado Sector Público","Valparaíso",5,2012,483536.925774709
-"639","Mujer","Asalariado Sector Público","Valparaíso",5,2013,663307.76902
-"640","Mujer","Asalariado Sector Público","Valparaíso",5,2014,744497.912351014
-"641","Mujer","Asalariado Sector Público","Valparaíso",5,2015,661151.40217663
+"550","Mujer","Asalariado Sector Público","Antofagasta","2",2010,487752.695207299
+"551","Mujer","Asalariado Sector Público","Antofagasta","2",2011,490904.074667838
+"552","Mujer","Asalariado Sector Público","Antofagasta","2",2012,500540.028830773
+"553","Mujer","Asalariado Sector Público","Antofagasta","2",2013,640095.716757088
+"554","Mujer","Asalariado Sector Público","Antofagasta","2",2014,647258.198734848
+"555","Mujer","Asalariado Sector Público","Antofagasta","2",2015,709268.903033179
+"556","Mujer","Asalariado Sector Público","Araucanía","9",2010,460708.202643715
+"557","Mujer","Asalariado Sector Público","Araucanía","9",2011,471691.451345613
+"558","Mujer","Asalariado Sector Público","Araucanía","9",2012,507380.770203997
+"559","Mujer","Asalariado Sector Público","Araucanía","9",2013,498056.347299134
+"560","Mujer","Asalariado Sector Público","Araucanía","9",2014,475207.240819357
+"561","Mujer","Asalariado Sector Público","Araucanía","9",2015,575903.813256522
+"562","Mujer","Asalariado Sector Público","Arica y Parinacota","15",2010,440943.138500089
+"563","Mujer","Asalariado Sector Público","Arica y Parinacota","15",2011,377980.771257578
+"564","Mujer","Asalariado Sector Público","Arica y Parinacota","15",2012,509678.06302567
+"565","Mujer","Asalariado Sector Público","Arica y Parinacota","15",2013,600745.092847343
+"566","Mujer","Asalariado Sector Público","Arica y Parinacota","15",2014,581014.132127456
+"567","Mujer","Asalariado Sector Público","Arica y Parinacota","15",2015,733189.863302573
+"568","Mujer","Asalariado Sector Público","Atacama","3",2010,402436.764035101
+"569","Mujer","Asalariado Sector Público","Atacama","3",2011,367204.817952769
+"570","Mujer","Asalariado Sector Público","Atacama","3",2012,417909.761141394
+"571","Mujer","Asalariado Sector Público","Atacama","3",2013,528050.568295201
+"572","Mujer","Asalariado Sector Público","Atacama","3",2014,657415.663486017
+"573","Mujer","Asalariado Sector Público","Atacama","3",2015,606671.871329578
+"574","Mujer","Asalariado Sector Público","Aysén","11",2010,519925.52265832
+"575","Mujer","Asalariado Sector Público","Aysén","11",2011,634125.534256387
+"576","Mujer","Asalariado Sector Público","Aysén","11",2012,601977.989497684
+"577","Mujer","Asalariado Sector Público","Aysén","11",2013,599308.713616301
+"578","Mujer","Asalariado Sector Público","Aysén","11",2014,590507.216183313
+"579","Mujer","Asalariado Sector Público","Aysén","11",2015,762817.612842137
+"580","Mujer","Asalariado Sector Público","Bíobío","8",2010,393669.583730786
+"581","Mujer","Asalariado Sector Público","Bíobío","8",2011,448532.474199981
+"582","Mujer","Asalariado Sector Público","Bíobío","8",2012,480548.45121939
+"583","Mujer","Asalariado Sector Público","Bíobío","8",2013,474114.587054325
+"584","Mujer","Asalariado Sector Público","Bíobío","8",2014,505565.437095259
+"585","Mujer","Asalariado Sector Público","Bíobío","8",2015,558793.55701271
+"586","Mujer","Asalariado Sector Público","Coquimbo","4",2010,486105.910736769
+"587","Mujer","Asalariado Sector Público","Coquimbo","4",2011,398208.228119725
+"588","Mujer","Asalariado Sector Público","Coquimbo","4",2012,498897.010723868
+"589","Mujer","Asalariado Sector Público","Coquimbo","4",2013,511915.086747899
+"590","Mujer","Asalariado Sector Público","Coquimbo","4",2014,500225.500896128
+"591","Mujer","Asalariado Sector Público","Coquimbo","4",2015,537854.940928685
+"592","Mujer","Asalariado Sector Público","Los Lagos","10",2010,383867.510735268
+"593","Mujer","Asalariado Sector Público","Los Lagos","10",2011,487389.337054903
+"594","Mujer","Asalariado Sector Público","Los Lagos","10",2012,529341.594043887
+"595","Mujer","Asalariado Sector Público","Los Lagos","10",2013,547888.96851237
+"596","Mujer","Asalariado Sector Público","Los Lagos","10",2014,612705.657966852
+"597","Mujer","Asalariado Sector Público","Los Lagos","10",2015,698192.72350433
+"598","Mujer","Asalariado Sector Público","Los Ríos","14",2010,338813.751268887
+"599","Mujer","Asalariado Sector Público","Los Ríos","14",2011,416435.357639668
+"600","Mujer","Asalariado Sector Público","Los Ríos","14",2012,487309.60316615
+"601","Mujer","Asalariado Sector Público","Los Ríos","14",2013,596092.936467566
+"602","Mujer","Asalariado Sector Público","Los Ríos","14",2014,511922.056155749
+"603","Mujer","Asalariado Sector Público","Los Ríos","14",2015,630079.002687038
+"604","Mujer","Asalariado Sector Público","Magallanes","12",2010,599085.091187104
+"605","Mujer","Asalariado Sector Público","Magallanes","12",2011,769917.011175204
+"606","Mujer","Asalariado Sector Público","Magallanes","12",2012,869471.272694758
+"607","Mujer","Asalariado Sector Público","Magallanes","12",2013,1078951.86468635
+"608","Mujer","Asalariado Sector Público","Magallanes","12",2014,856020.471678285
+"609","Mujer","Asalariado Sector Público","Magallanes","12",2015,1114877.69769441
+"610","Mujer","Asalariado Sector Público","Maule","7",2010,326622.273614838
+"611","Mujer","Asalariado Sector Público","Maule","7",2011,390375.306871836
+"612","Mujer","Asalariado Sector Público","Maule","7",2012,440980.86465503
+"613","Mujer","Asalariado Sector Público","Maule","7",2013,477733.48810119
+"614","Mujer","Asalariado Sector Público","Maule","7",2014,399645.861698697
+"615","Mujer","Asalariado Sector Público","Maule","7",2015,476635.878586982
+"616","Mujer","Asalariado Sector Público","Metropolitana","13",2010,498790.204011636
+"617","Mujer","Asalariado Sector Público","Metropolitana","13",2011,478890.073997258
+"618","Mujer","Asalariado Sector Público","Metropolitana","13",2012,551257.490997022
+"619","Mujer","Asalariado Sector Público","Metropolitana","13",2013,636882.288879864
+"620","Mujer","Asalariado Sector Público","Metropolitana","13",2014,661847.73552307
+"621","Mujer","Asalariado Sector Público","Metropolitana","13",2015,731787.312842094
+"622","Mujer","Asalariado Sector Público","O'Higgins","6",2010,348915.964555372
+"623","Mujer","Asalariado Sector Público","O'Higgins","6",2011,433745.751312013
+"624","Mujer","Asalariado Sector Público","O'Higgins","6",2012,442549.938670584
+"625","Mujer","Asalariado Sector Público","O'Higgins","6",2013,498541.937046768
+"626","Mujer","Asalariado Sector Público","O'Higgins","6",2014,509735.70999147
+"627","Mujer","Asalariado Sector Público","O'Higgins","6",2015,545128.164576454
+"628","Mujer","Asalariado Sector Público","Tarapacá","1",2010,466452.178242211
+"629","Mujer","Asalariado Sector Público","Tarapacá","1",2011,486895.160132078
+"630","Mujer","Asalariado Sector Público","Tarapacá","1",2012,623475.081859812
+"631","Mujer","Asalariado Sector Público","Tarapacá","1",2013,596625.006558177
+"632","Mujer","Asalariado Sector Público","Tarapacá","1",2014,614200.806378354
+"633","Mujer","Asalariado Sector Público","Tarapacá","1",2015,801083.140173322
+"634","Mujer","Asalariado Sector Público","Valparaíso","5",2010,428076.472135119
+"635","Mujer","Asalariado Sector Público","Valparaíso","5",2011,441078.644767862
+"636","Mujer","Asalariado Sector Público","Valparaíso","5",2012,483536.925774709
+"637","Mujer","Asalariado Sector Público","Valparaíso","5",2013,663307.76902
+"638","Mujer","Asalariado Sector Público","Valparaíso","5",2014,744497.912351014
+"639","Mujer","Asalariado Sector Público","Valparaíso","5",2015,661151.40217663
+"640","Mujer","Asalariado Sector Público",NA,NA,2010,231313.10663546
+"641","Mujer","Asalariado Sector Público",NA,NA,2011,208407.085724813
 "642","Mujer","Asalariado Sector Público",NA,NA,2012,495176.424151661
-"643","Mujer","Cuenta propia","Antofagasta",2,2010,156585.108722177
-"644","Mujer","Cuenta propia","Antofagasta",2,2011,211235.987161089
-"645","Mujer","Cuenta propia","Araucanía",9,2010,68276.0529243676
-"646","Mujer","Cuenta propia","Araucanía",9,2011,80864.4055991374
-"647","Mujer","Cuenta propia","Arica y Parinacota",15,2010,129483.78097974
-"648","Mujer","Cuenta propia","Arica y Parinacota",15,2011,125599.70576318
-"649","Mujer","Cuenta propia","Atacama",3,2010,120770.58678361
-"650","Mujer","Cuenta propia","Atacama",3,2011,182808.345153815
-"651","Mujer","Cuenta propia","Aysén",11,2010,138009.9193782
-"652","Mujer","Cuenta propia","Aysén",11,2011,197248.541959775
-"653","Mujer","Cuenta propia","Bíobío",8,2010,110730.598338122
-"654","Mujer","Cuenta propia","Bíobío",8,2011,128983.611187412
-"655","Mujer","Cuenta propia","Coquimbo",4,2010,135734.474921738
-"656","Mujer","Cuenta propia","Coquimbo",4,2011,163290.327576876
-"657","Mujer","Cuenta propia","Los Lagos",10,2010,122622.320036253
-"658","Mujer","Cuenta propia","Los Lagos",10,2011,156843.65159092
-"659","Mujer","Cuenta propia","Los Ríos",14,2010,129146.020678486
-"660","Mujer","Cuenta propia","Los Ríos",14,2011,104795.73736583
-"661","Mujer","Cuenta propia","Magallanes",12,2010,295566.584188719
-"662","Mujer","Cuenta propia","Magallanes",12,2011,255932.093915619
-"663","Mujer","Cuenta propia","Maule",7,2010,108846.618747443
-"664","Mujer","Cuenta propia","Maule",7,2011,121220.216030338
-"665","Mujer","Cuenta propia","Metropolitana",13,2010,208394.937247729
-"666","Mujer","Cuenta propia","Metropolitana",13,2011,184323.270186626
-"667","Mujer","Cuenta propia","O'Higgins",6,2010,129890.339969117
-"668","Mujer","Cuenta propia","O'Higgins",6,2011,147424.255459516
-"669","Mujer","Cuenta propia","Tarapacá",1,2010,207412.96835318
-"670","Mujer","Cuenta propia","Tarapacá",1,2011,222095.967116
-"671","Mujer","Cuenta propia","Valparaíso",5,2010,118284.312653522
-"672","Mujer","Cuenta propia","Valparaíso",5,2011,139218.845437454
-"673","Mujer","Cuenta propia",NA,NA,2010,115117.583653444
-"674","Mujer","Cuenta propia",NA,NA,2011,100154.451672438
-"675","Mujer","Cuenta Propia","Antofagasta",2,2012,261601.18932145
-"676","Mujer","Cuenta Propia","Antofagasta",2,2013,187948.366861334
-"677","Mujer","Cuenta Propia","Antofagasta",2,2014,235605.591027208
-"678","Mujer","Cuenta Propia","Antofagasta",2,2015,225168.34106533
-"679","Mujer","Cuenta Propia","Araucanía",9,2012,76790.7479108435
-"680","Mujer","Cuenta Propia","Araucanía",9,2013,100524.404013688
-"681","Mujer","Cuenta Propia","Araucanía",9,2014,120458.605226525
-"682","Mujer","Cuenta Propia","Araucanía",9,2015,154290.251153155
-"683","Mujer","Cuenta Propia","Arica y Parinacota",15,2012,122600.176420136
-"684","Mujer","Cuenta Propia","Arica y Parinacota",15,2013,142339.830415369
-"685","Mujer","Cuenta Propia","Arica y Parinacota",15,2014,177685.12279757
-"686","Mujer","Cuenta Propia","Arica y Parinacota",15,2015,184121.836221633
-"687","Mujer","Cuenta Propia","Atacama",3,2012,162471.43707258
-"688","Mujer","Cuenta Propia","Atacama",3,2013,187845.264593731
-"689","Mujer","Cuenta Propia","Atacama",3,2014,153387.237663947
-"690","Mujer","Cuenta Propia","Atacama",3,2015,159715.950002966
-"691","Mujer","Cuenta Propia","Aysén",11,2012,141704.726442345
-"692","Mujer","Cuenta Propia","Aysén",11,2013,161299.749678685
-"693","Mujer","Cuenta Propia","Aysén",11,2014,210443.215620423
-"694","Mujer","Cuenta Propia","Aysén",11,2015,205397.514886701
-"695","Mujer","Cuenta Propia","Bíobío",8,2012,157924.593831773
-"696","Mujer","Cuenta Propia","Bíobío",8,2013,138994.125960892
-"697","Mujer","Cuenta Propia","Bíobío",8,2014,154868.621241976
-"698","Mujer","Cuenta Propia","Bíobío",8,2015,201221.30920633
-"699","Mujer","Cuenta Propia","Coquimbo",4,2012,113025.984097935
-"700","Mujer","Cuenta Propia","Coquimbo",4,2013,135882.341777081
-"701","Mujer","Cuenta Propia","Coquimbo",4,2014,172900.032974674
-"702","Mujer","Cuenta Propia","Coquimbo",4,2015,195272.788752802
-"703","Mujer","Cuenta Propia","Los Lagos",10,2012,160217.340810185
-"704","Mujer","Cuenta Propia","Los Lagos",10,2013,130878.150802925
-"705","Mujer","Cuenta Propia","Los Lagos",10,2014,209340.754750846
-"706","Mujer","Cuenta Propia","Los Lagos",10,2015,188649.887045293
-"707","Mujer","Cuenta Propia","Los Ríos",14,2012,179241.930391616
-"708","Mujer","Cuenta Propia","Los Ríos",14,2013,162064.716222688
-"709","Mujer","Cuenta Propia","Los Ríos",14,2014,148007.478074358
-"710","Mujer","Cuenta Propia","Los Ríos",14,2015,129721.492382266
-"711","Mujer","Cuenta Propia","Magallanes",12,2012,553150.478292175
-"712","Mujer","Cuenta Propia","Magallanes",12,2013,222367.529198556
-"713","Mujer","Cuenta Propia","Magallanes",12,2014,230514.840495565
-"714","Mujer","Cuenta Propia","Magallanes",12,2015,286717.731290704
-"715","Mujer","Cuenta Propia","Maule",7,2012,138115.459094482
-"716","Mujer","Cuenta Propia","Maule",7,2013,163897.098632856
-"717","Mujer","Cuenta Propia","Maule",7,2014,170376.776691715
-"718","Mujer","Cuenta Propia","Maule",7,2015,165059.497024262
-"719","Mujer","Cuenta Propia","Metropolitana",13,2012,204997.56845828
-"720","Mujer","Cuenta Propia","Metropolitana",13,2013,198021.083064112
-"721","Mujer","Cuenta Propia","Metropolitana",13,2014,228974.875640264
-"722","Mujer","Cuenta Propia","Metropolitana",13,2015,228238.590324132
-"723","Mujer","Cuenta Propia","O'Higgins",6,2012,177192.963562565
-"724","Mujer","Cuenta Propia","O'Higgins",6,2013,133059.438492179
-"725","Mujer","Cuenta Propia","O'Higgins",6,2014,155972.113845096
-"726","Mujer","Cuenta Propia","O'Higgins",6,2015,198691.440786727
-"727","Mujer","Cuenta Propia","Tarapacá",1,2012,146083.72456416
-"728","Mujer","Cuenta Propia","Tarapacá",1,2013,213119.620453364
-"729","Mujer","Cuenta Propia","Tarapacá",1,2014,220910.290080141
-"730","Mujer","Cuenta Propia","Tarapacá",1,2015,235490.882149817
-"731","Mujer","Cuenta Propia","Valparaíso",5,2012,163276.746229155
-"732","Mujer","Cuenta Propia","Valparaíso",5,2013,188612.094406259
-"733","Mujer","Cuenta Propia","Valparaíso",5,2014,213176.619632442
-"734","Mujer","Cuenta Propia","Valparaíso",5,2015,177785.843770333
+"643","Mujer","Cuenta Propia","Antofagasta","2",2010,156585.108722177
+"644","Mujer","Cuenta Propia","Antofagasta","2",2011,211235.987161089
+"645","Mujer","Cuenta Propia","Antofagasta","2",2012,261601.18932145
+"646","Mujer","Cuenta Propia","Antofagasta","2",2013,187948.366861334
+"647","Mujer","Cuenta Propia","Antofagasta","2",2014,235605.591027208
+"648","Mujer","Cuenta Propia","Antofagasta","2",2015,225168.34106533
+"649","Mujer","Cuenta Propia","Araucanía","9",2010,68276.0529243676
+"650","Mujer","Cuenta Propia","Araucanía","9",2011,80864.4055991374
+"651","Mujer","Cuenta Propia","Araucanía","9",2012,76790.7479108435
+"652","Mujer","Cuenta Propia","Araucanía","9",2013,100524.404013688
+"653","Mujer","Cuenta Propia","Araucanía","9",2014,120458.605226525
+"654","Mujer","Cuenta Propia","Araucanía","9",2015,154290.251153155
+"655","Mujer","Cuenta Propia","Arica y Parinacota","15",2010,129483.78097974
+"656","Mujer","Cuenta Propia","Arica y Parinacota","15",2011,125599.70576318
+"657","Mujer","Cuenta Propia","Arica y Parinacota","15",2012,122600.176420136
+"658","Mujer","Cuenta Propia","Arica y Parinacota","15",2013,142339.830415369
+"659","Mujer","Cuenta Propia","Arica y Parinacota","15",2014,177685.12279757
+"660","Mujer","Cuenta Propia","Arica y Parinacota","15",2015,184121.836221633
+"661","Mujer","Cuenta Propia","Atacama","3",2010,120770.58678361
+"662","Mujer","Cuenta Propia","Atacama","3",2011,182808.345153815
+"663","Mujer","Cuenta Propia","Atacama","3",2012,162471.43707258
+"664","Mujer","Cuenta Propia","Atacama","3",2013,187845.264593731
+"665","Mujer","Cuenta Propia","Atacama","3",2014,153387.237663947
+"666","Mujer","Cuenta Propia","Atacama","3",2015,159715.950002966
+"667","Mujer","Cuenta Propia","Aysén","11",2010,138009.9193782
+"668","Mujer","Cuenta Propia","Aysén","11",2011,197248.541959775
+"669","Mujer","Cuenta Propia","Aysén","11",2012,141704.726442345
+"670","Mujer","Cuenta Propia","Aysén","11",2013,161299.749678685
+"671","Mujer","Cuenta Propia","Aysén","11",2014,210443.215620423
+"672","Mujer","Cuenta Propia","Aysén","11",2015,205397.514886701
+"673","Mujer","Cuenta Propia","Bíobío","8",2010,110730.598338122
+"674","Mujer","Cuenta Propia","Bíobío","8",2011,128983.611187412
+"675","Mujer","Cuenta Propia","Bíobío","8",2012,157924.593831773
+"676","Mujer","Cuenta Propia","Bíobío","8",2013,138994.125960892
+"677","Mujer","Cuenta Propia","Bíobío","8",2014,154868.621241976
+"678","Mujer","Cuenta Propia","Bíobío","8",2015,201221.30920633
+"679","Mujer","Cuenta Propia","Coquimbo","4",2010,135734.474921738
+"680","Mujer","Cuenta Propia","Coquimbo","4",2011,163290.327576876
+"681","Mujer","Cuenta Propia","Coquimbo","4",2012,113025.984097935
+"682","Mujer","Cuenta Propia","Coquimbo","4",2013,135882.341777081
+"683","Mujer","Cuenta Propia","Coquimbo","4",2014,172900.032974674
+"684","Mujer","Cuenta Propia","Coquimbo","4",2015,195272.788752802
+"685","Mujer","Cuenta Propia","Los Lagos","10",2010,122622.320036253
+"686","Mujer","Cuenta Propia","Los Lagos","10",2011,156843.65159092
+"687","Mujer","Cuenta Propia","Los Lagos","10",2012,160217.340810185
+"688","Mujer","Cuenta Propia","Los Lagos","10",2013,130878.150802925
+"689","Mujer","Cuenta Propia","Los Lagos","10",2014,209340.754750846
+"690","Mujer","Cuenta Propia","Los Lagos","10",2015,188649.887045293
+"691","Mujer","Cuenta Propia","Los Ríos","14",2010,129146.020678486
+"692","Mujer","Cuenta Propia","Los Ríos","14",2011,104795.73736583
+"693","Mujer","Cuenta Propia","Los Ríos","14",2012,179241.930391616
+"694","Mujer","Cuenta Propia","Los Ríos","14",2013,162064.716222688
+"695","Mujer","Cuenta Propia","Los Ríos","14",2014,148007.478074358
+"696","Mujer","Cuenta Propia","Los Ríos","14",2015,129721.492382266
+"697","Mujer","Cuenta Propia","Magallanes","12",2010,295566.584188719
+"698","Mujer","Cuenta Propia","Magallanes","12",2011,255932.093915619
+"699","Mujer","Cuenta Propia","Magallanes","12",2012,553150.478292175
+"700","Mujer","Cuenta Propia","Magallanes","12",2013,222367.529198556
+"701","Mujer","Cuenta Propia","Magallanes","12",2014,230514.840495565
+"702","Mujer","Cuenta Propia","Magallanes","12",2015,286717.731290704
+"703","Mujer","Cuenta Propia","Maule","7",2010,108846.618747443
+"704","Mujer","Cuenta Propia","Maule","7",2011,121220.216030338
+"705","Mujer","Cuenta Propia","Maule","7",2012,138115.459094482
+"706","Mujer","Cuenta Propia","Maule","7",2013,163897.098632856
+"707","Mujer","Cuenta Propia","Maule","7",2014,170376.776691715
+"708","Mujer","Cuenta Propia","Maule","7",2015,165059.497024262
+"709","Mujer","Cuenta Propia","Metropolitana","13",2010,208394.937247729
+"710","Mujer","Cuenta Propia","Metropolitana","13",2011,184323.270186626
+"711","Mujer","Cuenta Propia","Metropolitana","13",2012,204997.56845828
+"712","Mujer","Cuenta Propia","Metropolitana","13",2013,198021.083064112
+"713","Mujer","Cuenta Propia","Metropolitana","13",2014,228974.875640264
+"714","Mujer","Cuenta Propia","Metropolitana","13",2015,228238.590324132
+"715","Mujer","Cuenta Propia","O'Higgins","6",2010,129890.339969117
+"716","Mujer","Cuenta Propia","O'Higgins","6",2011,147424.255459516
+"717","Mujer","Cuenta Propia","O'Higgins","6",2012,177192.963562565
+"718","Mujer","Cuenta Propia","O'Higgins","6",2013,133059.438492179
+"719","Mujer","Cuenta Propia","O'Higgins","6",2014,155972.113845096
+"720","Mujer","Cuenta Propia","O'Higgins","6",2015,198691.440786727
+"721","Mujer","Cuenta Propia","Tarapacá","1",2010,207412.96835318
+"722","Mujer","Cuenta Propia","Tarapacá","1",2011,222095.967116
+"723","Mujer","Cuenta Propia","Tarapacá","1",2012,146083.72456416
+"724","Mujer","Cuenta Propia","Tarapacá","1",2013,213119.620453364
+"725","Mujer","Cuenta Propia","Tarapacá","1",2014,220910.290080141
+"726","Mujer","Cuenta Propia","Tarapacá","1",2015,235490.882149817
+"727","Mujer","Cuenta Propia","Valparaíso","5",2010,118284.312653522
+"728","Mujer","Cuenta Propia","Valparaíso","5",2011,139218.845437454
+"729","Mujer","Cuenta Propia","Valparaíso","5",2012,163276.746229155
+"730","Mujer","Cuenta Propia","Valparaíso","5",2013,188612.094406259
+"731","Mujer","Cuenta Propia","Valparaíso","5",2014,213176.619632442
+"732","Mujer","Cuenta Propia","Valparaíso","5",2015,177785.843770333
+"733","Mujer","Cuenta Propia",NA,NA,2010,115117.583653444
+"734","Mujer","Cuenta Propia",NA,NA,2011,100154.451672438
 "735","Mujer","Cuenta Propia",NA,NA,2012,123197.865456014
-"736","Mujer","Empleador","Antofagasta",2,2010,532739.545823467
-"737","Mujer","Empleador","Antofagasta",2,2011,763676.280081267
-"738","Mujer","Empleador","Antofagasta",2,2012,662639.523486195
-"739","Mujer","Empleador","Antofagasta",2,2013,627190.566477516
-"740","Mujer","Empleador","Antofagasta",2,2014,753776.087405964
-"741","Mujer","Empleador","Antofagasta",2,2015,728864.739585443
-"742","Mujer","Empleador","Araucanía",9,2010,314586.405825788
-"743","Mujer","Empleador","Araucanía",9,2011,407920.727177861
-"744","Mujer","Empleador","Araucanía",9,2012,447577.250209039
-"745","Mujer","Empleador","Araucanía",9,2013,634600.459949194
-"746","Mujer","Empleador","Araucanía",9,2014,752979.9292576
-"747","Mujer","Empleador","Araucanía",9,2015,479924.467805567
-"748","Mujer","Empleador","Arica y Parinacota",15,2010,312870.849037337
-"749","Mujer","Empleador","Arica y Parinacota",15,2011,449188.568832971
-"750","Mujer","Empleador","Arica y Parinacota",15,2012,786255.135290493
-"751","Mujer","Empleador","Arica y Parinacota",15,2013,1390503.01110565
-"752","Mujer","Empleador","Arica y Parinacota",15,2014,493381.529240922
-"753","Mujer","Empleador","Arica y Parinacota",15,2015,582688.694144237
-"754","Mujer","Empleador","Atacama",3,2010,995521.642269696
-"755","Mujer","Empleador","Atacama",3,2011,2448993.00245211
-"756","Mujer","Empleador","Atacama",3,2012,477136.243472404
-"757","Mujer","Empleador","Atacama",3,2013,949646.871391816
-"758","Mujer","Empleador","Atacama",3,2014,583550.506801333
-"759","Mujer","Empleador","Atacama",3,2015,1170754.47712116
-"760","Mujer","Empleador","Aysén",11,2010,672037.325094573
-"761","Mujer","Empleador","Aysén",11,2011,1022431.74213998
-"762","Mujer","Empleador","Aysén",11,2012,691369.80503334
-"763","Mujer","Empleador","Aysén",11,2013,1180456.92439318
-"764","Mujer","Empleador","Aysén",11,2014,789036.796787732
-"765","Mujer","Empleador","Aysén",11,2015,1038377.4558344
-"766","Mujer","Empleador","Bíobío",8,2010,891906.394399791
-"767","Mujer","Empleador","Bíobío",8,2011,417355.537491207
-"768","Mujer","Empleador","Bíobío",8,2012,635997.266958957
-"769","Mujer","Empleador","Bíobío",8,2013,626520.354618247
-"770","Mujer","Empleador","Bíobío",8,2014,590597.678225714
-"771","Mujer","Empleador","Bíobío",8,2015,883843.695145087
-"772","Mujer","Empleador","Coquimbo",4,2010,1340573.65997178
-"773","Mujer","Empleador","Coquimbo",4,2011,663593.99926085
-"774","Mujer","Empleador","Coquimbo",4,2012,746760.585604119
-"775","Mujer","Empleador","Coquimbo",4,2013,921296.862359545
-"776","Mujer","Empleador","Coquimbo",4,2014,1190902.27547839
-"777","Mujer","Empleador","Coquimbo",4,2015,587211.143097823
-"778","Mujer","Empleador","Los Lagos",10,2010,528176.971776849
-"779","Mujer","Empleador","Los Lagos",10,2011,824224.751101757
-"780","Mujer","Empleador","Los Lagos",10,2012,645449.428239409
-"781","Mujer","Empleador","Los Lagos",10,2013,567325.858998568
-"782","Mujer","Empleador","Los Lagos",10,2014,663353.00533347
-"783","Mujer","Empleador","Los Lagos",10,2015,847749.746402376
-"784","Mujer","Empleador","Los Ríos",14,2010,518524.993602086
-"785","Mujer","Empleador","Los Ríos",14,2011,791835.782151009
-"786","Mujer","Empleador","Los Ríos",14,2012,514926.41191811
-"787","Mujer","Empleador","Los Ríos",14,2013,552369.770567453
-"788","Mujer","Empleador","Los Ríos",14,2014,1361755.41873235
-"789","Mujer","Empleador","Los Ríos",14,2015,1303116.5088832
-"790","Mujer","Empleador","Magallanes",12,2010,1095068.97192776
-"791","Mujer","Empleador","Magallanes",12,2011,604746.037629058
-"792","Mujer","Empleador","Magallanes",12,2012,910419.376079516
-"793","Mujer","Empleador","Magallanes",12,2013,717029.531464971
-"794","Mujer","Empleador","Magallanes",12,2014,1306042.36538195
-"795","Mujer","Empleador","Magallanes",12,2015,1245229.07790405
-"796","Mujer","Empleador","Maule",7,2010,528355.294641944
-"797","Mujer","Empleador","Maule",7,2011,1004837.56625491
-"798","Mujer","Empleador","Maule",7,2012,431602.676192921
-"799","Mujer","Empleador","Maule",7,2013,809307.354707397
-"800","Mujer","Empleador","Maule",7,2014,1025577.83032525
-"801","Mujer","Empleador","Maule",7,2015,743650.274920276
-"802","Mujer","Empleador","Metropolitana",13,2010,652689.210097826
-"803","Mujer","Empleador","Metropolitana",13,2011,968088.635771152
-"804","Mujer","Empleador","Metropolitana",13,2012,1280428.58035475
-"805","Mujer","Empleador","Metropolitana",13,2013,794719.946694898
-"806","Mujer","Empleador","Metropolitana",13,2014,901800.45813138
-"807","Mujer","Empleador","Metropolitana",13,2015,974644.433889547
-"808","Mujer","Empleador","O'Higgins",6,2010,386017.010503787
-"809","Mujer","Empleador","O'Higgins",6,2011,422723.38578513
-"810","Mujer","Empleador","O'Higgins",6,2012,924790.970219856
-"811","Mujer","Empleador","O'Higgins",6,2013,557747.645920969
-"812","Mujer","Empleador","O'Higgins",6,2014,636719.786938675
-"813","Mujer","Empleador","O'Higgins",6,2015,494694.629601316
-"814","Mujer","Empleador","Tarapacá",1,2010,540500.480301402
-"815","Mujer","Empleador","Tarapacá",1,2011,741735.838318175
-"816","Mujer","Empleador","Tarapacá",1,2012,556519.504020914
-"817","Mujer","Empleador","Tarapacá",1,2013,871353.919406721
-"818","Mujer","Empleador","Tarapacá",1,2014,1240050.9123094
-"819","Mujer","Empleador","Tarapacá",1,2015,874892.248379387
-"820","Mujer","Empleador","Valparaíso",5,2010,421909.545480374
-"821","Mujer","Empleador","Valparaíso",5,2011,456046.313428067
-"822","Mujer","Empleador","Valparaíso",5,2012,620620.90053031
-"823","Mujer","Empleador","Valparaíso",5,2013,750577.082603427
-"824","Mujer","Empleador","Valparaíso",5,2014,861877.338490058
-"825","Mujer","Empleador","Valparaíso",5,2015,767842.072910613
+"736","Mujer","Empleador","Antofagasta","2",2010,532739.545823467
+"737","Mujer","Empleador","Antofagasta","2",2011,763676.280081267
+"738","Mujer","Empleador","Antofagasta","2",2012,662639.523486195
+"739","Mujer","Empleador","Antofagasta","2",2013,627190.566477516
+"740","Mujer","Empleador","Antofagasta","2",2014,753776.087405964
+"741","Mujer","Empleador","Antofagasta","2",2015,728864.739585443
+"742","Mujer","Empleador","Araucanía","9",2010,314586.405825788
+"743","Mujer","Empleador","Araucanía","9",2011,407920.727177861
+"744","Mujer","Empleador","Araucanía","9",2012,447577.250209039
+"745","Mujer","Empleador","Araucanía","9",2013,634600.459949194
+"746","Mujer","Empleador","Araucanía","9",2014,752979.9292576
+"747","Mujer","Empleador","Araucanía","9",2015,479924.467805567
+"748","Mujer","Empleador","Arica y Parinacota","15",2010,312870.849037337
+"749","Mujer","Empleador","Arica y Parinacota","15",2011,449188.568832971
+"750","Mujer","Empleador","Arica y Parinacota","15",2012,786255.135290493
+"751","Mujer","Empleador","Arica y Parinacota","15",2013,1390503.01110565
+"752","Mujer","Empleador","Arica y Parinacota","15",2014,493381.529240922
+"753","Mujer","Empleador","Arica y Parinacota","15",2015,582688.694144237
+"754","Mujer","Empleador","Atacama","3",2010,995521.642269696
+"755","Mujer","Empleador","Atacama","3",2011,2448993.00245211
+"756","Mujer","Empleador","Atacama","3",2012,477136.243472404
+"757","Mujer","Empleador","Atacama","3",2013,949646.871391816
+"758","Mujer","Empleador","Atacama","3",2014,583550.506801333
+"759","Mujer","Empleador","Atacama","3",2015,1170754.47712116
+"760","Mujer","Empleador","Aysén","11",2010,672037.325094573
+"761","Mujer","Empleador","Aysén","11",2011,1022431.74213998
+"762","Mujer","Empleador","Aysén","11",2012,691369.80503334
+"763","Mujer","Empleador","Aysén","11",2013,1180456.92439318
+"764","Mujer","Empleador","Aysén","11",2014,789036.796787732
+"765","Mujer","Empleador","Aysén","11",2015,1038377.4558344
+"766","Mujer","Empleador","Bíobío","8",2010,891906.394399791
+"767","Mujer","Empleador","Bíobío","8",2011,417355.537491207
+"768","Mujer","Empleador","Bíobío","8",2012,635997.266958957
+"769","Mujer","Empleador","Bíobío","8",2013,626520.354618247
+"770","Mujer","Empleador","Bíobío","8",2014,590597.678225714
+"771","Mujer","Empleador","Bíobío","8",2015,883843.695145087
+"772","Mujer","Empleador","Coquimbo","4",2010,1340573.65997178
+"773","Mujer","Empleador","Coquimbo","4",2011,663593.99926085
+"774","Mujer","Empleador","Coquimbo","4",2012,746760.585604119
+"775","Mujer","Empleador","Coquimbo","4",2013,921296.862359545
+"776","Mujer","Empleador","Coquimbo","4",2014,1190902.27547839
+"777","Mujer","Empleador","Coquimbo","4",2015,587211.143097823
+"778","Mujer","Empleador","Los Lagos","10",2010,528176.971776849
+"779","Mujer","Empleador","Los Lagos","10",2011,824224.751101757
+"780","Mujer","Empleador","Los Lagos","10",2012,645449.428239409
+"781","Mujer","Empleador","Los Lagos","10",2013,567325.858998568
+"782","Mujer","Empleador","Los Lagos","10",2014,663353.00533347
+"783","Mujer","Empleador","Los Lagos","10",2015,847749.746402376
+"784","Mujer","Empleador","Los Ríos","14",2010,518524.993602086
+"785","Mujer","Empleador","Los Ríos","14",2011,791835.782151009
+"786","Mujer","Empleador","Los Ríos","14",2012,514926.41191811
+"787","Mujer","Empleador","Los Ríos","14",2013,552369.770567453
+"788","Mujer","Empleador","Los Ríos","14",2014,1361755.41873235
+"789","Mujer","Empleador","Los Ríos","14",2015,1303116.5088832
+"790","Mujer","Empleador","Magallanes","12",2010,1095068.97192776
+"791","Mujer","Empleador","Magallanes","12",2011,604746.037629058
+"792","Mujer","Empleador","Magallanes","12",2012,910419.376079516
+"793","Mujer","Empleador","Magallanes","12",2013,717029.531464971
+"794","Mujer","Empleador","Magallanes","12",2014,1306042.36538195
+"795","Mujer","Empleador","Magallanes","12",2015,1245229.07790405
+"796","Mujer","Empleador","Maule","7",2010,528355.294641944
+"797","Mujer","Empleador","Maule","7",2011,1004837.56625491
+"798","Mujer","Empleador","Maule","7",2012,431602.676192921
+"799","Mujer","Empleador","Maule","7",2013,809307.354707397
+"800","Mujer","Empleador","Maule","7",2014,1025577.83032525
+"801","Mujer","Empleador","Maule","7",2015,743650.274920276
+"802","Mujer","Empleador","Metropolitana","13",2010,652689.210097826
+"803","Mujer","Empleador","Metropolitana","13",2011,968088.635771152
+"804","Mujer","Empleador","Metropolitana","13",2012,1280428.58035475
+"805","Mujer","Empleador","Metropolitana","13",2013,794719.946694898
+"806","Mujer","Empleador","Metropolitana","13",2014,901800.45813138
+"807","Mujer","Empleador","Metropolitana","13",2015,974644.433889547
+"808","Mujer","Empleador","O'Higgins","6",2010,386017.010503787
+"809","Mujer","Empleador","O'Higgins","6",2011,422723.38578513
+"810","Mujer","Empleador","O'Higgins","6",2012,924790.970219856
+"811","Mujer","Empleador","O'Higgins","6",2013,557747.645920969
+"812","Mujer","Empleador","O'Higgins","6",2014,636719.786938675
+"813","Mujer","Empleador","O'Higgins","6",2015,494694.629601316
+"814","Mujer","Empleador","Tarapacá","1",2010,540500.480301402
+"815","Mujer","Empleador","Tarapacá","1",2011,741735.838318175
+"816","Mujer","Empleador","Tarapacá","1",2012,556519.504020914
+"817","Mujer","Empleador","Tarapacá","1",2013,871353.919406721
+"818","Mujer","Empleador","Tarapacá","1",2014,1240050.9123094
+"819","Mujer","Empleador","Tarapacá","1",2015,874892.248379387
+"820","Mujer","Empleador","Valparaíso","5",2010,421909.545480374
+"821","Mujer","Empleador","Valparaíso","5",2011,456046.313428067
+"822","Mujer","Empleador","Valparaíso","5",2012,620620.90053031
+"823","Mujer","Empleador","Valparaíso","5",2013,750577.082603427
+"824","Mujer","Empleador","Valparaíso","5",2014,861877.338490058
+"825","Mujer","Empleador","Valparaíso","5",2015,767842.072910613
 "826","Mujer","Empleador",NA,NA,2010,4300
 "827","Mujer","Empleador",NA,NA,2011,49840.1805020212
 "828","Mujer","Empleador",NA,NA,2012,301686.325101363
-"829","Mujer","Personal de servicio doméstico puertas adentro","Antofagasta",2,2010,167189.153996195
-"830","Mujer","Personal de servicio doméstico puertas adentro","Antofagasta",2,2011,100148.082392893
-"831","Mujer","Personal de servicio doméstico puertas adentro","Araucanía",9,2010,142414.721605065
-"832","Mujer","Personal de servicio doméstico puertas adentro","Araucanía",9,2011,157837.943548843
-"833","Mujer","Personal de servicio doméstico puertas adentro","Arica y Parinacota",15,2010,117395.396364591
-"834","Mujer","Personal de servicio doméstico puertas adentro","Arica y Parinacota",15,2011,60289.9924184988
-"835","Mujer","Personal de servicio doméstico puertas adentro","Atacama",3,2010,175327.186110997
-"836","Mujer","Personal de servicio doméstico puertas adentro","Atacama",3,2011,190775.915516904
-"837","Mujer","Personal de servicio doméstico puertas adentro","Aysén",11,2010,72206.8917060505
-"838","Mujer","Personal de servicio doméstico puertas adentro","Aysén",11,2011,221063.305534496
-"839","Mujer","Personal de servicio doméstico puertas adentro","Bíobío",8,2010,155927.648916084
-"840","Mujer","Personal de servicio doméstico puertas adentro","Bíobío",8,2011,175156.073238127
-"841","Mujer","Personal de servicio doméstico puertas adentro","Coquimbo",4,2010,170509.345453692
-"842","Mujer","Personal de servicio doméstico puertas adentro","Coquimbo",4,2011,144369.488886737
-"843","Mujer","Personal de servicio doméstico puertas adentro","Los Lagos",10,2010,177232.723839241
-"844","Mujer","Personal de servicio doméstico puertas adentro","Los Lagos",10,2011,163672.523053524
-"845","Mujer","Personal de servicio doméstico puertas adentro","Los Ríos",14,2010,101665.567531192
-"846","Mujer","Personal de servicio doméstico puertas adentro","Los Ríos",14,2011,158367.331474235
-"847","Mujer","Personal de servicio doméstico puertas adentro","Magallanes",12,2010,204900.187573313
-"848","Mujer","Personal de servicio doméstico puertas adentro","Magallanes",12,2011,226433.970875281
-"849","Mujer","Personal de servicio doméstico puertas adentro","Maule",7,2010,111777.490864199
-"850","Mujer","Personal de servicio doméstico puertas adentro","Maule",7,2011,150094.542014752
-"851","Mujer","Personal de servicio doméstico puertas adentro","Metropolitana",13,2010,236136.749676181
-"852","Mujer","Personal de servicio doméstico puertas adentro","Metropolitana",13,2011,276064.758850236
-"853","Mujer","Personal de servicio doméstico puertas adentro","O'Higgins",6,2010,165835.054284458
-"854","Mujer","Personal de servicio doméstico puertas adentro","O'Higgins",6,2011,162133.301309633
-"855","Mujer","Personal de servicio doméstico puertas adentro","Tarapacá",1,2010,228803.597453316
-"856","Mujer","Personal de servicio doméstico puertas adentro","Tarapacá",1,2011,227059.214466435
-"857","Mujer","Personal de servicio doméstico puertas adentro","Valparaíso",5,2010,139702.460651353
-"858","Mujer","Personal de servicio doméstico puertas adentro","Valparaíso",5,2011,227385.285488258
-"859","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta",2,2012,180811.855670103
-"860","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta",2,2013,334141.379679718
-"861","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta",2,2014,232216.76631928
-"862","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta",2,2015,333017.399067393
-"863","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía",9,2012,142946.681449041
-"864","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía",9,2013,256713.028638944
-"865","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía",9,2014,188556.460319757
-"866","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía",9,2015,269155.716379621
-"867","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota",15,2012,157035.096649484
-"868","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota",15,2013,60081.3375508362
-"869","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota",15,2014,49990.6244140259
-"870","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota",15,2015,214776.27463577
-"871","Mujer","Personal de Servicio Doméstico Puertas Adentro","Atacama",3,2012,292000
-"872","Mujer","Personal de Servicio Doméstico Puertas Adentro","Aysén",11,2012,108607.077036491
-"873","Mujer","Personal de Servicio Doméstico Puertas Adentro","Aysén",11,2013,348678.295270635
-"874","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío",8,2012,201660.478117069
-"875","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío",8,2013,199880.904332517
-"876","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío",8,2014,238274.329768419
-"877","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío",8,2015,293691.124282974
-"878","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo",4,2012,183947.64442296
-"879","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo",4,2013,255926.258353519
-"880","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo",4,2014,315895.724134183
-"881","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo",4,2015,309207.164958816
-"882","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos",10,2012,145996.444604807
-"883","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos",10,2013,236528.412026602
-"884","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos",10,2014,249933.705000983
-"885","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos",10,2015,250970.399578031
-"886","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos",14,2012,211697.4267095
-"887","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos",14,2013,176730.053302042
-"888","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos",14,2014,96208.4566108141
-"889","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos",14,2015,700189.428107526
-"890","Mujer","Personal de Servicio Doméstico Puertas Adentro","Magallanes",12,2012,215383.558240068
-"891","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule",7,2012,218367.926290733
-"892","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule",7,2013,201786.808019275
-"893","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule",7,2014,201529.970588396
-"894","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule",7,2015,354595.738871587
-"895","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana",13,2012,259891.237142116
-"896","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana",13,2013,331935.424814403
-"897","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana",13,2014,345435.251952772
-"898","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana",13,2015,346909.311317914
-"899","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins",6,2012,210840.506786916
-"900","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins",6,2013,303576.665662696
-"901","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins",6,2014,245131.895798281
-"902","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins",6,2015,249123.961381728
-"903","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá",1,2012,245163.488954612
-"904","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá",1,2013,223400.260791057
-"905","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá",1,2014,279243.599437197
-"906","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá",1,2015,221676.783182804
-"907","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso",5,2012,238907.660377439
-"908","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso",5,2013,239152.696021948
-"909","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso",5,2014,228558.371693309
-"910","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso",5,2015,256275.654826729
-"911","Mujer","Personal de servicio doméstico puertas afuera","Antofagasta",2,2010,133013.174680979
-"912","Mujer","Personal de servicio doméstico puertas afuera","Antofagasta",2,2011,188952.770318748
-"913","Mujer","Personal de servicio doméstico puertas afuera","Araucanía",9,2010,81242.5501918944
-"914","Mujer","Personal de servicio doméstico puertas afuera","Araucanía",9,2011,80822.6575885232
-"915","Mujer","Personal de servicio doméstico puertas afuera","Arica y Parinacota",15,2010,101530.090264187
-"916","Mujer","Personal de servicio doméstico puertas afuera","Arica y Parinacota",15,2011,162703.957190727
-"917","Mujer","Personal de servicio doméstico puertas afuera","Atacama",3,2010,105454.72664131
-"918","Mujer","Personal de servicio doméstico puertas afuera","Atacama",3,2011,127843.711284012
-"919","Mujer","Personal de servicio doméstico puertas afuera","Aysén",11,2010,130750.538650174
-"920","Mujer","Personal de servicio doméstico puertas afuera","Aysén",11,2011,122112.095433132
-"921","Mujer","Personal de servicio doméstico puertas afuera","Bíobío",8,2010,98296.3840124967
-"922","Mujer","Personal de servicio doméstico puertas afuera","Bíobío",8,2011,98465.7704413499
-"923","Mujer","Personal de servicio doméstico puertas afuera","Coquimbo",4,2010,106838.91436114
-"924","Mujer","Personal de servicio doméstico puertas afuera","Coquimbo",4,2011,127557.885319542
-"925","Mujer","Personal de servicio doméstico puertas afuera","Los Lagos",10,2010,130822.453086853
-"926","Mujer","Personal de servicio doméstico puertas afuera","Los Lagos",10,2011,109656.838013767
-"927","Mujer","Personal de servicio doméstico puertas afuera","Los Ríos",14,2010,84559.0396516505
-"928","Mujer","Personal de servicio doméstico puertas afuera","Los Ríos",14,2011,92209.823933602
-"929","Mujer","Personal de servicio doméstico puertas afuera","Magallanes",12,2010,134296.066564427
-"930","Mujer","Personal de servicio doméstico puertas afuera","Magallanes",12,2011,110854.83335224
-"931","Mujer","Personal de servicio doméstico puertas afuera","Maule",7,2010,98200.3585435199
-"932","Mujer","Personal de servicio doméstico puertas afuera","Maule",7,2011,98595.5765342405
-"933","Mujer","Personal de servicio doméstico puertas afuera","Metropolitana",13,2010,147160.463641264
-"934","Mujer","Personal de servicio doméstico puertas afuera","Metropolitana",13,2011,159129.704464503
-"935","Mujer","Personal de servicio doméstico puertas afuera","O'Higgins",6,2010,119784.607763088
-"936","Mujer","Personal de servicio doméstico puertas afuera","O'Higgins",6,2011,112281.547842486
-"937","Mujer","Personal de servicio doméstico puertas afuera","Tarapacá",1,2010,112080.872995827
-"938","Mujer","Personal de servicio doméstico puertas afuera","Tarapacá",1,2011,155333.025262204
-"939","Mujer","Personal de servicio doméstico puertas afuera","Valparaíso",5,2010,107050.289336819
-"940","Mujer","Personal de servicio doméstico puertas afuera","Valparaíso",5,2011,123678.434879781
-"941","Mujer","Personal de servicio doméstico puertas afuera",NA,NA,2010,81295.5436274197
-"942","Mujer","Personal de servicio doméstico puertas afuera",NA,NA,2011,79672.7263261619
-"943","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",2,2012,174037.935812628
-"944","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",2,2013,176665.583283971
-"945","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",2,2014,198581.249740911
-"946","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta",2,2015,279398.29760768
-"947","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía",9,2012,115196.390623663
-"948","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía",9,2013,116548.193270671
-"949","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía",9,2014,142354.499283946
-"950","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía",9,2015,154654.5444976
-"951","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota",15,2012,110716.129912021
-"952","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota",15,2013,134569.644253812
-"953","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota",15,2014,141037.089917466
-"954","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota",15,2015,154502.364888287
-"955","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama",3,2012,134788.551058576
-"956","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama",3,2013,111740.858832174
-"957","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama",3,2014,166425.033326149
-"958","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama",3,2015,275952.021171395
-"959","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén",11,2012,153574.740268244
-"960","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén",11,2013,153834.152087251
-"961","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén",11,2014,150124.345958059
-"962","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén",11,2015,146994.780566912
-"963","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío",8,2012,118123.911120913
-"964","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío",8,2013,131573.929693672
-"965","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío",8,2014,127252.636689107
-"966","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío",8,2015,136914.417433509
-"967","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo",4,2012,136530.04274531
-"968","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo",4,2013,141639.977874299
-"969","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo",4,2014,160388.415458529
-"970","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo",4,2015,153832.398504148
-"971","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos",10,2012,124763.581653019
-"972","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos",10,2013,128560.741158255
-"973","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos",10,2014,142731.52385309
-"974","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos",10,2015,168258.399138476
-"975","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos",14,2012,117700.032962792
-"976","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos",14,2013,118026.507233994
-"977","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos",14,2014,124382.478177402
-"978","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos",14,2015,162985.498365757
-"979","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes",12,2012,155805.473828624
-"980","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes",12,2013,173553.038256315
-"981","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes",12,2014,159305.773765496
-"982","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes",12,2015,191458.63714261
-"983","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule",7,2012,112793.09170482
-"984","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule",7,2013,124799.798559162
-"985","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule",7,2014,128313.501247517
-"986","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule",7,2015,171902.857755601
-"987","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana",13,2012,184276.845552515
-"988","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana",13,2013,195892.9833725
-"989","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana",13,2014,208510.323981669
-"990","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana",13,2015,250993.847035265
-"991","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins",6,2012,134593.187834305
-"992","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins",6,2013,151361.157382634
-"993","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins",6,2014,149650.310993864
-"994","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins",6,2015,168946.484115592
-"995","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá",1,2012,185165.669540308
-"996","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá",1,2013,170557.545120616
-"997","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá",1,2014,190183.265183272
-"998","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá",1,2015,199598.022699043
-"999","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso",5,2012,137978.405418434
-"1000","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso",5,2013,141177.842997902
-"1001","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso",5,2014,147741.635149745
-"1002","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso",5,2015,178320.413263701
+"829","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta","2",2010,167189.153996195
+"830","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta","2",2011,100148.082392893
+"831","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta","2",2012,180811.855670103
+"832","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta","2",2013,334141.379679718
+"833","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta","2",2014,232216.76631928
+"834","Mujer","Personal de Servicio Doméstico Puertas Adentro","Antofagasta","2",2015,333017.399067393
+"835","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía","9",2010,142414.721605065
+"836","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía","9",2011,157837.943548843
+"837","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía","9",2012,142946.681449041
+"838","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía","9",2013,256713.028638944
+"839","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía","9",2014,188556.460319757
+"840","Mujer","Personal de Servicio Doméstico Puertas Adentro","Araucanía","9",2015,269155.716379621
+"841","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota","15",2010,117395.396364591
+"842","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota","15",2011,60289.9924184988
+"843","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota","15",2012,157035.096649484
+"844","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota","15",2013,60081.3375508362
+"845","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota","15",2014,49990.6244140259
+"846","Mujer","Personal de Servicio Doméstico Puertas Adentro","Arica y Parinacota","15",2015,214776.27463577
+"847","Mujer","Personal de Servicio Doméstico Puertas Adentro","Atacama","3",2010,175327.186110997
+"848","Mujer","Personal de Servicio Doméstico Puertas Adentro","Atacama","3",2011,190775.915516904
+"849","Mujer","Personal de Servicio Doméstico Puertas Adentro","Atacama","3",2012,292000
+"850","Mujer","Personal de Servicio Doméstico Puertas Adentro","Aysén","11",2010,72206.8917060505
+"851","Mujer","Personal de Servicio Doméstico Puertas Adentro","Aysén","11",2011,221063.305534496
+"852","Mujer","Personal de Servicio Doméstico Puertas Adentro","Aysén","11",2012,108607.077036491
+"853","Mujer","Personal de Servicio Doméstico Puertas Adentro","Aysén","11",2013,348678.295270635
+"854","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío","8",2010,155927.648916084
+"855","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío","8",2011,175156.073238127
+"856","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío","8",2012,201660.478117069
+"857","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío","8",2013,199880.904332517
+"858","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío","8",2014,238274.329768419
+"859","Mujer","Personal de Servicio Doméstico Puertas Adentro","Bíobío","8",2015,293691.124282974
+"860","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo","4",2010,170509.345453692
+"861","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo","4",2011,144369.488886737
+"862","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo","4",2012,183947.64442296
+"863","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo","4",2013,255926.258353519
+"864","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo","4",2014,315895.724134183
+"865","Mujer","Personal de Servicio Doméstico Puertas Adentro","Coquimbo","4",2015,309207.164958816
+"866","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos","10",2010,177232.723839241
+"867","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos","10",2011,163672.523053524
+"868","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos","10",2012,145996.444604807
+"869","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos","10",2013,236528.412026602
+"870","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos","10",2014,249933.705000983
+"871","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Lagos","10",2015,250970.399578031
+"872","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos","14",2010,101665.567531192
+"873","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos","14",2011,158367.331474235
+"874","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos","14",2012,211697.4267095
+"875","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos","14",2013,176730.053302042
+"876","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos","14",2014,96208.4566108141
+"877","Mujer","Personal de Servicio Doméstico Puertas Adentro","Los Ríos","14",2015,700189.428107526
+"878","Mujer","Personal de Servicio Doméstico Puertas Adentro","Magallanes","12",2010,204900.187573313
+"879","Mujer","Personal de Servicio Doméstico Puertas Adentro","Magallanes","12",2011,226433.970875281
+"880","Mujer","Personal de Servicio Doméstico Puertas Adentro","Magallanes","12",2012,215383.558240068
+"881","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule","7",2010,111777.490864199
+"882","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule","7",2011,150094.542014752
+"883","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule","7",2012,218367.926290733
+"884","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule","7",2013,201786.808019275
+"885","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule","7",2014,201529.970588396
+"886","Mujer","Personal de Servicio Doméstico Puertas Adentro","Maule","7",2015,354595.738871587
+"887","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2010,236136.749676181
+"888","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2011,276064.758850236
+"889","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2012,259891.237142116
+"890","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2013,331935.424814403
+"891","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2014,345435.251952772
+"892","Mujer","Personal de Servicio Doméstico Puertas Adentro","Metropolitana","13",2015,346909.311317914
+"893","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins","6",2010,165835.054284458
+"894","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins","6",2011,162133.301309633
+"895","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins","6",2012,210840.506786916
+"896","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins","6",2013,303576.665662696
+"897","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins","6",2014,245131.895798281
+"898","Mujer","Personal de Servicio Doméstico Puertas Adentro","O'Higgins","6",2015,249123.961381728
+"899","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá","1",2010,228803.597453316
+"900","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá","1",2011,227059.214466435
+"901","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá","1",2012,245163.488954612
+"902","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá","1",2013,223400.260791057
+"903","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá","1",2014,279243.599437197
+"904","Mujer","Personal de Servicio Doméstico Puertas Adentro","Tarapacá","1",2015,221676.783182804
+"905","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2010,139702.460651353
+"906","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2011,227385.285488258
+"907","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2012,238907.660377439
+"908","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2013,239152.696021948
+"909","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2014,228558.371693309
+"910","Mujer","Personal de Servicio Doméstico Puertas Adentro","Valparaíso","5",2015,256275.654826729
+"911","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta","2",2010,133013.174680979
+"912","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta","2",2011,188952.770318748
+"913","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta","2",2012,174037.935812628
+"914","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta","2",2013,176665.583283971
+"915","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta","2",2014,198581.249740911
+"916","Mujer","Personal de Servicio Doméstico Puertas Afuera","Antofagasta","2",2015,279398.29760768
+"917","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2010,81242.5501918944
+"918","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2011,80822.6575885232
+"919","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2012,115196.390623663
+"920","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2013,116548.193270671
+"921","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2014,142354.499283946
+"922","Mujer","Personal de Servicio Doméstico Puertas Afuera","Araucanía","9",2015,154654.5444976
+"923","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2010,101530.090264187
+"924","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2011,162703.957190727
+"925","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2012,110716.129912021
+"926","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2013,134569.644253812
+"927","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2014,141037.089917466
+"928","Mujer","Personal de Servicio Doméstico Puertas Afuera","Arica y Parinacota","15",2015,154502.364888287
+"929","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2010,105454.72664131
+"930","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2011,127843.711284012
+"931","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2012,134788.551058576
+"932","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2013,111740.858832174
+"933","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2014,166425.033326149
+"934","Mujer","Personal de Servicio Doméstico Puertas Afuera","Atacama","3",2015,275952.021171395
+"935","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2010,130750.538650174
+"936","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2011,122112.095433132
+"937","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2012,153574.740268244
+"938","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2013,153834.152087251
+"939","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2014,150124.345958059
+"940","Mujer","Personal de Servicio Doméstico Puertas Afuera","Aysén","11",2015,146994.780566912
+"941","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2010,98296.3840124967
+"942","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2011,98465.7704413499
+"943","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2012,118123.911120913
+"944","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2013,131573.929693672
+"945","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2014,127252.636689107
+"946","Mujer","Personal de Servicio Doméstico Puertas Afuera","Bíobío","8",2015,136914.417433509
+"947","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2010,106838.91436114
+"948","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2011,127557.885319542
+"949","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2012,136530.04274531
+"950","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2013,141639.977874299
+"951","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2014,160388.415458529
+"952","Mujer","Personal de Servicio Doméstico Puertas Afuera","Coquimbo","4",2015,153832.398504148
+"953","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2010,130822.453086853
+"954","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2011,109656.838013767
+"955","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2012,124763.581653019
+"956","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2013,128560.741158255
+"957","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2014,142731.52385309
+"958","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Lagos","10",2015,168258.399138476
+"959","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2010,84559.0396516505
+"960","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2011,92209.823933602
+"961","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2012,117700.032962792
+"962","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2013,118026.507233994
+"963","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2014,124382.478177402
+"964","Mujer","Personal de Servicio Doméstico Puertas Afuera","Los Ríos","14",2015,162985.498365757
+"965","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes","12",2010,134296.066564427
+"966","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes","12",2011,110854.83335224
+"967","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes","12",2012,155805.473828624
+"968","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes","12",2013,173553.038256315
+"969","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes","12",2014,159305.773765496
+"970","Mujer","Personal de Servicio Doméstico Puertas Afuera","Magallanes","12",2015,191458.63714261
+"971","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2010,98200.3585435199
+"972","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2011,98595.5765342405
+"973","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2012,112793.09170482
+"974","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2013,124799.798559162
+"975","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2014,128313.501247517
+"976","Mujer","Personal de Servicio Doméstico Puertas Afuera","Maule","7",2015,171902.857755601
+"977","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2010,147160.463641264
+"978","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2011,159129.704464503
+"979","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2012,184276.845552515
+"980","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2013,195892.9833725
+"981","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2014,208510.323981669
+"982","Mujer","Personal de Servicio Doméstico Puertas Afuera","Metropolitana","13",2015,250993.847035265
+"983","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2010,119784.607763088
+"984","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2011,112281.547842486
+"985","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2012,134593.187834305
+"986","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2013,151361.157382634
+"987","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2014,149650.310993864
+"988","Mujer","Personal de Servicio Doméstico Puertas Afuera","O'Higgins","6",2015,168946.484115592
+"989","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá","1",2010,112080.872995827
+"990","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá","1",2011,155333.025262204
+"991","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá","1",2012,185165.669540308
+"992","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá","1",2013,170557.545120616
+"993","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá","1",2014,190183.265183272
+"994","Mujer","Personal de Servicio Doméstico Puertas Afuera","Tarapacá","1",2015,199598.022699043
+"995","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2010,107050.289336819
+"996","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2011,123678.434879781
+"997","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2012,137978.405418434
+"998","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2013,141177.842997902
+"999","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2014,147741.635149745
+"1000","Mujer","Personal de Servicio Doméstico Puertas Afuera","Valparaíso","5",2015,178320.413263701
+"1001","Mujer","Personal de Servicio Doméstico Puertas Afuera",NA,NA,2010,81295.5436274197
+"1002","Mujer","Personal de Servicio Doméstico Puertas Afuera",NA,NA,2011,79672.7263261619
 "1003","Mujer","Personal de Servicio Doméstico Puertas Afuera",NA,NA,2012,51141.5978697217

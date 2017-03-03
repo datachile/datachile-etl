@@ -169,36 +169,42 @@ sex_region <- move_col(sex_region, c("geography_id"=3))
 
 sex_icse_region$ci_weighted_mean <- paste0("[",sex_icse_region$lb_weighted_mean,", ",sex_icse_region$ub_weighted_mean,"]")
 sex_icse_region$ci_weighted_median <- paste0("[",sex_icse_region$lb_weighted_median,", ",sex_icse_region$ub_weighted_median,"]")
+sex_icse_region$geography_level <- "region"
 sex_icse_region <- move_col(sex_icse_region, c("geography_level"=1))
 sex_icse_region <- move_col(sex_icse_region, c("geography_name"=2))
 sex_icse_region <- move_col(sex_icse_region, c("geography_id"=3))
 
 sex_isced_region$ci_weighted_mean <- paste0("[",sex_isced_region$lb_weighted_mean,", ",sex_isced_region$ub_weighted_mean,"]")
 sex_isced_region$ci_weighted_median <- paste0("[",sex_isced_region$lb_weighted_median,", ",sex_isced_region$ub_weighted_median,"]")
+sex_isced_region$geography_level <- "region"
 sex_isced_region <- move_col(sex_isced_region, c("geography_level"=1))
 sex_isced_region <- move_col(sex_isced_region, c("geography_name"=2))
 sex_isced_region <- move_col(sex_isced_region, c("geography_id"=3))
 
 sex_isco_region$ci_weighted_mean <- paste0("[",sex_isco_region$lb_weighted_mean,", ",sex_isco_region$ub_weighted_mean,"]")
 sex_isco_region$ci_weighted_median <- paste0("[",sex_isco_region$lb_weighted_median,", ",sex_isco_region$ub_weighted_median,"]")
+sex_isco_region$geography_level <- "region"
 sex_isco_region <- move_col(sex_isco_region, c("geography_level"=1))
 sex_isco_region <- move_col(sex_isco_region, c("geography_name"=2))
 sex_isco_region <- move_col(sex_isco_region, c("geography_id"=3))
 
 sex_isic_region$ci_weighted_mean <- paste0("[",sex_isic_region$lb_weighted_mean,", ",sex_isic_region$ub_weighted_mean,"]")
 sex_isic_region$ci_weighted_median <- paste0("[",sex_isic_region$lb_weighted_median,", ",sex_isic_region$ub_weighted_median,"]")
+sex_isic_region$geography_level <- "region"
 sex_isic_region <- move_col(sex_isic_region, c("geography_level"=1))
 sex_isic_region <- move_col(sex_isic_region, c("geography_name"=2))
 sex_isic_region <- move_col(sex_isic_region, c("geography_id"=3))
 
 sex_work_day_region$ci_weighted_mean <- paste0("[",sex_work_day_region$lb_weighted_mean,", ",sex_work_day_region$ub_weighted_mean,"]")
 sex_work_day_region$ci_weighted_median <- paste0("[",sex_work_day_region$lb_weighted_median,", ",sex_work_day_region$ub_weighted_median,"]")
+sex_work_day_region$geography_level <- "region"
 sex_work_day_region <- move_col(sex_work_day_region, c("geography_level"=1))
 sex_work_day_region <- move_col(sex_work_day_region, c("geography_name"=2))
 sex_work_day_region <- move_col(sex_work_day_region, c("geography_id"=3))
 
 sex_company_size_region$ci_weighted_mean <- paste0("[",sex_company_size_region$lb_weighted_mean,", ",sex_company_size_region$ub_weighted_mean,"]")
 sex_company_size_region$ci_weighted_median <- paste0("[",sex_company_size_region$lb_weighted_median,", ",sex_company_size_region$ub_weighted_median,"]")
+sex_company_size_region$geography_level <- "region"
 sex_company_size_region <- move_col(sex_company_size_region, c("geography_level"=1))
 sex_company_size_region <- move_col(sex_company_size_region, c("geography_name"=2))
 sex_company_size_region <- move_col(sex_company_size_region, c("geography_id"=3))

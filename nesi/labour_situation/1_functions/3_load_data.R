@@ -5,7 +5,7 @@
 ## Households with grants
 
 households_with_grants_load_dataset <- function(year){
-  url <- paste0("https://users.dcc.uchile.cl/~mvargas/nesi/nesi_", year, "/households/nesi_households_with_grants_", year, "_R.zip")
+  url <- paste0("http://pacha.datawheel.us/nesi/nesi_", year, "/households/nesi_households_with_grants_", year, "_R.zip")
   folder <- paste0("nesi_", year)
   subfolder <- paste0("nesi_", year,"/households")
   zip <- paste0("nesi_", year, "/households/nesi_households_with_grants_", year, "_R.zip")
