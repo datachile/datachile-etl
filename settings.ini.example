@@ -1,2 +1,2 @@
 [DATABASE]
-engine_path=postgresql://localhost:5432/datachile
+engine_path=postgresql://username:password@server:port/database
