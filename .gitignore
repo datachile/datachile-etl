@@ -32,3 +32,5 @@ nesi/nesi_*
 nesi/.Rhistory
 
 *.sav
+
+settings.ini
