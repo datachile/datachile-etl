@@ -1,2 +1,5 @@
 [DATABASE]
 engine_path=postgresql://username:password@server:port/database
+
+[PATHS]
+libs_path=/Users/user/datachile-etl/libs
