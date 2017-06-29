@@ -20,17 +20,44 @@ def inline_table_xml(df, alias, id_column_name, desc_column_name):
     
     return xml % { 'alias': alias, 'rows': "\n".join(rows)}
 
-import os.path
+import os
 from urllib import request
 import shutil
 import pandas as pd
+import zipfile
+import chardet
 
 def download_file(remote_path,local_path,file_name):
     remote_file = remote_path + file_name
     local_file = local_path + file_name
 
     if not os.path.isfile(local_file):
+        print ("Downloading... "+remote_file)
         with request.urlopen(remote_file) as remote_csv,open(local_file, 'wb') as local_csv:
+            
             shutil.copyfileobj(remote_csv, local_csv)
     
-    return pd.read_csv(local_file,delimiter=",")
+    with open(local_file, 'rb') as local_csv:
+        result = chardet.detect(local_csv.read())
+    return pd.read_csv(local_file,delimiter=",",encoding = result['encoding'])
+
+def extract_zip_file(local_path,file_name):
+    local_file = local_path + file_name
+    print ("Unzipping... "+local_file)
+    zip_ref = zipfile.ZipFile(local_file, 'r')
+    zip_ref.extractall(local_path)
+    zip_ref.close()
+    return True;
+
+def download_zip_file(remote_path,local_path,file_name):
+    remote_file = remote_path + file_name
+    local_file = local_path + "temp.zip"
+
+    if not os.path.isfile(local_file):
+        print ("Downloading... "+remote_file)
+        with request.urlopen(remote_file) as remote_zip,open(local_file, 'wb') as local_zip:
+            shutil.copyfileobj(remote_zip, local_zip)
+    
+    return True
+
+
