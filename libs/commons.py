@@ -33,9 +33,10 @@ def download_file(remote_path,local_path,file_name):
 
     if not os.path.isfile(local_file):
         print ("Downloading... "+remote_file)
-        with request.urlopen(remote_file) as remote_csv,open(local_file, 'wb') as local_csv:
-            
+        with request.urlopen(remote_file) as remote_csv,open(local_file, 'wb') as local_csv:    
             shutil.copyfileobj(remote_csv, local_csv)
+    else:
+        print ("Already downloaded. Using: "+local_file)
     
     with open(local_file, 'rb') as local_csv:
         result = chardet.detect(local_csv.read())
