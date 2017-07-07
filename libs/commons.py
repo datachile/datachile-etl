@@ -40,6 +40,7 @@ def download_file(remote_path,local_path,file_name):
     
     with open(local_file, 'rb') as local_csv:
         result = chardet.detect(local_csv.read())
+
     return pd.read_csv(local_file,delimiter=",",encoding = result['encoding'])
 
 def extract_zip_file(local_path,file_name):
