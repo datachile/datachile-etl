@@ -20,6 +20,28 @@ def inline_table_xml(df, alias, id_column_name, desc_column_name):
     
     return xml % { 'alias': alias, 'rows': "\n".join(rows)}
 
+def inline_dimension_xml(df, alias, id_column_name, desc_column_name, fk_field):
+
+    inline_table = inline_table_xml(df, alias, id_column_name, desc_column_name)
+
+    xml = """
+<Dimension name="%(alias)s" foreignKey="%(fk_field)s">
+  <Hierarchy hasAll="true">
+            %(inline_table)s
+    <Level name="%(alias)s" column="id" nameColumn="description" uniqueMembers="true">
+      <Annotations>
+        <Annotation name="es_caption">Description ES</Annotation>
+      </Annotations>
+      <Property name="Description ES" column="es_description" />
+    </Level>
+  </Hierarchy>
+</Dimension>
+    """
+
+    return xml % { 'alias': alias.replace("_", " ").title(), 'id_column_name':id_column_name, 'inline_table': inline_table, 'fk_field':fk_field}
+
+
+
 import os
 from urllib import request
 import shutil
