@@ -60,11 +60,11 @@ def download_file(remote_path,local_path,file_name):
     else:
         print ("Already downloaded. Using: "+local_file)
     
-    with open(local_file, 'rb') as local_csv:
-        result = chardet.detect(local_csv.read())
-        print ("Encoding: "+result['encoding'])
+    #with open(local_file, 'rb') as local_csv:
+    #    result = chardet.detect(local_csv.read())
+    #    print ("Encoding: "+result['encoding'])
 
-    return pd.read_csv(local_file,delimiter=",",encoding = result['encoding'])
+    return pd.read_csv(local_file,delimiter=",")
 
 def extract_zip_file(local_path,file_name):
     local_file = local_path + file_name
