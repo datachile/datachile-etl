@@ -7,6 +7,10 @@ jupyter
 
 # for import scripts
 sqlalchemy
+chardet
 
 # general
 psycopg2
+altair
+vega
+

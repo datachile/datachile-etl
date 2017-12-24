@@ -20,6 +20,7 @@ pip-delete-this-directory.txt
 
 # Ignore all raw data files
 */raw/*.csv
+*/*/data
 
 .Rproj.user
 
@@ -34,3 +35,5 @@ nesi/.Rhistory
 *.sav
 
 settings.ini
+
+*-checkpoint.ipynb
