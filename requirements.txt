@@ -14,3 +14,7 @@ psycopg2
 altair
 vega
 
+xlrd
+requests
+roman
+
