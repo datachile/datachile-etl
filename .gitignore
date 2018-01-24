@@ -10,6 +10,7 @@ __pycache__/
 *.egg-info/
 .installed.cfg
 *.egg
+venv
 
 # Installer logs
 pip-log.txt
@@ -35,5 +36,6 @@ nesi/.Rhistory
 *.sav
 
 settings.ini
+settings.ini~
 
 *-checkpoint.ipynb
