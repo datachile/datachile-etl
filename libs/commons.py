@@ -49,7 +49,7 @@ import pandas as pd
 import zipfile
 import chardet
 
-def download_file(remote_path,local_path,file_name, delimiter=','):
+def download_file(remote_path,local_path,file_name, delimiter=',', encoding='utf-8'):
     remote_file = remote_path + file_name
     local_file = local_path + file_name
 
@@ -64,7 +64,7 @@ def download_file(remote_path,local_path,file_name, delimiter=','):
     #    result = chardet.detect(local_csv.read())
     #    print ("Encoding: "+result['encoding'])
 
-    return pd.read_csv(local_file,delimiter)
+    return pd.read_csv(local_file,sep=delimiter,encoding=encoding)
 
 def extract_zip_file(local_path,file_name):
     local_file = local_path + file_name
