@@ -1,0 +1,6 @@
+book_filename: "datachile-documentation"
+chapter_name: "Section "
+repo: https://github.com/datachile/datachile-etl
+output_dir: docs
+rmd_files: ["index.Rmd", "datasets.md", "db.md", "general.md", "python.md", "r.md", "tidy.md"]
+new_session: yes

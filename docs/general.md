@@ -2,6 +2,10 @@
 
 ## El proceso
 
+1. Conseguimos información pública la cual cumple con todos los criterios de secreto estadístico.
+2. Ordenamos la información disponible de general a particular para ir completando los perfiles de comuna, región u país.
+3. Para procesar los datos usamos R y para subir los dato usamos Python.
+
 1.	Se consigue la información que se espera integrar en el sitio y se los considera dataset candidato. Es importante que sea considerada data pública y anónimizada.
 2.	Se utiliza [R](r.md) y los conceptos de [Tidy Data](tidy.md) para ordenar, validar e integrar la información. El resultado de este proceso son archivos CSV. Uno para los hechos (facts) y uno para cada dimensión relacionada (dims).
 3. 	Se debe considerar que existen dimensiones comunes como: geográficas (comunas, regiones), sexo, ISIC, etc.
@@ -15,5 +19,3 @@
 *   [iPython Notebook scripts](python.md)
 *   [Esquemas + DB](db.md)
 *   [Datasets](datasets.md)
-
-
