@@ -21,6 +21,7 @@ El mismo proceso que realizamos para los candidatos se realizó de manera más s
 Adicionalmente, los archivos no siguen un formato estándar a lo largo del tiempo y en muchos de ellos se indican los ganadores según número de votos, lo cual no es correcto. Ya que el periodo analizado tiene elecciones que se rigen por sistema directo, sistema binominal y sistema D'Hont, escribimos funciones que nos permiten obtener los ganadores y perdedores de acuerdo a las listas y reglas particulares de cada elección (e.g. las reglas de elección de alcalde no son las mismas que las de elección de senadores)
 
 Una consideración especial son los candidatos que ganan por sorteo y las personas en ejercicio debido a la renuncia/destitución del candidato ganador. Tales excepciones también se revisaron manualmente (e.g. alcalde de Huara)
+
 ## Dimesiones relacionadas
 ...
 
