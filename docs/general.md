@@ -15,16 +15,8 @@ En los datos tenemos dimensiones comunes como: geográficas (comunas, regiones),
 
 Todo el proceso de datos recae en tres tecnologías:
 
-* R: Descarga, limpieza, trasformación y almacenamiento
-* Python: Carga de datos generados por R a la base de datos
+* R: Descarga, limpieza, trasformación y almacenamiento de datos en formato plano
+* Python: Carga de datos generados por R a la [base de datos](db.md)
 * PostgreSQL: Almacenamiento y organización de los datos en un esquema de cubos organizados separadamente entre hechos (e.g. cantidad de población) y dimensiones (e.g. grupos etáreos)
 
 DataChile cuenta con una API que permite interactuar con la base de datos y esquema de cubos ver [API Mondrian para DataChile](https://github.com/Datawheel/datachile-mondrian).
-
-## Documentación relacionada sobre ETL
-
-*   [Tidy Data](tidy.md)
-*   [R scripts](r.md)
-*   [iPython Notebook scripts](python.md)
-*   [Esquemas + DB](db.md)
-*   [Datasets](datasets.md)
