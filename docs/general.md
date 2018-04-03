@@ -2,11 +2,24 @@
 
 ## El proceso
 
-1.	Se consigue la información que se espera integrar en el sitio y se los considera dataset candidato. Es importante que sea considerada data pública y anónimizada.
-2.	Se utiliza [R](r.md) y los conceptos de [Tidy Data](tidy.md) para ordenar, validar e integrar la información. El resultado de este proceso son archivos CSV. Uno para los hechos (facts) y uno para cada dimensión relacionada (dims).
-3. 	Se debe considerar que existen dimensiones comunes como: geográficas (comunas, regiones), sexo, ISIC, etc.
-4.	Se utilizaron scripts de [iPython Notebook](python.md) para validar e ingestar los archivos CSV. Importante mencionar que los scripts realizan la carga inicial, es decir que pisan la tabla con la nueva data, no la actualizan, por lo que es importante contar con los archivos históricos para poder actualizar o bien modificar los scripts.
-5.	Si se trata de un dataset nuevo, una vez que existe la tabla en la base de datos se debe mapear al esquema como un cubo nuevo. Para más información sobre la configuración de API y esquema de cubos ver [API Mondrian para DataChile](https://github.com/Datawheel/datachile-mondrian).
+A grandes razgos el proceso es el siguiente:
+
+1. Conseguimos información de distintas fuentes públicas.
+2. De acuerdo a la disponibilidad de los datos definimos que datos utilizar en primera instancia en los perfiles de región y comuna yendo de general a particular.
+3. Una vez que tenemos los datos más generales, para describir las comunas y regiones de muy grueso modo, pasamos a datos particulares que nos permiten comprender de mejor manera la realidad de las distintas divisiones geográficas del país.
+4. Toda la información disponible está organizada en secciones: economía, educación, vivienda, demografía, salud y cívica
+
+Para organizar esto nos guiamos por los principios de [Tidy Data](tidy.md) para ordenar, validar e integrar la información.
+
+En los datos tenemos dimensiones comunes como: geográficas (comunas, regiones), sexo, códigos de clasificación industrial, etc.
+
+Todo el proceso de datos recae en tres tecnologías:
+
+* R: Descarga, limpieza, trasformación y almacenamiento
+* Python: Carga de datos generados por R a la base de datos
+* PostgreSQL: Almacenamiento y organización de los datos en un esquema de cubos organizados separadamente entre hechos (e.g. cantidad de población) y dimensiones (e.g. grupos etáreos)
+
+DataChile cuenta con una API que permite interactuar con la base de datos y esquema de cubos ver [API Mondrian para DataChile](https://github.com/Datawheel/datachile-mondrian).
 
 ## Documentación relacionada sobre ETL
 
@@ -15,5 +28,3 @@
 *   [iPython Notebook scripts](python.md)
 *   [Esquemas + DB](db.md)
 *   [Datasets](datasets.md)
-
-
