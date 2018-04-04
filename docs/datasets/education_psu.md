@@ -4,11 +4,7 @@
 
 ## Fuente
 
-SERVEL (API, archivos estáticos y aplicaciones web)
-
 ## Descripción
-
-
 
 ## Dimesiones relacionadas
 ...
