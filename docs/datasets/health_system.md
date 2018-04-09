@@ -16,6 +16,8 @@ En este dataset se obtiene el detalle del porcentaje de personas afiliados a Fon
 
 Importamos los datos en Excel y se llevó a Tidy Data.
 
+En cuanto a los indicadores que presentan no hubo mayor problema.
+
 ## Dimesiones relacionadas
 ...
 

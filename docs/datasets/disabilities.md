@@ -12,7 +12,7 @@ Permite obtener porcentajes representativos de la población con distintos tipos
 
 ## Proceso
 
-Importamos los datos originales en formato SPSS.
+Importamos los datos originales en formato SPSS. El archivo original no presentó dificultades y agregar los datos fue inmediato.
 
 ## Dimesiones relacionadas
 ...

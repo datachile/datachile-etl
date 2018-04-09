@@ -14,6 +14,8 @@ Corresponde a una agregación de los registros del Censo. Provee una cuenta de h
 
 Importamos los datos en Excel y se llevó a Tidy Data.
 
+En cuanto a los indicadores que presentan no hubo mayor problema.
+
 ## Dimesiones relacionadas
 ...
 

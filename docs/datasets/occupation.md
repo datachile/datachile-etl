@@ -14,6 +14,8 @@ Corresponde a una encuesta realizada de forma mensual sobre la base de trimestre
 
 Importamos los datos originales en formato SPSS.
 
+En cuanto a los indicadores que presentan no hubo mayor problema.
+
 ## Dimesiones relacionadas
 ...
 

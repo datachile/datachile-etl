@@ -14,7 +14,7 @@ No se debe tomar como un stock o cuenta de migrantes ya que al ser datos anonimi
 
 ## Proceso
 
-Importamos los datos desde Excel y los llevamos a Tidy Data.
+Importamos los datos desde Excel y los llevamos a Tidy Data. Dado que los archivos originales no presentan mayores dificultades bastó con ejecutar un mínimo de expresiones regulares para normalizar los nombres de comunas.
 
 ## Dimesiones relacionadas
 ...
