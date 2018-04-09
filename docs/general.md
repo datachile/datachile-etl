@@ -2,7 +2,7 @@
 
 ## El proceso
 
-A grandes razgos el proceso es el siguiente:
+El proceso es el siguiente:
 
 1. Conseguimos información de distintas fuentes públicas.
 2. De acuerdo a la disponibilidad de los datos definimos que datos utilizar en primera instancia en los perfiles de región y comuna yendo de general a particular.
@@ -20,3 +20,11 @@ Todo el proceso de datos recae en tres tecnologías:
 * PostgreSQL: Almacenamiento y organización de los datos en un esquema de cubos organizados separadamente entre hechos (e.g. cantidad de población) y dimensiones (e.g. grupos etáreos)
 
 DataChile cuenta con una API que permite interactuar con la base de datos y esquema de cubos ver [API Mondrian para DataChile](https://github.com/Datawheel/datachile-mondrian).
+
+## Documentación relacionada
+
+*   [Tidy Data](tidy.md)
+*   [R scripts](r.md)
+*   [iPython Notebook scripts](python.md)
+*   [Esquemas + DB](db.md)
+*   [Datasets](datasets.md)
