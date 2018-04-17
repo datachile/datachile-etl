@@ -1,18 +1,18 @@
 "","sex","icse","year","lb_weighted_median"
-"1","Hombre","Asalariado sector privado",2010,249829
-"2","Hombre","Asalariado sector privado",2011,271145
+"1","Hombre","Asalariado Sector Privado",2010,249829
+"2","Hombre","Asalariado Sector Privado",2011,271145
 "3","Hombre","Asalariado Sector Privado",2012,301353
 "4","Hombre","Asalariado Sector Privado",2013,340461
 "5","Hombre","Asalariado Sector Privado",2014,351733
 "6","Hombre","Asalariado Sector Privado",2015,381548
-"7","Hombre","Asalariado sector público",2010,427900
-"8","Hombre","Asalariado sector público",2011,481627
+"7","Hombre","Asalariado Sector Público",2010,427900
+"8","Hombre","Asalariado Sector Público",2011,481627
 "9","Hombre","Asalariado Sector Público",2012,502255
 "10","Hombre","Asalariado Sector Público",2013,546776
 "11","Hombre","Asalariado Sector Público",2014,577833
 "12","Hombre","Asalariado Sector Público",2015,636778
-"13","Hombre","Cuenta propia",2010,152141
-"14","Hombre","Cuenta propia",2011,180870
+"13","Hombre","Cuenta Propia",2010,152141
+"14","Hombre","Cuenta Propia",2011,180870
 "15","Hombre","Cuenta Propia",2012,200000
 "16","Hombre","Cuenta Propia",2013,200271
 "17","Hombre","Cuenta Propia",2014,235697
@@ -23,31 +23,31 @@
 "22","Hombre","Empleador",2013,600813
 "23","Hombre","Empleador",2014,599887
 "24","Hombre","Empleador",2015,602099
-"25","Hombre","Personal de servicio doméstico puertas adentro",2010,217411
-"26","Hombre","Personal de servicio doméstico puertas adentro",2011,236117
+"25","Hombre","Personal de Servicio Doméstico Puertas Adentro",2010,217411
+"26","Hombre","Personal de Servicio Doméstico Puertas Adentro",2011,236117
 "27","Hombre","Personal de Servicio Doméstico Puertas Adentro",2012,125564
 "28","Hombre","Personal de Servicio Doméstico Puertas Adentro",2013,74953
 "29","Hombre","Personal de Servicio Doméstico Puertas Adentro",2015,327809
-"30","Hombre","Personal de servicio doméstico puertas afuera",2010,133808
-"31","Hombre","Personal de servicio doméstico puertas afuera",2011,166211
+"30","Hombre","Personal de Servicio Doméstico Puertas Afuera",2010,133808
+"31","Hombre","Personal de Servicio Doméstico Puertas Afuera",2011,166211
 "32","Hombre","Personal de Servicio Doméstico Puertas Afuera",2012,150000
 "33","Hombre","Personal de Servicio Doméstico Puertas Afuera",2013,180000
 "34","Hombre","Personal de Servicio Doméstico Puertas Afuera",2014,220096
 "35","Hombre","Personal de Servicio Doméstico Puertas Afuera",2015,240978
-"36","Mujer","Asalariado sector privado",2010,200196
-"37","Mujer","Asalariado sector privado",2011,231112
+"36","Mujer","Asalariado Sector Privado",2010,200196
+"37","Mujer","Asalariado Sector Privado",2011,231112
 "38","Mujer","Asalariado Sector Privado",2012,251688
 "39","Mujer","Asalariado Sector Privado",2013,275177
 "40","Mujer","Asalariado Sector Privado",2014,300000
 "41","Mujer","Asalariado Sector Privado",2015,305445
-"42","Mujer","Asalariado sector público",2010,300294
-"43","Mujer","Asalariado sector público",2011,348881
+"42","Mujer","Asalariado Sector Público",2010,300294
+"43","Mujer","Asalariado Sector Público",2011,348881
 "44","Mujer","Asalariado Sector Público",2012,367546
 "45","Mujer","Asalariado Sector Público",2013,407948
 "46","Mujer","Asalariado Sector Público",2014,407461
 "47","Mujer","Asalariado Sector Público",2015,478361
-"48","Mujer","Cuenta propia",2010,72000
-"49","Mujer","Cuenta propia",2011,77651
+"48","Mujer","Cuenta Propia",2010,72000
+"49","Mujer","Cuenta Propia",2011,77651
 "50","Mujer","Cuenta Propia",2012,80361
 "51","Mujer","Cuenta Propia",2013,90122
 "52","Mujer","Cuenta Propia",2014,110078
@@ -58,14 +58,14 @@
 "57","Mujer","Empleador",2013,478802
 "58","Mujer","Empleador",2014,499951
 "59","Mujer","Empleador",2015,476417
-"60","Mujer","Personal de servicio doméstico puertas adentro",2010,200196
-"61","Mujer","Personal de servicio doméstico puertas adentro",2011,249201
+"60","Mujer","Personal de Servicio Doméstico Puertas Adentro",2010,200196
+"61","Mujer","Personal de Servicio Doméstico Puertas Adentro",2011,249201
 "62","Mujer","Personal de Servicio Doméstico Puertas Adentro",2012,214982
 "63","Mujer","Personal de Servicio Doméstico Puertas Adentro",2013,300000
 "64","Mujer","Personal de Servicio Doméstico Puertas Adentro",2014,288454
 "65","Mujer","Personal de Servicio Doméstico Puertas Adentro",2015,255822
-"66","Mujer","Personal de servicio doméstico puertas afuera",2010,100098
-"67","Mujer","Personal de servicio doméstico puertas afuera",2011,114847
+"66","Mujer","Personal de Servicio Doméstico Puertas Afuera",2010,100098
+"67","Mujer","Personal de Servicio Doméstico Puertas Afuera",2011,114847
 "68","Mujer","Personal de Servicio Doméstico Puertas Afuera",2012,133044
 "69","Mujer","Personal de Servicio Doméstico Puertas Afuera",2013,149434
 "70","Mujer","Personal de Servicio Doméstico Puertas Afuera",2014,159970

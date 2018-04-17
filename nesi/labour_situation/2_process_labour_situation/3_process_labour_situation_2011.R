@@ -131,3 +131,33 @@ labour_description_2011 <- move_col(labour_description_2011, c("comuna_name" = n
 labour_description_2011 <- join(labour_description_2011, regiones_casen_2015, by = "comuna_name")
 labour_description_2011 <- join(labour_description_2011, region_codes_datachile[,c("comuna_name","comuna_datachile_id","region_id")], by = "comuna_name")
 labour_description_2011 <- join(labour_description_2011, provincia_codes_pacha[,c("provincia_name","provincia_pacha_id")], by = "provincia_name")
+
+# Convert geographical columns to factor
+to_factor <- c("comuna_name", "region_name", "provincia_name", "comuna_datachile_id", "provincia_pacha_id", "region_id")
+labour_description_2011[to_factor] <- lapply(labour_description_2011[to_factor], factor)
+
+# Fix "icse", "isced", "isco", "isic"
+labour_description_2011$icse <- ifelse(labour_description_2011$icse == "Asalariado sector privado", "Asalariado Sector Privado", labour_description_2011$icse)
+labour_description_2011$icse <- ifelse(labour_description_2011$icse == "Asalariado sector p\u00fablico", "Asalariado Sector P\u00fablico", labour_description_2011$icse)
+labour_description_2011$icse <- ifelse(labour_description_2011$icse == "Personal de servicio dom\u00e9stico puertas adentro", "Personal de Servicio Dom\u00e9stico Puertas Adentro", labour_description_2011$icse)
+labour_description_2011$icse <- ifelse(labour_description_2011$icse == "Personal de servicio dom\u00e9stico puertas afuera", "Personal de Servicio Dom\u00e9stico Puertas Afuera", labour_description_2011$icse)
+labour_description_2011$icse <- ifelse(labour_description_2011$icse == "Cuenta propia", "Cuenta Propia", labour_description_2011$icse)
+
+labour_description_2011$isced <- ifelse(labour_description_2011$isced == "Educaci\u00f3n secundaria", "Educaci\u00f3n Secundaria", labour_description_2011$isced)
+labour_description_2011$isced <- ifelse(labour_description_2011$isced == "Educaci\u00f3n universitaria", "Educaci\u00f3n Universitaria", labour_description_2011$isced)
+labour_description_2011$isced <- ifelse(labour_description_2011$isced == "Educaci\u00f3n universitaria", "Educaci\u00f3n Universitaria", labour_description_2011$isced)
+labour_description_2011$isced <- ifelse(labour_description_2011$isced == "Educaci\u00f3n T\u00e9cnica (Educaci\u00f3n Superior no Universitaria)", "Educaci\u00f3n T\u00e9cnica", labour_description_2011$isced)
+labour_description_2011$isced <- ifelse(labour_description_2011$isced == "Educaci\u00f3n primaria (nivel 2)", "Educaci\u00f3n Primaria (nivel 2)", labour_description_2011$isced)
+labour_description_2011$isced <- ifelse(labour_description_2011$isced == "Educaci\u00f3n primaria (nivel 1)", "Educaci\u00f3n Primaria (nivel 1)", labour_description_2011$isced)
+labour_description_2011$isced <- ifelse(labour_description_2011$isced == "Educaci\u00f3n preescolar", "Educaci\u00f3n Preescolar", labour_description_2011$isced)
+labour_description_2011$isced <- ifelse(labour_description_2011$isced == "Postitulos y maestria", "Post\u00edtulo y Maestr\u00eda", labour_description_2011$isced)
+
+labour_description_2011$isco <- ifelse(labour_description_2011$isco == "Otros No identificados", "Otros no identificados", labour_description_2011$isco)
+labour_description_2011$isco <- ifelse(labour_description_2011$isco == "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la adm. p\u00fablica y de empresas", "Miembros del poder ejecutivo y de los cuerpos legislativos y personal directivo de la administraci\u00f3n p\u00fablica y de empresas", labour_description_2011$isco)
+labour_description_2011$isco <- ifelse(labour_description_2011$isco == "Operadores de instalaciones y maquinas y montadores", "Operadores de instalaciones y m\u00e1quinas y montadores", labour_description_2011$isco)
+
+labour_description_2011$isic = as.character(labour_description_2011$isic)
+labour_description_2011$isic <- ifelse(labour_description_2011$isic == "Comercio al por mayor y al por menor; reparaci\u00f3n de veh\u00edculos automotores, motocicletas, efectos personales y enseres do", "Comercio al por mayor y al por menor;reparaci\u00f3n de veh\u00edculos automotores, motocicletas, efectos personales y enseres dom\u00e9sticos", labour_description_2011$isic)
+
+to_factor <- c("occupational_situation", "icse", "isced", "isco", "isic")
+labour_description_2011[to_factor] <- lapply(labour_description_2011[to_factor], factor)
