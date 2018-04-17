@@ -1,0 +1,83 @@
+ids_university <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_university.csv")) %>% 
+  rename(institution_group_en = institution_group,
+         institution_subgroup_en = institution_subgroup)
+
+ids_program <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_programs.csv"))
+ids_area <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_area.csv"))
+ids_admission <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_admission.csv"))
+ids_preference <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_preference.csv"))
+ids_identification <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_identification.csv"))
+ids_academic_year <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_academic_year.csv"))
+
+ids_bea <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_bea.csv"))
+ids_pace <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_pace.csv"))
+ids_applicant_status <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_applicant_status.csv"))
+ids_preference_status <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_16_ids_preference_status.csv"))
+
+ids_comunas <- as_tibble(fread("~/GitHub/datachile-data/official_ids/2017_06_27_comunas_datachile_fixed.csv"))
+
+ids_teaching <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_teaching.csv"))
+ids_branch <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_branch.csv"))
+ids_administration <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_administration.csv"))
+ids_scores <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_scores_to_marks.csv"))
+ids_sex <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_sex.csv"))
+ids_process <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_process_scores.csv"))
+ids_school <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_school.csv"))
+
+ids_income_09_15 <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_income_09_15.csv"))
+ids_income_08 <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_income_08.csv"))
+ids_income_04_07 <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_income_04_07.csv"))
+ids_parents_occupational_branch <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_parents_occupational_branch.csv"))
+ids_parents_occupational_situation <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_parents_occupational_situation.csv"))
+ids_parents_education <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_parents_education.csv"))
+ids_parents_working_place <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_parents_working_place.csv"))
+ids_parents_occupation <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_parents_occupation.csv"))
+ids_alive_parents <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_alive_parents.csv"))
+ids_health_insurance <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_health_insurance.csv"))
+ids_household_head <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_household_head.csv"))
+ids_residency <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_residency.csv"))
+ids_working_schedule <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_working_schedule.csv"))
+ids_paid_work <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_paid_work.csv"))
+ids_civil_status <- as_tibble(fread("~/GitHub/datachile-data/official_ids/psu/2018_01_17_ids_civil_status.csv"))
+
+fwrite(ids_university %>% select(-c(university_acronym, university_id)), "3_tidy_data/ids_university.csv")
+fwrite(ids_program, "3_tidy_data/ids_program.csv")
+fwrite(ids_area, "3_tidy_data/ids_area.csv")
+fwrite(ids_admission, "3_tidy_data/ids_admission.csv")
+fwrite(ids_preference, "3_tidy_data/ids_preference.csv")
+fwrite(ids_identification, "3_tidy_data/ids_identification.csv")
+fwrite(ids_academic_year, "3_tidy_data/ids_academic_year.csv")
+
+fwrite(ids_bea, "3_tidy_data/ids_bea.csv")
+fwrite(ids_pace, "3_tidy_data/ids_pace.csv")
+fwrite(ids_applicant_status, "3_tidy_data/ids_applicant_status.csv")
+fwrite(ids_preference_status, "3_tidy_data/ids_preference_status.csv")
+
+fwrite(ids_comunas %>% select(-c(comuna_customs_id, comuna_tax_office_id)), "3_tidy_data/ids_comunas.csv")
+fwrite(ids_teaching, "3_tidy_data/ids_teaching.csv")
+fwrite(ids_branch %>% select(-branch_official_code), "3_tidy_data/ids_branch.csv")
+fwrite(ids_administration, "3_tidy_data/ids_administration.csv")
+fwrite(ids_scores %>% 
+         rename(nem_mark = nem,
+                nem_score_group_a = puntaje_nem_grupo_a,
+                nem_score_group_b = puntaje_nem_grupo_b,
+                nem_score_group_c = puntaje_nem_grupo_c), "3_tidy_data/ids_scores.csv")
+fwrite(ids_sex, "3_tidy_data/ids_sex.csv")
+fwrite(ids_process, "3_tidy_data/ids_process.csv")
+fwrite(ids_school %>% select(-school_original_es), "3_tidy_data/ids_school.csv")
+
+fwrite(ids_income_09_15, "3_tidy_data/ids_income_09_15.csv")
+fwrite(ids_income_08, "3_tidy_data/ids_income_08.csv")
+fwrite(ids_income_04_07, "3_tidy_data/ids_income_04_07.csv")
+fwrite(ids_parents_occupational_branch, "3_tidy_data/ids_parents_occupational_branch.csv")
+fwrite(ids_parents_occupational_situation, "3_tidy_data/ids_parents_occupational_situation.csv")
+fwrite(ids_parents_education, "3_tidy_data/ids_parents_education.csv")
+fwrite(ids_parents_working_place, "3_tidy_data/ids_parents_working_place.csv")
+fwrite(ids_parents_occupation, "3_tidy_data/ids_parents_occupation.csv")
+fwrite(ids_alive_parents, "3_tidy_data/ids_alive_parents.csv")
+fwrite(ids_health_insurance, "3_tidy_data/ids_health_insurance.csv")
+fwrite(ids_household_head, "3_tidy_data/ids_household_head.csv")
+fwrite(ids_residency, "3_tidy_data/ids_residency.csv")
+fwrite(ids_working_schedule, "3_tidy_data/ids_working_schedule.csv")
+fwrite(ids_paid_work, "3_tidy_data/ids_paid_work.csv")
+fwrite(ids_civil_status, "3_tidy_data/ids_civil_status.csv")
