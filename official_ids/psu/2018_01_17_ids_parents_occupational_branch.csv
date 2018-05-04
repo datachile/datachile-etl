@@ -1,0 +1,14 @@
+mother_occupational_branch_id,father_occupational_branch_id,occupational_branch_es
+0,0,NaN
+1,1,"agricultura, ganader\u00eda, pesca y caza"
+2,2,explotación de minas y canteras
+3,3,"ingenier\u00eda, industria, construcción, artesan\u00eda, industria de alimentos, textiles, metal\u00fargica, qu\u00edmica, calzado, etc. Construcción de viviendas y caminos, etc. Talleres."
+4,4,Comercio al por mayor y menor. Bancos y seguros.
+5,5,"Transporte, almacenajes y comunicaciones. Transporte terrestre, aéreo, mar\u00edtimo. Comunicaciones telegr\u00e9ficas, telefónicas, radio y TV."
+6,6,"Servicios educacionales p\u00fablicos y privados. Ministerio de educación, establecimientos educacionales de todos los niveles."
+7,7,Servicios de salud p\u00fablicos y privados. Ministerio de salud e instituciones de salud.
+8,8,"Servicios de utilidad p\u00fablica, fiscales y privados. Agua, luz, gas. Servicios sanitarios, municipalidades, etc."
+9,9,"Servicios jur\u00eddicos, de orden y seguridad, ministerio del interior, justicia y defensa, servicios jur\u00eddicos p\u00fablicos y privados. FFAA y Carabineros."
+10,10,"Otros sevicios p\u00fablicos y privados no inclu\u00eddos en los anteriores. Tesorer\u00eda, impuestos internos, etc."
+11,11,"Otros servicios personales, trabajo en hoteles, residenciales, restaurantes, casas particulares, etc,"
+12,12,Due\u00f1o/a de casa

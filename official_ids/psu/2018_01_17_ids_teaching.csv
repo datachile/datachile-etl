@@ -1,0 +1,43 @@
+teaching_id,teaching_es
+0,NaN
+10,Educación Parvularia
+110,Educación Básica
+160,Educación Básica Común Adultos (Decreto 584/2007)
+161,Educación Básica Especial Adultos
+163,Escuelas Cárceles (Básica Adultos)
+165,Educación Básica Adultos Sin Oficios (Decreto 584/2007)
+167,Educación Básica Adultos Con Oficios (Decretos 584/2007 y 999/2009)
+211,Educación Especial Discapacidad Auditiva
+212,Educación Especial Intelectual
+213,Educación Especial Visual
+214,Educación Especial Trastornos del Lenguaje
+215,Educación Especial Trastornos Motores
+216,Educación Especial Autismo
+217,Educación Especial Alternaciones de Relación y Comunicació
+299,Programa Integración Escolar
+310,Educación Media Humanista/Científica Jóvenes
+360,Educación Media Humanista/Científica Adultos Vespertino y Nocturno (Decreto 190/1975)
+361,Educación Media Humanista/Científica Adultos
+362,Escuelas Cárceles (Media Adultos)
+363,Educación Media Humanista/Científica Adultos (Decreto 1000/2009)
+410,Educación Media Técnico/Profesional Comercial Jóvenes
+460,Educación Media Técnico/Profesional Comercial Adultos (Decreto 152/1989)
+461,Educación Media Técnico/Profesional Comercial Adultos (Decreto 152/1989)
+463,Educación Media Técnico/Profesional Comercial Adultos (Decreto 1000/1989)
+510,Educación Media Técnico/Profesional Industrial Jóvenes
+560,Educación Media Técnico/Profesional Industrial Adultos (Decreto 152/1989)
+561,Educación Media Técnico/Profesional Industrial Adultos (Decreto 152/1989)
+563,Educación Media Técnico/Profesional Industrial Adultos (Decreto 1000/1989)
+610,Educación Media Técnico/Profesional Técnica Jóvenes
+660,Educación Media Técnico/Profesional Técnica Adultos (Decreto 152/1989)
+661,Educación Media Técnico/Profesional Técnica Adultos (Decreto 152/1989)
+663,Educación Media Técnico/Profesional Técnica Adultos (Decreto 1000/1989)
+710,Educación Media Técnico/Profesional Agrícola Jóvenes
+760,Educación Media Técnico/Profesional Agrícola Adultos (Decreto 152/1989)
+761,Educación Media Técnico/Profesional Agrícola Adultos (Decreto 152/1989)
+763,Educación Media Técnico/Profesional Agrícola Adultos (Decreto 1000/1989)
+810,Educación Media Técnico/Profesional Marítima Jóvenes
+860,Educación Media Técnico/Profesional Marítima Adultos (Decreto 152/1989)
+863,Educación Media Técnico/Profesional Marítima Adultos (Decreto 1000/1989)
+910,Educación Media Artística Jóvenes
+963,Educación Media Artística Adultos

@@ -1,0 +1,9 @@
+mother_working_place_id,father_working_place_id,working_place_es,working_place_en
+0,0,NaN,NaN
+1,1,fiscal o semi-fiscal,public or semi-public
+2,2,privado,private
+3,3,independiente,independent
+4,4,cooperativo,cooperative
+5,5,internacional,international
+6,6,hogar,home
+7,7,otro,other

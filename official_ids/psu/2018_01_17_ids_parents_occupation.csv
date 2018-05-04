@@ -1,0 +1,14 @@
+mother_occupation_id,father_occupation_id,occupation_es
+0,0,NaN
+1,1,"Gerente, administrativo o categor\u00eda superior, gran empresario/a industrial, comercial o agr\u00edcola (m\u00e1s de 50 empleados). Alto ejecutivo/a de banco, AFP o isapre. Oficial superior de FFAA o Carabineros. Miembro superior del Poder Judidical, Diplom\u00e1tico o af\u00edn."
+2,2,Profesional con cinco o m\u00e1s a\u00f1os de estudios universitarios.
+3,3,"Empleado/a o funcionario/a especializado, jefe/a intermedio de servicios públicos o privados. Oficial de FFAA o Carabineros. Profesional o t\u00e9nico con menos de cinco a\u00f1os de estudios universitarios. Mediano empresario/a industrial, comerciante, agr\u00edcola o minero."
+4,4,"Empleado/a de oficina y actividades semiespecializadas, oficinista, secretario, vendedor de comercio u otros."
+5,5,"Peque\u00f1o empresario industrial, suboficial de FFAA o Carabineros, minero, comercial o agr\u00edcola."
+6,6,"Oficios artesanales, talleres de joyeros, mueblista, sastre, modista, peluquero u otro."
+7,7,"Obrero urbano calificado, electricista, mec\u00e9nico, carpintero u otro."
+8,8,"Obrero agr\u00edcola, electricista, mec\u00e9nico, carpintero u otro."
+9,9,"Obrero urbano no calificado, obrero de la construcción, cargador, estibador u otro."
+10,10,"Obrero agr\u00edcola o minero no calificado, obrero agr\u00edcola ganadero, maderero, pescador, minero u otro."
+11,11,"Servicio dom\u00e9stico, servicios menores \(de restaurante, mensajero, conserje, u otro\)."
+12,12,Due\u00f1o/a de casa.

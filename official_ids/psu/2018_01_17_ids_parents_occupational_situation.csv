@@ -1,0 +1,9 @@
+mother_occupational_situation_id,father_occupational_situation_id,occupational_situation_es,occupational_situation_en
+0,0,NaN,NaN
+1,1,activo con trabajo remunerado,active with paid work
+2,2,trabaja ocasionalmente,working ocasionally
+3,3,cesante,unemployed
+4,4,jubilado,retired
+5,5,no trabaja (enfermedad o edad avanzada),not working (sickness or advanced age)
+6,6,labores dom\u00e9sticas,home duties
+7,7,otra situaci\u00f3n,other situation

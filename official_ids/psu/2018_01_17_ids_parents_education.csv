@@ -1,0 +1,15 @@
+mother_education_id,father_education_id,education_es,education_en
+0,0,NaN,NaN
+1,1,sin studios,no education
+2,2,b\u00e1sica incompleta,unfinished primary school
+3,3,b\u00e1sica completa,finished primary school
+4,4,media incompleta,unfinished high school
+5,5,media completa,finished high school
+6,6,centro de formaci\u00f3n t\u00e9cnica incompleta,unfinished technical education center
+7,7,centro de formaci\u00f3n t\u00e9cnica completa,finished technical education center
+8,8,universitaria incompleta,unfinished university
+9,9,universitaria completa,finished university
+10,10,otros estudios,other studies
+11,11,instituto profesional incompleta,unfinished professional institute
+12,12,instituto profesional completa,finished professional institute
+13,13,desconocido,unknown

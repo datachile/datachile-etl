@@ -1,0 +1,6 @@
+working_schedule_id,working_schedule_es,working_schedule_en
+0,NaN,NaN
+1,diurno,day
+2,vespertino,evening
+3,nocturno,night
+4,sin horario fijo,flexible hours

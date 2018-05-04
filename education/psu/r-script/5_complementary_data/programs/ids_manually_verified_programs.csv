@@ -1,0 +1,1779 @@
+carrera_id,area_id,region_id,institution_id,program,degree,specialization_or_observations
+11003,2,13,96,Actuación Teatral,Licenciatura en Artes,Actuación Teatral
+34012,NA,NA,110,Ingeniería Comercial,NA,Administración
+21040,NA,NA,129,Ingeniería Civil Industrial,NA,Agroindustrias
+34069,7,13,110,Pedagogía en Educación General Básica,NA,Alemán
+34042,7,13,110,Pedagogía en Educación Parvularia,NA,Alemán
+20081,7,13,121,Pedagogía en Alemán,Licenciatura en Educación,Alemán
+11011,2,13,96,Artes Plásticas,Licenciatura en Artes,Artes Plásticas
+37090,7,9,88,Bachiller en Ciencias y Humanidades,NA,Articulación con otro programa o especialización
+44029,NA,NA,102,Bachillerato,NA,Articulación con otro programa o especialización
+43031,10,13,104,Bachillerato de Administración de Servicios,NA,Articulación con otro programa o especialización
+43007,4,13,104,Bachillerato de Derecho,NA,Articulación con otro programa o especialización
+43030,9,13,104,Bachillerato de Enfermería,NA,Articulación con otro programa o especialización
+43003,10,13,104,Bachillerato de Ingeniería,NA,Articulación con otro programa o especialización
+43005,10,13,104,Bachillerato de Ingeniería Comercial,NA,Articulación con otro programa o especialización
+43001,9,13,104,Bachillerato de Medicina,NA,Articulación con otro programa o especialización
+43002,9,13,104,Bachillerato de Odontología,NA,Articulación con otro programa o especialización
+41001,NA,NA,78,Bachillerato en Artes,NA,Articulación con otro programa o especialización
+24060,3,2,92,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+41128,9,13,78,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+14009,3,5,73,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+29015,3,8,101,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+29068,3,8,101,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+41004,9,13,78,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+41063,9,5,78,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+41100,9,8,78,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+12003,NA,NA,72,Bachillerato en Ciencias,NA,Articulación con otro programa o especialización
+17812,8,11,80,Bachillerato en Ciencias de la Ingeniería,NA,Articulación con otro programa o especialización
+21046,8,13,129,Bachillerato en Ciencias de la Ingeniería,NA,Articulación con otro programa o especialización
+17016,NA,NA,80,Bachillerato en Ciencias de la Ingeniería,NA,Articulación con otro programa o especialización
+17081,NA,NA,80,Bachillerato en Ciencias de la Ingeniería,NA,Articulación con otro programa o especialización
+17807,8,14,80,Bachillerato en Ciencias de la Ingeniería,NA,Articulación con otro programa o especialización
+24067,9,2,92,Bachillerato en Ciencias de la Salud,NA,Articulación con otro programa o especialización
+18088,NA,NA,87,Bachillerato en Ciencias de la Salud,NA,Articulación con otro programa o especialización
+44042,4,13,102,Bachillerato en Ciencias Jurídicas y Humanidades,NA,Articulación con otro programa o especialización
+30065,4,9,98,Bachillerato en Ciencias Sociales,NA,Articulación con otro programa o especialización
+24091,2,2,92,Bachillerato en Ciencias Sociales y Artes,NA,Articulación con otro programa o especialización
+38032,4,13,114,Bachillerato en Ciencias Sociales y Humanidades,NA,Articulación con otro programa o especialización
+12020,NA,NA,72,Bachillerato en Ciencias Sociales y Humanidades,NA,Articulación con otro programa o especialización
+16030,3,13,109,Bachillerato en Ciencias y Humanidades,NA,Articulación con otro programa o especialización
+17813,1,11,80,Bachillerato en Ciencias y Recursos Naturales,NA,Articulación con otro programa o especialización
+17019,NA,NA,80,Bachillerato en Ciencias y Recursos Naturales,NA,Articulación con otro programa o especialización
+24081,NA,NA,92,Bachillerato en Educación,NA,Articulación con otro programa o especialización
+13052,6,8,97,Bachillerato en Humanidades,NA,Articulación con otro programa o especialización
+41033,4,13,78,Bachillerato en Humanidades,NA,Articulación con otro programa o especialización
+43006,3,13,104,Bachillerato en Humanidades,NA,Articulación con otro programa o especialización
+45014,2,13,77,Bachillerato en Humanidades,NA,Articulación con otro programa o especialización
+41079,NA,NA,78,Bachillerato en Humanidades,NA,Articulación con otro programa o especialización
+44009,10,13,102,Bachillerato en Ingeniería Comercial,NA,Articulación con otro programa o especialización
+45030,NA,NA,77,Bachillerato en Matemática,NA,Articulación con otro programa o especialización
+44010,2,13,102,Bachillerato en Psicología,NA,Articulación con otro programa o especialización
+43004,9,13,104,Bachillerato en Salud,NA,Articulación con otro programa o especialización
+19000,NA,NA,112,Bachillerato,NA,Articulación con otro programa o especialización
+19002,NA,NA,112,Bachillerato,NA,Articulación con otro programa o especialización
+12026,2,13,72,College Artes y Humanidades,NA,Articulación con otro programa o especialización
+12027,9,13,72,College Ciencias Naturales y Matemáticas,NA,Articulación con otro programa o especialización
+12028,4,13,72,College Ciencias Sociales,NA,Articulación con otro programa o especialización
+12039,8,13,72,Ingeniería,NA,Articulación con otro programa o especialización
+24038,NA,NA,92,Ingeniería,NA,Articulación con otro programa o especialización
+22017,NA,NA,111,Ingeniería,NA,Articulación con otro programa o especialización
+33061,8,12,107,Ingeniería,NA,Articulación con otro programa o especialización
+15071,NA,NA,127,Ingeniería Civil,NA,Articulación con otro programa o especialización
+15003,NA,NA,127,Ingeniería Civil,NA,Articulación con otro programa o especialización
+15100,8,5,127,Ingeniería Civil,NA,Articulación con otro programa o especialización
+15300,8,13,127,Ingeniería Civil,NA,Articulación con otro programa o especialización
+37054,8,9,88,Ingeniería Civil,NA,Articulación con otro programa o especialización
+38080,3,13,114,Ingeniería Civil,NA,Articulación con otro programa o especialización
+40060,8,13,115,Ingeniería Civil,NA,Articulación con otro programa o especialización
+18055,8,2,87,Ingeniería Civil,NA,Articulación con otro programa o especialización
+42002,8,13,75,Ingeniería Civil,NA,Articulación con otro programa o especialización
+42022,8,5,75,Ingeniería Civil,NA,Articulación con otro programa o especialización
+33005,8,12,107,Ingeniería Civil,NA,Articulación con otro programa o especialización
+25000,NA,NA,100,Ingeniería Civil,NA,Articulación con otro programa o especialización
+22072,NA,NA,111,Ingeniería Civil y Ejecución,NA,Articulación con otro programa o especialización
+22071,8,15,111,Ingeniería Civil y Ejecución Eléctrica,NA,Articulación con otro programa o especialización
+11045,3,13,96,Ingeniería y Ciencias,NA,Articulación con otro programa o especialización
+22082,NA,NA,111,"Ingenierías Industrial, Informática y Redes",NA,Articulación con otro programa o especialización
+22088,8,15,111,Ingenierías Mecánica y Mecatrónica,NA,Articulación con otro programa o especialización
+22070,1,15,111,Agronomía,NA,Articulación con otro programa o especialización
+22023,4,15,111,Antropología,NA,Articulación con otro programa o especialización
+22067,2,15,111,Diseño Multimedia,NA,Articulación con otro programa o especialización
+22075,8,15,111,Ingeniería Civil en Computación,NA,Articulación con otro programa o especialización
+22077,8,15,111,Ingeniería Civil Industrial,NA,Articulación con otro programa o especialización
+18052,NA,NA,87,Matemática,NA,Articulación con otro programa o especialización
+18053,NA,NA,87,Química,NA,Articulación con otro programa o especialización
+18064,3,2,87,Licenciatura en Física,NA,Astronomía
+19078,3,5,112,Licenciatura en Física,NA,"Astronomía, Ciencias Atmosféricas o Computación Científica"
+19075,3,5,112,Licenciatura en Ciencias,NA,Biología o Química
+17011,NA,NA,80,Licenciatura en Ciencias,NA,"Biología, Física, Química o Matemática"
+30060,3,9,98,Pedagogía en Ciencias,NA,"Biología, Química o Física"
+20086,7,13,121,Pedagogía en Castellano,Licenciatura en Educación,Castellano
+32067,NA,NA,105,Pedagogía en Educación Básica,NA,Ciencias Naturales
+11078,9,13,96,Programa Académico de Bachillerato,NA,Ciencias Naturales y Exactas o Ciencias Sociales y Humanidades
+20022,7,13,121,Pedagogía en Biología,Licenciatura en Educación en Biología,"Ciencias Naturales, Informática Educativa, Estadística Educacional, Educación en Tecnología o Educación en Astronomía"
+20023,7,13,121,Pedagogía en Física,Licenciatura en Educación en Física,"Ciencias Naturales, Informática Educativa, Estadística Educacional, Educación en Tecnología o Educación en Astronomía"
+20025,7,13,121,Pedagogía en Química,Licenciatura en Educación en Química,"Ciencias Naturales, Informática Educativa, Estadística Educacional, Educación en Tecnología o Educación en Astronomía"
+20024,7,13,121,Pedagogía en Matemática,Licenciatura en Educación Matemática,"Ciencias Naturales, Informática Educativa, Estadística Educacional, Educación en Tecnología o Educación en Astronomía"
+17823,7,10,80,Pedagogía en Educación Básica,Licenciatura en Educación,Conducente a especialización
+17824,7,11,80,Pedagogía en Educación Básica,Licenciatura en Educación,Conducente a especialización
+26034,7,5,108,Pedagogía en Educación Básica,NA,Conducente a especialización
+37022,7,9,88,Pedagogía en Educación Básica,NA,Conducente a especialización
+18073,7,2,87,Pedagogía en Educación Básica,NA,Conducente a especialización
+26008,7,5,108,Pedagogía en Educación Diferencial,NA,Conducente a especialización
+17808,7,10,80,Pedagogía en Educación Diferencial,Licenciatura en Educación,Conducente a especialización
+38326,7,13,114,Pedagogía en Educación Diferencial,NA,Conducente a especialización
+22063,7,15,111,Licenciatura en Inglés,NA,Conducente a título de Profesor
+22066,7,15,111,Licenciatura Historia y Geografía,NA,Conducente a título de Profesor
+22049,8,1,111,Ingeniería Civil Eléctrica,NA,Control Automático y Robótica
+20053,NA,NA,121,Licenciatura y Pedagogía en Educación Diferencial,NA,Deficiencia Mental
+45038,7,13,77,Pedagogía en Educación Diferencial,NA,Dificultades del Aprendizaje Escolar
+14032,7,5,73,Pedagogía en Educación Especial,NA,Discapacidad Intelectual o
+39124,7,13,120,Pedagogía en Educación Diferencial,NA,Discapacidades Intelectual y Múltiples
+24084,2,2,92,Diseño Gráfico,NA,Diseño Estratégico
+11004,2,13,96,Diseño Teatral,Licenciatura en Artes,Diseño Teatral
+39125,7,13,120,"Pedagogía en Educación Física, Deportes y Recreación",NA,Educación Básica y Media
+33079,7,12,107,Pedagogía en Educación Física,NA,Educación Básica y Media
+39127,7,13,120,Pedagogía en Inglés,NA,Educación Básica y Media
+33081,7,12,107,Pedagogía en Inglés,NA,Educación Básica y Media
+39418,NA,NA,120,Pedagogía en Educación Parvularia y Básica,NA,Educación de Primer Ciclo
+39126,7,13,120,Pedagogía en Educación Parvularia y Educación Básica,NA,Educación de Primer Ciclo
+33083,7,12,107,Pedagogía en Historia y Ciencias Sociales,NA,Educación Media
+33031,7,12,107,Pedagogía en Matemática,NA,Educación Media
+23069,7,1,79,Pedagogía en Inglés,NA,Educación Pre-Escolar
+26006,NA,NA,108,Pedagogía en Educación Básica,NA,Educación Rural
+20051,7,13,121,Licenciatura en Educación y Pedagogía en Educación Diferencial,NA,Especialidad Problemas de Aprendizaje
+20052,7,13,121,Licenciatura en Educación y Pedagogía en Educación Diferencial,NA,Especialidad Problemas de Audición y Lenguaje
+20054,7,13,121,Licenciatura en Educación y Pedagogía en Educación Diferencial,NA,Especialidad Problemas de la Visión
+20057,7,13,121,Licenciatura en Educación y Pedagogía en Educación Diferencial,NA,Especialidad Retardo Mental
+41133,NA,NA,78,Derecho,NA,Especialización en Gestión Empresarial
+11029,3,13,96,Biología,NA,Especialización en Medio Ambiente
+37027,7,9,88,Pedagogía Educación Diferencial,NA,Especialización en Necesidades Educativas Especiales Transitorias y Deficiencia Mental
+32048,7,10,105,Educación Diferencial,NA,Especialización en Problemas de Aprendizaje
+36072,NA,NA,85,Ingeniería de Ejecución en Administración de Empresas,NA,Finanzas
+15028,NA,NA,127,Licenciatura en Ciencias,NA,Física
+15102,8,5,127,Licenciatura en Ciencias,NA,Física
+29074,NA,NA,101,Pedagogía en Ciencias Naturales,NA,Física
+20091,7,13,121,Licenciatura en Educación,NA,Francés y Pedagogía en Francés
+26099,8,5,108,Ingeniería en Informática,NA,Gestión de la Información
+26067,8,5,108,Ingeniería Informática,NA,"Gestión de la Información, Licenciatura en Ciencias de la Ingeniería"
+11040,4,13,96,Administración Pública,Licenciatura en Ciencias Políticas y Gubernamentales,Gestión Pública o Ciencia Política
+22042,4,1,111,Ingeniería Comercial,NA,Gestión y Comercio Exterior
+26054,4,5,108,Geografía,Licenciatura en Geografía,Gestión y Ordenamiento Territorial
+22029,9,15,111,Obstetricia y Puericultura,NA,Gestión y Salud Familiar
+20076,7,13,121,Licenciatura en Educación,NA,"Historia o Geografía y Pedagogía en Historia, Geografía y Educación Cívica"
+21041,8,13,129,Ingeniería Civil en Computación,NA,Informática
+34013,NA,NA,110,Ingeniería Comercial,NA,Informática
+22096,NA,NA,111,Ingeniería Industrial,NA,Informática
+26083,6,5,108,Administración Turística Multilingüe,NA,Inglés
+44011,4,13,102,Pedagogía en Educación Básica,NA,Inglés
+20096,7,13,121,Licenciatura en Educación,NA,Inglés y Pedagogía en Inglés
+20066,7,13,121,Licenciatura en Educación y Pedagogía en Educación Parvularia,NA,"Inglés, Educación Comunitaria, Integración Curricular o Educación Artística"
+22054,NA,NA,111,Tecnología Médica,NA,"Laboratorio Clínico, Hematología y Banco de Sangre"
+23029,7,1,79,Pedagogía en Educación Básica,NA,Lenguaje y Ciencias Sociales
+24088,7,2,92,Pedagogía en Educación Básica,NA,Lenguaje y Comunicación y Matemática
+32043,NA,NA,105,Pedagogía en Educación Media,NA,Lengua Castellana y
+12008,6,13,72,Letras,NA,Lingüística y Literatura Hispánicas
+12009,6,13,72,Letras,NA,Lingüística y Literatura Inglesas
+36076,NA,NA,85,Ingeniería Ejecución Industrial,NA,Mantenimiento
+36070,NA,NA,85,Ingeniería Ejecución Industrial,NA,Mantenimiento
+36068,8,8,85,Ingeniería Ejecución Industrial,NA,Mantenimiento y Logística
+32066,NA,NA,105,Pedagogía en Educación Básica,NA,Matemática
+20050,7,13,121,Licenciatura en Educación y Pedagogía en Educación Básica,NA,"Matemática, Lenguaje y Comunicación, Ciencias Naturales, Ciencias Sociales o Primer Ciclo"
+33003,NA,NA,107,Ingeniería de Ejecución en Química,NA,Medio Ambiente
+32044,7,10,105,Pedagogía en Educación Media en Artes,NA,Música y Artes Visuales
+24087,7,2,92,Pedagogía en Educación Parvularia,NA,Necesidades Educativas Especiales
+24069,4,2,92,Ingeniería Comercial,NA,Negocios Mineros
+14082,9,5,73,Tecnología Médica,NA,Oftalmología y Contactología
+15029,NA,NA,127,Licenciatura en Ciencias,NA,Química
+29075,NA,NA,101,Pedagogía en Ciencias Naturales,NA,Química
+11038,3,13,96,Química Ambiental,Licenciatura en Ciencias Ambientales,Química
+15405,8,5,127,"Técnico Universitario en Química,",NA,Química Analítica
+15505,8,8,127,"Técnico Universitario en Química,",NA,Química Industrial
+22053,NA,NA,111,Tecnología Médica,NA,Radiología y Física Médica
+24045,NA,NA,92,Administración de Empresas,NA,Recursos Humanos
+21044,NA,NA,129,Ingeniería Civil Industrial,NA,Sistemas de Gestión
+11524,2,13,96,Ingeniería en Sonido,Licenciatura en Artes,Sonido
+11018,NA,NA,96,Licenciatura en Artes,NA,Sonido
+11017,2,13,96,Teoría de la Música,Licenciatura en Artes,Teoría de la Música
+12024,7,13,72,Pedagogía General Básica,NA,NA
+12096,7,9,72,Pedagogía General Básica,NA,NA
+12007,2,13,72,Actuación,NA,NA
+17054,4,14,80,Administración de Empresas de Turismo,Licenciatura en Turismo,NA
+19096,NA,NA,112,Administración de Negocios Internacionales,NA,NA
+19053,NA,NA,112,Administración de Negocios Internacionales,NA,NA
+19051,NA,NA,112,Administración de Negocios Internacionales,NA,NA
+19065,NA,NA,112,Administración de Negocios Internacionales,NA,NA
+19087,NA,NA,112,Administración de Recursos Gastronómicos,NA,NA
+43019,10,13,104,Administración de Servicios,NA,NA
+19086,4,5,112,Administración Hotelera y Gastronómica,NA,NA
+19097,NA,NA,112,Administración Pública,NA,NA
+19006,NA,NA,112,Administración Pública,NA,NA
+19067,NA,NA,112,Administración Pública,NA,NA
+19007,NA,NA,112,Administración Pública,NA,NA
+16034,4,13,109,Administración Pública,NA,NA
+34057,4,13,110,Administración Pública,NA,NA
+24046,4,2,92,Administración Pública,NA,NA
+37062,4,9,88,Administración Pública,NA,NA
+19005,4,13,112,Administración Pública,NA,NA
+19068,4,5,112,Administración Pública,NA,NA
+21089,4,13,129,Administración Pública,NA,NA
+45037,10,13,77,Administración Pública,NA,NA
+33029,NA,NA,107,Administración Pública,NA,NA
+13023,4,8,97,Administración Pública y Ciencia Política,NA,NA
+25062,NA,NA,100,Administración Turística,NA,NA
+17000,1,14,80,Agronomía,Licenciatura en Agronomía,NA
+13006,1,8,97,Agronomía,NA,NA
+33066,1,12,107,Agronomía,NA,NA
+14001,1,5,73,Agronomía,NA,NA
+23046,1,1,79,Agronomía,NA,NA
+30070,1,9,98,Agronomía,NA,NA
+34003,1,7,110,Agronomía,NA,NA
+35029,1,7,86,Agronomía,NA,NA
+37014,1,9,88,Agronomía,NA,NA
+13105,1,8,97,Agronomía,NA,NA
+39101,1,13,120,Agronomía,NA,NA
+12013,1,13,72,Agronomía e Ingeniería Forestal,NA,NA
+13004,3,8,97,Analista Químico,NA,NA
+18077,3,2,87,Analista Químico,NA,NA
+39102,2,13,120,Animación Digital,NA,NA
+11060,4,13,96,Antropología,NA,NA
+17029,4,14,80,Antropología,Licenciatura en Antropología,NA
+12022,4,13,72,Antropología,NA,NA
+13026,4,8,97,Antropología,NA,NA
+37001,4,9,88,Antropología,NA,NA
+45031,4,13,77,Antropología,NA,NA
+37091,4,9,88,Arqueología,NA,NA
+45036,3,13,77,Arqueología,NA,NA
+11001,2,13,96,Arquitectura,Licenciatura en Arquitectura,NA
+17033,2,14,80,Arquitectura,Licenciatura en Arquitectura,NA
+29001,2,8,101,Arquitectura,NA,NA
+16070,2,13,109,Arquitectura,NA,NA
+32001,2,10,105,Arquitectura,NA,NA
+34060,2,7,110,Arquitectura,NA,NA
+12004,2,13,72,Arquitectura,NA,NA
+14002,2,5,73,Arquitectura,NA,NA
+23025,2,1,79,Arquitectura,NA,NA
+25015,2,4,100,Arquitectura,NA,NA
+33030,2,12,107,Arquitectura,NA,NA
+37092,2,9,88,Arquitectura,NA,NA
+40001,2,13,115,Arquitectura,NA,NA
+44001,2,13,102,Arquitectura,NA,NA
+44024,2,8,102,Arquitectura,NA,NA
+13080,2,8,97,Arquitectura,NA,NA
+15019,NA,NA,127,Arquitectura,NA,NA
+15180,2,5,127,Arquitectura,NA,NA
+18040,2,2,87,Arquitectura,NA,NA
+19020,2,5,112,Arquitectura,NA,NA
+21047,2,13,129,Arquitectura,NA,NA
+32000,NA,NA,105,Arquitectura,NA,NA
+38083,2,13,114,Arquitectura,NA,NA
+39103,2,13,120,Arquitectura,NA,NA
+39401,2,9,120,Arquitectura,NA,NA
+41000,2,13,78,Arquitectura,NA,NA
+41061,2,5,78,Arquitectura,NA,NA
+14004,2,5,73,Artes,NA,NA
+12005,2,13,72,Artes,NA,NA
+24090,2,2,92,Artes Escénicas,NA,NA
+13054,2,8,97,Artes Visuales,NA,NA
+40010,2,13,115,Artes Visuales,NA,NA
+38285,2,13,114,Artes Visuales,NA,NA
+41003,2,13,78,Artes Visuales,NA,NA
+44002,NA,NA,102,Artes y Cultura Contemporánea,NA,NA
+12032,3,13,72,Astronomía,NA,NA
+13055,3,8,97,Astronomía,NA,NA
+19069,8,5,112,Auditoria,NA,NA
+40041,10,13,115,Auditoria,NA,NA
+17003,4,14,80,Auditoría,Licenciatura en Control de Gestión,NA
+19054,NA,NA,112,Auditoría,NA,NA
+19059,NA,NA,112,Auditoría,NA,NA
+13094,4,8,97,Auditoría,NA,NA
+33027,4,12,107,Auditoría,NA,NA
+19062,4,5,112,Auditoría,NA,NA
+35053,4,7,86,Auditoría,NA,NA
+35054,4,7,86,Auditoría,NA,NA
+13022,4,8,97,Auditoría,NA,NA
+19093,4,13,112,Auditoría,NA,NA
+25061,4,4,100,Auditoría,NA,NA
+34056,NA,NA,110,Auditoria e Ingeniería en Control de Gestión,NA,NA
+34055,4,7,110,Auditoría e Ingeniería en Control de Gestión,NA,NA
+26080,6,5,108,Bibliotecología,Licenciatura en Ciencias de la Documentación,NA
+21002,6,13,129,Bibliotecología y Documentación,NA,NA
+36062,NA,NA,85,Bibliotecología y Documentación,NA,NA
+13012,3,8,97,Bioingeniería,NA,NA
+12011,3,13,72,Biología,NA,NA
+11032,3,13,96,Biología,Licenciatura en Ciencias,NA
+13014,3,8,97,Biología,NA,NA
+23027,NA,NA,79,Biología,NA,NA
+41007,3,13,78,Biología,NA,NA
+37017,NA,NA,88,Biología en Gestión de Recursos Naturales,NA,NA
+17001,3,14,80,Biología Marina,Licenciatura en Biología Marina,NA
+33036,1,12,107,Biología Marina,NA,NA
+13013,3,8,97,Biología Marina,NA,NA
+23007,3,1,79,Biología Marina,NA,NA
+24083,1,2,92,Biología Marina,NA,NA
+32026,3,10,105,Biología Marina,NA,NA
+12012,1,13,72,Biología Marina,NA,NA
+18080,3,4,87,Biología Marina,NA,NA
+19080,3,5,112,Biología Marina,NA,NA
+36002,3,8,85,Biología Marina,NA,NA
+41022,1,13,78,Biología Marina,NA,NA
+23008,NA,NA,79,Biología Pesquera,NA,NA
+14010,NA,NA,73,Biólogo,NA,NA
+17002,3,14,80,Bioquímica,Licenciatura en Bioquímica,NA
+11030,3,13,96,Bioquímica,Licenciatura en Bioquímica,NA
+14012,3,5,73,Bioquímica,NA,NA
+24058,3,2,92,Bioquímica,NA,NA
+30073,3,9,98,Bioquímica,NA,NA
+12010,3,13,72,Bioquímica,NA,NA
+13048,3,8,97,Bioquímica,NA,NA
+41005,3,13,78,Bioquímica,NA,NA
+16041,3,13,109,Bioquímica y Licenciatura en Bioquímica,NA,NA
+24062,NA,NA,92,Biotecnología,NA,NA
+30068,1,9,98,Biotecnología,NA,NA
+39104,8,13,120,Biotecnología,NA,NA
+21004,NA,NA,129,Cartografía,NA,NA
+21088,8,13,129,Cartografía y Geomática,NA,NA
+24056,NA,NA,92,Ciclo Básico en Física,NA,NA
+24044,NA,NA,92,Ciclo Básico en Química,NA,NA
+11025,NA,NA,96,Ciclo Común Facultad de Ciencias Forestales y Conservación,NA,NA
+37041,4,9,88,Ciencia Política,NA,NA
+12037,4,13,72,Ciencia Política,NA,NA
+38163,4,13,114,Ciencia Política,NA,NA
+44013,4,13,102,Ciencia Política y Políticas Públicas,NA,NA
+44030,NA,NA,102,Ciencia Política y Políticas Públicas,NA,NA
+45024,4,13,77,Ciencia Política y Relaciones Internacionales,NA,NA
+40053,4,13,115,Ciencias de la Familia,NA,NA
+13046,3,8,97,Ciencias Físicas,NA,NA
+13005,NA,NA,97,Ciencias Físicas y Astronómicas,NA,NA
+32014,4,10,105,Ciencias Políticas y Administrativas,NA,NA
+44003,2,13,102,Cine,NA,NA
+19024,2,5,112,Cine,NA,NA
+39105,2,13,120,Cine,NA,NA
+11090,2,13,96,Cine y Televisión,Licenciatura en Comunicación Audiovisual,NA
+41018,NA,NA,78,Comunicación Escénica,NA,NA
+34064,NA,NA,110,Construcción Civil,NA,NA
+27037,8,3,95,Construcción Civil,NA,NA
+12038,8,13,72,Construcción Civil,NA,NA
+15002,NA,NA,127,Construcción Civil,NA,NA
+15110,8,5,127,Construcción Civil,NA,NA
+33019,NA,NA,107,Construcción Civil,NA,NA
+39106,8,13,120,Construcción Civil,NA,NA
+22003,NA,NA,111,Contador Auditor,NA,NA
+22004,4,15,111,Contador Auditor,NA,NA
+11026,10,13,96,Contador Auditor,Licenciatura en Contabilidad y Auditoría,NA
+18078,10,2,87,Contador Auditor,NA,NA
+18056,4,2,87,Contador Auditor,NA,NA
+38006,4,13,114,Contador Auditor,NA,NA
+14006,4,5,73,Contador Auditor,NA,NA
+37055,8,9,88,Contador Auditor,NA,NA
+23017,NA,NA,79,Contador Auditor,NA,NA
+36016,4,8,85,Contador Auditor,NA,NA
+41027,4,13,78,Contador Auditor,NA,NA
+41075,4,5,78,Contador Auditor,NA,NA
+41108,NA,NA,78,Contador Auditor,NA,NA
+45041,10,13,77,Contador Público y Auditor,NA,NA
+16038,4,13,109,Contador Público y Auditor,NA,NA
+16036,4,13,109,Contador Público y Auditor,NA,NA
+29045,4,8,101,Contador Público y Auditor,NA,NA
+29063,4,8,101,Contador Público y Auditor,NA,NA
+23063,4,1,79,Contador Público y Auditor,NA,NA
+34059,10,7,110,Contador Público y Auditor,NA,NA
+30000,4,9,98,Contador Público y Auditor,NA,NA
+32011,4,10,105,Contador Público y Auditor,NA,NA
+21012,4,13,129,Contador Público y Auditor,NA,NA
+23049,NA,NA,79,Contador Público y Auditor,NA,NA
+34011,NA,NA,110,Contador Público y Auditor,NA,NA
+34054,NA,NA,110,Contador Público y Auditor,NA,NA
+17082,5,14,80,Derecho,Licenciatura en Ciencias Jurídicas y Sociales,NA
+11055,5,13,96,Derecho,Licenciatura en Ciencias Jurídicas y Sociales,NA
+39107,5,13,120,Derecho,NA,NA
+39139,5,13,120,Derecho,NA,NA
+13029,5,8,97,Derecho,NA,NA
+22021,5,15,111,Derecho,NA,NA
+22095,5,1,111,Derecho,NA,NA
+34051,5,7,110,Derecho,NA,NA
+34052,5,13,110,Derecho,NA,NA
+14030,5,5,73,Derecho,NA,NA
+23016,5,1,79,Derecho,NA,NA
+23018,5,9,79,Derecho,NA,NA
+24040,5,2,92,Derecho,NA,NA
+25070,5,4,100,Derecho,NA,NA
+30039,5,9,98,Derecho,NA,NA
+33025,5,12,107,Derecho,NA,NA
+38004,4,13,114,Derecho,NA,NA
+39403,5,9,120,Derecho,NA,NA
+40030,5,13,115,Derecho,NA,NA
+41021,4,13,78,Derecho,NA,NA
+41071,4,5,78,Derecho,NA,NA
+41106,4,8,78,Derecho,NA,NA
+42003,5,13,75,Derecho,NA,NA
+42023,5,5,75,Derecho,NA,NA
+44006,4,13,102,Derecho,NA,NA
+44026,4,8,102,Derecho,NA,NA
+12021,5,13,72,Derecho,NA,NA
+13024,5,8,97,Derecho,NA,NA
+18060,5,2,87,Derecho,NA,NA
+18083,5,4,87,Derecho,NA,NA
+19030,5,5,112,Derecho,NA,NA
+27040,5,3,95,Derecho,NA,NA
+36001,5,8,85,Derecho,NA,NA
+37040,5,9,88,Derecho,NA,NA
+43012,4,13,104,Derecho,NA,NA
+45009,4,13,77,Derecho,NA,NA
+21071,2,13,129,Dibujante Proyectista,NA,NA
+26038,2,5,108,Dibujante Proyectista,NA,NA
+36077,2,8,85,Dirección Audiovisual y Multimedia,NA,NA
+25066,2,4,100,Diseño,NA,NA
+38015,2,13,114,Diseño,NA,NA
+11005,2,13,96,Diseño,Licenciatura en Diseño,NA
+19023,NA,NA,112,Diseño,NA,NA
+14003,2,5,73,Diseño,NA,NA
+19098,NA,NA,112,Diseño,NA,NA
+34062,2,7,110,Diseño,NA,NA
+12006,2,13,72,Diseño,NA,NA
+39108,2,13,120,Diseño,NA,NA
+40002,2,13,115,Diseño,NA,NA
+44007,2,13,102,Diseño,NA,NA
+44027,2,8,102,Diseño,NA,NA
+19022,2,5,112,Diseño,NA,NA
+32096,NA,NA,105,Diseño,NA,NA
+42006,NA,NA,75,Diseño,NA,NA
+41139,2,13,78,Diseño de Juegos Digitales,NA,NA
+37002,NA,NA,88,Diseño de Producto,NA,NA
+41160,2,13,78,Diseño de Productos,NA,NA
+41161,NA,NA,78,Diseño de Productos,NA,NA
+41138,2,13,78,Diseño de Vestuario y Textil,NA,NA
+21024,2,13,129,Diseño en Comunicación Visual,NA,NA
+26039,NA,NA,108,Diseño Gráfico,Licenciatura en Diseño Gráfico,NA
+29064,2,8,101,Diseño Gráfico,NA,NA
+37052,2,9,88,Diseño Gráfico,NA,NA
+41002,2,13,78,Diseño Gráfico,NA,NA
+41062,2,5,78,Diseño Gráfico,NA,NA
+39404,NA,NA,120,Diseño Gráfico,NA,NA
+24001,NA,NA,92,Diseño Gráfico Publicitario,NA,NA
+29004,2,8,101,Diseño Industrial,NA,NA
+37051,2,9,88,Diseño Industrial,NA,NA
+21023,2,13,129,Diseño Industrial,NA,NA
+24049,NA,NA,92,Ecología Marina,Licenciado en Ciencias Ecológicas,NA
+41023,4,13,78,Ecoturismo,NA,NA
+41072,4,5,78,Ecoturismo,NA,NA
+41107,4,8,78,Ecoturismo,NA,NA
+13092,7,8,97,Educación Básica,NA,NA
+13032,7,8,97,Educación Básica,NA,NA
+45008,6,13,77,Educación Básica,NA,NA
+36009,7,8,85,Educación de Párvulos,NA,NA
+37023,7,9,88,Educación de Párvulos,NA,NA
+43023,4,13,104,Educación de Párvulos,NA,NA
+13089,7,8,97,Educación Diferencial,NA,NA
+13028,7,8,97,Educación Diferencial,NA,NA
+35012,NA,NA,86,Educación Especial y Diferenciada,NA,NA
+41034,7,13,78,Educación Física,NA,NA
+41080,7,5,78,Educación Física,NA,NA
+41112,7,8,78,Educación Física,NA,NA
+40050,7,13,115,Educación General Básica,NA,NA
+32052,NA,NA,105,Educación General Básica,NA,NA
+41035,7,13,78,Educación General Básica,NA,NA
+41081,7,5,78,Educación General Básica,NA,NA
+41113,NA,NA,78,Educación General Básica,NA,NA
+32046,NA,NA,105,Educación General Básica en Inglés,NA,NA
+41036,2,13,78,Educación Musical,NA,NA
+35021,7,7,86,Educación Parvularia,NA,NA
+26004,7,5,108,Educación Parvularia,NA,NA
+26000,7,5,108,Educación Parvularia,Licenciatura en Educación,NA
+22106,7,1,111,Educación Parvularia,NA,NA
+24002,NA,NA,92,Educación Parvularia,NA,NA
+19038,NA,NA,112,Educación Parvularia,NA,NA
+22061,7,15,111,Educación Parvularia,NA,NA
+23010,7,1,79,Educación Parvularia,NA,NA
+14034,7,5,73,Educación Parvularia,NA,NA
+32051,7,10,105,Educación Parvularia,NA,NA
+40051,7,13,115,Educación Parvularia,NA,NA
+13027,7,8,97,Educación Parvularia,NA,NA
+13090,NA,NA,97,Educación Parvularia,NA,NA
+19037,7,5,112,Educación Parvularia,NA,NA
+22060,NA,NA,111,Educación Parvularia,NA,NA
+32047,NA,NA,105,Educación Parvularia,NA,NA
+35014,NA,NA,86,Educación Parvularia,NA,NA
+41037,7,13,78,Educación Parvularia,NA,NA
+41082,7,5,78,Educación Parvularia,NA,NA
+41114,NA,NA,78,Educación Parvularia,NA,NA
+45016,4,13,77,Educación Parvularia,NA,NA
+11077,NA,NA,96,Educación Parvularia y Básica Inicial,NA,NA
+22092,NA,NA,111,Educación Parvularia y Psicopedagogía,NA,NA
+33160,NA,NA,107,Enfermera,NA,NA
+12057,9,13,72,Enfermería,NA,NA
+17005,9,14,80,Enfermería,Licenciatura en Enfermería,NA
+17825,9,10,80,Enfermería,Licenciatura en Enfermería,NA
+26092,9,5,108,Enfermería,Licenciatura en Enfermería,NA
+11080,9,13,96,Enfermería,Licenciatura en Enfermería,NA
+13104,9,8,97,Enfermería,NA,NA
+29052,9,8,101,Enfermería,NA,NA
+13103,9,8,97,Enfermería,NA,NA
+33060,9,12,107,Enfermería,NA,NA
+22026,9,15,111,Enfermería,NA,NA
+22104,9,1,111,Enfermería,NA,NA
+16092,9,13,109,Enfermería,NA,NA
+27080,9,3,95,Enfermería,NA,NA
+34026,9,7,110,Enfermería,NA,NA
+44016,9,13,102,Enfermería,NA,NA
+44032,9,8,102,Enfermería,NA,NA
+23060,9,9,79,Enfermería,NA,NA
+24003,9,2,92,Enfermería,NA,NA
+25033,9,4,100,Enfermería,NA,NA
+30020,9,9,98,Enfermería,NA,NA
+32005,9,10,105,Enfermería,NA,NA
+35006,9,7,86,Enfermería,NA,NA
+36021,9,8,85,Enfermería,NA,NA
+23026,9,1,79,Enfermería,NA,NA
+32027,9,10,105,Enfermería,NA,NA
+13087,9,8,97,Enfermería,NA,NA
+18089,9,4,87,Enfermería,NA,NA
+19041,9,5,112,Enfermería,NA,NA
+19042,9,5,112,Enfermería,NA,NA
+35002,9,7,86,Enfermería,NA,NA
+38173,9,13,114,Enfermería,NA,NA
+39109,9,13,120,Enfermería,NA,NA
+39405,9,9,120,Enfermería,NA,NA
+40073,9,13,115,Enfermería,NA,NA
+41032,9,13,78,Enfermería,NA,NA
+41078,9,5,78,Enfermería,NA,NA
+41111,9,8,78,Enfermería,NA,NA
+43024,9,13,104,Enfermería,NA,NA
+14017,4,5,73,Estadística,NA,NA
+43026,4,13,104,Filosofía,NA,NA
+12030,6,13,72,Filosofía,NA,NA
+11033,3,13,96,Física,Licenciatura en Ciencias,NA
+12031,3,13,72,Física,NA,NA
+17087,9,10,80,Fonoaudiología,Licenciatura en Fonoaudiología,NA
+11081,9,13,96,Fonoaudiología,Licenciatura en Fonoaudiología,NA
+29055,9,8,101,Fonoaudiología,NA,NA
+33080,9,12,107,Fonoaudiología,NA,NA
+17088,4,10,80,Fonoaudiología,NA,NA
+30021,9,9,98,Fonoaudiología,NA,NA
+23078,9,1,79,Fonoaudiología,NA,NA
+32130,9,10,105,Fonoaudiología,NA,NA
+44017,9,13,102,Fonoaudiología,NA,NA
+44033,9,8,102,Fonoaudiología,NA,NA
+13082,9,8,97,Fonoaudiología,NA,NA
+24086,9,2,92,Fonoaudiología,NA,NA
+34025,9,7,110,Fonoaudiología,NA,NA
+37065,9,9,88,Fonoaudiología,NA,NA
+12062,9,13,72,Fonoaudiología,NA,NA
+19044,9,5,112,Fonoaudiología,NA,NA
+19046,9,5,112,Fonoaudiología,NA,NA
+39110,9,13,120,Fonoaudiología,NA,NA
+39406,9,9,120,Fonoaudiología,NA,NA
+41008,9,13,78,Fonoaudiología,NA,NA
+41156,9,8,78,Fonoaudiología,NA,NA
+41163,9,5,78,Fonoaudiología,NA,NA
+43033,9,13,104,Fonoaudiología,NA,NA
+26052,9,5,108,Fonoaudiología,Licenciatura en Fonoaudiología,NA
+13056,3,8,97,Geofísica,NA,NA
+17041,NA,NA,80,Geografía,Licenciatura en Geografía y Planificación,NA
+17814,4,14,80,Geografía,Licenciatura en Geografía,NA
+11062,4,13,96,Geografía,Licenciatura en Geografía,NA
+14018,4,5,73,Geografía,NA,NA
+37049,4,9,88,Geografía,NA,NA
+12034,4,13,72,Geografía,NA,NA
+13018,4,8,97,Geografía,NA,NA
+45033,3,13,77,Geografía,NA,NA
+17821,3,14,80,Geología,Licenciatura en Geología,NA
+44041,8,13,102,Geología,NA,NA
+27009,3,3,95,Geología,NA,NA
+13015,3,8,97,Geología,NA,NA
+18054,3,2,87,Geología,NA,NA
+37069,3,9,88,Geología,NA,NA
+39134,3,13,120,Geología,NA,NA
+41043,3,13,78,Geología,NA,NA
+41088,3,5,78,Geología,NA,NA
+41118,3,8,78,Geología,NA,NA
+19029,NA,NA,112,Gestión en Turismo y Cultura,NA,NA
+19027,4,5,112,Gestión en Turismo y Cultura,NA,NA
+19099,NA,NA,112,Gestión en Turismo y Cultura,NA,NA
+45028,4,13,77,"Gestión Información, Bibliotecología y Archivística",NA,NA
+12035,6,13,72,Historia,NA,NA
+38164,6,13,114,Historia,NA,NA
+40020,6,13,115,Historia,NA,NA
+43027,4,13,104,Historia,NA,NA
+13096,NA,NA,97,Ingeniería Agroindustrial,NA,NA
+13010,1,8,97,Ingeniería Agroindustrial,NA,NA
+11020,1,13,96,Ingeniería Agronómica,Licenciatura en Ciencias Agropecuarias,NA
+25031,1,4,100,Ingeniería Agronómica,NA,NA
+26064,8,5,108,Ingeniería Ambiental,Licenciatura en Ciencias de la Ingeniería,NA
+13044,8,8,97,Ingeniería Ambiental,NA,NA
+32020,8,10,105,Ingeniería Ambiental,NA,NA
+16022,8,13,109,Ingeniería Ambiental,NA,NA
+13061,8,8,97,Ingeniería Ambiental,NA,NA
+15023,NA,NA,127,Ingeniería Ambiental,NA,NA
+19074,8,5,112,Ingeniería Ambiental,NA,NA
+30082,NA,NA,98,Ingeniería Ambiental,NA,NA
+41024,3,13,78,Ingeniería Ambiental,NA,NA
+41140,9,13,78,Ingeniería Bioinformática,NA,NA
+43013,3,13,104,Ingeniería Civil,NA,NA
+13068,8,8,97,Ingeniería Civil,NA,NA
+29021,8,8,101,Ingeniería Civil,NA,NA
+14081,8,5,73,Ingeniería Civil,NA,NA
+25004,8,4,100,Ingeniería Civil,NA,NA
+30094,8,9,98,Ingeniería Civil,NA,NA
+13069,8,8,97,Ingeniería Civil,NA,NA
+15004,NA,NA,127,Ingeniería Civil,NA,NA
+15076,NA,NA,127,Ingeniería Civil,NA,NA
+15111,8,5,127,Ingeniería Civil,NA,NA
+15311,8,13,127,Ingeniería Civil,NA,NA
+18067,8,2,87,Ingeniería Civil,NA,NA
+19021,8,5,112,Ingeniería Civil,NA,NA
+35058,8,7,86,Ingeniería Civil,NA,NA
+36029,8,8,85,Ingeniería Civil,NA,NA
+41044,8,13,78,Ingeniería Civil,NA,NA
+41119,8,8,78,Ingeniería Civil,NA,NA
+17030,8,14,80,Ingeniería Civil Acústica,Licenciatura en Ciencias de la Ingeniería,NA
+13066,8,8,97,Ingeniería Civil Aeroespacial,NA,NA
+13009,1,8,97,Ingeniería Civil Agrícola,NA,NA
+26062,3,5,108,Ingeniería Civil Ambiental,Licenciatura en Ciencias de la Ingeniería,NA
+23058,8,1,79,Ingeniería Civil Ambiental,NA,NA
+25005,8,4,100,Ingeniería Civil Ambiental,NA,NA
+30079,8,9,98,Ingeniería Civil Ambiental,NA,NA
+15026,NA,NA,127,Ingeniería Civil Ambiental,NA,NA
+15151,8,5,127,Ingeniería Civil Ambiental,NA,NA
+18065,8,2,87,Ingeniería Civil Ambiental,NA,NA
+37013,8,9,88,Ingeniería Civil Ambiental,NA,NA
+13062,9,8,97,Ingeniería Civil Biomédica,NA,NA
+19076,3,5,112,Ingeniería Civil Biomédica,NA,NA
+14060,8,5,73,Ingeniería Civil Bioquímica,NA,NA
+13063,8,8,97,Ingeniería Civil de Materiales,NA,NA
+14083,8,5,73,Ingeniería Civil de Minas,NA,NA
+34068,8,7,110,Ingeniería Civil de Minas,NA,NA
+23074,8,1,79,Ingeniería Civil de Minas,NA,NA
+25003,8,4,100,Ingeniería Civil de Minas,NA,NA
+13102,8,8,97,Ingeniería Civil de Minas,NA,NA
+15080,NA,NA,127,Ingeniería Civil de Minas,NA,NA
+15312,8,13,127,Ingeniería Civil de Minas,NA,NA
+18072,8,2,87,Ingeniería Civil de Minas,NA,NA
+22073,NA,NA,111,Ingeniería Civil Eléctrica,NA,NA
+29029,8,8,101,Ingeniería Civil Eléctrica,NA,NA
+14061,8,5,73,Ingeniería Civil Eléctrica,NA,NA
+34078,8,7,110,Ingeniería Civil Eléctrica,NA,NA
+30077,8,9,98,Ingeniería Civil Eléctrica,NA,NA
+13070,8,8,97,Ingeniería Civil Eléctrica,NA,NA
+15005,NA,NA,127,Ingeniería Civil Eléctrica,NA,NA
+15077,NA,NA,127,Ingeniería Civil Eléctrica,NA,NA
+15130,8,5,127,Ingeniería Civil Eléctrica,NA,NA
+15330,8,13,127,Ingeniería Civil Eléctrica,NA,NA
+36067,8,8,85,Ingeniería Civil Eléctrica,NA,NA
+22074,NA,NA,111,Ingeniería Civil Electrónica,NA,NA
+17036,8,14,80,Ingeniería Civil Electrónica,Licenciatura en Ciencias de la Ingeniería,NA
+14062,8,5,73,Ingeniería Civil Electrónica,NA,NA
+23075,8,1,79,Ingeniería Civil Electrónica,NA,NA
+30012,8,9,98,Ingeniería Civil Electrónica,NA,NA
+13071,8,8,97,Ingeniería Civil Electrónica,NA,NA
+15006,NA,NA,127,Ingeniería Civil Electrónica,NA,NA
+15131,8,5,127,Ingeniería Civil Electrónica,NA,NA
+21075,8,13,129,Ingeniería Civil Electrónica,NA,NA
+39111,8,13,120,Ingeniería Civil Electrónica,NA,NA
+21005,NA,NA,129,Ingeniería Civil en Agroindustrias,NA,NA
+29028,8,8,101,Ingeniería Civil en Automatización,NA,NA
+34030,8,7,110,Ingeniería Civil en Bioinformática,NA,NA
+30090,8,9,98,Ingeniería Civil en Biotecnología,NA,NA
+36060,NA,NA,85,Ingeniería Civil en Biotecnología Acuícola,NA,NA
+34007,8,7,110,Ingeniería Civil en Computación,NA,NA
+23051,NA,NA,79,Ingeniería Civil en Computación e Informática,NA,NA
+23048,8,1,79,Ingeniería Civil en Computación e Informática,NA,NA
+27004,8,3,95,Ingeniería Civil en Computación e Informática,NA,NA
+18068,8,2,87,Ingeniería Civil en Computación e Informática,NA,NA
+18092,8,4,87,Ingeniería Civil en Computación e Informática,NA,NA
+39112,8,13,120,Ingeniería Civil en Computación e Informática,NA,NA
+39407,NA,NA,120,Ingeniería Civil en Computación e Informática,NA,NA
+16001,8,13,109,Ingeniería Civil en Electricidad,NA,NA
+27061,NA,NA,95,Ingeniería Civil en Electricidad,NA,NA
+27062,NA,NA,95,Ingeniería Civil en Electrónica,NA,NA
+16002,8,13,109,Ingeniería Civil en Geografía,NA,NA
+16003,8,13,109,Ingeniería Civil en Industria,NA,NA
+29024,1,8,101,Ingeniería Civil en Industrias de la Madera,NA,NA
+29025,NA,NA,101,Ingeniería Civil en Industrias Forestales,NA,NA
+17008,8,14,80,Ingeniería Civil en Informática,Licenciatura en Ciencias de la Ingeniería,NA
+22069,8,1,111,Ingeniería Civil en Informática,NA,NA
+29027,4,8,101,Ingeniería Civil en Informática,NA,NA
+29057,4,8,101,Ingeniería Civil en Informática,NA,NA
+16004,8,13,109,Ingeniería Civil en Informática,NA,NA
+32016,8,10,105,Ingeniería Civil en Informática,NA,NA
+32003,8,10,105,Ingeniería Civil en Informática,NA,NA
+21007,NA,NA,129,Ingeniería Civil en Informática,NA,NA
+37018,8,9,88,Ingeniería Civil en Informática,NA,NA
+38175,8,13,114,Ingeniería Civil en Informática y Telecomunicaciones,NA,NA
+16005,8,13,109,Ingeniería Civil en Mecánica,NA,NA
+21096,8,13,129,Ingeniería Civil en Mecánica,NA,NA
+27060,NA,NA,95,Ingeniería Civil en Mecánica,NA,NA
+22078,NA,NA,111,Ingeniería Civil en Metalurgia,NA,NA
+16006,8,13,109,Ingeniería Civil en Metalurgia,NA,NA
+27003,8,3,95,Ingeniería Civil en Metalurgia,NA,NA
+41131,8,13,78,Ingeniería Civil en Metalurgia,NA,NA
+41135,8,5,78,Ingeniería Civil en Metalurgia,NA,NA
+41154,8,8,78,Ingeniería Civil en Metalurgia,NA,NA
+14066,8,5,73,Ingeniería Civil en Metalurgia Extractiva,NA,NA
+16007,8,13,109,Ingeniería Civil en Minas,NA,NA
+27001,8,3,95,Ingeniería Civil en Minas,NA,NA
+22079,NA,NA,111,Ingeniería Civil en Minas,NA,NA
+41130,8,13,78,Ingeniería Civil en Minas,NA,NA
+41134,8,5,78,Ingeniería Civil en Minas,NA,NA
+41153,8,8,78,Ingeniería Civil en Minas,NA,NA
+44040,NA,NA,102,Ingeniería Civil en Minería,NA,NA
+44039,8,13,102,Ingeniería Civil en Minería,NA,NA
+17004,8,14,80,Ingeniería Civil en Obras Civiles,Licenciatura en Ciencias de la Ingeniería,NA
+34037,8,7,110,Ingeniería Civil en Obras Civiles,NA,NA
+44014,8,13,102,Ingeniería Civil en Obras Civiles,NA,NA
+16008,8,13,109,Ingeniería Civil en Obras Civiles,NA,NA
+21074,8,13,129,Ingeniería Civil en Obras Civiles,NA,NA
+37056,8,9,88,Ingeniería Civil en Obras Civiles,NA,NA
+38176,8,13,114,Ingeniería Civil en Obras Civiles,NA,NA
+21087,8,13,129,Ingeniería Civil en Prevención de Riesgos y Medio Ambiente,NA,NA
+24068,8,2,92,Ingeniería Civil en Procesos de Minerales,NA,NA
+16009,8,13,109,Ingeniería Civil en Química,NA,NA
+13064,8,8,97,Ingeniería Civil en Telecomunicaciones,NA,NA
+36063,8,8,85,Ingeniería Civil Geológica,NA,NA
+37058,8,9,88,Ingeniería Civil Geológica,NA,NA
+24064,NA,NA,92,Ingeniería Civil Geomática Licenciado en Ciencia,NA,NA
+22101,8,1,111,Ingeniería Civil Industrial,NA,NA
+17822,4,14,80,Ingeniería Civil Industrial,Licenciatura en Ciencias de la Ingeniería,NA
+17052,4,10,80,Ingeniería Civil Industrial,Licenciatura en Ciencias de la Ingeniería,NA
+26063,8,5,108,Ingeniería Civil Industrial,Licenciatura en Ciencias de la Ingeniería,NA
+19058,NA,NA,112,Ingeniería Civil Industrial,NA,NA
+19056,NA,NA,112,Ingeniería Civil Industrial,NA,NA
+29020,1,8,101,Ingeniería Civil Industrial,NA,NA
+15007,NA,NA,127,Ingeniería Civil Industrial,NA,NA
+14063,8,5,73,Ingeniería Civil Industrial,NA,NA
+15074,NA,NA,127,Ingeniería Civil Industrial,NA,NA
+32018,8,10,105,Ingeniería Civil Industrial,NA,NA
+34006,8,7,110,Ingeniería Civil Industrial,NA,NA
+44015,8,13,102,Ingeniería Civil Industrial,NA,NA
+44031,8,8,102,Ingeniería Civil Industrial,NA,NA
+21076,8,13,129,Ingeniería Civil Industrial,NA,NA
+23012,8,1,79,Ingeniería Civil Industrial,NA,NA
+24070,8,2,92,Ingeniería Civil Industrial,NA,NA
+25001,8,4,100,Ingeniería Civil Industrial,NA,NA
+27005,8,3,95,Ingeniería Civil Industrial,NA,NA
+13072,8,8,97,Ingeniería Civil Industrial,NA,NA
+15170,8,5,127,Ingeniería Civil Industrial,NA,NA
+15270,8,13,127,Ingeniería Civil Industrial,NA,NA
+18062,8,2,87,Ingeniería Civil Industrial,NA,NA
+18093,8,4,87,Ingeniería Civil Industrial,NA,NA
+19052,8,5,112,Ingeniería Civil Industrial,NA,NA
+19094,8,13,112,Ingeniería Civil Industrial,NA,NA
+23057,NA,NA,79,Ingeniería Civil Industrial,NA,NA
+35057,8,7,86,Ingeniería Civil Industrial,NA,NA
+36030,8,8,85,Ingeniería Civil Industrial,NA,NA
+37019,8,9,88,Ingeniería Civil Industrial,NA,NA
+38174,4,13,114,Ingeniería Civil Industrial,NA,NA
+39113,8,13,120,Ingeniería Civil Industrial,NA,NA
+39408,8,9,120,Ingeniería Civil Industrial,NA,NA
+40061,8,13,115,Ingeniería Civil Industrial,NA,NA
+41046,8,13,78,Ingeniería Civil Industrial,NA,NA
+41089,8,5,78,Ingeniería Civil Industrial,NA,NA
+41121,8,8,78,Ingeniería Civil Industrial,NA,NA
+24071,NA,NA,92,Ingeniería Civil Industrial en Electricidad Licenciatura Ciencias de la Ingeniería,NA,NA
+24072,NA,NA,92,Ingeniería Civil Industrial en Electrónica Licenciatura Ciencias de la Ingeniería,NA,NA
+24073,NA,NA,92,Ingeniería Civil Industrial en Mecánica,NA,NA
+24074,NA,NA,92,Ingeniería Civil Industrial en Minas,NA,NA
+30080,8,9,98,Ingeniería Civil Industrial Mención Bioprocesos,NA,NA
+30002,8,9,98,Ingeniería Civil Industrial Mención Informática,NA,NA
+30075,8,9,98,Ingeniería Civil Industrial Mención Mecánica,NA,NA
+15008,NA,NA,127,Ingeniería Civil Informática,NA,NA
+14064,8,5,73,Ingeniería Civil Informática,NA,NA
+15075,NA,NA,127,Ingeniería Civil Informática,NA,NA
+30095,8,9,98,Ingeniería Civil Informática,NA,NA
+13073,8,8,97,Ingeniería Civil Informática,NA,NA
+15160,8,5,127,Ingeniería Civil Informática,NA,NA
+15360,8,13,127,Ingeniería Civil Informática,NA,NA
+19085,8,5,112,Ingeniería Civil Informática,NA,NA
+35040,8,7,86,Ingeniería Civil Informática,NA,NA
+36031,8,8,85,Ingeniería Civil Informática,NA,NA
+41045,8,13,78,Ingeniería Civil Informática,NA,NA
+41162,8,5,78,Ingeniería Civil Informática,NA,NA
+40062,8,13,115,Ingeniería Civil Informática y Telecomunicaciones,NA,NA
+36059,NA,NA,85,Ingeniería Civil Logística,NA,NA
+30078,8,9,98,Ingeniería Civil Matemática,NA,NA
+13003,8,8,97,Ingeniería Civil Matemática,NA,NA
+15027,NA,NA,127,Ingeniería Civil Matemática,NA,NA
+15081,NA,NA,127,Ingeniería Civil Matemática,NA,NA
+15101,8,5,127,Ingeniería Civil Matemática,NA,NA
+15301,8,13,127,Ingeniería Civil Matemática,NA,NA
+17079,8,14,80,Ingeniería Civil Mecánica,Licenciatura en Ciencias de la Ingeniería,NA
+29026,8,8,101,Ingeniería Civil Mecánica,NA,NA
+14065,8,5,73,Ingeniería Civil Mecánica,NA,NA
+34039,8,7,110,Ingeniería Civil Mecánica,NA,NA
+25002,8,4,100,Ingeniería Civil Mecánica,NA,NA
+30096,8,9,98,Ingeniería Civil Mecánica,NA,NA
+13074,8,8,97,Ingeniería Civil Mecánica,NA,NA
+15009,NA,NA,127,Ingeniería Civil Mecánica,NA,NA
+15078,NA,NA,127,Ingeniería Civil Mecánica,NA,NA
+15140,8,5,127,Ingeniería Civil Mecánica,NA,NA
+15340,8,13,127,Ingeniería Civil Mecánica,NA,NA
+22076,NA,NA,111,Ingeniería Civil Mecánica,NA,NA
+34038,8,7,110,Ingeniería Civil Mecatrónica,NA,NA
+23024,8,1,79,Ingeniería Civil Metalúrgica,NA,NA
+13075,8,8,97,Ingeniería Civil Metalúrgica,NA,NA
+15010,NA,NA,127,Ingeniería Civil Metalúrgica,NA,NA
+15141,8,5,127,Ingeniería Civil Metalúrgica,NA,NA
+18069,8,2,87,Ingeniería Civil Metalúrgica,NA,NA
+19081,8,5,112,Ingeniería Civil Oceánica,NA,NA
+19082,NA,NA,112,Ingeniería Civil Oceánica,NA,NA
+29019,3,8,101,Ingeniería Civil Química,NA,NA
+14067,8,5,73,Ingeniería Civil Química,NA,NA
+30038,8,9,98,Ingeniería Civil Química,NA,NA
+13076,8,8,97,Ingeniería Civil Química,NA,NA
+15011,NA,NA,127,Ingeniería Civil Química,NA,NA
+15079,NA,NA,127,Ingeniería Civil Química,NA,NA
+15150,8,5,127,Ingeniería Civil Química,NA,NA
+15350,8,13,127,Ingeniería Civil Química,NA,NA
+18070,8,2,87,Ingeniería Civil Química,NA,NA
+37053,8,9,88,Ingeniería Civil Química,NA,NA
+30074,8,9,98,Ingeniería Civil Telemática,NA,NA
+15025,NA,NA,127,Ingeniería Civil Telemática,NA,NA
+15161,8,5,127,Ingeniería Civil Telemática,NA,NA
+42001,4,13,75,Ingeniería Comercial,NA,NA
+11042,4,13,96,Ingeniería Comercial,Licenciatura en Ciencias Económicas o Licenciatura en Ciencias en la Administración de Empresas,NA
+17078,4,10,80,Ingeniería Comercial,Licenciatura en Ciencias de la Administración de Empresas,NA
+38003,10,13,114,Ingeniería Comercial,NA,NA
+17009,4,14,80,Ingeniería Comercial,Licenciatura en Ciencias de la Administración de Empresas,NA
+12014,4,13,72,Ingeniería Comercial,NA,NA
+42021,4,5,75,Ingeniería Comercial,NA,NA
+19055,NA,NA,112,Ingeniería Comercial,NA,NA
+19057,NA,NA,112,Ingeniería Comercial,NA,NA
+13078,4,8,97,Ingeniería Comercial,NA,NA
+13030,4,8,97,Ingeniería Comercial,NA,NA
+39114,4,13,120,Ingeniería Comercial,NA,NA
+22005,4,15,111,Ingeniería Comercial,NA,NA
+33009,4,12,107,Ingeniería Comercial,NA,NA
+41028,10,13,78,Ingeniería Comercial,NA,NA
+23044,NA,NA,79,Ingeniería Comercial,NA,NA
+39138,4,13,120,Ingeniería Comercial,NA,NA
+16035,4,13,109,Ingeniería Comercial,NA,NA
+29049,10,8,101,Ingeniería Comercial,NA,NA
+29059,10,8,101,Ingeniería Comercial,NA,NA
+40040,10,13,115,Ingeniería Comercial,NA,NA
+15020,NA,NA,127,Ingeniería Comercial,NA,NA
+13019,4,8,97,Ingeniería Comercial,NA,NA
+15073,NA,NA,127,Ingeniería Comercial,NA,NA
+14005,4,5,73,Ingeniería Comercial,NA,NA
+23013,4,1,79,Ingeniería Comercial,NA,NA
+25067,4,4,100,Ingeniería Comercial,NA,NA
+27063,4,3,95,Ingeniería Comercial,NA,NA
+30085,4,9,98,Ingeniería Comercial,NA,NA
+34018,4,7,110,Ingeniería Comercial,NA,NA
+34058,4,13,110,Ingeniería Comercial,NA,NA
+35056,8,7,86,Ingeniería Comercial,NA,NA
+37020,4,9,88,Ingeniería Comercial,NA,NA
+41076,10,5,78,Ingeniería Comercial,NA,NA
+41109,10,8,78,Ingeniería Comercial,NA,NA
+41129,10,13,78,Ingeniería Comercial,NA,NA
+43010,10,13,104,Ingeniería Comercial,NA,NA
+44008,10,13,102,Ingeniería Comercial,NA,NA
+44028,10,8,102,Ingeniería Comercial,NA,NA
+32012,4,10,105,Ingeniería Comercial,NA,NA
+15171,8,5,127,Ingeniería Comercial,NA,NA
+15271,8,13,127,Ingeniería Comercial,NA,NA
+18046,4,2,87,Ingeniería Comercial,NA,NA
+18084,4,4,87,Ingeniería Comercial,NA,NA
+19060,4,5,112,Ingeniería Comercial,NA,NA
+19095,4,13,112,Ingeniería Comercial,NA,NA
+21048,4,13,129,Ingeniería Comercial,NA,NA
+32015,NA,NA,105,Ingeniería Comercial,NA,NA
+36012,4,8,85,Ingeniería Comercial,NA,NA
+39409,4,9,120,Ingeniería Comercial,NA,NA
+45001,10,13,77,Ingeniería Comercial,NA,NA
+16067,8,13,109,Ingeniería de Alimentos,NA,NA
+14078,8,5,73,Ingeniería de Alimentos,NA,NA
+33014,NA,NA,107,Ingeniería de Ejecución Agropecuaria,NA,NA
+22098,NA,NA,111,Ingeniería de Ejecución Computación e Informática,NA,NA
+13095,NA,NA,97,Ingeniería de Ejecución en Agroindustria,NA,NA
+16020,NA,NA,109,Ingeniería de Ejecución en Ambiente,NA,NA
+14073,8,5,73,Ingeniería de Ejecución en Bioprocesos,NA,NA
+16021,8,13,109,Ingeniería de Ejecución en Climatización,NA,NA
+29056,NA,NA,101,Ingeniería de Ejecución en Computación e Informática,NA,NA
+29037,4,8,101,Ingeniería de Ejecución en Computación e Informática,NA,NA
+16014,8,13,109,Ingeniería de Ejecución en Computación e Informática,NA,NA
+22085,NA,NA,111,Ingeniería de Ejecución en Computación e Informática,NA,NA
+33016,NA,NA,107,Ingeniería de Ejecución en Computación e Informática,NA,NA
+16011,8,13,109,Ingeniería de Ejecución en Electricidad,NA,NA
+24075,8,2,92,Ingeniería de Ejecución en Electricidad,NA,NA
+29030,8,8,101,Ingeniería de Ejecución en Electricidad,NA,NA
+33001,NA,NA,107,Ingeniería de Ejecución en Electricidad,NA,NA
+24076,8,2,92,Ingeniería de Ejecución en Electrónica,NA,NA
+29035,8,8,101,Ingeniería de Ejecución en Electrónica,NA,NA
+30017,NA,NA,98,Ingeniería de Ejecución en Electrónica,NA,NA
+16012,8,13,109,Ingeniería de Ejecución en Geomensura,NA,NA
+13097,NA,NA,97,Ingeniería de Ejecución en Geomensura,NA,NA
+16013,8,13,109,Ingeniería de Ejecución en Industria,NA,NA
+14074,8,5,73,Ingeniería de Ejecución en Informática,NA,NA
+29031,NA,NA,101,Ingeniería de Ejecución en Maderas,NA,NA
+16015,8,13,109,Ingeniería de Ejecución en Mecánica,NA,NA
+24078,8,2,92,Ingeniería de Ejecución en Mecánica,NA,NA
+29032,8,8,101,Ingeniería de Ejecución en Mecánica,NA,NA
+34001,NA,NA,110,Ingeniería de Ejecución en Mecánica,NA,NA
+25012,NA,NA,100,Ingeniería de Ejecución en Mecánica,NA,NA
+15442,8,5,127,Ingeniería de Ejecución en Mecánica de Procesos y Mantenimiento Industrial,NA,NA
+15542,8,8,127,Ingeniería de Ejecución en Mecánica de Procesos y Mantenimiento Industrial,NA,NA
+16016,8,13,109,Ingeniería de Ejecución en Metalurgia,NA,NA
+23009,NA,NA,79,Ingeniería de Ejecución en Metalurgia Extractiva,NA,NA
+16017,8,13,109,Ingeniería de Ejecución en Minas,NA,NA
+24079,8,2,92,Ingeniería de Ejecución en Minas,NA,NA
+25013,NA,NA,100,Ingeniería de Ejecución en Minas,NA,NA
+23023,NA,NA,79,Ingeniería de Ejecución en Pesca y Acuicultura,NA,NA
+15044,NA,NA,127,Ingeniería de Ejecución en Prevención de Riesgos,NA,NA
+15063,NA,NA,127,Ingeniería de Ejecución en Prevención de Riesgos,NA,NA
+36069,NA,NA,85,Ingeniería de Ejecución en Prevención de Riesgos,NA,NA
+16019,8,13,109,Ingeniería de Ejecución en Química,NA,NA
+22086,NA,NA,111,Ingeniería de Ejecución en Redes Computacionales,NA,NA
+16018,NA,NA,109,Ingeniería de Ejecución en Textil,NA,NA
+13099,NA,NA,97,Ingeniería de Ejecución Forestal,NA,NA
+22087,NA,NA,111,Ingeniería de Ejecución Industrial,NA,NA
+22089,NA,NA,111,Ingeniería de Ejecución Mecánica,NA,NA
+33002,NA,NA,107,Ingeniería de Ejecución Mecánica,NA,NA
+15045,NA,NA,127,Ingeniería de Ejecución Mecánica de Procesos y Mantención Industrial,NA,NA
+15064,NA,NA,127,Ingeniería de Ejecución Mecánica de Procesos y Mantención Industrial,NA,NA
+11023,NA,NA,96,Ingeniería de la Madera,Licenciatura en Ciencias de Madera,NA
+14068,8,5,73,Ingeniería de Transporte,NA,NA
+22083,NA,NA,111,Ingeniería Ejecución Eléctrica,NA,NA
+22084,NA,NA,111,Ingeniería Ejecución Electrónica,NA,NA
+22099,NA,NA,111,Ingeniería Ejecución en Redes Computacionales,NA,NA
+30087,NA,NA,98,Ingeniería Eléctrica,NA,NA
+14069,8,5,73,Ingeniería Eléctrica,NA,NA
+30088,NA,NA,98,Ingeniería Electrónica,NA,NA
+14070,8,5,73,Ingeniería Electrónica,NA,NA
+17047,NA,NA,80,Ingeniería Electrónica,NA,NA
+17058,NA,NA,80,Ingeniería en Acuicultura,NA,NA
+24008,NA,NA,92,Ingeniería en Acuicultura,NA,NA
+14077,NA,NA,73,Ingeniería en Acuicultura,NA,NA
+18081,1,4,87,Ingeniería en Acuicultura,NA,NA
+32025,NA,NA,105,Ingeniería en Acuicultura,NA,NA
+33067,NA,NA,107,Ingeniería en Acuicultura,NA,NA
+37012,NA,NA,88,Ingeniería en Acuicultura,NA,NA
+41074,NA,NA,78,Ingeniería en Acuicultura,NA,NA
+41025,NA,NA,78,Ingeniería en Acuicultura,NA,NA
+14084,NA,NA,73,Ingeniería en Acuicultura o Ingeniería Pesquera,NA,NA
+36014,NA,NA,85,Ingeniería en Acuicultura y Pesca,NA,NA
+39115,4,13,120,Ingeniería en Administración,NA,NA
+41110,NA,NA,78,Ingeniería en Administración,NA,NA
+21015,1,13,129,Ingeniería en Administración Agroindustrial,NA,NA
+21060,NA,NA,129,Ingeniería en Administración Agroindustrial,NA,NA
+25069,8,4,100,Ingeniería en Administración de Empresas,NA,NA
+41029,10,13,78,Ingeniería en Administración de Empresas,NA,NA
+41077,10,5,78,Ingeniería en Administración de Empresas,NA,NA
+32013,NA,NA,105,Ingeniería en Administración de Negocios,NA,NA
+41030,4,13,78,Ingeniería en Administración Hotelera Internacional,NA,NA
+16068,1,13,109,Ingeniería en Agronegocios,NA,NA
+17053,1,14,80,Ingeniería en Alimentos,Licenciatura en Ciencias de los Alimentos,NA
+11031,1,13,96,Ingeniería en Alimentos,Licenciatura en Ciencias de los Alimentos,NA
+24037,NA,NA,92,Ingeniería en Alimentos,NA,NA
+29051,1,8,101,Ingeniería en Alimentos,NA,NA
+25014,8,4,100,Ingeniería en Alimentos,NA,NA
+32023,8,10,105,Ingeniería en Alimentos,NA,NA
+13021,NA,NA,97,Ingeniería en Alimentos,NA,NA
+30004,NA,NA,98,Ingeniería en Alimentos,NA,NA
+41047,8,13,78,Ingeniería en Automatización y Robótica,NA,NA
+15090,NA,NA,127,Ingeniería en Aviación Comercial,NA,NA
+15220,8,13,127,Ingeniería en Aviación Comercial,NA,NA
+34009,NA,NA,110,Ingeniería en Bioinformática,NA,NA
+24082,NA,NA,92,Ingeniería en Bioprocesos,NA,NA
+23056,8,1,79,Ingeniería en Biotecnología,NA,NA
+16010,8,13,109,Ingeniería en Biotecnología,NA,NA
+21073,8,13,129,Ingeniería en Biotecnología,NA,NA
+32017,NA,NA,105,Ingeniería en Biotecnología,NA,NA
+35033,8,7,86,Ingeniería en Biotecnología,NA,NA
+41006,3,13,78,Ingeniería en Biotecnología,NA,NA
+41064,3,5,78,Ingeniería en Biotecnología,NA,NA
+13016,1,8,97,Ingeniería en Biotecnología Marina y Acuicultura,NA,NA
+11039,3,13,96,Ingeniería en Biotecnología Molecular,Licenciatura en Biotecnología Molecular,NA
+13085,7,8,97,Ingeniería en Biotecnología Vegetal,NA,NA
+13020,3,8,97,Ingeniería en Biotecnología Vegetal,NA,NA
+21081,4,13,129,Ingeniería en Comercio Internacional,NA,NA
+17059,NA,NA,80,Ingeniería en Computación,NA,NA
+25034,8,4,100,Ingeniería en Computación,NA,NA
+18057,8,2,87,Ingeniería en Computación e Informática,NA,NA
+41048,8,13,78,Ingeniería en Computación e Informática,NA,NA
+41090,8,5,78,Ingeniería en Computación e Informática,NA,NA
+33161,NA,NA,107,Ingeniería en Computación e Informática,NA,NA
+17827,1,14,80,Ingeniería en Conservación de Recursos Naturales,NA,NA
+17075,NA,NA,80,Ingeniería en Conservación de Recursos Naturales,Licenciatura en Conservación de Recursos Naturales,NA
+13043,1,8,97,Ingeniería en Conservación de Recursos Naturales,NA,NA
+17037,8,14,80,Ingeniería en Construcción,Licenciatura en Ciencias de la Construcción,NA
+29005,8,8,101,Ingeniería en Construcción,NA,NA
+33070,8,12,107,Ingeniería en Construcción,NA,NA
+25010,8,4,100,Ingeniería en Construcción,NA,NA
+14071,8,5,73,Ingeniería en Construcción,NA,NA
+30007,8,9,98,Ingeniería en Construcción,NA,NA
+18041,8,2,87,Ingeniería en Construcción,NA,NA
+19026,8,5,112,Ingeniería en Construcción,NA,NA
+21032,8,13,129,Ingeniería en Construcción,NA,NA
+35041,8,7,86,Ingeniería en Construcción,NA,NA
+39402,8,9,120,Ingeniería en Construcción,NA,NA
+41049,8,13,78,Ingeniería en Construcción,NA,NA
+40042,8,13,115,Ingeniería en Control de Gestión,NA,NA
+38292,4,13,114,Ingeniería en Control de Gestión,NA,NA
+34079,8,7,110,Ingeniería en Desarrollo de Videojuegos y Realidad Virtual,NA,NA
+15024,NA,NA,127,Ingeniería en Diseño de Productos,NA,NA
+15181,8,5,127,Ingeniería en Diseño de Productos,NA,NA
+21036,NA,NA,129,Ingeniería en Electrónica,NA,NA
+19072,4,5,112,Ingeniería en Estadística,NA,NA
+26068,8,5,108,Ingeniería en Estadística,Licenciado en Ciencias de la Ingeniería,NA
+24066,NA,NA,92,Ingeniería en Estadística,Licenciado en Estadística,NA
+15048,NA,NA,127,Ingeniería en Fabricación y Diseño Industrial,NA,NA
+15441,8,5,127,Ingeniería en Fabricación y Diseño Industrial,NA,NA
+13017,NA,NA,97,Ingeniería en Geoinformación,NA,NA
+21031,8,13,129,Ingeniería en Geomensura,NA,NA
+41050,NA,NA,78,Ingeniería en Gestión Informática,NA,NA
+21082,4,13,129,Ingeniería en Gestión Turística,NA,NA
+21039,8,13,129,Ingeniería en Industria Alimentaria,NA,NA
+21038,NA,NA,129,Ingeniería en Industria de la Madera,NA,NA
+34008,NA,NA,110,Ingeniería en Industrias de la Madera,NA,NA
+17815,4,10,80,Ingeniería en Información y Control de Gestión,Licenciatura en Ciencias de la Información y Control de Gestión,NA
+11027,10,13,96,Ingeniería en Información y Control de Gestión,Licenciatura en Sistemas de Información y Control de Gestión,NA
+22008,4,15,111,Ingeniería en Información y Control de Gestión,NA,NA
+23062,4,1,79,Ingeniería en Información y Control de Gestión,NA,NA
+17045,NA,NA,80,Ingeniería en Información y Control de Gestión,Licenciatura en Gestión de la Información,NA
+18071,4,2,87,Ingeniería en Información y Control de Gestión,NA,NA
+18094,4,4,87,Ingeniería en Información y Control de Gestión,NA,NA
+19083,10,5,112,Ingeniería en Información y Control de Gestión,NA,NA
+11041,NA,NA,96,Ingeniería en Información y Control de Gestión y/o Contador Auditor,NA,NA
+22006,NA,NA,111,Ingeniería en Información y Control de Gestión y/o Contador Auditor,NA,NA
+21030,8,13,129,Ingeniería en Informática,NA,NA
+19073,NA,NA,112,Ingeniería en Informática Aplicada,NA,NA
+41051,NA,NA,78,Ingeniería en Logística y Transporte,NA,NA
+17083,NA,NA,80,Ingeniería en Maderas,NA,NA
+41091,8,5,78,Ingeniería en Marina Mercante,NA,NA
+41123,8,8,78,Ingeniería en Marina Mercante,NA,NA
+21037,NA,NA,129,Ingeniería en Mecánica,NA,NA
+34065,NA,NA,110,Ingeniería en Mecatrónica,NA,NA
+32019,NA,NA,105,Ingeniería en Medio Ambiente y Manejo Costero,NA,NA
+18058,8,2,87,Ingeniería en Metalurgia,NA,NA
+19088,4,5,112,Ingeniería en Negocios Internacionales,NA,NA
+19089,4,13,112,Ingeniería en Negocios Internacionales,NA,NA
+21042,NA,NA,129,Ingeniería en Prevención de Riesgo y Medio Ambiente,NA,NA
+21008,NA,NA,129,Ingeniería en Prevención de Riesgos,NA,NA
+13084,8,8,97,Ingeniería en Prevención de Riesgos,NA,NA
+15049,NA,NA,127,Ingeniería en Prevención de Riesgos Laborales y Ambientales,NA,NA
+15068,NA,NA,127,Ingeniería en Prevención de Riesgos Laborales y Ambientales,NA,NA
+15474,8,5,127,Ingeniería en Prevención de Riesgos Laborales y Ambientales,NA,NA
+15574,8,8,127,Ingeniería en Prevención de Riesgos Laborales y Ambientales,NA,NA
+37063,8,9,88,Ingeniería en Prevención de Riesgos y Medioambiente,NA,NA
+18076,8,2,87,Ingeniería en Prevención de Riesgos y Medioambiente,NA,NA
+18086,8,4,87,Ingeniería en Prevención de Riesgos y Medioambiente,NA,NA
+18059,8,2,87,Ingeniería en Procesos Químicos,NA,NA
+21080,3,13,129,Ingeniería en Química,NA,NA
+29069,1,8,101,Ingeniería en Recursos Naturales,NA,NA
+30069,1,9,98,Ingeniería en Recursos Naturales,NA,NA
+11024,1,13,96,Ingeniería en Recursos Naturales Renovables,Licenciatura en Ciencias de los Recursos Naturales Renovables,NA
+37050,1,9,88,Ingeniería en Recursos Naturales Renovables,NA,NA
+22081,NA,NA,111,Ingeniería en Redes Computacionales,NA,NA
+41053,NA,NA,78,Ingeniería en Seguridad y Prevención de Riesgos,NA,NA
+41092,NA,NA,78,Ingeniería en Seguridad y Prevención de Riesgos,NA,NA
+41137,NA,NA,78,Ingeniería en Telecomunicaciones,NA,NA
+41093,8,5,78,Ingeniería en Transporte Marítimo,NA,NA
+21025,8,13,129,Ingeniería en Transporte y Tránsito,NA,NA
+41031,4,13,78,Ingeniería en Turismo y Hotelería,NA,NA
+41136,4,5,78,Ingeniería en Turismo y Hotelería,NA,NA
+29018,4,8,101,Ingeniería Estadística,NA,NA
+16048,4,13,109,Ingeniería Estadística,NA,NA
+13065,4,8,97,Ingeniería Estadística,NA,NA
+16042,3,13,109,Ingeniería Física,NA,NA
+41011,3,13,78,Ingeniería Física,NA,NA
+11021,1,13,96,Ingeniería Forestal,Licenciatura en Ciencias Forestales,NA
+17010,NA,NA,80,Ingeniería Forestal,NA,NA
+13008,1,8,97,Ingeniería Forestal,NA,NA
+30071,NA,NA,98,Ingeniería Forestal,NA,NA
+34002,NA,NA,110,Ingeniería Forestal,NA,NA
+35032,NA,NA,86,Ingeniería Forestal,NA,NA
+37010,NA,NA,88,Ingeniería Forestal,NA,NA
+39116,1,13,120,Ingeniería Forestal,NA,NA
+41054,NA,NA,78,Ingeniería Geológica,NA,NA
+13093,8,8,97,Ingeniería Geomática,NA,NA
+19066,NA,NA,112,Ingeniería Industrial,NA,NA
+21045,8,13,129,Ingeniería Industrial,NA,NA
+41055,8,13,78,Ingeniería Industrial,NA,NA
+30086,8,9,98,Ingeniería Informática,NA,NA
+34019,4,7,110,Ingeniería Informática Empresarial,NA,NA
+36008,NA,NA,85,Ingeniería Marítimo Portuaria,NA,NA
+16047,3,13,109,Ingeniería Matemática,NA,NA
+30084,NA,NA,98,Ingeniería Matemática,NA,NA
+14072,8,5,73,Ingeniería Mecánica,NA,NA
+17048,NA,NA,80,Ingeniería Mecánica,NA,NA
+30081,NA,NA,98,Ingeniería Mecánica,NA,NA
+34066,NA,NA,110,Ingeniería Mecánica,NA,NA
+15016,NA,NA,127,Ingeniería Mecánica Industrial,NA,NA
+22080,NA,NA,111,Ingeniería Mecatrónica,NA,NA
+17040,8,14,80,Ingeniería Naval,Licenciatura en Ciencias de la Ingeniería,NA
+14079,NA,NA,73,Ingeniería Pesquera,NA,NA
+22028,8,15,111,Ingeniería Química Ambiental,NA,NA
+14038,6,5,73,Interpretación o Traducción,NA,NA
+34067,NA,NA,110,Interpretación y Docencia Musical,NA,NA
+17076,9,14,80,Kinesiología,Licenciatura en Kinesiología,NA
+26094,9,5,108,Kinesiología,Licenciatura en Kinesiología,NA
+11082,9,13,96,Kinesiología,Licenciatura en Kinesiología,NA
+22103,9,1,111,Kinesiología,NA,NA
+33023,9,12,107,Kinesiología,NA,NA
+14015,9,5,73,Kinesiología,NA,NA
+16098,9,13,109,Kinesiología,NA,NA
+23065,9,1,79,Kinesiología,NA,NA
+23068,9,9,79,Kinesiología,NA,NA
+44018,9,13,102,Kinesiología,NA,NA
+44034,9,8,102,Kinesiología,NA,NA
+24011,9,2,92,Kinesiología,NA,NA
+25037,9,4,100,Kinesiología,NA,NA
+27050,9,3,95,Kinesiología,NA,NA
+30023,9,9,98,Kinesiología,NA,NA
+32002,9,10,105,Kinesiología,NA,NA
+34024,9,7,110,Kinesiología,NA,NA
+36064,9,8,85,Kinesiología,NA,NA
+32028,9,10,105,Kinesiología,NA,NA
+12061,9,13,72,Kinesiología,NA,NA
+13083,9,8,97,Kinesiología,NA,NA
+18090,9,4,87,Kinesiología,NA,NA
+19043,9,5,112,Kinesiología,NA,NA
+20098,9,13,121,Kinesiología,NA,NA
+35001,9,7,86,Kinesiología,NA,NA
+37064,9,9,88,Kinesiología,NA,NA
+38325,9,13,114,Kinesiología,NA,NA
+39117,9,13,120,Kinesiología,NA,NA
+39410,9,9,120,Kinesiología,NA,NA
+40071,9,13,115,Kinesiología,NA,NA
+41009,9,13,78,Kinesiología,NA,NA
+41066,9,5,78,Kinesiología,NA,NA
+41102,9,8,78,Kinesiología,NA,NA
+43015,9,13,104,Kinesiología,NA,NA
+22052,9,15,111,Kinesiología y Rehabilitación,NA,NA
+26032,2,5,108,Licenciatura en Artes,NA,NA
+13053,NA,NA,97,Licenciatura en Artes Plásticas,NA,NA
+17065,2,14,80,Licenciatura en Artes Visuales,NA,NA
+37005,2,9,88,Licenciatura en Artes Visuales,NA,NA
+25028,3,4,100,Licenciatura en Astronomía,NA,NA
+41012,3,13,78,Licenciatura en Astronomía,NA,NA
+24059,NA,NA,92,Licenciatura en Biología,NA,NA
+16046,7,13,109,Licenciatura en Ciencia de la Computación,NA,NA
+33038,NA,NA,107,Licenciatura en Ciencias Biológicas,NA,NA
+17816,3,14,80,Licenciatura en Ciencias con,NA,NA
+16094,NA,NA,109,Licenciatura en Ciencias de la Actividad Física,NA,NA
+16097,9,13,109,Licenciatura en Ciencias de la Actividad Física / Entrenador Deportivo,NA,NA
+16096,9,13,109,Licenciatura en Ciencias de la Actividad Física / Terapeuta en Actividad Física y Salud,NA,NA
+22027,NA,NA,111,Licenciatura en Ciencias Exactas Ingreso Común,NA,NA
+18082,6,4,87,Licenciatura en Ciencias Religiosas,NA,NA
+36054,6,8,85,Licenciatura en Ciencias Religiosas y Estudios Eclesiásticos,NA,NA
+19064,NA,NA,112,Licenciatura en Ciencias Socio,NA,NA
+40043,4,13,115,Licenciatura en Dirección y Gestión de Artes Culinarias,NA,NA
+33039,NA,NA,107,Licenciatura en Educación,NA,NA
+20006,NA,NA,121,Pedagogía en Artes,Licenciatura en Educación en las Artes Plásticas,NA
+20007,7,13,121,Licenciatura en Educación y Pedagogía en Artes Visuales,NA,NA
+20061,7,13,121,Licenciatura en Educación y Pedagogía en Educación Física,Deportes y Recreación,NA
+20056,7,13,121,Licenciatura en Educación y Pedagogía en Educación Física,Deportes y Recreación,NA
+27021,7,3,95,Licenciatura en Educación y Pedagogía en Educación Física,NA,NA
+27023,7,3,95,Licenciatura en Educación y Pedagogía en Educación General Básica,NA,NA
+27028,7,3,95,Licenciatura en Educación y Pedagogía en Educación Parvularia,NA,NA
+20071,7,13,121,Licenciatura en Educación y Pedagogía en Filosofía,NA,NA
+27027,6,3,95,Licenciatura en Educación y Pedagogía en Inglés,NA,NA
+20011,7,13,121,Licenciatura en Educación y Pedagogía en Música,NA,NA
+33021,NA,NA,107,Licenciatura en Enfermería,NA,NA
+16057,6,13,109,Licenciatura en Estudios Internacionales,NA,NA
+41038,NA,NA,78,Licenciatura en Filosofa,NA,NA
+11061,6,13,96,Licenciatura en Filosofía,NA,NA
+36055,6,8,85,Licenciatura en Filosofía,NA,NA
+45010,4,13,77,Licenciatura en Filosofía,NA,NA
+25027,3,4,100,Licenciatura en Física,NA,NA
+41013,3,13,78,Licenciatura en Física,NA,NA
+16058,7,13,109,Licenciatura en Historia,NA,NA
+11063,6,13,96,Licenciatura en Historia,NA,NA
+13059,6,8,97,Licenciatura en Historia,NA,NA
+36061,6,8,85,Licenciatura en Historia,NA,NA
+41039,6,13,78,Licenciatura en Historia,NA,NA
+41084,6,5,78,Licenciatura en Historia,NA,NA
+41115,NA,NA,78,Licenciatura en Historia,NA,NA
+45017,4,13,77,Licenciatura en Historia,NA,NA
+27029,6,3,95,Licenciatura en Idioma Inglés y Título Profesional de Traductor Inglés-Español,NA,NA
+45011,6,13,77,Licenciatura en Lengua y Literatura,NA,NA
+22064,7,15,111,Licenciatura en Lenguaje y Comunicación,NA,NA
+41040,6,13,78,Licenciatura en Letras,NA,NA
+41085,NA,NA,78,Licenciatura en Letras,NA,NA
+16054,6,13,109,Licenciatura en Lingüística Aplicada a la Traducción en Inglés-Japonés e Inglés-Portugués,NA,NA
+13002,3,8,97,Licenciatura en Matemática,NA,NA
+18074,3,2,87,Licenciatura en Matemática,NA,NA
+25020,3,4,100,Licenciatura en Matemática,NA,NA
+25046,2,4,100,Licenciatura en Música,NA,NA
+34063,NA,NA,110,Licenciatura en Música,NA,NA
+20012,2,13,121,Licenciatura en Música y Dirección de Agrupaciones Musicales Instrumentales,NA,NA
+13001,3,8,97,Licenciatura en Química,NA,NA
+41014,3,13,78,Licenciatura en Química,NA,NA
+45034,2,13,77,Licenciatura en Teoría e Historia del Artes,NA,NA
+11072,6,13,96,Lingüística y Literatura,Licenciatura en Lingüística o en Literatura,NA
+11065,6,13,96,Lingüística y Literatura Inglesas,Licenciatura en,NA
+40021,6,13,115,Literatura,NA,NA
+43028,4,13,104,Literatura,NA,NA
+38166,6,13,114,Literatura Creativa,NA,NA
+12051,3,13,72,Matemática,NA,NA
+19077,NA,NA,112,Matemática,NA,NA
+11034,3,13,96,Matemáticas,Licenciatura en Ciencias,NA
+11083,9,13,96,Medicina,Licenciatura en Medicina,NA
+33053,9,12,107,Medicina,NA,NA
+22050,9,15,111,Medicina,NA,NA
+16091,9,13,109,Medicina,NA,NA
+44019,9,13,102,Medicina,NA,NA
+24047,9,2,92,Medicina,NA,NA
+30026,9,9,98,Medicina,NA,NA
+34020,9,7,110,Medicina,NA,NA
+36020,9,8,85,Medicina,NA,NA
+12058,9,13,72,Medicina,NA,NA
+13086,9,8,97,Medicina,NA,NA
+18087,9,4,87,Medicina,NA,NA
+19039,9,5,112,Medicina,NA,NA
+19040,9,5,112,Medicina,NA,NA
+35005,9,7,86,Medicina,NA,NA
+38170,9,13,114,Medicina,NA,NA
+39118,9,13,120,Medicina,NA,NA
+39411,9,9,120,Medicina,NA,NA
+40070,9,13,115,Medicina,NA,NA
+41056,9,13,78,Medicina,NA,NA
+41095,9,5,78,Medicina,NA,NA
+41164,9,8,78,Medicina,NA,NA
+43014,9,13,104,Medicina,NA,NA
+17031,9,14,80,Medicina,Licenciatura en Medicina,NA
+17013,9,14,80,Medicina,Licenciatura en Medicina,NA
+17014,1,14,80,Medicina Veterinaria,Licenciatura en Medicina Veterinaria,NA
+11022,1,13,96,Medicina Veterinaria,Licenciatura en Ciencias Veterinaria y Pecuarias,NA
+13007,1,8,97,Medicina Veterinaria,NA,NA
+37011,1,9,88,Medicina Veterinaria,NA,NA
+13011,1,8,97,Medicina Veterinaria,NA,NA
+39119,1,13,120,Medicina Veterinaria,NA,NA
+39412,1,9,120,Medicina Veterinaria,NA,NA
+41026,1,13,78,Medicina Veterinaria,NA,NA
+19071,NA,NA,112,Meteorología,NA,NA
+24089,2,2,92,Música,NA,NA
+19013,NA,NA,112,Música,NA,NA
+12059,2,13,72,Música Opciones en:,NA,NA
+11084,9,13,96,Nutrición y Dietética,Licenciatura en Nutrición y Dietética,NA
+26071,9,5,108,Nutrición y Dietética,Licenciatura en Nutrición,NA
+29054,9,8,101,Nutrición y Dietética,NA,NA
+22055,9,15,111,Nutrición y Dietética,NA,NA
+22102,9,1,111,Nutrición y Dietética,NA,NA
+33072,9,12,107,Nutrición y Dietética,NA,NA
+24065,9,2,92,Nutrición y Dietética,NA,NA
+34027,9,7,110,Nutrición y Dietética,NA,NA
+44020,9,13,102,Nutrición y Dietética,NA,NA
+44035,9,8,102,Nutrición y Dietética,NA,NA
+27051,9,3,95,Nutrición y Dietética,NA,NA
+30029,9,9,98,Nutrición y Dietética,NA,NA
+36051,9,8,85,Nutrición y Dietética,NA,NA
+32029,9,10,105,Nutrición y Dietética,NA,NA
+12060,9,13,72,Nutrición y Dietética,NA,NA
+13050,9,8,97,Nutrición y Dietética,NA,NA
+18091,9,4,87,Nutrición y Dietética,NA,NA
+19091,9,5,112,Nutrición y Dietética,NA,NA
+35007,9,7,86,Nutrición y Dietética,NA,NA
+37067,9,9,88,Nutrición y Dietética,NA,NA
+39120,9,13,120,Nutrición y Dietética,NA,NA
+39413,9,9,120,Nutrición y Dietética,NA,NA
+40072,9,13,115,Nutrición y Dietética,NA,NA
+41057,9,13,78,Nutrición y Dietética,NA,NA
+41096,9,5,78,Nutrición y Dietética,NA,NA
+41125,9,8,78,Nutrición y Dietética,NA,NA
+43017,9,13,104,Nutrición y Dietética,NA,NA
+41159,9,8,78,Obstetricia,NA,NA
+38323,9,13,114,Obstetricia y Neonatología,NA,NA
+17015,9,14,80,Obstetricia y Puericultura,Licenciatura en Obstetricia y Puericultura,NA
+11085,9,13,96,Obstetricia y Puericultura,Licenciatura en Obstetricia y Puericultura,NA
+16093,9,13,109,Obstetricia y Puericultura,NA,NA
+24013,9,2,92,Obstetricia y Puericultura,NA,NA
+27052,9,3,95,Obstetricia y Puericultura,NA,NA
+30032,9,9,98,Obstetricia y Puericultura,NA,NA
+13088,9,8,97,Obstetricia y Puericultura,NA,NA
+19036,9,5,112,Obstetricia y Puericultura,NA,NA
+19047,9,5,112,Obstetricia y Puericultura,NA,NA
+22040,NA,NA,111,Obstetricia y Puericultura,NA,NA
+39121,9,13,120,Obstetricia y Puericultura,NA,NA
+39414,9,9,120,Obstetricia y Puericultura,NA,NA
+43032,9,13,104,Obstetricia y Puericultura,NA,NA
+14080,1,5,73,Oceanografía,NA,NA
+17089,9,14,80,Odontología,Licenciatura en Odontología,NA
+11095,9,13,96,Odontología,Licenciatura en Odontología,NA
+23077,9,1,79,Odontología,NA,NA
+44021,9,13,102,Odontología,NA,NA
+44036,9,8,102,Odontología,NA,NA
+24048,9,2,92,Odontología,NA,NA
+25036,9,4,100,Odontología,NA,NA
+30033,9,9,98,Odontología,NA,NA
+34023,9,7,110,Odontología,NA,NA
+12056,9,13,72,Odontología,NA,NA
+13091,9,8,97,Odontología,NA,NA
+19050,9,5,112,Odontología,NA,NA
+38171,9,13,114,Odontología,NA,NA
+39122,9,13,120,Odontología,NA,NA
+39415,9,9,120,Odontología,NA,NA
+40080,9,13,115,Odontología,NA,NA
+41060,9,13,78,Odontología,NA,NA
+41099,9,5,78,Odontología,NA,NA
+41127,9,8,78,Odontología,NA,NA
+43018,9,13,104,Odontología,NA,NA
+14019,NA,NA,73,Óptico,NA,NA
+30044,7,9,98,Pedagogía Castellano y Comunicación,NA,NA
+11521,7,13,96,Pedagogía de Educación Media en Biología y Química,Licenciatura en Ciencias Naturales,NA
+34048,7,7,110,Pedagogía de Educación Media en Inglés,NA,NA
+11028,3,13,96,Pedagogía de Educación Media en Matemática y Física,Licenciatura en Ciencias Exactas,NA
+30047,7,9,98,"Pedagogía Educación Física, Deportes y Recreación",NA,NA
+36057,7,8,85,Pedagogía Educación Media en Biología y Ciencias Naturales,NA,NA
+39123,7,13,120,Pedagogía en Artes Musicales para Educación Básica y Media,NA,NA
+33069,7,12,107,Pedagogía en Artes Musicales para Enseñanza Básica y Media,NA,NA
+26030,7,5,108,Pedagogía en Artes Plásticas,Licenciatura en Educación,NA
+13038,7,8,97,Pedagogía en Artes Plásticas,NA,NA
+45035,2,13,77,Pedagogía en Artes Visuales,NA,NA
+33084,NA,NA,107,Pedagogía en Biología para e Media,NA,NA
+26060,3,5,108,Pedagogía en Biología y Ciencias,Licenciatura en Educación,NA
+22031,3,15,111,Pedagogía en Biología y Ciencias Naturales,NA,NA
+24041,7,2,92,Pedagogía en Biología y Ciencias Naturales,NA,NA
+13035,7,8,97,Pedagogía en Biología y Ciencias Naturales,NA,NA
+45039,NA,NA,77,Pedagogía en Biología y Ciencias Naturales,NA,NA
+25024,7,4,100,Pedagogía en Biología y Ciencias Naturales,NA,NA
+14011,3,5,73,Pedagogía en Biología y Ciencias Naturales y/o Licenciatura en Biología,NA,NA
+23055,NA,NA,79,Pedagogía en Biología y Química,NA,NA
+26009,6,5,108,Pedagogía en Castellano,NA,NA
+26010,6,5,108,Pedagogía en Castellano,Licenciatura en Educación,NA
+26058,NA,NA,108,Pedagogía en Castellano,Licenciatura en Educación,NA
+16050,7,13,109,Pedagogía en Castellano,Licenciatura en Educación en Castellano,NA
+14031,6,5,73,Pedagogía en Castellano y Comunicación,NA,NA
+22091,7,15,111,Pedagogía en Castellano y Comunicación,NA,NA
+29072,6,8,101,Pedagogía en Castellano y Comunicación,NA,NA
+33082,7,12,107,Pedagogía en Castellano y Comunicación para Enseñanza Media,NA,NA
+25041,NA,NA,100,Pedagogía en Castellano y Filosofía,NA,NA
+35016,7,7,86,Pedagogía en Ciencias,NA,NA
+29073,3,8,101,Pedagogía en Ciencias Naturales,NA,NA
+13079,7,8,97,Pedagogía en Ciencias Naturales y Biología,NA,NA
+13036,7,8,97,Pedagogía en Ciencias Naturales y Física,NA,NA
+17085,7,14,80,Pedagogía en Comunicación en Lengua Inglesa,Licenciatura en Educación,NA
+14033,7,5,73,Pedagogía en Educación Básica,NA,NA
+26005,7,5,108,Pedagogía en Educación Básica,Licenciatura en Educación,NA
+11523,7,13,96,Pedagogía en Educación Básica,Licenciatura en Educación,NA
+22041,7,1,111,Pedagogía en Educación Básica,NA,NA
+33033,7,12,107,Pedagogía en Educación Básica,NA,NA
+22037,7,15,111,Pedagogía en Educación Básica,NA,NA
+36010,7,8,85,Pedagogía en Educación Básica,NA,NA
+43020,4,13,104,Pedagogía en Educación Básica,NA,NA
+29083,NA,NA,101,Pedagogía en Educación Básica Especialidad Lenguaje y,NA,NA
+37045,7,9,88,Pedagogía en Educación Básica Intercultural en Contexto Mapuche,NA,NA
+22093,NA,NA,111,Pedagogía en Educación Básica y Psicopedagogía,NA,NA
+22062,NA,NA,111,Pedagogía en Educación Básica y Psicopedagogía,NA,NA
+44012,4,13,102,Pedagogía en Educación de Párvulos,NA,NA
+26007,7,5,108,Pedagogía en Educación Diferencial,Licenciatura en Educación,NA
+17073,NA,NA,80,Pedagogía en Educación Diferencial,Licenciatura e,NA
+39416,NA,NA,120,Pedagogía en Educación Diferencial,NA,NA
+36056,7,8,85,Pedagogía en Educación Diferencial,NA,NA
+25052,7,4,100,Pedagogía en Educación Diferencial,NA,NA
+35020,7,7,86,Pedagogía en Educación Especial,NA,NA
+17074,7,14,80,Pedagogía en Educación Física,Deportes y Recreación,NA
+26047,7,5,108,Pedagogía en Educación Física,NA,NA
+26045,7,5,108,Pedagogía en Educación Física,NA,NA
+29071,9,8,101,Pedagogía en Educación Física,NA,NA
+37048,7,9,88,Pedagogía en Educación Física,NA,NA
+23073,7,1,79,Pedagogía en Educación Física,NA,NA
+14016,7,5,73,Pedagogía en Educación Física,NA,NA
+13034,NA,NA,97,Pedagogía en Educación Física,NA,NA
+35011,7,7,86,Pedagogía en Educación Física,NA,NA
+36066,7,8,85,Pedagogía en Educación Física,NA,NA
+13033,NA,NA,97,Pedagogía en Educación Física,NA,NA
+13101,7,8,97,Pedagogía en Educación Física,NA,NA
+16095,7,13,109,Pedagogía en Educación Física,Licenciatura en Ciencias de la Actividad Física,NA
+24054,7,2,92,Pedagogía en Educación Física Damas,NA,NA
+24053,7,2,92,Pedagogía en Educación Física Varones,NA,NA
+39417,NA,NA,120,"Pedagogía en Educación Física, Deportes y Recreación",NA,NA
+35018,7,7,86,Pedagogía en Educación General Básica,NA,NA
+16056,7,13,109,Pedagogía en Educación General Básica,NA,NA
+29082,7,8,101,Pedagogía en Educación General Básica,NA,NA
+25053,7,4,100,Pedagogía en Educación General Básica,NA,NA
+35015,NA,NA,86,Pedagogía en Educación General Básica,NA,NA
+38167,7,13,114,Pedagogía en Educación General Básica,NA,NA
+25051,7,4,100,Pedagogía en Educación General Básica,NA,NA
+24051,NA,NA,92,Pedagogía en Educación General Básica,Licenciatura en Ciencias de la Educación,NA
+23050,NA,NA,79,Pedagogía en Educación Gral Básica,NA,NA
+29086,3,8,101,Pedagogía en Educación Matemática,NA,NA
+32040,NA,NA,105,Pedagogía en Educación Media en Biología y Química,NA,NA
+12041,7,13,72,Pedagogía en Educación Media en Ciencias Naturales y Biología,NA,NA
+32039,7,10,105,Pedagogía en Educación Media en Educación Física,NA,NA
+32045,7,10,105,Pedagogía en Educación Media en Educación Física,NA,NA
+12044,7,13,72,Pedagogía en Educación Media en Física,NA,NA
+32034,7,10,105,Pedagogía en Educación Media en Historia y Geografía,NA,NA
+32042,7,10,105,Pedagogía en Educación Media en Inglés,NA,NA
+36052,7,8,85,Pedagogía en Educación Media en Inglés,NA,NA
+12043,7,13,72,Pedagogía en Educación Media en Matemática,NA,NA
+36065,7,8,85,Pedagogía en Educación Media en Matemática,NA,NA
+32037,7,10,105,Pedagogía en Educación Media en Matemática y Computación,NA,NA
+34047,NA,NA,110,Pedagogía en Educación Media en Matemáticas,NA,NA
+12042,7,13,72,Pedagogía en Educación Media en Química,NA,NA
+36053,7,8,85,Pedagogía en Educación Media Lenguaje y Comunicación,NA,NA
+26040,2,5,108,Pedagogía en Educación Musical,Licenciatura en Educación,NA
+25044,7,4,100,Pedagogía en Educación Musical,NA,NA
+13039,7,8,97,Pedagogía en Educación Musical,NA,NA
+20068,NA,NA,121,Pedagogía en Educación Parvularia,Licenciatura en Educación,NA
+20059,NA,NA,121,Pedagogía en Educación Parvularia,Licenciatura en Educación,NA
+11522,7,13,96,Pedagogía en Educación Parvularia,Licenciatura en Educación,NA
+33032,7,12,107,Pedagogía en Educación Parvularia,NA,NA
+29080,7,8,101,Pedagogía en Educación Parvularia,NA,NA
+12025,7,13,72,Pedagogía en Educación Parvularia,NA,NA
+12097,7,9,72,Pedagogía en Educación Parvularia,NA,NA
+25050,7,4,100,Pedagogía en Educación Parvularia,NA,NA
+38168,7,13,114,Pedagogía en Educación Parvularia,NA,NA
+26043,NA,NA,108,Pedagogía en Educación Tecnológica,Licenciatura en Educación Tecnológica,NA
+13041,7,8,97,Pedagogía en Español,NA,NA
+14035,6,5,73,Pedagogía en Filosofía,NA,NA
+26055,6,5,108,Pedagogía en Filosofía,Licenciatura en Educación,NA
+13042,7,8,97,Pedagogía en Filosofía,NA,NA
+19010,7,5,112,Pedagogía en Filosofía,NA,NA
+24061,NA,NA,92,Pedagogía en Filosofía,NA,NA
+45018,6,13,77,Pedagogía en Filosofía,NA,NA
+16053,7,13,109,Pedagogía en Filosofía,Licenciatura en Educación en Filosofía,NA
+18085,7,4,87,Pedagogía en Filosofía y Religión,NA,NA
+14076,3,5,73,Pedagogía en Física,NA,NA
+26066,3,5,108,Pedagogía en Física,Licenciatura en Educación,NA
+22025,3,15,111,Pedagogía en Física y Matemática,NA,NA
+16049,7,13,109,Pedagogía en Física y Matemática,Licenciatura en Educación de Física y Matemática,NA
+17077,7,14,80,Pedagogía en Historia y Ciencias Sociales,Licenciatura en Educación,NA
+19011,7,5,112,Pedagogía en Historia y Ciencias Sociales,NA,NA
+45020,4,13,77,Pedagogía en Historia y Ciencias Sociales,NA,NA
+16051,7,13,109,Pedagogía en Historia y Ciencias Sociales,Licenciatura en Educación en Historia y Ciencias Sociales,NA
+26098,6,5,108,Pedagogía en Historia y Geografía,NA,NA
+26050,6,5,108,Pedagogía en Historia y Geografía,Licenciatura en Educación,NA
+26053,NA,NA,108,Pedagogía en Historia y Geografía,NA,NA
+22059,7,15,111,Pedagogía en Historia y Geografía,NA,NA
+25042,7,4,100,Pedagogía en Historia y Geografía,NA,NA
+29078,4,8,101,Pedagogía en Historia y Geografía,NA,NA
+13040,7,8,97,Pedagogía en Historia y Geografía,NA,NA
+14036,4,5,73,"Pedagogía en Historia, Geografía y Ciencias Sociales",NA,NA
+37047,7,9,88,"Pedagogía en Historia, Geografía y Ciencias Sociales",NA,NA
+38327,7,13,114,Pedagogía en Inglés,NA,NA
+26059,6,5,108,Pedagogía en Inglés,NA,NA
+26025,6,5,108,Pedagogía en Inglés,Licenciatura en Educación,NA
+26042,NA,NA,108,Pedagogía en Inglés,Licenciatura en Educación,NA
+22090,7,15,111,Pedagogía en Inglés,NA,NA
+37026,7,9,88,Pedagogía en Inglés,NA,NA
+14037,6,5,73,Pedagogía en Inglés,NA,NA
+25043,7,4,100,Pedagogía en Inglés,NA,NA
+29076,6,8,101,Pedagogía en Inglés,NA,NA
+30056,7,9,98,Pedagogía en Inglés,NA,NA
+35019,7,7,86,Pedagogía en Inglés,NA,NA
+13057,7,8,97,Pedagogía en Inglés,NA,NA
+18066,6,2,87,Pedagogía en Inglés,NA,NA
+23002,NA,NA,79,Pedagogía en Inglés,NA,NA
+41041,6,13,78,Pedagogía en Inglés,NA,NA
+41086,6,5,78,Pedagogía en Inglés,NA,NA
+41116,6,8,78,Pedagogía en Inglés,NA,NA
+45021,6,13,77,Pedagogía en Inglés,NA,NA
+16052,7,13,109,Pedagogía en Inglés,Licenciatura en Educación en Inglés,NA
+23054,7,1,79,Pedagogía en Lengua Castellana y Comunicación,NA,NA
+37046,7,9,88,Pedagogía en Lengua Castellana y Comunicación,NA,NA
+35023,7,7,86,Pedagogía en Lengua Castellana y Comunicación,NA,NA
+45019,6,13,77,Pedagogía en Lengua Castellana y Comunicación,NA,NA
+17084,7,14,80,Pedagogía en Lenguaje y Comunicación,Licenciatura en Educación,NA
+24052,7,2,92,Pedagogía en Lenguaje y Comunicación,NA,NA
+22024,3,15,111,Pedagogía en Matemática,NA,NA
+45029,3,13,77,Pedagogía en Matemática,NA,NA
+26073,7,5,108,Pedagogía en Matemática,Licenciatura en Educación,NA
+18075,7,2,87,Pedagogía en Matemática en Educación Media,NA,NA
+26072,NA,NA,108,Pedagogía en Matemática y Computación,Licenciatura en Educación,NA
+13045,7,8,97,Pedagogía en Matemática y Computación,NA,NA
+22022,NA,NA,111,Pedagogía en Matemática y Computación,NA,NA
+35017,7,7,86,Pedagogía en Matemática y Computación,NA,NA
+16045,7,13,109,Pedagogía en Matemática y Computación,Licenciatura en Educación Matemática y Computación,NA
+13098,7,8,97,Pedagogía en Matemática y Educación Tecnológica,NA,NA
+23052,7,1,79,Pedagogía en Matemática y Física,NA,NA
+14075,3,5,73,Pedagogía en Matemáticas,NA,NA
+17811,7,10,80,Pedagogía en Matemáticas,Licenciatura en Educación,NA
+17012,NA,NA,80,Pedagogía en Matemáticas,Licenciatura en Educación,NA
+24055,3,2,92,Pedagogía en Matemáticas,NA,NA
+25021,7,4,100,Pedagogía en Matemáticas y Computación,NA,NA
+25025,7,4,100,Pedagogía en Matemáticas y Física,NA,NA
+14039,2,5,73,Pedagogía en Música,NA,NA
+45025,2,13,77,Pedagogía en Música,NA,NA
+24057,NA,NA,92,Pedagogía en Química,NA,NA
+16043,7,13,109,Pedagogía en Química y Biología,NA,NA
+26070,3,5,108,Pedagogía en Química y Ciencias,Licenciatura en Educación,NA
+25026,7,4,100,Pedagogía en Química y Ciencias Naturales,NA,NA
+13037,7,8,97,Pedagogía en Química y Ciencias Naturales,NA,NA
+14014,3,5,73,Pedagogía en Química y Ciencias Naturales,NA,NA
+22034,NA,NA,111,Pedagogía en Química y Ciencias Naturales,NA,NA
+35013,7,7,86,Pedagogía en Religión y Filosofía,NA,NA
+14041,NA,NA,73,Pedagogía en Religión y Moral,NA,NA
+37028,NA,NA,88,Pedagogía en Religión y Orientación,NA,NA
+30055,6,9,98,"Pedagogía Historia, Geografía y Educación Cívica",NA,NA
+30058,3,9,98,Pedagogía Matemática,NA,NA
+37024,7,9,88,Pedagogía Media Ciencias Naturales y Biología,NA,NA
+43022,4,13,104,Pedagogía Media en Filosofía,NA,NA
+43021,4,13,104,Pedagogía Media en Historia,NA,NA
+43029,4,13,104,Pedagogía Media en Lengua y Literatura,NA,NA
+37029,7,9,88,Pedagogía Media en Matemática,NA,NA
+36015,NA,NA,85,Pedagogía Media en Religión y Educación Moral,NA,NA
+17056,4,14,80,Periodismo,Licenciatura en Comunicación Social,NA
+12046,4,13,72,Periodismo,NA,NA
+26082,4,5,108,Periodismo,Licenciatura en Comunicación Social,NA
+11068,4,13,96,Periodismo,Licenciatura en Comunicación Social,NA
+16055,4,13,109,Periodismo,NA,NA
+14007,4,5,73,Periodismo,NA,NA
+25065,4,4,100,Periodismo,NA,NA
+30091,4,9,98,Periodismo,NA,NA
+40022,6,13,115,Periodismo,NA,NA
+42005,4,13,75,Periodismo,NA,NA
+42025,4,5,75,Periodismo,NA,NA
+44004,4,13,102,Periodismo,NA,NA
+44025,4,8,102,Periodismo,NA,NA
+13031,4,8,97,Periodismo,NA,NA
+18039,4,2,87,Periodismo,NA,NA
+36011,4,8,85,Periodismo,NA,NA
+38009,4,13,114,Periodismo,NA,NA
+39128,4,13,120,Periodismo,NA,NA
+41019,4,13,78,Periodismo,NA,NA
+45006,4,13,77,Periodismo,NA,NA
+43011,NA,NA,104,Periodismo / Publicidad / Comunicación Audiovisual,NA,NA
+15091,NA,NA,127,Piloto Comercial,NA,NA
+15221,NA,NA,127,Piloto Comercial,NA,NA
+27038,NA,NA,95,Plan Común de Tecnologías,NA,NA
+30076,8,9,98,Plan Común Ingeniería Civil,NA,NA
+22065,7,15,111,Profesor de Educación Física,NA,NA
+17826,4,14,80,Psicología,Licenciatura en Psicología,NA
+11069,4,13,96,Psicología,Licenciatura en Psicología,NA
+22020,4,15,111,Psicología,NA,NA
+22094,4,1,111,Psicología,NA,NA
+29067,9,8,101,Psicología,NA,NA
+13067,4,8,97,Psicología,NA,NA
+16060,4,13,109,Psicología,NA,NA
+23061,4,9,79,Psicología,NA,NA
+44023,4,13,102,Psicología,NA,NA
+44037,4,8,102,Psicología,NA,NA
+14040,4,5,73,Psicología,NA,NA
+23070,4,1,79,Psicología,NA,NA
+24085,4,2,92,Psicología,NA,NA
+25064,4,4,100,Psicología,NA,NA
+27020,4,3,95,Psicología,NA,NA
+30064,4,9,98,Psicología,NA,NA
+32163,4,10,105,Psicología,NA,NA
+37061,4,9,88,Psicología,NA,NA
+40074,9,13,115,Psicología,NA,NA
+42004,4,13,75,Psicología,NA,NA
+42024,4,5,75,Psicología,NA,NA
+43025,9,13,104,Psicología,NA,NA
+12017,4,13,72,Psicología,NA,NA
+18061,4,2,87,Psicología,NA,NA
+19045,4,5,112,Psicología,NA,NA
+32162,4,10,105,Psicología,NA,NA
+33078,4,12,107,Psicología,NA,NA
+34041,4,7,110,Psicología,NA,NA
+35004,4,7,86,Psicología,NA,NA
+38005,4,13,114,Psicología,NA,NA
+39129,4,13,120,Psicología,NA,NA
+39419,4,9,120,Psicología,NA,NA
+41015,4,13,78,Psicología,NA,NA
+41068,4,5,78,Psicología,NA,NA
+41104,4,8,78,Psicología,NA,NA
+45005,9,13,77,Psicología,NA,NA
+26084,4,5,108,Psicología,Licenciatura en Psicología,NA
+39130,7,13,120,Psicopedagogía,NA,NA
+41042,7,13,78,Psicopedagogía,NA,NA
+41087,7,5,78,Psicopedagogía,NA,NA
+41117,7,8,78,Psicopedagogía,NA,NA
+16066,4,13,109,Publicidad,NA,NA
+40023,6,13,115,Publicidad,NA,NA
+44005,2,13,102,Publicidad,NA,NA
+38013,4,13,114,Publicidad,NA,NA
+41020,4,13,78,Publicidad,NA,NA
+11036,3,13,96,Química,Licenciatura en Ciencias,NA
+11035,3,13,96,Química,Licenciatura en Química,NA
+12054,9,13,72,Química,NA,NA
+24063,8,2,92,Química Ambiental,NA,NA
+36058,3,8,85,Química Ambiental,NA,NA
+24080,NA,NA,92,Química en Tecnología Analítica,NA,NA
+14013,3,5,73,Química Industrial,NA,NA
+21083,3,13,129,Química Industrial,NA,NA
+22033,NA,NA,111,Química Ingreso Común,NA,NA
+36004,NA,NA,85,Química Marina,NA,NA
+17034,9,14,80,Química y Farmacia,Licenciatura en Ciencias Farmacéuticas,NA
+11037,9,13,96,Química y Farmacia,Licenciatura en Farmacia,NA
+16039,3,13,109,Química y Farmacia,NA,NA
+23047,9,1,79,Química y Farmacia,NA,NA
+30024,9,9,98,Química y Farmacia,NA,NA
+12055,9,13,72,Química y Farmacia,NA,NA
+13049,9,8,97,Química y Farmacia,NA,NA
+18063,9,2,87,Química y Farmacia,NA,NA
+19090,9,5,112,Química y Farmacia,NA,NA
+41058,9,13,78,Química y Farmacia,NA,NA
+41097,9,5,78,Química y Farmacia,NA,NA
+16044,3,13,109,Química y Licenciatura en Química,NA,NA
+22035,NA,NA,111,Químico,NA,NA
+22030,3,15,111,Químico Laboratorista,NA,NA
+25030,NA,NA,100,Químico Laboratorista,NA,NA
+22019,NA,NA,111,Servicio Social,NA,NA
+30067,NA,NA,98,Servicio Social,NA,NA
+26096,4,5,108,Sociología,Licenciatura en Sociología,NA
+11070,4,13,96,Sociología,Licenciatura en Sociología,NA
+23015,4,1,79,Sociología,NA,NA
+30092,4,9,98,Sociología,NA,NA
+35055,6,7,86,Sociología,NA,NA
+37042,4,9,88,Sociología,NA,NA
+12019,4,13,72,Sociología,NA,NA
+13077,4,8,97,Sociología,NA,NA
+19012,4,5,112,Sociología,NA,NA
+38162,4,13,114,Sociología,NA,NA
+41016,4,13,78,Sociología,NA,NA
+41069,4,5,78,Sociología,NA,NA
+45002,4,13,77,Sociología,NA,NA
+26097,2,5,108,Teatro,Licenciatura en Artes Escénicas,NA
+19028,2,5,112,Teatro,NA,NA
+39131,2,13,120,Teatro,NA,NA
+40090,2,13,115,Teatro / Actuación,NA,NA
+30097,NA,NA,98,Técnico Universitario Agroindustrial,NA,NA
+15067,NA,NA,127,Técnico Universitario Dibujante Proyectista,NA,NA
+15545,8,8,127,Técnico Universitario Dibujante Proyectista,NA,NA
+32069,NA,NA,105,Técnico Universitario en Acuicultura,NA,NA
+37086,1,9,88,Técnico Universitario en Acuicultura,NA,NA
+37030,NA,NA,88,Técnico Universitario en Acuicultura,NA,NA
+37081,8,9,88,Técnico Universitario en Administración de Empresas,NA,NA
+27017,NA,NA,95,Técnico Universitario en Administración de Empresas,NA,NA
+16079,8,13,109,Técnico Universitario en Análisis Químico y Físico,NA,NA
+16040,8,13,109,Técnico Universitario en Análisis Químico y Físico,NA,NA
+27018,NA,NA,95,Técnico Universitario en Análisis y Programación de Sistemas Computacionales,NA,NA
+15066,NA,NA,127,Técnico Universitario en Automatización y Control,NA,NA
+15537,8,8,127,Técnico Universitario en Automatización y Control,NA,NA
+32072,NA,NA,105,Técnico Universitario en Conservación de Alimentos,NA,NA
+15031,NA,NA,127,Técnico Universitario en Construcción,NA,NA
+15052,NA,NA,127,Técnico Universitario en Construcción,NA,NA
+15412,8,5,127,Técnico Universitario en Construcción,NA,NA
+15512,8,8,127,Técnico Universitario en Construcción,NA,NA
+37093,8,9,88,Técnico Universitario en Construcción y Obras Civiles,NA,NA
+15032,NA,NA,127,Técnico Universitario en Control de Alimentos,NA,NA
+15053,NA,NA,127,Técnico Universitario en Control de Alimentos,NA,NA
+15042,NA,NA,127,Técnico Universitario en Control del Medio Ambiente,NA,NA
+15452,8,5,127,Técnico Universitario en Control del Medio Ambiente,NA,NA
+15552,8,8,127,Técnico Universitario en Control del Medio Ambiente,NA,NA
+15036,NA,NA,127,Técnico Universitario en Diseño y Producción Industrial en Moldes y Matrices,NA,NA
+15447,8,5,127,Técnico Universitario en Diseño y Producción Industrial en Moldes y Matrices,NA,NA
+15033,NA,NA,127,Técnico Universitario en Diseño y Proyecto Mecánico,NA,NA
+15445,8,5,127,Técnico Universitario en Diseño y Proyecto Mecánico,NA,NA
+37083,7,9,88,Técnico Universitario en Educación Parvularia,NA,NA
+15034,NA,NA,127,Técnico Universitario en Electricidad,NA,NA
+15055,NA,NA,127,Técnico Universitario en Electricidad,NA,NA
+15433,8,5,127,Técnico Universitario en Electricidad,NA,NA
+15533,8,8,127,Técnico Universitario en Electricidad,NA,NA
+15035,NA,NA,127,Técnico Universitario en Electrónica,NA,NA
+15056,NA,NA,127,Técnico Universitario en Electrónica,NA,NA
+15435,8,5,127,Técnico Universitario en Electrónica,NA,NA
+15535,8,8,127,Técnico Universitario en Electrónica,NA,NA
+27045,NA,NA,95,Técnico Universitario en Energías Renovables,NA,NA
+15453,8,5,127,Técnico Universitario en Gestión de Calidad en Alimentos,NA,NA
+15058,NA,NA,127,Técnico Universitario en Industrias Madereras,NA,NA
+15040,NA,NA,127,Técnico Universitario en Informática,NA,NA
+15051,NA,NA,127,Técnico Universitario en Informática,NA,NA
+15463,8,5,127,Técnico Universitario en Informática,NA,NA
+15563,8,8,127,Técnico Universitario en Informática,NA,NA
+27010,NA,NA,95,Técnico Universitario en Mantención de Equipos Industriales,NA,NA
+15222,8,13,127,Técnico Universitario en Mantenimiento Aeronáutico,NA,NA
+15092,NA,NA,127,Técnico Universitario en Mantenimiento Aeronáutico,NA,NA
+15448,8,5,127,Técnico Universitario en Mantenimiento Industrial,NA,NA
+15037,NA,NA,127,Técnico Universitario en Mecánica Automotriz,NA,NA
+15059,NA,NA,127,Técnico Universitario en Mecánica Automotriz,NA,NA
+15443,8,5,127,Técnico Universitario en Mecánica Automotriz,NA,NA
+15543,8,8,127,Técnico Universitario en Mecánica Automotriz,NA,NA
+15038,NA,NA,127,Técnico Universitario en Mecánica Industrial,NA,NA
+15060,NA,NA,127,Técnico Universitario en Mecánica Industrial,NA,NA
+15444,8,5,127,Técnico Universitario en Mecánica Industrial,NA,NA
+15544,8,8,127,Técnico Universitario en Mecánica Industrial,NA,NA
+15046,NA,NA,127,Técnico Universitario en Minería y Metalurgia,NA,NA
+15413,8,5,127,Técnico Universitario en Minería y Metalurgia,NA,NA
+27011,NA,NA,95,Técnico Universitario en Obras Civiles,NA,NA
+27013,NA,NA,95,Técnico Universitario en Plantas Metalúrgicas,NA,NA
+37082,9,9,88,Técnico Universitario en Preparación Física,NA,NA
+27044,NA,NA,95,Técnico Universitario en Prevención de Riesgos,NA,NA
+15039,NA,NA,127,Técnico Universitario en Prevención de Riesgos,NA,NA
+15061,NA,NA,127,Técnico Universitario en Prevención de Riesgos,NA,NA
+15475,8,5,127,Técnico Universitario en Prevención de Riesgos,NA,NA
+15575,8,8,127,Técnico Universitario en Prevención de Riesgos,NA,NA
+37080,NA,NA,88,Técnico Universitario en Prevención de Riesgos,NA,NA
+37033,NA,NA,88,Técnico Universitario en Producción Agropecuaria,NA,NA
+37085,1,9,88,Técnico Universitario en Producción Agropecuaria,NA,NA
+15057,NA,NA,127,Técnico Universitario en Proyecto y Diseño Estructural,NA,NA
+15043,NA,NA,127,Técnico Universitario en Proyectos de Ingeniería,NA,NA
+15446,8,5,127,Técnico Universitario en Proyectos de Ingeniería,NA,NA
+15041,NA,NA,127,Técnico Universitario en Química,NA,NA
+15062,NA,NA,127,Técnico Universitario en Química,NA,NA
+32071,NA,NA,105,Técnico Universitario en Recursos Forestales,NA,NA
+37088,8,9,88,Técnico Universitario en Redes y Telecomunicaciones,NA,NA
+15069,NA,NA,127,Técnico Universitario en Robótica y Mecatrónica,NA,NA
+15538,8,8,127,Técnico Universitario en Robótica y Mecatrónica,NA,NA
+15047,NA,NA,127,Técnico Universitario en Telecomunicaciones y Rede,NA,NA
+15436,8,5,127,Técnico Universitario en Telecomunicaciones y Redes,NA,NA
+15065,NA,NA,127,Técnico Universitario en Topografía,NA,NA
+37087,8,9,88,Técnico Universitario en Topografía y Geomensura,NA,NA
+37084,4,9,88,Técnico Universitario en Turismo,NA,NA
+27019,NA,NA,95,Técnico Universitario Instrumentación y Automatización Industrial,NA,NA
+21009,NA,NA,129,Técnico Universitario Nivel Superior en Gestión de Calidad,NA,NA
+21010,NA,NA,129,Técnico Universitario Nivel Superior en Gestión de Calidad,NA,NA
+15054,NA,NA,127,Técnico Universitario Proyectos de Ingeniería,NA,NA
+26095,9,5,108,Tecnología en Deportes y Recreación,Licenciatura en Ciencias de la Actividad Física,NA
+41059,9,13,78,Tecnología Médica,NA,NA
+38172,9,13,114,Tecnología Médica,NA,NA
+17028,9,14,80,Tecnología Médica,Licenciatura en Tecnología Médica,NA
+17086,9,10,80,Tecnología Médica,Licenciatura en Tecnología Médica,NA
+11086,9,13,96,Tecnología Médica,Licenciatura en Tecnología Médica,NA
+30035,9,9,98,Tecnología Médica,NA,NA
+36078,9,8,85,Tecnología Médica,NA,NA
+37068,9,9,88,Tecnología Médica,NA,NA
+44022,9,13,102,Tecnología Médica,NA,NA
+24033,9,2,92,Tecnología Médica,NA,NA
+34022,9,7,110,Tecnología Médica,NA,NA
+39132,9,13,120,Tecnología Médica,NA,NA
+39420,9,9,120,Tecnología Médica,NA,NA
+41098,9,5,78,Tecnología Médica,NA,NA
+41126,9,8,78,Tecnología Médica,NA,NA
+13081,9,8,97,Tecnología Médica,NA,NA
+19048,9,5,112,Tecnología Médica,NA,NA
+19049,9,5,112,Tecnología Médica,NA,NA
+22051,NA,NA,111,Tecnología Médica,NA,NA
+22056,9,15,111,Tecnología Médica/ Imagenología y Física Médica,NA,NA
+22057,9,15,111,"Tecnología Médica/ Laboratorio Clínico, Hematología y Banco de Sangre",NA,NA
+22058,9,15,111,Tecnología Médica/ Oftalmología y Optometría,NA,NA
+27033,NA,NA,95,Tecnología Universitaria en Construcción Civil,NA,NA
+27036,NA,NA,95,Tecnología Universitaria en Informática,NA,NA
+27030,NA,NA,95,Tecnología Universitaria en Mantenimiento Mecánico,NA,NA
+27035,8,3,95,Tecnólogo en Administración de Empresas,NA,NA
+16087,NA,NA,109,Tecnólogo en Administración de Personal,NA,NA
+16080,8,13,109,Tecnólogo en Administración de Personal,NA,NA
+16090,NA,NA,109,Tecnólogo en Alimentos,NA,NA
+16081,8,13,109,Tecnólogo en Alimentos,NA,NA
+16085,8,13,109,Tecnólogo en Automatización Industrial,NA,NA
+16088,NA,NA,109,Tecnólogo en Construcciones,NA,NA
+16082,8,13,109,Tecnólogo en Construcciones,NA,NA
+16083,8,13,109,Tecnólogo en Control Industrial,NA,NA
+16084,8,13,109,Tecnólogo en Diseño Industrial,NA,NA
+27031,8,3,95,Tecnólogo en Electricidad,NA,NA
+27034,8,3,95,Tecnólogo en Instrumentación y Automatización Industrial,NA,NA
+16086,8,13,109,Tecnólogo en Mantenimiento Industrial,NA,NA
+27032,8,3,95,Tecnólogo en Metalurgia,NA,NA
+16089,8,13,109,Tecnólogo en Telecomunicaciones,NA,NA
+12015,6,13,72,Teología,NA,NA
+11016,2,13,96,Teoría e Historia del Artes,Licenciatura en Artes,NA
+17032,9,14,80,Terapia Ocupacional,Licenciatura en Ciencias de la Ocupación,NA
+26093,9,5,108,Terapia Ocupacional,Licenciatura en Ciencias de la Ocupación Humana,NA
+11087,9,13,96,Terapia Ocupacional,Licenciatura en Ciencias de la Ocupación Humana,NA
+33024,9,12,107,Terapia Ocupacional,NA,NA
+16099,9,13,109,Terapia Ocupacional,NA,NA
+24092,9,2,92,Terapia Ocupacional,NA,NA
+30022,9,9,98,Terapia Ocupacional,NA,NA
+37066,9,9,88,Terapia Ocupacional,NA,NA
+39133,9,13,120,Terapia Ocupacional,NA,NA
+39421,9,9,120,Terapia Ocupacional,NA,NA
+41010,9,13,78,Terapia Ocupacional,NA,NA
+41067,9,5,78,Terapia Ocupacional,NA,NA
+41103,9,8,78,Terapia Ocupacional,NA,NA
+43016,9,13,104,Terapia Ocupacional,NA,NA
+11520,4,13,96,Trabajo Social,Licenciatura en Trabajo Social,NA
+19032,NA,NA,112,Trabajo Social,NA,NA
+22007,4,15,111,Trabajo Social,NA,NA
+22097,4,1,111,Trabajo Social,NA,NA
+33035,4,12,107,Trabajo Social,NA,NA
+29010,4,8,101,Trabajo Social,NA,NA
+29066,4,8,101,Trabajo Social,NA,NA
+23059,4,1,79,Trabajo Social,NA,NA
+32061,4,10,105,Trabajo Social,NA,NA
+14008,4,5,73,Trabajo Social,NA,NA
+24017,4,2,92,Trabajo Social,NA,NA
+27043,4,3,95,Trabajo Social,NA,NA
+30066,4,9,98,Trabajo Social,NA,NA
+37004,4,9,88,Trabajo Social,NA,NA
+12018,4,13,72,Trabajo Social,NA,NA
+13025,4,8,97,Trabajo Social,NA,NA
+19031,4,5,112,Trabajo Social,NA,NA
+19033,NA,NA,112,Trabajo Social,NA,NA
+21043,4,13,129,Trabajo Social,NA,NA
+35052,4,7,86,Trabajo Social,NA,NA
+36050,4,8,85,Trabajo Social,NA,NA
+41017,4,13,78,Trabajo Social,NA,NA
+41070,4,5,78,Trabajo Social,NA,NA
+41105,4,8,78,Trabajo Social,NA,NA
+45004,4,13,77,Trabajo Social,NA,NA
+26014,NA,NA,108,Traducción Alemán Español y Técnico Universitario Turismo o Comercio Internacional,NA,NA
+26029,6,5,108,Traducción e Interpretación Inglés-Español,NA,NA
+26027,NA,NA,108,Traducción Francés Español y Técnico Universitario Turismo o Comercio Internacional,NA,NA
+37035,6,9,88,Traducción Inglés-Español,NA,NA
+23071,NA,NA,79,Traducción Inglés-Español,NA,NA
+13058,6,8,97,Traducción/Interpretación en Idiomas Extranjeros,NA,NA
+25063,6,4,100,Traductor Inglés-Español,NA,NA
+23028,NA,NA,79,Traductor Inglés-Español,NA,NA

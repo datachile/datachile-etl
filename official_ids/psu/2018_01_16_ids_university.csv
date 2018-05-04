@@ -1,0 +1,35 @@
+institution,university_acronym,university_id,institution_id,institution_group,institution_group_es,institution_group_id,institution_subgroup,institution_subgroup_es,institution_subgroup_id
+NaN,NaN,0,NA,NA,NA,NA,NA,NA,NA
+Pontificia Universidad Cat\u00f3lica de Valpara\u00edso,PUCV,11,73,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad Austral de Chile,UACH,21,80,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad Alberto Hurtado,UAH,29,77,University,Universidad,3,"Private University, for profit",Universidad Privada no Tradicional,3
+Universidad Adolfo Ib\u00e1\u00f1ez,UAI,27,75,University,Universidad,3,"Private University, for profit",Universidad Privada no Tradicional,3
+Universidad de Los Andes,UANDES,31,104,University,Universidad,3,"Private University, for profit",Universidad Privada no Tradicional,3
+Universidad de Antofagasta,UANT,25,92,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad del B\u00edo-B\u00edo,UBB,26,101,University,Universidad,3,Public University,Universidad Estatal,1
+Pontificia Universidad Cat\u00f3lica de Chile,UC,12,72,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad de Chile,UCH,4,96,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad Cat\u00f3lica del Maule,UCM,24,86,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad Cat\u00f3lica del Norte,UCN,6,87,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n,UCSC,19,85,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad Cat\u00f3lica de Temuco,UCT,23,88,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad de Atacama,UDA,18,95,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad del Desarrollo,UDD,34,102,University,Universidad,3,"Private University, for profit",Universidad Privada no Tradicional,3
+Universidad de Concepci\u00f3n,UDEC,16,97,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad Diego Portales,UDP,32,114,University,Universidad,3,"Private University, for profit",Universidad Privada no Tradicional,3
+Universidad de La Frontera,UFRO,22,98,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad Finis Terrae,UFT,30,115,University,Universidad,3,"Private University, for profit",Universidad Privada no Tradicional,3
+Universidad de Los Lagos,ULAG,15,105,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad de La Serena,ULS,13,100,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad de Magallanes,UMAG,17,107,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad Mayor,UMAYOR,33,120,University,Universidad,3,"Private University, for profit",Universidad Privada no Tradicional,3
+Universidad Metropolitana de Ciencias de la Educaci\u00f3n,UMCE,2,121,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad Andr\u00e9s Bello,UNAB,28,78,University,Universidad,3,"Private University, for profit",Universidad Privada no Tradicional,3
+Universidad Arturo Prat,UNAP,14,79,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad de Playa Ancha de Ciencias de la Educaci\u00f3n,UPA,9,108,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad de Santiago de Chile,USACH,3,109,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad de Tarapac\u00e1,UTA,5,111,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad de Talca,UTAL,20,110,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad Tecnol\u00f3gica Metropolitana,UTEM,1,129,University,Universidad,3,Public University,Universidad Estatal,1
+Universidad T\u00e9cnica Federico Santa Mar\u00eda,UTFSM,10,127,University,Universidad,3,"Private University, non-profit",Universidad Privada Tradicional,2
+Universidad de Valpara\u00edso,UV,7,112,University,Universidad,3,Public University,Universidad Estatal,1

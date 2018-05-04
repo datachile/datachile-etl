@@ -1,0 +1,27 @@
+preference_status_id,preference_status_es,preference_status_en
+0,preferencia no ocupada,unused preference
+9,falta NEM,missing NEM
+10,"inv\u00e1lida, la carrera no existe en el proceso en curso","invalid, the program does not exist in the current process"
+11,repetida,repeated
+13,excede la cantidad m\u00e1xima de postulaciones permitidas,excedes maximum number of allowed applications
+14,no cumple la provincia de egreso,does not fulfill egress province
+15,no cumple sexo,does not fulfill sex
+16,preferencia fuera de rango,preference out of range
+17,no cumple puntaje ponderado m\u00ednimo,does not fulfill minimum required weighted score
+19,no rindi\u00f3 o no aprob\u00f3 prueba especial excluyente,did not complete or pass special excluding test
+20,no rindi\u00f3 prueba especial con resultado a ponderar,did not complete special test whose result is weighted
+21,no cumple a\u00f1o de egreso de la ense\u00f1anza media,does not fulfill year of high school completion
+22,excede cantidad de ingresos permitidos v\u00eda proceso regular,excedes maximum entries allowed by the ordinary process
+23,impedimento acad\u00e9mico no permite ingreso a la carrera,academic limitation does not allow entering this program
+24,candidato en lista de seleccionados,candidate on selected list
+25,candidato en lista de espera,candidate on waiting list
+26,seleccionado en preferencia anterior,selected in previous preference
+27,falta puntaje prueba de lenguaje y comunicaci\u00f3n,missing language test
+28,falta puntaje matem\u00e1tica,missing math test
+29,falta puntaje historia y ciencias sociales,missing history test
+30,falta puntaje ciencias,missing sciences test
+31,no cumple promedio lenguaje matem\u00e1tica m\u00ednimo,does not fulfill minimum PSU average
+32,estudios completos en el extranjero no acreditados,Non+AC0-accredited high school completion abroad
+35,no rindi\u00f3 ninguna de las pruebas opcionales,did not complete any of the optional tests
+36,promedio lenguaje matem\u00e1tica bajo 450,PSU score below 450 points
+37,"no cumple puntaje ponderado inicial, prueba especial a ponderar","does not fulfill initial weighted score, waiting special tests results"
