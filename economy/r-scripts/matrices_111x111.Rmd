@@ -1,0 +1,146 @@
+---
+title: "Matriz Insumo Producto de la Economía Chilena (111x111)"
+output: html_notebook
+---
+
+Este cuadernillo es reproducible. Abre el archivo `mip_chile.Rproj` en RStudio en lugar de abrir esto directamente.
+
+# Descargar los datos
+
+```{r descarga}
+dir_datos_originales <- "01_datos_originales"
+url_111 <- "http://si3.bcentral.cl/estadisticas/Principal1/Excel/CCNN/cdr/xls/CdeR2008_MIP.xlsx"
+xlsx_111 <- sprintf("%s/mip_2008_bcch_111x111.xlsx", dir_datos_originales)
+
+dir.create(dir_datos_originales)
+
+if(!file.exists(xlsx_111)) {
+  download.file(url_111, xlsx_111)
+}
+```
+
+# Leer los datos
+
+```{r leer}
+if (!require(pacman)) install.packages("pacman")
+p_load(tidyverse, readxl, janitor)
+
+mip_111 <- read_excel("01_datos_originales/mip_2008_bcch_111x111.xlsx",
+                     sheet = "111x111", range = "C12:DX122",
+                     col_names = FALSE) %>% 
+  remove_empty("cols")
+
+glosas_111 <- read_excel("01_datos_originales/mip_2008_bcch_111x111.xlsx",
+                     sheet = "Glosas", range = "C10:C120",
+                     col_names = FALSE) %>% 
+  mutate(X__1 = str_to_lower(iconv(X__1, from = "", to = "ASCII//TRANSLIT", sub = "")),
+         X__1 = str_replace_all(X__1, " |, |,|-", "_"),
+         X__1 = str_replace_all(X__1, "\\(|\\)", ""),
+         X__1 = str_replace_all(X__1, "__", "_")) %>% 
+  as_vector()
+
+glosas2_111 <- c("total_demanda_intermedia", "consumo_de_hogares", "consumo_de_ipsfl",
+                "consumo_de_gobierno", "formacion_bruta_de_capital_fijo", "variacion_de_existencias",
+                "exportaciones", "total_demanda_final")
+
+names(mip_111) <- c(glosas_111, glosas2_111)
+
+mip_111 <- mip_111 %>% clean_names()
+```
+
+# Cálculos
+
+Para la justificación de los cálculos consultar las siguientes referencias:
+* [Una matriz insumo-producto inversa de la economía chilena 1986](http://si3.bcentral.cl/estadisticas/Principal1/Metodologias/CCNN/cdr/serieestudios38.pdf)
+* [Tópicos sobre el Modelo de Insumo-Producto: teoría y aplicaciones](https://repositorio.cepal.org/bitstream/handle/11362/4737/S0501011_es.pdf?sequence=1)
+
+Hay que tener presente que el sistema a a resolver es de la forma $x = Ax + b$, por lo tanto la solución es de la forma $x = (I-A)^{-1}b = Lb$.
+
+## Matriz insumo-producto
+
+```{r calculos01}
+X <- mip_111 %>% 
+  select(glosas_111) %>% 
+  data.matrix()
+  
+X[is.na(X)] <- 0
+
+colnames(X) <- glosas_111
+rownames(X) <- colnames(X)
+```
+
+## Total demanda intermedia 
+
+```{r calculos02}
+Xi <- mip_111 %>% 
+  select(total_demanda_intermedia) %>% 
+  data.matrix()
+  
+Xi[is.na(Xi)] <- 0
+
+rownames(Xi) <- glosas_111
+```
+
+## Total demanda final 
+
+```{r calculos03}
+Xf <- mip_111 %>% 
+  select(total_demanda_final) %>% 
+  data.matrix()
+  
+Xf[is.na(Xf)] <- 0
+
+rownames(Xf) <- glosas_111
+```
+
+## Matriz de coeficientes directos
+
+```{r calculos04}
+# tabla de demanda
+Xt <- cbind(X, Xi, Xf)
+Xt[is.na(Xt)] <- 0
+
+# matriz identidad
+I <- diag(111)
+
+# matriz de coeficientes directos
+A <- X / t(matrix(Xf, 111, 111))
+A[is.na(A)] <- 0
+colnames(A) <- glosas_111
+rownames(A) <- colnames(A)
+```
+
+## Matriz de coeficientes indirectos
+
+```{r calculos05}
+B <- solve(I-A)
+B[is.na(B)] <- 0
+colnames(B) <- glosas_111
+rownames(B) <- colnames(B)
+
+# la solución del sistema es $x = (I-A)^{-1}b = Lb$
+Xe <- solve(B,Xf)
+```
+
+## Matriz de sensibilidad
+
+```{r calculos06}
+# parametro de sensibilidad
+p <- 0.01
+
+W <- A * (t(B) * p + diag(diag(B)) * t(matrix(Xf, 111, 111)) / matrix(Xf, 111, 111))
+W[is.na(W)] <- 0
+```
+
+# Guardar las matrices
+
+```{r guardar}
+dir_datos_procesados <- "02_datos_procesados"
+
+dir.create(dir_datos_procesados)
+
+save(X, file = sprintf("%s/matriz_insumo_producto_111x111.RData", dir_datos_procesados))
+save(A, file = sprintf("%s/matriz_de_coeficientes_directos_111x111.RData", dir_datos_procesados))
+save(B, file = sprintf("%s/matriz_de_coeficientes_indirectos_111x111.RData", dir_datos_procesados))
+save(W, file = sprintf("%s/matriz_de_sensibilidad_111x111.RData", dir_datos_procesados))
+```
