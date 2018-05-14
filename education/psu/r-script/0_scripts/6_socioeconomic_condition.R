@@ -1,4 +1,4 @@
-socioeconomic_condition <- list.files("socioeconomic_condition/", full.names = T, pattern = "csv") %>% 
+socioeconomic_condition <- list.files("1_raw_data/socioeconomic_condition/", full.names = T, pattern = "csv") %>% 
   lapply(fread, sep = ";", header = T) %>% 
   rbindlist(fill = T)
 
@@ -45,14 +45,16 @@ socioeconomic_condition <- socioeconomic_condition %>%
          father_occupation_id = ocupacion_principal_padre,
          mother_working_place_id = tipo_organismo_trabajan_madre,
          father_working_place_id = tipo_organismo_trabajan_padre) %>% 
+  
   mutate(identification_type_id = ifelse(identification_type_id == "C", 1, 
                                          ifelse(identification_type_id == "P", 2, NA)),
          family_income_09_15_id = ifelse(process_year >= 2009 & process_year <= 2015, ingreso_bruto_fam, NA),
          family_income_08_id = ifelse(process_year == 2008, ingreso_bruto_fam, NA),
          family_income_04_07_id = ifelse(process_year >= 2004 & process_year <= 2007, ingreso_bruto_fam, NA)) %>% 
+  
   select(-ingreso_bruto_fam)
 
-fwrite(socioeconomic_condition, "3_tidy_data/socioeconomic_condition.csv")
+fwrite(socioeconomic_condition, "2_tidy_data/socioeconomic_condition.csv")
 rm(socioeconomic_condition)
 
-unlink("socioeconomic_condition/", recursive = T)
+unlink("1_raw_data/socioeconomic_condition/", recursive = T)

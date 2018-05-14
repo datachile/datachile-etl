@@ -1,10 +1,11 @@
-registered <- list.files("registered/", full.names = T, pattern = "csv") %>% 
+registered <- list.files("1_raw_data/registered/", full.names = T, pattern = "csv") %>% 
   lapply(fread, sep = ";", header = T) %>% 
   rbindlist(fill = T)
 
 names(registered) <- tolower(iconv(names(registered), to = "ASCII", sub = ""))
 
 registered <- as_tibble(registered) %>% 
+  
   rename(process_year = ao_proceso,
          lang_current = lyc_actual,
          math_current = mate_actual,
@@ -22,6 +23,7 @@ registered <- as_tibble(registered) %>%
          ranking_score = ptje_ranking,
          bea_id = bea,
          identification_type_id = tipo_identificacion) %>% 
+  
   mutate(lang_current = ifelse(nchar(lang_current) == 3, lang_current, NA),
          math_current = ifelse(nchar(math_current) == 3, math_current, NA),
          hist_current = ifelse(nchar(hist_current) == 3, hist_current, NA),
@@ -32,6 +34,7 @@ registered <- as_tibble(registered) %>%
          sci_former = ifelse(nchar(sci_former) == 3, sci_former, NA),
          psu_avg_current = (lang_current + math_current) / 2,
          psu_avg_former = (lang_former + math_former) / 2) %>% 
+  
   mutate(school_id = ifelse(rbd != 0, rbd, NA),
          sex_id = ifelse(cod_sexo == 1, 2, ifelse(cod_sexo == 2, 1, NA)),
          birth_date = ifelse(nchar(fecha_nacimiento) == 7, paste0("0", fecha_nacimiento),
@@ -39,14 +42,19 @@ registered <- as_tibble(registered) %>%
          birth_date = as.Date(birth_date, "%d%m%Y"),
          identification_type_id = ifelse(identification_type_id == "C", 1, 
                                          ifelse(identification_type_id == "P", 2, NA))) %>% 
+  
   left_join(ids_branch %>% select(branch_official_code, branch_id)) %>% 
   select(-branch_official_code) %>% 
+  
   left_join(ids_scores, by = c("ptje_nem" = "puntaje_nem_grupo_a")) %>% 
   rename(nem_group_a = nem) %>% 
+  
   left_join(ids_scores, by = c("ptje_nem" = "puntaje_nem_grupo_b")) %>% 
   rename(nem_group_b = nem) %>% 
+  
   left_join(ids_scores, by = c("ptje_nem" = "puntaje_nem_grupo_c")) %>% 
   rename(nem_group_c = nem) %>% 
+  
   mutate(nem_mark = ifelse(branch_id == 1, nem_group_a,
                            ifelse(branch_id == 2, nem_group_b,
                                   ifelse(branch_id > 2, nem_group_c, NA))))
@@ -84,13 +92,13 @@ clean_comunas <- raw_comunas %>%
 
 registered <- registered %>% 
   left_join(clean_comunas, by = c("codigo_comuna" = "comuna_id")) %>% 
-  select(process_year, mrun, identification_type_id, sex_id, birth_date, comuna_datachile_id, completed_secondary_education_year, 
-         process_scores_id, nem_mark, ranking_score,
+  select(process_year, mrun, identification_type_id, sex_id, birth_date, comuna_datachile_id, 
+         completed_secondary_education_year, process_scores_id, nem_mark, ranking_score,
          lang_current, math_current, hist_current, sci_current, psu_avg_current,
          lang_former, math_former, hist_former, sci_former, psu_avg_former,
          school_id, teaching_id, branch_id, administration_id, bea_id)
 
-fwrite(registered, "3_tidy_data/registered.csv")
+fwrite(registered, "2_tidy_data/registered.csv")
 rm(registered)
 
-unlink("registered/", recursive = T)
+unlink("1_raw_data/registered/", recursive = T)

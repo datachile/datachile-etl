@@ -1,10 +1,11 @@
-applications <- list.files("applications/", full.names = T, pattern = "csv") %>% 
+applications <- list.files("1_raw_data/applications/", full.names = T, pattern = "csv") %>% 
   lapply(fread, sep = ";", header = T) %>% 
   rbindlist(fill = T)
 
 names(applications) <- tolower(iconv(names(applications), to = "ASCII", sub = ""))
 
 applications <- as_tibble(applications) %>% 
+  
   rename(process_year = ao_proceso,
          program_id = codigo_carrera,
          weighted_score = puntaje,
@@ -16,6 +17,7 @@ applications <- as_tibble(applications) %>%
          bea_id = bea,
          pace_id = pace,
          identification_type_id = tipo_identificacion) %>% 
+  
   mutate(program_id = ifelse(nchar(program_id) == 4, 
                              paste0(substr(program_id,1,2), 0, substr(program_id, 3, 4)), program_id),
          applicant_status_id = ifelse(applicant_status_id == "P", 1, 
@@ -29,10 +31,11 @@ applications <- as_tibble(applications) %>%
          pace_id = ifelse(pace_id == "PACE", 1, NA),
          identification_type_id = ifelse(identification_type_id == "C", 1, 
                                          ifelse(identification_type_id == "P", 2, NA))) %>% 
+  
   select(process_year, mrun, identification_type_id, applicant_status_id, program_id, preference_id, preference_status_id,
          weighted_score, academic_year_id, rank, bea_id, pace_id)
 
-fwrite(applications, "3_tidy_data/applications.csv")
+fwrite(applications, "2_tidy_data/applications.csv")
 rm(applications)
 
-unlink("applications/", recursive = T)
+unlink("1_raw_data/applications/", recursive = T)
