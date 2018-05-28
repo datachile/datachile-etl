@@ -22,6 +22,7 @@ pip-delete-this-directory.txt
 # Ignore all raw data files
 */raw/*.csv
 */*/data
+!childhood/*/data
 
 .Rproj.user
 
