@@ -1,0 +1,84 @@
+census_country_code,country_name,datachile_country_id
+604,Perú,82
+170,Colombia,65
+862,Venezuela (República Bolivariana de),64
+68,Bolivia (Estado Plurinacional de),84
+32,Argentina,26
+332,Haití,71
+218,Ecuador,81
+5,Sudamérica,999
+76,Brasil,83
+600,Paraguay,85
+858,Uruguay,86
+13,Centroamérica,999
+188,Costa Rica,74
+222,El Salvador,76
+320,Guatemala,78
+340,Honduras,77
+484,México,79
+558,Nicaragua,75
+591,Panamá,73
+29,Caribe,999
+192,Cuba,72
+630,Puerto Rico,111
+214,República Dominicana,69
+29,Caribe,999
+21,Norteamérica,999
+124,Canadá,89
+840,Estados Unidos de América,88
+150,Europa,999
+40,Austria,188
+56,Bélgica,193
+100,Bulgaria,206
+250,Francia,184
+300,Grecia,199
+380,Italia,183
+620,Portugal,180
+191,Croacia,222
+372,Irlanda,185
+642,Rumania,198
+752,Suecia,190
+203,República Checa,219
+643,Rusia (Federación de),237
+724,España,196
+804,Ucrania,234
+276,Alemania,238
+246,Finlandia,191
+616,Polonia,207
+826,Reino Unido de Gran Bretaña e Irlanda del Norte,189
+756,Suiza,187
+208,Dinamarca,186
+348,Hungría,209
+578,Noruega,192
+528,Países Bajos,194
+688,Serbia,221
+142,Asia,999
+51,Armenia,215
+410,Corea del Sur (República de),146
+360,Indonesia,141
+400,Jordania,114
+760,República Árabe Siria,123
+392,Japón,144
+422,Líbano,124
+792,Turquía,201
+364,Irán,122
+524,Nepal,133
+764,Tailandia,132
+275,Palestina (Estado de),999
+156,China,149
+356,India,130
+376,Israel,119
+586,Pakistán,137
+608,Filipinas,148
+158,Taiwán (Provincia de China),143
+2,África,999
+12,Argelia,26
+710,Sudáfrica,11
+504,Marruecos,27
+818,Egipto,23
+9,Oceanía,999
+554,Nueva Zelanda,161
+258,Polinesia Francesa,174
+997,País no declarado,999
+998,País no declarado,999
+999,País no declarado,999
