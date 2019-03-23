@@ -1,0 +1,6 @@
+age_id,age_index,name,name_es
+1,less1,Less than 1 year,Menos de 1 año
+2,1to4,1 - 4 years,1 - 4 años
+3,5to14,5 - 14 years,5 - 14 años
+4,15to65,15 - 65 years,15 - 65 años
+5,65plus,More than 65 years,Más de 65 años

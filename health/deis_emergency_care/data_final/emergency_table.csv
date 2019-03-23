@@ -1,0 +1,21 @@
+emergency_id,emergency_index,name,name_es,cause_id,cause,cause_es,action_id,action,action_es
+1,IRA Alta (J00-J06),URTI,IRA Alta (J00-J06),1,Respiratory System,Sistema Respiratorio,1,Emergency Care,Atención de Urgencia
+2,Influenza (J09-J11),Influenza,Influenza (J09-J11),1,Respiratory System,Sistema Respiratorio,1,Emergency Care,Atención de Urgencia
+3,Neumonía (J12-J18),Pneumonia,Neumonía (J12-J18),1,Respiratory System,Sistema Respiratorio,1,Emergency Care,Atención de Urgencia
+4,Bronquitis/bronquiolitis aguda (J20-J21),Bronchitis,Bronquitis/bronquiolitis aguda (J20-J21),1,Respiratory System,Sistema Respiratorio,1,Emergency Care,Atención de Urgencia
+5,Crisis obstructiva bronquial (J40-J46),Bronchial Obstructive Crisis,Crisis obstructiva bronquial (J40-J46),1,Respiratory System,Sistema Respiratorio,1,Emergency Care,Atención de Urgencia
+6,"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",Other Respiratory Causes,"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,Respiratory System,Sistema Respiratorio,1,Emergency Care,Atención de Urgencia
+7,Infarto agudo miocardio,Acute Myocardial Infarction,Infarto agudo miocardio,2,Circulatory System,Sistema Circulatorio,1,Emergency Care,Atención de Urgencia
+8,Accidente vascular encefálico,Cerebrovascular Accident,Accidente vascular encefálico,2,Circulatory System,Sistema Circulatorio,1,Emergency Care,Atención de Urgencia
+9,Crisis hipertensiva,Hypertensive Crisis,Crisis hipertensiva,2,Circulatory System,Sistema Circulatorio,1,Emergency Care,Atención de Urgencia
+10,Arritmia grave,Serious Arrythmia,Arritmia grave,2,Circulatory System,Sistema Circulatorio,1,Emergency Care,Atención de Urgencia
+11,Otras causas circulatorias,Other Circulatory Causes,Otras causas circulatorias,2,Circulatory System,Sistema Circulatorio,1,Emergency Care,Atención de Urgencia
+12,Accidentes del tránsito,Traffic Accidents,Accidentes del tránsito,3,Trauma and Poisonings,Traumatismos y Envenenamientos,1,Emergency Care,Atención de Urgencia
+13,Otras causas externas,Other External Causes,Otras causas externas,3,Trauma and Poisonings,Traumatismos y Envenenamientos,1,Emergency Care,Atención de Urgencia
+14,DIARREA AGUDA (A00-A09),Acute Diarrhea,Diarrea aguda (A00-A09),4,Acute Diarrhea,Diarrea Aguda,1,Emergency Care,Atención de Urgencia
+15,TOTAL DEMÁS CAUSAS,Other Causes,Otras causas,5,Other Causes,Otras Causas,1,Emergency Care,Atención de Urgencia
+16, - CAUSAS SISTEMA RESPIRATORIO,Respiratory System Hospitalization,Hospitalización por sistema respiratorio,6,Respiratory System Hospitalization,Hospitalización por Sistema Respiratorio,2,Emergency Hospitalization,Hospitalización de Urgencia
+17, - CAUSAS SISTEMA CIRCULATORIO,Circulatory System Hospitalization,Hospitalización por sistema circulatorio,7,Circulatory System Hospitalization,Hospitalización por Sistema Circulatorio,2,Emergency Hospitalization,Hospitalización de Urgencia
+18, - TRAUMATISMOS Y ENVENENAMIENTOS,Trauma and Poisonings Hospitalization,Hospitalización por traumatismo o envenenamiento,8,Trauma and Poisonings Hospitalization,Hospitalización por Traumatismos y Envenenamientos,2,Emergency Hospitalization,Hospitalización de Urgencia
+19, - LAS DEMÁS CAUSAS,Other Causes Hospitalization,Hospitalización por otras causas,9,Other Causes Hospitalization,Hospitalización por Otras Causas,2,Emergency Hospitalization,Hospitalización de Urgencia
+20,CIRUGÍAS DE URGENCIA,Emergency Surgery,Cirugía de urgencia,10,Emergency Surgery,Cirugía de Urgencia,3,Emergency Surgery,Cirugía de Urgencia
